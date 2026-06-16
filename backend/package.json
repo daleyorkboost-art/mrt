@@ -1,0 +1,27 @@
+{
+  "name": "myglobaltrips-backend",
+  "version": "1.0.0",
+  "description": "Production-ready JSON-file backend for MyGlobalTrips travel platform.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "lint": "node scripts/check-syntax.js",
+    "smoke": "node scripts/smoke-test.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "express-validator": "^7.2.1",
+    "helmet": "^8.0.0",
+    "multer": "^2.2.0",
+    "nodemailer": "^9.0.0",
+    "openai": "^4.77.0"
+  }
+}

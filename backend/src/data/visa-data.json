@@ -1,0 +1,47 @@
+[
+  {
+    "passport": "Indian",
+    "destination": "UAE",
+    "visa_type": "Tourist eVisa",
+    "validity_days": 60,
+    "required_documents": ["Passport scan", "Passport photo", "Return ticket", "Hotel voucher", "Travel insurance"],
+    "estimated_fees_usd": 115,
+    "processing_time": "3-5 working days",
+    "month_specific_notes": {
+      "August": "Expect hot weather. Carry sun protection and plan indoor activities in the afternoon.",
+      "December": "Peak season. Apply early because hotel and flight confirmations may take longer."
+    },
+    "packing_list": ["Light formal wear", "Sunscreen", "Universal adapter", "Modest clothing for cultural sites"],
+    "important_notices": ["Passport must be valid for 6 months", "Visa rules can change without notice"]
+  },
+  {
+    "passport": "Indian",
+    "destination": "Schengen",
+    "visa_type": "Short Stay Tourist Visa",
+    "validity_days": 90,
+    "required_documents": ["Passport", "Photos", "Flight reservation", "Hotel booking", "Bank statement", "Travel insurance", "Cover letter"],
+    "estimated_fees_usd": 95,
+    "processing_time": "15-30 calendar days",
+    "month_specific_notes": {
+      "July": "Summer demand is high. Book appointment slots as early as possible.",
+      "September": "Shoulder season is smoother, but embassy slots may still be limited."
+    },
+    "packing_list": ["Layered clothing", "Comfort shoes", "Travel card", "Document folder"],
+    "important_notices": ["Submit to the country of longest stay", "Insurance must cover at least EUR 30,000"]
+  },
+  {
+    "passport": "US",
+    "destination": "Japan",
+    "visa_type": "Visa exempt tourism",
+    "validity_days": 90,
+    "required_documents": ["Valid passport", "Return ticket", "Hotel details"],
+    "estimated_fees_usd": 0,
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "April": "Cherry blossom season has high hotel demand.",
+      "October": "Autumn foliage season needs advance planning."
+    },
+    "packing_list": ["Comfort shoes", "IC transit card", "Portable charger"],
+    "important_notices": ["Entry conditions may change", "Carry onward travel proof"]
+  }
+]

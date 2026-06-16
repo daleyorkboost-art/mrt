@@ -1,0 +1,45 @@
+[
+  {
+    "id": "dubai-4-couple",
+    "destination": "Dubai",
+    "duration": 4,
+    "travellerType": "couple",
+    "interests": ["fine dining", "culture", "shopping", "desert"],
+    "days": [
+      { "day": 1, "title": "Arrival and Skyline Welcome", "activities": ["VIP airport arrival", "Downtown hotel check-in", "Burj Khalifa lounge dinner"] },
+      { "day": 2, "title": "Old Dubai and Creek", "activities": ["Private Al Fahidi tour", "Abra ride", "Gold Souk styling session"] },
+      { "day": 3, "title": "Beach Club and Marina", "activities": ["Jumeirah beach club", "Private yacht sunset cruise", "Marina dinner"] },
+      { "day": 4, "title": "Desert Finale", "activities": ["Spa morning", "Desert conservation drive", "Private dinner under the stars"] }
+    ]
+  },
+  {
+    "id": "maldives-5-couple",
+    "destination": "Maldives",
+    "duration": 5,
+    "travellerType": "couple",
+    "interests": ["beach", "wellness", "romance", "diving"],
+    "days": [
+      { "day": 1, "title": "Seaplane Arrival", "activities": ["Male meet-and-assist", "Seaplane transfer", "Overwater villa check-in"] },
+      { "day": 2, "title": "Reef and Spa", "activities": ["Guided snorkeling", "Couples spa ritual", "Sunset sandbank drinks"] },
+      { "day": 3, "title": "Slow Island Day", "activities": ["Floating breakfast", "Lagoon kayaking", "Private beach dinner"] },
+      { "day": 4, "title": "Ocean Adventure", "activities": ["Dolphin cruise", "Diving or submarine option", "Chef tasting menu"] },
+      { "day": 5, "title": "Farewell", "activities": ["Late breakfast", "Resort boutique", "Seaplane departure"] }
+    ]
+  },
+  {
+    "id": "japan-7-family",
+    "destination": "Japan",
+    "duration": 7,
+    "travellerType": "family",
+    "interests": ["culture", "food", "theme parks", "shopping"],
+    "days": [
+      { "day": 1, "title": "Tokyo Arrival", "activities": ["Airport transfer", "Hotel check-in", "Shibuya evening walk"] },
+      { "day": 2, "title": "Tokyo Icons", "activities": ["Asakusa guide", "TeamLab experience", "Ginza dinner"] },
+      { "day": 3, "title": "Theme Park Day", "activities": ["DisneySea VIP routing", "Family lounge break", "Evening transfer"] },
+      { "day": 4, "title": "Bullet Train to Kyoto", "activities": ["First-class Shinkansen", "Ryokan check-in", "Kaiseki dinner"] },
+      { "day": 5, "title": "Kyoto Heritage", "activities": ["Arashiyama bamboo grove", "Tea ceremony", "Gion walk"] },
+      { "day": 6, "title": "Nara and Osaka", "activities": ["Nara deer park", "Osaka food tour", "Dotonbori lights"] },
+      { "day": 7, "title": "Departure", "activities": ["Shopping window", "Airport transfer", "Concierge farewell"] }
+    ]
+  }
+]

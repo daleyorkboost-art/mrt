@@ -1,0 +1,23 @@
+[
+  {
+    "budget": "premium",
+    "time": "full day",
+    "group": "couple",
+    "attractionIds": ["future-museum", "beach-club", "desert-safari"],
+    "notes": ["Best for couples who want iconic Dubai plus a refined desert finish.", "Keep lunch light before the evening desert dinner."]
+  },
+  {
+    "budget": "ultra luxury",
+    "time": "evening",
+    "group": "friends",
+    "attractionIds": ["yacht-marina", "burj-khalifa"],
+    "notes": ["Ideal for celebrations and premium nightlife pacing.", "Book yacht departure around sunset."]
+  },
+  {
+    "budget": "smart",
+    "time": "half day",
+    "group": "family",
+    "attractionIds": ["old-dubai", "future-museum"],
+    "notes": ["Comfortable family pacing with cultural context and indoor cooling breaks."]
+  }
+]

@@ -1,0 +1,8 @@
+[
+  { "id": "burj-khalifa", "name": "Burj Khalifa Lounge", "budget": "premium", "time": "half day", "groups": ["couple", "family", "friends"], "interests": ["skyline", "luxury", "iconic"], "costUsd": 145 },
+  { "id": "desert-safari", "name": "Private Desert Conservation Drive", "budget": "premium", "time": "full day", "groups": ["couple", "family", "friends"], "interests": ["desert", "adventure", "culture"], "costUsd": 240 },
+  { "id": "yacht-marina", "name": "Dubai Marina Private Yacht", "budget": "ultra luxury", "time": "evening", "groups": ["couple", "friends", "family"], "interests": ["yacht", "romance", "skyline"], "costUsd": 420 },
+  { "id": "future-museum", "name": "Museum of the Future Fast Track", "budget": "smart", "time": "half day", "groups": ["solo", "couple", "family"], "interests": ["culture", "architecture", "innovation"], "costUsd": 65 },
+  { "id": "beach-club", "name": "Jumeirah Beach Club", "budget": "premium", "time": "full day", "groups": ["couple", "friends"], "interests": ["beach", "wellness", "luxury"], "costUsd": 160 },
+  { "id": "old-dubai", "name": "Old Dubai Heritage Walk", "budget": "smart", "time": "half day", "groups": ["solo", "couple", "family", "friends"], "interests": ["culture", "shopping", "food"], "costUsd": 55 }
+]

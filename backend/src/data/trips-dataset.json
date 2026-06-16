@@ -1,0 +1,62 @@
+[
+  {
+    "id": "dubai-royal",
+    "destination": "Dubai Royal Escape",
+    "styles": ["luxury", "city", "family", "shopping"],
+    "groups": ["couple", "family", "friends"],
+    "budgets": ["premium", "ultra luxury", "$3k-$6k", "$6k-$10k"],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "highlights": ["Burj Khalifa lounge", "Private desert dinner", "Marina yacht cruise"],
+    "popularity": 98
+  },
+  {
+    "id": "maldives-overwater",
+    "destination": "Maldives Overwater Retreat",
+    "styles": ["luxury", "wellness", "romantic", "beach"],
+    "groups": ["couple", "family"],
+    "budgets": ["premium", "ultra luxury", "$6k-$10k", "$10k+"],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+    "highlights": ["Overwater villa", "Seaplane transfer", "Reef dining"],
+    "popularity": 96
+  },
+  {
+    "id": "japan-golden-route",
+    "destination": "Japan Golden Route Luxe",
+    "styles": ["culture", "food", "luxury", "adventure"],
+    "groups": ["couple", "family", "solo"],
+    "budgets": ["premium", "$3k-$6k", "$6k-$10k"],
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    "highlights": ["Kyoto tea ceremony", "Private onsen ryokan", "Tokyo food trail"],
+    "popularity": 92
+  },
+  {
+    "id": "swiss-alps",
+    "destination": "Swiss Alpine Luxe",
+    "styles": ["luxury", "adventure", "wellness", "nature"],
+    "groups": ["couple", "family", "friends"],
+    "budgets": ["ultra luxury", "$6k-$10k", "$10k+"],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
+    "highlights": ["Glacier Express", "Matterhorn suite", "Alpine spa"],
+    "popularity": 90
+  },
+  {
+    "id": "bali-wellness",
+    "destination": "Bali Wellness Sanctuary",
+    "styles": ["wellness", "beach", "culture", "romantic"],
+    "groups": ["couple", "solo", "friends"],
+    "budgets": ["smart", "premium", "$1k-$3k", "$3k-$6k"],
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+    "highlights": ["Ubud retreat", "Floating breakfast", "Temple trail"],
+    "popularity": 87
+  },
+  {
+    "id": "paris-riviera",
+    "destination": "Paris and French Riviera",
+    "styles": ["luxury", "culture", "food", "romantic"],
+    "groups": ["couple", "family", "friends"],
+    "budgets": ["premium", "ultra luxury", "$6k-$10k", "$10k+"],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "highlights": ["Palace hotel", "Private Louvre guide", "Riviera beach club"],
+    "popularity": 89
+  }
+]

@@ -1,17 +1,46 @@
-import { Map, WalletCards } from 'lucide-react';
-import { useMemo, useState } from 'react';
+import { Landmark, Map, WalletCards } from 'lucide-react';
+import { useState } from 'react';
 import { Button } from '../components/Button';
 import { Card } from '../components/Card';
-import { SelectField } from '../components/FormControls';
+import { MultiSelect, SelectField } from '../components/FormControls';
 import { PageShell } from '../components/PageShell';
 import { SectionHeader } from '../components/SectionHeader';
-import { dubaiTimeline, pageMeta } from '../data/mockData';
+import { pageMeta } from '../data/mockData';
+import { api, type DubaiPlanResponse } from '../services/api';
+
+const interests = ['desert', 'luxury', 'culture', 'shopping', 'skyline', 'beach', 'food'];
 
 export function DubaiDayPlannerPage() {
   const [budget, setBudget] = useState('Premium');
   const [group, setGroup] = useState('Couple');
   const [time, setTime] = useState('Full day');
-  const total = useMemo(() => dubaiTimeline.reduce((sum, item) => sum + Number(item.cost.replace('$', '')), 0), []);
+  const [selected, setSelected] = useState(['desert', 'luxury']);
+  const [result, setResult] = useState<DubaiPlanResponse | null>(null);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState('');
+
+  function toggle(value: string) {
+    setSelected((current) => (current.includes(value) ? current.filter((item) => item !== value) : [...current, value]));
+  }
+
+  async function planDubaiDay() {
+    setLoading(true);
+    setError('');
+
+    try {
+      const response = await api.dubaiPlan({
+        budget: budget.toLowerCase(),
+        group: group.toLowerCase(),
+        time: time.toLowerCase().replace(' only', ''),
+        interests: selected,
+      });
+      setResult(response);
+    } catch (requestError) {
+      setError(requestError instanceof Error ? requestError.message : 'Unable to plan Dubai day');
+    } finally {
+      setLoading(false);
+    }
+  }
 
   return (
     <PageShell>
@@ -23,7 +52,14 @@ export function DubaiDayPlannerPage() {
               <SelectField label="Budget" value={budget} options={['Smart', 'Premium', 'Ultra Luxury']} onChange={setBudget} />
               <SelectField label="Group" value={group} options={['Couple', 'Family', 'Friends', 'Solo']} onChange={setGroup} />
               <SelectField label="Available time" value={time} options={['Half day', 'Full day', 'Evening only']} onChange={setTime} />
-              <Button>Plan Dubai day</Button>
+              <div>
+                <p className="mb-3 text-sm font-semibold text-white">Interests</p>
+                <MultiSelect options={interests} selected={selected} onToggle={toggle} />
+              </div>
+              <Button disabled={loading} onClick={planDubaiDay}>
+                {loading ? 'Planning...' : 'Plan Dubai day'}
+              </Button>
+              {error && <p className="rounded-[8px] border border-ruby/40 bg-ruby/20 px-4 py-3 text-sm text-[#ffb4cf]">{error}</p>}
             </div>
           </Card>
 
@@ -31,49 +67,56 @@ export function DubaiDayPlannerPage() {
             <Card className="p-5">
               <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-center">
                 <div>
-                  <p className="text-xs font-bold uppercase tracking-[0.22em] text-gold">{budget} / {group} / {time}</p>
+                  <p className="text-xs font-bold uppercase tracking-[0.22em] text-gold">
+                    {budget} / {group} / {time}
+                  </p>
                   <h2 className="mt-2 font-display text-3xl font-bold">Dubai signature schedule</h2>
                 </div>
                 <span className="inline-flex w-fit items-center gap-2 rounded-full bg-gold/16 px-4 py-2 text-sm font-bold text-gold">
-                  <WalletCards aria-hidden className="h-4 w-4" />
-                  ${total} estimate
+                  <WalletCards aria-hidden className="h-4 w-4" />${result?.estimatedCost || 0} estimate
                 </span>
               </div>
             </Card>
 
             <div className="grid gap-4">
-              {dubaiTimeline.map((item) => (
-                <Card key={item.time} className="grid gap-4 p-5 sm:grid-cols-[80px_1fr_auto] sm:items-center">
-                  <span className="font-display text-2xl font-bold text-gold">{item.time}</span>
-                  <div className="flex items-center gap-4">
-                    <span className="grid h-12 w-12 place-items-center rounded-full bg-white/10 text-gold">
-                      <item.icon aria-hidden className="h-5 w-5" />
-                    </span>
-                    <div>
-                      <h3 className="font-display text-2xl font-bold">{item.title}</h3>
-                      <p className="text-sm text-mist">Private routing, low waiting time, premium timing.</p>
+              {!result ? (
+                <Card className="p-8 text-center text-mist">Choose your preferences and request a backend Dubai plan.</Card>
+              ) : (
+                result.attractions.map((item, index) => (
+                  <Card key={item.id} className="grid gap-4 p-5 sm:grid-cols-[80px_1fr_auto] sm:items-center">
+                    <span className="font-display text-2xl font-bold text-gold">{String(index + 1).padStart(2, '0')}</span>
+                    <div className="flex items-center gap-4">
+                      <span className="grid h-12 w-12 place-items-center rounded-full bg-white/10 text-gold">
+                        <Landmark aria-hidden className="h-5 w-5" />
+                      </span>
+                      <div>
+                        <h3 className="font-display text-2xl font-bold">{item.name}</h3>
+                        <p className="text-sm text-mist">
+                          {item.time} / {item.budget} / {item.interests.join(', ')}
+                        </p>
+                      </div>
                     </div>
-                  </div>
-                  <span className="text-lg font-extrabold">{item.cost}</span>
-                </Card>
-              ))}
+                    <span className="text-lg font-extrabold">${item.costUsd}</span>
+                  </Card>
+                ))
+              )}
             </div>
 
             <div className="grid gap-5 lg:grid-cols-2">
               <Card className="p-5">
-                <h3 className="font-display text-2xl font-bold">Cost summary</h3>
+                <h3 className="font-display text-2xl font-bold">Planning notes</h3>
                 <div className="mt-4 space-y-3 text-sm text-mist">
-                  <p>Attractions: $275</p>
-                  <p>Dining: $265</p>
-                  <p>Experiences: $210</p>
-                  <p className="border-t border-white/10 pt-3 text-lg font-bold text-white">Total: ${total}</p>
+                  {(result?.notes || ['Backend plan notes will appear here.']).map((note) => (
+                    <p key={note}>- {note}</p>
+                  ))}
+                  <p className="border-t border-white/10 pt-3 text-lg font-bold text-white">Total: ${result?.estimatedCost || 0}</p>
                 </div>
               </Card>
               <Card className="grid min-h-56 place-items-center overflow-hidden p-5">
                 <div className="text-center">
                   <Map aria-hidden className="mx-auto h-10 w-10 text-gold" />
                   <h3 className="mt-4 font-display text-2xl font-bold">Map preview</h3>
-                  <p className="mt-2 text-sm text-mist">Dubai Marina - Downtown - Jumeirah - Desert route</p>
+                  <p className="mt-2 text-sm text-mist">{result ? result.attractions.map((item) => item.name).join(' - ') : 'Route appears after planning'}</p>
                 </div>
               </Card>
             </div>

@@ -1,0 +1,6 @@
+{
+  "default": {
+    "subject": "Your MyGlobalTrips quote for {{destination}}",
+    "html": "<!doctype html><html><body style=\"font-family:Arial,sans-serif;color:#0A1931;line-height:1.6\"><div style=\"max-width:680px;margin:auto;border:1px solid #E5E7EB;padding:28px\"><h1 style=\"color:#0A1931\">MyGlobalTrips Luxury Travel Proposal</h1><p>Dear {{name}},</p><p>Thank you for choosing MyGlobalTrips for your upcoming journey to <strong>{{destination}}</strong>.</p><p>Based on your travel dates <strong>{{dates}}</strong>, traveller count <strong>{{travellers}}</strong>, and preferred budget <strong>{{budget}}</strong>, we recommend a curated luxury package with premium hotels, private transfers, handpicked experiences, and visa-ready guidance.</p><p><strong>Special requests:</strong> {{requests}}</p><ul><li>Luxury accommodation options</li><li>Private airport transfers</li><li>Curated experiences and dining</li><li>Visa checklist support</li><li>Dedicated travel concierge</li></ul><p>Warm regards,<br/>MyGlobalTrips Concierge</p></div></body></html>"
+  }
+}

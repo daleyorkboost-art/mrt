@@ -1,0 +1,120 @@
+{
+  "info": {
+    "name": "MyGlobalTrips Backend API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:5000"
+    }
+  ],
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "Trip Recommender",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"style\": \"luxury\",\n  \"group\": \"couple\",\n  \"budget\": \"premium\",\n  \"wish\": \"desert\"\n}"
+        },
+        "url": "{{baseUrl}}/api/recommend"
+      }
+    },
+    {
+      "name": "Itinerary Builder",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"destination\": \"Dubai\",\n  \"nights\": 4,\n  \"travellerType\": \"couple\",\n  \"interests\": [\"fine dining\", \"culture\", \"desert\"]\n}"
+        },
+        "url": "{{baseUrl}}/api/itinerary"
+      }
+    },
+    {
+      "name": "Dubai Day Planner",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"budget\": \"premium\",\n  \"time\": \"full day\",\n  \"group\": \"couple\",\n  \"interests\": [\"desert\", \"luxury\"]\n}"
+        },
+        "url": "{{baseUrl}}/api/dubai-plan"
+      }
+    },
+    {
+      "name": "Visa Checklist",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"passport\": \"Indian\",\n  \"destination\": \"UAE\",\n  \"month\": \"August 2026\"\n}"
+        },
+        "url": "{{baseUrl}}/api/visa"
+      }
+    },
+    {
+      "name": "FAQ Chatbot",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"query\": \"What visa documents do I need?\"\n}"
+        },
+        "url": "{{baseUrl}}/api/faq"
+      }
+    },
+    {
+      "name": "Quote Email",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"travellerName\": \"Riya Sharma\",\n  \"destination\": \"Dubai + Maldives\",\n  \"dates\": \"12-18 September 2026\",\n  \"travellerCount\": \"2 adults\",\n  \"budget\": \"$6,000 - $8,000\",\n  \"specialRequests\": \"Overwater villa and private transfers\",\n  \"email\": \"riya@example.com\",\n  \"phone\": \"+971500000000\"\n}"
+        },
+        "url": "{{baseUrl}}/api/quote-email"
+      }
+    },
+    {
+      "name": "Send Email",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"to\": \"client@example.com\",\n  \"subject\": \"Your MyGlobalTrips quote\",\n  \"html\": \"<p>Hello from MyGlobalTrips</p>\"\n}"
+        },
+        "url": "{{baseUrl}}/api/send-email"
+      }
+    },
+    {
+      "name": "AI Caption Generator",
+      "request": {
+        "method": "POST",
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            { "key": "style", "value": "Luxury", "type": "text" },
+            { "key": "mood", "value": "Golden hour", "type": "text" },
+            { "key": "image", "type": "file", "src": "" }
+          ]
+        },
+        "url": "{{baseUrl}}/api/caption"
+      }
+    }
+  ]
+}

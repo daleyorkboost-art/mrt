@@ -4,6 +4,7 @@ import { Button } from '../components/Button';
 import { Card } from '../components/Card';
 import { PageShell } from '../components/PageShell';
 import { SectionHeader } from '../components/SectionHeader';
+import { api } from '../services/api';
 
 const suggestions = ['Plan 5 days in Dubai', 'What visa documents do I need?', 'Suggest Maldives for a couple', 'Create a luxury Europe route'];
 
@@ -19,21 +20,33 @@ export function AriaChatbotPage() {
   const [input, setInput] = useState('');
   const [typing, setTyping] = useState(false);
 
-  function send(text = input) {
+  async function send(text = input) {
     if (!text.trim()) return;
     setMessages((current) => [...current, { role: 'user', text }]);
     setInput('');
     setTyping(true);
-    window.setTimeout(() => {
+
+    try {
+      const response = await api.faq({ query: text });
+      const suggestionsText = response.follow_up_suggestions.length > 0 ? `\n\nTry next: ${response.follow_up_suggestions.join(' | ')}` : '';
       setMessages((current) => [
         ...current,
         {
           role: 'assistant',
-          text: 'I would recommend a balanced luxury plan: premium hotel, one signature experience, smart transfer routing, and a visa-ready document checklist. Shall I turn this into an itinerary?',
+          text: `${response.answer}${suggestionsText}`,
         },
       ]);
+    } catch (requestError) {
+      setMessages((current) => [
+        ...current,
+        {
+          role: 'assistant',
+          text: requestError instanceof Error ? requestError.message : 'ARIA could not reach the backend right now.',
+        },
+      ]);
+    } finally {
       setTyping(false);
-    }, 900);
+    }
   }
 
   return (
@@ -53,7 +66,7 @@ export function AriaChatbotPage() {
                 <button
                   key={question}
                   className="rounded-[8px] border border-white/12 bg-white/8 px-4 py-3 text-left text-sm font-semibold text-mist transition hover:border-gold/50 hover:text-white"
-                  onClick={() => send(question)}
+                  onClick={() => void send(question)}
                   type="button"
                 >
                   {question}
@@ -116,7 +129,7 @@ export function AriaChatbotPage() {
             className="flex gap-3 border-t border-white/10 pt-4"
             onSubmit={(event) => {
               event.preventDefault();
-              send();
+              void send();
             }}
           >
             <input

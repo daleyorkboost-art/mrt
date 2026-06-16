@@ -1,0 +1,30 @@
+[
+  {
+    "id": "visa-docs",
+    "keywords": ["visa", "documents", "passport", "checklist"],
+    "category": "visa",
+    "answer": "Most tourist visa applications need a valid passport, photos, flight reservation, hotel booking, bank statement, and travel insurance. Requirements depend on passport and destination.",
+    "follow_up_suggestions": ["Generate my visa checklist", "How early should I apply?", "Do I need travel insurance?"]
+  },
+  {
+    "id": "dubai-best-time",
+    "keywords": ["dubai", "best", "time", "weather", "month"],
+    "category": "destination",
+    "answer": "The best time for Dubai is usually November to March, when the weather is cooler and outdoor experiences are more comfortable.",
+    "follow_up_suggestions": ["Plan a Dubai day", "What should I pack for Dubai?", "Suggest luxury hotels in Dubai"]
+  },
+  {
+    "id": "quote-speed",
+    "keywords": ["quote", "package", "price", "proposal", "email"],
+    "category": "quotes",
+    "answer": "Our team can prepare a premium travel quote after receiving traveller count, dates, destination, budget, and special requests.",
+    "follow_up_suggestions": ["Create a quote email", "What details are needed?", "Can I customize hotels?"]
+  },
+  {
+    "id": "honeymoon",
+    "keywords": ["honeymoon", "couple", "romantic", "maldives", "anniversary"],
+    "category": "luxury",
+    "answer": "For romantic trips, Maldives, Bali, Paris, and Dubai plus Maldives combinations work beautifully depending on budget and preferred pace.",
+    "follow_up_suggestions": ["Recommend honeymoon trips", "Build a Maldives itinerary", "Generate captions for my trip"]
+  }
+]
