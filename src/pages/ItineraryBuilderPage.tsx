@@ -8,6 +8,7 @@ import { PageShell } from '../components/PageShell';
 import { SectionHeader } from '../components/SectionHeader';
 import { pageMeta } from '../data/mockData';
 import { api, type ItineraryResponse } from '../services/api';
+import { trackMicroConversion, trackToolEngagement } from '../services/visitorIntelligence';
 
 const interests = ['Fine dining', 'Beaches', 'Culture', 'Shopping', 'Adventure', 'Wellness', 'Desert', 'Food'];
 
@@ -36,6 +37,7 @@ export function ItineraryBuilderPage() {
         interests: selected,
       });
       setResult(response);
+      trackToolEngagement('Itinerary built', { destination, duration, travellerType, interests: selected });
     } catch (requestError) {
       setError(requestError instanceof Error ? requestError.message : 'Unable to build itinerary');
     } finally {
@@ -51,6 +53,7 @@ export function ItineraryBuilderPage() {
       interests: selected.join(','),
     });
     await navigator.clipboard?.writeText(`${window.location.origin}${window.location.pathname}?${params.toString()}`);
+    trackMicroConversion('Itinerary copied', { destination, duration });
   }
 
   const days = result?.itinerary.days || [];
@@ -89,7 +92,7 @@ export function ItineraryBuilderPage() {
                     <Share2 aria-hidden className="h-4 w-4" />
                     Share
                   </Button>
-                  <Button onClick={() => window.print()}>
+                  <Button onClick={() => { trackMicroConversion('Itinerary PDF saved', { destination, duration }); window.print(); }}>
                     <Download aria-hidden className="h-4 w-4" />
                     PDF
                   </Button>

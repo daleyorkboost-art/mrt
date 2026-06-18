@@ -2,8 +2,9 @@ import { MessageCircle, X } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { Button } from './Button';
 import { Card } from './Card';
+import { trackMicroConversion } from '../services/visitorIntelligence';
 
-const phone = '971500000000';
+const phone = (import.meta.env.VITE_WHATSAPP_NUMBER || '971585566036').replace(/\D/g, '');
 const dismissedKey = 'mgt-whatsapp-dismissed';
 
 export function WhatsappWidget() {
@@ -51,7 +52,7 @@ export function WhatsappWidget() {
             </button>
           </div>
           <a href={href} rel="noreferrer" target="_blank">
-            <Button className="mt-5 w-full">
+            <Button className="mt-5 w-full" onClick={() => trackMicroConversion('WhatsApp chat clicked', { message })}>
               <MessageCircle aria-hidden className="h-4 w-4" />
               Chat on WhatsApp
             </Button>

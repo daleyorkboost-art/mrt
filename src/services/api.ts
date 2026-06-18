@@ -127,6 +127,16 @@ export type CaptionResponse = {
   model?: string;
 };
 
+export type VisitorSignalResponse = {
+  signal: {
+    id: string;
+    type: string;
+    category: string;
+    label: string;
+    createdAt: string;
+  };
+};
+
 export const api = {
   recommend(body: { style: string; group: string; budget: string; wish: string }) {
     return postJson<{ results: TripRecommendation[] }>('/api/recommend', body);
@@ -160,5 +170,17 @@ export const api = {
   },
   caption(formData: FormData) {
     return postForm<CaptionResponse>('/api/caption', formData);
+  },
+  visitorSignal(body: {
+    type: string;
+    category: string;
+    label: string;
+    page: string;
+    visitorId: string;
+    sessionId: string;
+    value?: number;
+    metadata?: Record<string, unknown>;
+  }) {
+    return postJson<VisitorSignalResponse>('/api/visitor-signal', body);
   },
 };

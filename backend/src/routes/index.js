@@ -6,6 +6,7 @@ const visaRoutes = require('./visaRoutes');
 const faqRoutes = require('./faqRoutes');
 const quoteRoutes = require('./quoteRoutes');
 const captionRoutes = require('./captionRoutes');
+const visitorSignalRoutes = require('./visitorSignalRoutes');
 
 const router = express.Router();
 
@@ -16,5 +17,6 @@ router.use(visaRoutes);
 router.use(faqRoutes);
 router.use(quoteRoutes);
 router.use(captionRoutes);
+router.use(visitorSignalRoutes);
 
 module.exports = router;

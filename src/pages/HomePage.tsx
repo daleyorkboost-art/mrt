@@ -7,6 +7,7 @@ import { Card } from '../components/Card';
 import { PageShell } from '../components/PageShell';
 import { SectionHeader } from '../components/SectionHeader';
 import { destinations, heroImage, howItWorks, packages, testimonials, trustMetrics } from '../data/mockData';
+import { trackDestinationInterest, trackMicroConversion } from '../services/visitorIntelligence';
 
 export function HomePage() {
   const [region, setRegion] = useState('All');
@@ -28,12 +29,12 @@ export function HomePage() {
               MyGlobalTrips curates premium holidays, Dubai experiences, visa readiness, and quote workflows with a polished AI travel desk.
             </p>
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-              <Link to="/ai-trip-recommender">
+              <Link to="/ai-trip-recommender" onClick={() => trackMicroConversion('Hero plan my trip CTA')}>
                 <Button className="w-full sm:w-auto">
                   Plan my trip <ArrowRight aria-hidden className="h-4 w-4" />
                 </Button>
               </Link>
-              <Link to="/itinerary-builder">
+              <Link to="/itinerary-builder" onClick={() => trackMicroConversion('Hero build itinerary CTA')}>
                 <Button className="w-full sm:w-auto" variant="secondary">
                   Build itinerary
                 </Button>
@@ -55,7 +56,7 @@ export function HomePage() {
                 </div>
               </div>
             ))}
-            <Button className="h-full rounded-[8px]">
+            <Button className="h-full rounded-[8px]" onClick={() => trackMicroConversion('Homepage search triggered')}>
               <Search aria-hidden className="h-4 w-4" />
               Search
             </Button>
@@ -79,7 +80,7 @@ export function HomePage() {
         </div>
         <div className="mt-10 grid gap-6 lg:grid-cols-3">
           {filteredPackages.map((item) => (
-            <Card key={item.title} as="article" className="overflow-hidden">
+            <Card key={item.title} as="article" className="overflow-hidden" >
               <img alt={item.title} className="h-64 w-full object-cover" src={item.image} />
               <div className="p-5">
                 <div className="flex items-start justify-between gap-4">
@@ -100,7 +101,7 @@ export function HomePage() {
                   <p className="text-sm text-mist">
                     From <span className="text-xl font-extrabold text-white">{item.price}</span>
                   </p>
-                  <Button variant="secondary">View</Button>
+                  <Button onClick={() => trackMicroConversion('Package viewed', { package: item.title })} variant="secondary">View</Button>
                 </div>
               </div>
             </Card>
@@ -114,6 +115,7 @@ export function HomePage() {
           <div className="no-scrollbar mt-10 flex gap-5 overflow-x-auto pb-4">
             {destinations.map((item) => (
               <Card key={item.name} className="min-w-[260px] overflow-hidden">
+                <div onMouseEnter={() => trackDestinationInterest(item.name, { country: item.country })}>
                 <img alt={`${item.name}, ${item.country}`} className="h-72 w-full object-cover" src={item.image} />
                 <div className="flex items-center justify-between p-4">
                   <div>
@@ -124,6 +126,7 @@ export function HomePage() {
                     <Star aria-hidden className="h-4 w-4 fill-gold text-gold" />
                     {item.rating}
                   </span>
+                </div>
                 </div>
               </Card>
             ))}

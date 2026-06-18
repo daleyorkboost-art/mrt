@@ -8,6 +8,7 @@ import { PageShell } from '../components/PageShell';
 import { SectionHeader } from '../components/SectionHeader';
 import { inclusions, pageMeta, recommenderOptions } from '../data/mockData';
 import { api, type TripRecommendation } from '../services/api';
+import { trackToolEngagement } from '../services/visitorIntelligence';
 
 const steps = [
   { key: 'style', label: 'Travel Style' },
@@ -74,6 +75,7 @@ export function RecommenderPage() {
       });
       setResults(response.results);
       setShowResults(true);
+      trackToolEngagement('Trip recommender completed', answers);
       const params = new URLSearchParams({
         style: answers.style,
         group: answers.group,

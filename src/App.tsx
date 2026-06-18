@@ -3,6 +3,7 @@ import { Route, Routes, useLocation } from 'react-router-dom';
 import { Footer } from './components/Footer';
 import { Navbar } from './components/Navbar';
 import { WhatsappWidget } from './components/WhatsappWidget';
+import { VisitorIntelligenceTracker } from './components/VisitorIntelligenceTracker';
 import { AriaChatbotPage } from './pages/AriaChatbotPage';
 import { CaptionGeneratorPage } from './pages/CaptionGeneratorPage';
 import { DubaiDayPlannerPage } from './pages/DubaiDayPlannerPage';
@@ -19,6 +20,7 @@ export default function App() {
   return (
     <div className="min-h-screen overflow-x-hidden bg-navy text-white">
       <Navbar />
+      <VisitorIntelligenceTracker />
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
           <Route path="/" element={<HomePage />} />

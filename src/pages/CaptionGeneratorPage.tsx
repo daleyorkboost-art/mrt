@@ -7,6 +7,7 @@ import { PageShell } from '../components/PageShell';
 import { SectionHeader } from '../components/SectionHeader';
 import { pageMeta } from '../data/mockData';
 import { api, type CaptionResponse } from '../services/api';
+import { trackMicroConversion, trackToolEngagement } from '../services/visitorIntelligence';
 
 export function CaptionGeneratorPage() {
   const [style, setStyle] = useState('Luxury');
@@ -43,6 +44,7 @@ export function CaptionGeneratorPage() {
     try {
       const response = await api.caption(formData);
       setResult(response);
+      trackToolEngagement('Captions generated', { style, mood, fileType: file.type });
     } catch (requestError) {
       setError(requestError instanceof Error ? requestError.message : 'Unable to generate captions');
     } finally {
@@ -52,6 +54,7 @@ export function CaptionGeneratorPage() {
 
   async function copy(text: string) {
     await navigator.clipboard?.writeText(text);
+    trackMicroConversion('Caption copied', { style, mood });
     setCopied(text);
     window.setTimeout(() => setCopied(''), 1400);
   }

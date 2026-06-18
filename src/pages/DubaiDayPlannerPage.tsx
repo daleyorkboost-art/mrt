@@ -7,6 +7,7 @@ import { PageShell } from '../components/PageShell';
 import { SectionHeader } from '../components/SectionHeader';
 import { pageMeta } from '../data/mockData';
 import { api, type DubaiPlanResponse } from '../services/api';
+import { trackToolEngagement } from '../services/visitorIntelligence';
 
 const interests = ['desert', 'luxury', 'culture', 'shopping', 'skyline', 'beach', 'food'];
 
@@ -35,6 +36,7 @@ export function DubaiDayPlannerPage() {
         interests: selected,
       });
       setResult(response);
+      trackToolEngagement('Dubai day planned', { budget, group, time, interests: selected });
     } catch (requestError) {
       setError(requestError instanceof Error ? requestError.message : 'Unable to plan Dubai day');
     } finally {

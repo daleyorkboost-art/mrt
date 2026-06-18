@@ -5,6 +5,7 @@ import { Card } from '../components/Card';
 import { PageShell } from '../components/PageShell';
 import { SectionHeader } from '../components/SectionHeader';
 import { api } from '../services/api';
+import { trackToolEngagement } from '../services/visitorIntelligence';
 
 const suggestions = ['Plan 5 days in Dubai', 'What visa documents do I need?', 'Suggest Maldives for a couple', 'Create a luxury Europe route'];
 const storageKey = 'mgt-aria-messages';
@@ -40,6 +41,7 @@ export function AriaChatbotPage() {
 
     try {
       const response = await api.faq({ query: text });
+      trackToolEngagement('Chatbot question asked', { query: text, category: response.category });
       const suggestionsText = response.follow_up_suggestions.length > 0 ? `\n\nTry next: ${response.follow_up_suggestions.join(' | ')}` : '';
       setMessages((current) => [
         ...current,

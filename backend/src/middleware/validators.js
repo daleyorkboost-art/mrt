@@ -67,6 +67,18 @@ const captionValidator = [
   validateRequest,
 ];
 
+const visitorSignalValidator = [
+  body('type').isIn(['page_view', 'hover', 'scroll_depth', 'tool_engagement', 'micro_conversion', 'return_visit']),
+  body('category').isIn(['destination_interest', 'tool_engagement', 'micro_conversion', 'return_visit']),
+  requiredText('label'),
+  requiredText('page'),
+  body('visitorId').isString().trim().isLength({ min: 8, max: 120 }),
+  body('sessionId').isString().trim().isLength({ min: 8, max: 120 }),
+  body('value').optional({ nullable: true }).isFloat({ min: 0, max: 100000 }),
+  body('metadata').optional({ nullable: true }).isObject(),
+  validateRequest,
+];
+
 module.exports = {
   recommendValidator,
   itineraryValidator,
@@ -76,4 +88,5 @@ module.exports = {
   quoteEmailValidator,
   sendEmailValidator,
   captionValidator,
+  visitorSignalValidator,
 };

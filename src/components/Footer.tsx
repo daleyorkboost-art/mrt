@@ -30,7 +30,7 @@ export function Footer() {
         <div>
           <h2 className="text-sm font-bold uppercase tracking-[0.22em] text-gold">Contact</h2>
           <div className="mt-5 space-y-3 text-sm text-mist">
-            <p>concierge@myglobaltrips.com</p>
+            <p>info@myglobaltrips.com</p>
             <p>Dubai | Mumbai | London</p>
             <p>Available 24/7 for premium travellers</p>
           </div>

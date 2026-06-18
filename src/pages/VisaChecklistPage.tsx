@@ -8,6 +8,7 @@ import { PageShell } from '../components/PageShell';
 import { SectionHeader } from '../components/SectionHeader';
 import { pageMeta } from '../data/mockData';
 import { api, type VisaResponse } from '../services/api';
+import { trackMicroConversion, trackToolEngagement } from '../services/visitorIntelligence';
 
 export function VisaChecklistPage() {
   const [nationality, setNationality] = useState('Indian');
@@ -34,6 +35,7 @@ export function VisaChecklistPage() {
       });
       setResult(response);
       setChecked(response.required_documents.slice(0, 1));
+      trackToolEngagement('Visa checklist generated', { nationality, destination, month });
     } catch (requestError) {
       setResult(null);
       setError(requestError instanceof Error ? requestError.message : 'Unable to generate visa checklist');
@@ -59,7 +61,7 @@ export function VisaChecklistPage() {
                 <Button disabled={loading} onClick={generateChecklist}>
                   {loading ? 'Generating...' : 'Generate checklist'}
                 </Button>
-                <Button onClick={() => window.print()} variant="secondary">
+                <Button onClick={() => { trackMicroConversion('Visa PDF saved', { nationality, destination }); window.print(); }} variant="secondary">
                   Print / PDF
                 </Button>
               </div>
