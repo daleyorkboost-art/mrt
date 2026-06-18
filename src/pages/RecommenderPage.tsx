@@ -1,6 +1,6 @@
 import { AnimatePresence, motion } from 'framer-motion';
 import { ArrowLeft, ArrowRight, Sparkles } from 'lucide-react';
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { Button } from '../components/Button';
 import { Card } from '../components/Card';
 import { EmptyState } from '../components/EmptyState';
@@ -35,6 +35,21 @@ export function RecommenderPage() {
   const progress = ((showResults ? steps.length : step + 1) / steps.length) * 100;
   const selectedCount = useMemo(() => Object.values(answers).filter(Boolean).length, [answers]);
 
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const nextAnswers = {
+      style: params.get('style') || '',
+      group: params.get('group') || '',
+      budget: params.get('budget') || '',
+      destination: params.get('wish') || '',
+    };
+
+    if (Object.values(nextAnswers).some(Boolean)) {
+      setAnswers(nextAnswers);
+      setStep(steps.length - 1);
+    }
+  }, []);
+
   function choose(value: string) {
     setAnswers((currentAnswers) => ({ ...currentAnswers, [current.key]: value }));
   }
@@ -59,6 +74,14 @@ export function RecommenderPage() {
       });
       setResults(response.results);
       setShowResults(true);
+      const params = new URLSearchParams({
+        style: answers.style,
+        group: answers.group,
+        budget: answers.budget,
+        wish: answers.destination,
+      });
+      window.history.replaceState(null, '', `${window.location.pathname}?${params.toString()}`);
+      window.sessionStorage.setItem('mgt-trip-preferences', JSON.stringify(answers));
     } catch (requestError) {
       setError(requestError instanceof Error ? requestError.message : 'Unable to load recommendations');
     } finally {

@@ -71,6 +71,30 @@ export const packages: Package[] = [
     image: 'https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1200&q=80',
     tags: ['Glacier Express', 'Lake hotel', 'Concierge'],
   },
+  {
+    title: 'Japan Golden Route Luxe',
+    location: 'Tokyo, Kyoto & Osaka',
+    price: '$4,680',
+    days: '7 nights',
+    image: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80',
+    tags: ['Ryokan stay', 'Food trail', 'Bullet train'],
+  },
+  {
+    title: 'Paris Riviera Romance',
+    location: 'Paris & Nice',
+    price: '$5,880',
+    days: '8 nights',
+    image: 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80',
+    tags: ['Palace hotel', 'Private Louvre', 'Beach club'],
+  },
+  {
+    title: 'Bali Wellness Sanctuary',
+    location: 'Ubud & Nusa Dua',
+    price: '$2,460',
+    days: '6 nights',
+    image: 'https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80',
+    tags: ['Spa retreat', 'Temple trail', 'Villa pool'],
+  },
 ];
 
 export const destinations: Destination[] = [
@@ -241,7 +265,6 @@ export const navItems = [
   { label: 'Visa', href: '/visa-checklist' },
   { label: 'Dubai', href: '/dubai-day-planner' },
   { label: 'Captions', href: '/caption-generator' },
-  { label: 'Quotes', href: '/internal-quote-generator' },
 ];
 
 export const pageMeta: Record<string, { title: string; eyebrow: string; description: string; icon: LucideIcon }> = {

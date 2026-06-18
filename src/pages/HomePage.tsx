@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { ArrowRight, CalendarDays, MapPin, Search, ShieldCheck, Star, Users } from 'lucide-react';
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from '../components/Button';
 import { Card } from '../components/Card';
@@ -8,6 +9,9 @@ import { SectionHeader } from '../components/SectionHeader';
 import { destinations, heroImage, howItWorks, packages, testimonials, trustMetrics } from '../data/mockData';
 
 export function HomePage() {
+  const [region, setRegion] = useState('All');
+  const filteredPackages = packages.filter((item) => region === 'All' || item.location.toLowerCase().includes(region.toLowerCase()));
+
   return (
     <PageShell className="pt-0">
       <section className="relative min-h-[92vh] overflow-hidden">
@@ -61,8 +65,20 @@ export function HomePage() {
 
       <section className="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8">
         <SectionHeader eyebrow="Featured packages" title="Curated escapes with first-class details" description="Client-ready packages with realistic inclusions, luxury positioning, and premium travel economics." />
+        <div className="mt-8 flex flex-wrap gap-3">
+          {['All', 'Dubai', 'Maldives', 'Japan', 'Paris', 'Bali'].map((item) => (
+            <button
+              key={item}
+              className={`rounded-full border px-4 py-2 text-sm font-bold transition ${region === item ? 'border-gold bg-gold text-navy' : 'border-white/14 bg-white/8 text-mist hover:text-white'}`}
+              onClick={() => setRegion(item)}
+              type="button"
+            >
+              {item}
+            </button>
+          ))}
+        </div>
         <div className="mt-10 grid gap-6 lg:grid-cols-3">
-          {packages.map((item) => (
+          {filteredPackages.map((item) => (
             <Card key={item.title} as="article" className="overflow-hidden">
               <img alt={item.title} className="h-64 w-full object-cover" src={item.image} />
               <div className="p-5">

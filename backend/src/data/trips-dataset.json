@@ -1,62 +1,1542 @@
 [
   {
-    "id": "dubai-royal",
-    "destination": "Dubai Royal Escape",
-    "styles": ["luxury", "city", "family", "shopping"],
-    "groups": ["couple", "family", "friends"],
-    "budgets": ["premium", "ultra luxury", "$3k-$6k", "$6k-$10k"],
+    "id": "dubai-1",
+    "destination": "Dubai Signature Escape",
+    "country": "UAE",
+    "styles": [
+      "luxury",
+      "shopping",
+      "desert",
+      "city",
+      "relaxation",
+      "honeymoon"
+    ],
+    "groups": [
+      "solo",
+      "family",
+      "couple"
+    ],
+    "budgets": [
+      "budget",
+      "premium"
+    ],
     "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
-    "highlights": ["Burj Khalifa lounge", "Private desert dinner", "Marina yacht cruise"],
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Dubai insider dining and local access"
+    ],
+    "packageName": "Dubai 3-Night Curated Package",
+    "duration": "3 nights",
+    "popularity": 100
+  },
+  {
+    "id": "maldives-2",
+    "destination": "Maldives Premium Escape",
+    "country": "Maldives",
+    "styles": [
+      "luxury",
+      "beach",
+      "wellness",
+      "romantic",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "couple",
+      "group",
+      "couple"
+    ],
+    "budgets": [
+      "mid-range",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Maldives insider dining and local access"
+    ],
+    "packageName": "Maldives 4-Night Curated Package",
+    "duration": "4 nights",
+    "popularity": 99
+  },
+  {
+    "id": "bali-3",
+    "destination": "Bali Family Escape",
+    "country": "Indonesia",
+    "styles": [
+      "wellness",
+      "culture",
+      "beach",
+      "nature",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "family",
+      "friends",
+      "couple"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Bali insider dining and local access"
+    ],
+    "packageName": "Bali 5-Night Curated Package",
+    "duration": "5 nights",
     "popularity": 98
   },
   {
-    "id": "maldives-overwater",
-    "destination": "Maldives Overwater Retreat",
-    "styles": ["luxury", "wellness", "romantic", "beach"],
-    "groups": ["couple", "family"],
-    "budgets": ["premium", "ultra luxury", "$6k-$10k", "$10k+"],
-    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
-    "highlights": ["Overwater villa", "Seaplane transfer", "Reef dining"],
+    "id": "paris-4",
+    "destination": "Paris Romance Escape",
+    "country": "France",
+    "styles": [
+      "romantic",
+      "culture",
+      "food",
+      "luxury",
+      "adventure",
+      "honeymoon"
+    ],
+    "groups": [
+      "group",
+      "family with kids",
+      "couple"
+    ],
+    "budgets": [
+      "ultra luxury",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Paris insider dining and local access"
+    ],
+    "packageName": "Paris 6-Night Curated Package",
+    "duration": "6 nights",
+    "popularity": 97
+  },
+  {
+    "id": "japan-5",
+    "destination": "Japan Golden Route Explorer Escape",
+    "country": "Japan",
+    "styles": [
+      "culture",
+      "food",
+      "adventure",
+      "family",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "friends",
+      "group of friends",
+      "couple"
+    ],
+    "budgets": [
+      "$1k-$3k",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Japan Golden Route insider dining and local access"
+    ],
+    "packageName": "Japan Golden Route 7-Night Curated Package",
+    "duration": "7 nights",
     "popularity": 96
   },
   {
-    "id": "japan-golden-route",
-    "destination": "Japan Golden Route Luxe",
-    "styles": ["culture", "food", "luxury", "adventure"],
-    "groups": ["couple", "family", "solo"],
-    "budgets": ["premium", "$3k-$6k", "$6k-$10k"],
-    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
-    "highlights": ["Kyoto tea ceremony", "Private onsen ryokan", "Tokyo food trail"],
+    "id": "switzerland-6",
+    "destination": "Swiss Alps Signature Escape",
+    "country": "Switzerland",
+    "styles": [
+      "nature",
+      "adventure",
+      "luxury",
+      "wellness",
+      "cultural"
+    ],
+    "groups": [
+      "family with kids",
+      "solo",
+      "couple"
+    ],
+    "budgets": [
+      "$3k-$6k",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Swiss Alps insider dining and local access"
+    ],
+    "packageName": "Swiss Alps 8-Night Curated Package",
+    "duration": "8 nights",
+    "popularity": 95
+  },
+  {
+    "id": "singapore-7",
+    "destination": "Singapore Premium Escape",
+    "country": "Singapore",
+    "styles": [
+      "family",
+      "city",
+      "food",
+      "shopping",
+      "relaxation",
+      "honeymoon"
+    ],
+    "groups": [
+      "group of friends",
+      "couple",
+      "couple"
+    ],
+    "budgets": [
+      "$6k-$10k",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Singapore insider dining and local access"
+    ],
+    "packageName": "Singapore 9-Night Curated Package",
+    "duration": "9 nights",
+    "popularity": 94
+  },
+  {
+    "id": "thailand-8",
+    "destination": "Thailand Island Luxe Family Escape",
+    "country": "Thailand",
+    "styles": [
+      "beach",
+      "food",
+      "wellness",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "solo",
+      "family",
+      "couple"
+    ],
+    "budgets": [
+      "$10k+",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Thailand Island Luxe insider dining and local access"
+    ],
+    "packageName": "Thailand Island Luxe 10-Night Curated Package",
+    "duration": "10 nights",
+    "popularity": 93
+  },
+  {
+    "id": "turkey-9",
+    "destination": "Istanbul and Cappadocia Romance Escape",
+    "country": "Turkey",
+    "styles": [
+      "culture",
+      "history",
+      "romantic",
+      "adventure",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "couple",
+      "group",
+      "couple"
+    ],
+    "budgets": [
+      "budget",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Istanbul and Cappadocia insider dining and local access"
+    ],
+    "packageName": "Istanbul and Cappadocia 11-Night Curated Package",
+    "duration": "3 nights",
     "popularity": 92
   },
   {
-    "id": "swiss-alps",
-    "destination": "Swiss Alpine Luxe",
-    "styles": ["luxury", "adventure", "wellness", "nature"],
-    "groups": ["couple", "family", "friends"],
-    "budgets": ["ultra luxury", "$6k-$10k", "$10k+"],
-    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
-    "highlights": ["Glacier Express", "Matterhorn suite", "Alpine spa"],
+    "id": "italy-10",
+    "destination": "Rome and Amalfi Explorer Escape",
+    "country": "Italy",
+    "styles": [
+      "culture",
+      "food",
+      "romantic",
+      "luxury",
+      "adventure",
+      "honeymoon"
+    ],
+    "groups": [
+      "family",
+      "friends",
+      "couple"
+    ],
+    "budgets": [
+      "mid-range",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Rome and Amalfi insider dining and local access"
+    ],
+    "packageName": "Rome and Amalfi 12-Night Curated Package",
+    "duration": "4 nights",
+    "popularity": 91
+  },
+  {
+    "id": "dubai-11",
+    "destination": "Dubai Signature Escape",
+    "country": "UAE",
+    "styles": [
+      "luxury",
+      "shopping",
+      "desert",
+      "city",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "group",
+      "family with kids",
+      "couple"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Dubai insider dining and local access"
+    ],
+    "packageName": "Dubai 13-Night Curated Package",
+    "duration": "5 nights",
     "popularity": 90
   },
   {
-    "id": "bali-wellness",
-    "destination": "Bali Wellness Sanctuary",
-    "styles": ["wellness", "beach", "culture", "romantic"],
-    "groups": ["couple", "solo", "friends"],
-    "budgets": ["smart", "premium", "$1k-$3k", "$3k-$6k"],
-    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
-    "highlights": ["Ubud retreat", "Floating breakfast", "Temple trail"],
+    "id": "maldives-12",
+    "destination": "Maldives Premium Escape",
+    "country": "Maldives",
+    "styles": [
+      "luxury",
+      "beach",
+      "wellness",
+      "romantic",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "friends",
+      "group of friends",
+      "couple"
+    ],
+    "budgets": [
+      "ultra luxury",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Maldives insider dining and local access"
+    ],
+    "packageName": "Maldives 14-Night Curated Package",
+    "duration": "6 nights",
+    "popularity": 89
+  },
+  {
+    "id": "bali-13",
+    "destination": "Bali Family Escape",
+    "country": "Indonesia",
+    "styles": [
+      "wellness",
+      "culture",
+      "beach",
+      "nature",
+      "relaxation",
+      "honeymoon"
+    ],
+    "groups": [
+      "family with kids",
+      "solo",
+      "couple"
+    ],
+    "budgets": [
+      "$1k-$3k",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Bali insider dining and local access"
+    ],
+    "packageName": "Bali 15-Night Curated Package",
+    "duration": "7 nights",
+    "popularity": 88
+  },
+  {
+    "id": "paris-14",
+    "destination": "Paris Romance Escape",
+    "country": "France",
+    "styles": [
+      "romantic",
+      "culture",
+      "food",
+      "luxury",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "group of friends",
+      "couple",
+      "couple"
+    ],
+    "budgets": [
+      "$3k-$6k",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Paris insider dining and local access"
+    ],
+    "packageName": "Paris 16-Night Curated Package",
+    "duration": "8 nights",
     "popularity": 87
   },
   {
-    "id": "paris-riviera",
-    "destination": "Paris and French Riviera",
-    "styles": ["luxury", "culture", "food", "romantic"],
-    "groups": ["couple", "family", "friends"],
-    "budgets": ["premium", "ultra luxury", "$6k-$10k", "$10k+"],
+    "id": "japan-15",
+    "destination": "Japan Golden Route Explorer Escape",
+    "country": "Japan",
+    "styles": [
+      "culture",
+      "food",
+      "adventure",
+      "family",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "solo",
+      "family",
+      "couple"
+    ],
+    "budgets": [
+      "$6k-$10k",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Japan Golden Route insider dining and local access"
+    ],
+    "packageName": "Japan Golden Route 17-Night Curated Package",
+    "duration": "9 nights",
+    "popularity": 86
+  },
+  {
+    "id": "switzerland-16",
+    "destination": "Swiss Alps Signature Escape",
+    "country": "Switzerland",
+    "styles": [
+      "nature",
+      "adventure",
+      "luxury",
+      "wellness",
+      "honeymoon"
+    ],
+    "groups": [
+      "couple",
+      "group",
+      "couple"
+    ],
+    "budgets": [
+      "$10k+",
+      "mid-range"
+    ],
     "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
-    "highlights": ["Palace hotel", "Private Louvre guide", "Riviera beach club"],
-    "popularity": 89
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Swiss Alps insider dining and local access"
+    ],
+    "packageName": "Swiss Alps 18-Night Curated Package",
+    "duration": "10 nights",
+    "popularity": 85
+  },
+  {
+    "id": "singapore-17",
+    "destination": "Singapore Premium Escape",
+    "country": "Singapore",
+    "styles": [
+      "family",
+      "city",
+      "food",
+      "shopping",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "family",
+      "friends",
+      "couple"
+    ],
+    "budgets": [
+      "budget",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Singapore insider dining and local access"
+    ],
+    "packageName": "Singapore 19-Night Curated Package",
+    "duration": "3 nights",
+    "popularity": 84
+  },
+  {
+    "id": "thailand-18",
+    "destination": "Thailand Island Luxe Family Escape",
+    "country": "Thailand",
+    "styles": [
+      "beach",
+      "food",
+      "wellness",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "group",
+      "family with kids",
+      "couple"
+    ],
+    "budgets": [
+      "mid-range",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Thailand Island Luxe insider dining and local access"
+    ],
+    "packageName": "Thailand Island Luxe 20-Night Curated Package",
+    "duration": "4 nights",
+    "popularity": 83
+  },
+  {
+    "id": "turkey-19",
+    "destination": "Istanbul and Cappadocia Romance Escape",
+    "country": "Turkey",
+    "styles": [
+      "culture",
+      "history",
+      "romantic",
+      "adventure",
+      "relaxation",
+      "honeymoon"
+    ],
+    "groups": [
+      "friends",
+      "group of friends",
+      "couple"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Istanbul and Cappadocia insider dining and local access"
+    ],
+    "packageName": "Istanbul and Cappadocia 21-Night Curated Package",
+    "duration": "5 nights",
+    "popularity": 82
+  },
+  {
+    "id": "italy-20",
+    "destination": "Rome and Amalfi Explorer Escape",
+    "country": "Italy",
+    "styles": [
+      "culture",
+      "food",
+      "romantic",
+      "luxury",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "family with kids",
+      "solo",
+      "couple"
+    ],
+    "budgets": [
+      "ultra luxury",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Rome and Amalfi insider dining and local access"
+    ],
+    "packageName": "Rome and Amalfi 22-Night Curated Package",
+    "duration": "6 nights",
+    "popularity": 81
+  },
+  {
+    "id": "dubai-21",
+    "destination": "Dubai Signature Escape",
+    "country": "UAE",
+    "styles": [
+      "luxury",
+      "shopping",
+      "desert",
+      "city",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "group of friends",
+      "couple",
+      "couple"
+    ],
+    "budgets": [
+      "$1k-$3k",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Dubai insider dining and local access"
+    ],
+    "packageName": "Dubai 23-Night Curated Package",
+    "duration": "7 nights",
+    "popularity": 80
+  },
+  {
+    "id": "maldives-22",
+    "destination": "Maldives Premium Escape",
+    "country": "Maldives",
+    "styles": [
+      "luxury",
+      "beach",
+      "wellness",
+      "romantic",
+      "adventure",
+      "honeymoon"
+    ],
+    "groups": [
+      "solo",
+      "family",
+      "couple"
+    ],
+    "budgets": [
+      "$3k-$6k",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Maldives insider dining and local access"
+    ],
+    "packageName": "Maldives 24-Night Curated Package",
+    "duration": "8 nights",
+    "popularity": 79
+  },
+  {
+    "id": "bali-23",
+    "destination": "Bali Family Escape",
+    "country": "Indonesia",
+    "styles": [
+      "wellness",
+      "culture",
+      "beach",
+      "nature",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "couple",
+      "group",
+      "couple"
+    ],
+    "budgets": [
+      "$6k-$10k",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Bali insider dining and local access"
+    ],
+    "packageName": "Bali 25-Night Curated Package",
+    "duration": "9 nights",
+    "popularity": 78
+  },
+  {
+    "id": "paris-24",
+    "destination": "Paris Romance Escape",
+    "country": "France",
+    "styles": [
+      "romantic",
+      "culture",
+      "food",
+      "luxury",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "family",
+      "friends",
+      "couple"
+    ],
+    "budgets": [
+      "$10k+",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Paris insider dining and local access"
+    ],
+    "packageName": "Paris 26-Night Curated Package",
+    "duration": "10 nights",
+    "popularity": 77
+  },
+  {
+    "id": "japan-25",
+    "destination": "Japan Golden Route Explorer Escape",
+    "country": "Japan",
+    "styles": [
+      "culture",
+      "food",
+      "adventure",
+      "family",
+      "relaxation",
+      "honeymoon"
+    ],
+    "groups": [
+      "group",
+      "family with kids",
+      "couple"
+    ],
+    "budgets": [
+      "budget",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Japan Golden Route insider dining and local access"
+    ],
+    "packageName": "Japan Golden Route 27-Night Curated Package",
+    "duration": "3 nights",
+    "popularity": 76
+  },
+  {
+    "id": "switzerland-26",
+    "destination": "Swiss Alps Signature Escape",
+    "country": "Switzerland",
+    "styles": [
+      "nature",
+      "adventure",
+      "luxury",
+      "wellness",
+      "cultural"
+    ],
+    "groups": [
+      "friends",
+      "group of friends",
+      "couple"
+    ],
+    "budgets": [
+      "mid-range",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Swiss Alps insider dining and local access"
+    ],
+    "packageName": "Swiss Alps 28-Night Curated Package",
+    "duration": "4 nights",
+    "popularity": 75
+  },
+  {
+    "id": "singapore-27",
+    "destination": "Singapore Premium Escape",
+    "country": "Singapore",
+    "styles": [
+      "family",
+      "city",
+      "food",
+      "shopping",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "family with kids",
+      "solo",
+      "couple"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Singapore insider dining and local access"
+    ],
+    "packageName": "Singapore 29-Night Curated Package",
+    "duration": "5 nights",
+    "popularity": 74
+  },
+  {
+    "id": "thailand-28",
+    "destination": "Thailand Island Luxe Family Escape",
+    "country": "Thailand",
+    "styles": [
+      "beach",
+      "food",
+      "wellness",
+      "adventure",
+      "honeymoon"
+    ],
+    "groups": [
+      "group of friends",
+      "couple",
+      "couple"
+    ],
+    "budgets": [
+      "ultra luxury",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Thailand Island Luxe insider dining and local access"
+    ],
+    "packageName": "Thailand Island Luxe 30-Night Curated Package",
+    "duration": "6 nights",
+    "popularity": 73
+  },
+  {
+    "id": "turkey-29",
+    "destination": "Istanbul and Cappadocia Romance Escape",
+    "country": "Turkey",
+    "styles": [
+      "culture",
+      "history",
+      "romantic",
+      "adventure",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "solo",
+      "family",
+      "couple"
+    ],
+    "budgets": [
+      "$1k-$3k",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Istanbul and Cappadocia insider dining and local access"
+    ],
+    "packageName": "Istanbul and Cappadocia 31-Night Curated Package",
+    "duration": "7 nights",
+    "popularity": 72
+  },
+  {
+    "id": "italy-30",
+    "destination": "Rome and Amalfi Explorer Escape",
+    "country": "Italy",
+    "styles": [
+      "culture",
+      "food",
+      "romantic",
+      "luxury",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "couple",
+      "group",
+      "couple"
+    ],
+    "budgets": [
+      "$3k-$6k",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Rome and Amalfi insider dining and local access"
+    ],
+    "packageName": "Rome and Amalfi 32-Night Curated Package",
+    "duration": "8 nights",
+    "popularity": 71
+  },
+  {
+    "id": "dubai-31",
+    "destination": "Dubai Signature Escape",
+    "country": "UAE",
+    "styles": [
+      "luxury",
+      "shopping",
+      "desert",
+      "city",
+      "relaxation",
+      "honeymoon"
+    ],
+    "groups": [
+      "family",
+      "friends",
+      "couple"
+    ],
+    "budgets": [
+      "$6k-$10k",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Dubai insider dining and local access"
+    ],
+    "packageName": "Dubai 33-Night Curated Package",
+    "duration": "9 nights",
+    "popularity": 70
+  },
+  {
+    "id": "maldives-32",
+    "destination": "Maldives Premium Escape",
+    "country": "Maldives",
+    "styles": [
+      "luxury",
+      "beach",
+      "wellness",
+      "romantic",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "group",
+      "family with kids",
+      "couple"
+    ],
+    "budgets": [
+      "$10k+",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Maldives insider dining and local access"
+    ],
+    "packageName": "Maldives 34-Night Curated Package",
+    "duration": "10 nights",
+    "popularity": 69
+  },
+  {
+    "id": "bali-33",
+    "destination": "Bali Family Escape",
+    "country": "Indonesia",
+    "styles": [
+      "wellness",
+      "culture",
+      "beach",
+      "nature",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "friends",
+      "group of friends",
+      "couple"
+    ],
+    "budgets": [
+      "budget",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Bali insider dining and local access"
+    ],
+    "packageName": "Bali 35-Night Curated Package",
+    "duration": "3 nights",
+    "popularity": 68
+  },
+  {
+    "id": "paris-34",
+    "destination": "Paris Romance Escape",
+    "country": "France",
+    "styles": [
+      "romantic",
+      "culture",
+      "food",
+      "luxury",
+      "adventure",
+      "honeymoon"
+    ],
+    "groups": [
+      "family with kids",
+      "solo",
+      "couple"
+    ],
+    "budgets": [
+      "mid-range",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Paris insider dining and local access"
+    ],
+    "packageName": "Paris 36-Night Curated Package",
+    "duration": "4 nights",
+    "popularity": 67
+  },
+  {
+    "id": "japan-35",
+    "destination": "Japan Golden Route Explorer Escape",
+    "country": "Japan",
+    "styles": [
+      "culture",
+      "food",
+      "adventure",
+      "family",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "group of friends",
+      "couple",
+      "couple"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Japan Golden Route insider dining and local access"
+    ],
+    "packageName": "Japan Golden Route 37-Night Curated Package",
+    "duration": "5 nights",
+    "popularity": 66
+  },
+  {
+    "id": "switzerland-36",
+    "destination": "Swiss Alps Signature Escape",
+    "country": "Switzerland",
+    "styles": [
+      "nature",
+      "adventure",
+      "luxury",
+      "wellness",
+      "cultural"
+    ],
+    "groups": [
+      "solo",
+      "family",
+      "couple"
+    ],
+    "budgets": [
+      "ultra luxury",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Swiss Alps insider dining and local access"
+    ],
+    "packageName": "Swiss Alps 38-Night Curated Package",
+    "duration": "6 nights",
+    "popularity": 65
+  },
+  {
+    "id": "singapore-37",
+    "destination": "Singapore Premium Escape",
+    "country": "Singapore",
+    "styles": [
+      "family",
+      "city",
+      "food",
+      "shopping",
+      "relaxation",
+      "honeymoon"
+    ],
+    "groups": [
+      "couple",
+      "group",
+      "couple"
+    ],
+    "budgets": [
+      "$1k-$3k",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Singapore insider dining and local access"
+    ],
+    "packageName": "Singapore 39-Night Curated Package",
+    "duration": "7 nights",
+    "popularity": 64
+  },
+  {
+    "id": "thailand-38",
+    "destination": "Thailand Island Luxe Family Escape",
+    "country": "Thailand",
+    "styles": [
+      "beach",
+      "food",
+      "wellness",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "family",
+      "friends",
+      "couple"
+    ],
+    "budgets": [
+      "$3k-$6k",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Thailand Island Luxe insider dining and local access"
+    ],
+    "packageName": "Thailand Island Luxe 40-Night Curated Package",
+    "duration": "8 nights",
+    "popularity": 63
+  },
+  {
+    "id": "turkey-39",
+    "destination": "Istanbul and Cappadocia Romance Escape",
+    "country": "Turkey",
+    "styles": [
+      "culture",
+      "history",
+      "romantic",
+      "adventure",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "group",
+      "family with kids",
+      "couple"
+    ],
+    "budgets": [
+      "$6k-$10k",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Istanbul and Cappadocia insider dining and local access"
+    ],
+    "packageName": "Istanbul and Cappadocia 41-Night Curated Package",
+    "duration": "9 nights",
+    "popularity": 62
+  },
+  {
+    "id": "italy-40",
+    "destination": "Rome and Amalfi Explorer Escape",
+    "country": "Italy",
+    "styles": [
+      "culture",
+      "food",
+      "romantic",
+      "luxury",
+      "adventure",
+      "honeymoon"
+    ],
+    "groups": [
+      "friends",
+      "group of friends",
+      "couple"
+    ],
+    "budgets": [
+      "$10k+",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Rome and Amalfi insider dining and local access"
+    ],
+    "packageName": "Rome and Amalfi 42-Night Curated Package",
+    "duration": "10 nights",
+    "popularity": 61
+  },
+  {
+    "id": "dubai-41",
+    "destination": "Dubai Signature Escape",
+    "country": "UAE",
+    "styles": [
+      "luxury",
+      "shopping",
+      "desert",
+      "city",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "family with kids",
+      "solo",
+      "couple"
+    ],
+    "budgets": [
+      "budget",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Dubai insider dining and local access"
+    ],
+    "packageName": "Dubai 43-Night Curated Package",
+    "duration": "3 nights",
+    "popularity": 60
+  },
+  {
+    "id": "maldives-42",
+    "destination": "Maldives Premium Escape",
+    "country": "Maldives",
+    "styles": [
+      "luxury",
+      "beach",
+      "wellness",
+      "romantic",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "group of friends",
+      "couple",
+      "couple"
+    ],
+    "budgets": [
+      "mid-range",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Maldives insider dining and local access"
+    ],
+    "packageName": "Maldives 44-Night Curated Package",
+    "duration": "4 nights",
+    "popularity": 59
+  },
+  {
+    "id": "bali-43",
+    "destination": "Bali Family Escape",
+    "country": "Indonesia",
+    "styles": [
+      "wellness",
+      "culture",
+      "beach",
+      "nature",
+      "relaxation",
+      "honeymoon"
+    ],
+    "groups": [
+      "solo",
+      "family",
+      "couple"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Bali insider dining and local access"
+    ],
+    "packageName": "Bali 45-Night Curated Package",
+    "duration": "5 nights",
+    "popularity": 58
+  },
+  {
+    "id": "paris-44",
+    "destination": "Paris Romance Escape",
+    "country": "France",
+    "styles": [
+      "romantic",
+      "culture",
+      "food",
+      "luxury",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "couple",
+      "group",
+      "couple"
+    ],
+    "budgets": [
+      "ultra luxury",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Paris insider dining and local access"
+    ],
+    "packageName": "Paris 46-Night Curated Package",
+    "duration": "6 nights",
+    "popularity": 57
+  },
+  {
+    "id": "japan-45",
+    "destination": "Japan Golden Route Explorer Escape",
+    "country": "Japan",
+    "styles": [
+      "culture",
+      "food",
+      "adventure",
+      "family",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "family",
+      "friends",
+      "couple"
+    ],
+    "budgets": [
+      "$1k-$3k",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Japan Golden Route insider dining and local access"
+    ],
+    "packageName": "Japan Golden Route 47-Night Curated Package",
+    "duration": "7 nights",
+    "popularity": 56
+  },
+  {
+    "id": "switzerland-46",
+    "destination": "Swiss Alps Signature Escape",
+    "country": "Switzerland",
+    "styles": [
+      "nature",
+      "adventure",
+      "luxury",
+      "wellness",
+      "honeymoon"
+    ],
+    "groups": [
+      "group",
+      "family with kids",
+      "couple"
+    ],
+    "budgets": [
+      "$3k-$6k",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Swiss Alps insider dining and local access"
+    ],
+    "packageName": "Swiss Alps 48-Night Curated Package",
+    "duration": "8 nights",
+    "popularity": 55
+  },
+  {
+    "id": "singapore-47",
+    "destination": "Singapore Premium Escape",
+    "country": "Singapore",
+    "styles": [
+      "family",
+      "city",
+      "food",
+      "shopping",
+      "relaxation",
+      "cultural"
+    ],
+    "groups": [
+      "friends",
+      "group of friends",
+      "couple"
+    ],
+    "budgets": [
+      "$6k-$10k",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Singapore insider dining and local access"
+    ],
+    "packageName": "Singapore 49-Night Curated Package",
+    "duration": "9 nights",
+    "popularity": 54
+  },
+  {
+    "id": "thailand-48",
+    "destination": "Thailand Island Luxe Family Escape",
+    "country": "Thailand",
+    "styles": [
+      "beach",
+      "food",
+      "wellness",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "family with kids",
+      "solo",
+      "couple"
+    ],
+    "budgets": [
+      "$10k+",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Thailand Island Luxe insider dining and local access"
+    ],
+    "packageName": "Thailand Island Luxe 50-Night Curated Package",
+    "duration": "10 nights",
+    "popularity": 53
+  },
+  {
+    "id": "turkey-49",
+    "destination": "Istanbul and Cappadocia Romance Escape",
+    "country": "Turkey",
+    "styles": [
+      "culture",
+      "history",
+      "romantic",
+      "adventure",
+      "relaxation",
+      "honeymoon"
+    ],
+    "groups": [
+      "group of friends",
+      "couple",
+      "couple"
+    ],
+    "budgets": [
+      "budget",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Istanbul and Cappadocia insider dining and local access"
+    ],
+    "packageName": "Istanbul and Cappadocia 51-Night Curated Package",
+    "duration": "3 nights",
+    "popularity": 52
+  },
+  {
+    "id": "italy-50",
+    "destination": "Rome and Amalfi Explorer Escape",
+    "country": "Italy",
+    "styles": [
+      "culture",
+      "food",
+      "romantic",
+      "luxury",
+      "adventure",
+      "cultural"
+    ],
+    "groups": [
+      "solo",
+      "family",
+      "couple"
+    ],
+    "budgets": [
+      "mid-range",
+      "mid-range"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+    "highlights": [
+      "Curated 4-star and 5-star stays",
+      "Private transfers and guided experiences",
+      "Rome and Amalfi insider dining and local access"
+    ],
+    "packageName": "Rome and Amalfi 52-Night Curated Package",
+    "duration": "4 nights",
+    "popularity": 51
   }
 ]

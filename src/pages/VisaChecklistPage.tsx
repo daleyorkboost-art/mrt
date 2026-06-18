@@ -43,6 +43,7 @@ export function VisaChecklistPage() {
   }
 
   const documents = result?.required_documents || [];
+  const badgeClass = result?.visa_type === 'Visa-Free' ? 'bg-teal/25 text-[#7dd3c7]' : result?.visa_type === 'Embassy Visa Required' ? 'bg-ruby/25 text-[#ffb4cf]' : 'bg-gold/16 text-gold';
 
   return (
     <PageShell>
@@ -54,9 +55,14 @@ export function VisaChecklistPage() {
               <SelectField label="Nationality" value={nationality} options={['Indian', 'US', 'UK', 'Singapore']} onChange={setNationality} />
               <SelectField label="Destination" value={destination} options={['UAE', 'Schengen', 'Japan', 'Maldives', 'UK']} onChange={setDestination} />
               <SelectField label="Travel month" value={month} options={['April 2026', 'July 2026', 'August 2026', 'September 2026', 'December 2026']} onChange={setMonth} />
-              <Button disabled={loading} onClick={generateChecklist}>
-                {loading ? 'Generating...' : 'Generate checklist'}
-              </Button>
+              <div className="grid gap-3 sm:grid-cols-2">
+                <Button disabled={loading} onClick={generateChecklist}>
+                  {loading ? 'Generating...' : 'Generate checklist'}
+                </Button>
+                <Button onClick={() => window.print()} variant="secondary">
+                  Print / PDF
+                </Button>
+              </div>
               {error && <p className="rounded-[8px] border border-ruby/40 bg-ruby/20 px-4 py-3 text-sm text-[#ffb4cf]">{error}</p>}
             </div>
           </Card>
@@ -73,7 +79,7 @@ export function VisaChecklistPage() {
                     {result ? `${result.processing_time} processing. Estimated fees: $${result.estimated_fees_usd}.` : `Generate an advisory for travel in ${month}.`}
                   </p>
                 </div>
-                <span className="inline-flex w-fit items-center gap-2 rounded-full bg-ruby/25 px-4 py-2 text-sm font-bold text-[#ffb4cf]">
+                <span className={`inline-flex w-fit items-center gap-2 rounded-full px-4 py-2 text-sm font-bold ${badgeClass}`}>
                   <AlertTriangle aria-hidden className="h-4 w-4" />
                   {result ? `${result.validity_days} days validity` : 'Check required'}
                 </span>

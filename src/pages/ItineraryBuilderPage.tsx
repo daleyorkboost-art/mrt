@@ -43,6 +43,16 @@ export function ItineraryBuilderPage() {
     }
   }
 
+  async function shareItinerary() {
+    const params = new URLSearchParams({
+      destination,
+      duration,
+      travellerType,
+      interests: selected.join(','),
+    });
+    await navigator.clipboard?.writeText(`${window.location.origin}${window.location.pathname}?${params.toString()}`);
+  }
+
   const days = result?.itinerary.days || [];
 
   return (
@@ -75,11 +85,11 @@ export function ItineraryBuilderPage() {
                   <p className="mt-2 text-sm text-mist">{result?.notice || `Optimized for ${selected.join(', ') || 'premium discovery'}.`}</p>
                 </div>
                 <div className="flex gap-3">
-                  <Button variant="secondary">
+                  <Button onClick={() => void shareItinerary()} variant="secondary">
                     <Share2 aria-hidden className="h-4 w-4" />
                     Share
                   </Button>
-                  <Button>
+                  <Button onClick={() => window.print()}>
                     <Download aria-hidden className="h-4 w-4" />
                     PDF
                   </Button>
@@ -101,9 +111,14 @@ export function ItineraryBuilderPage() {
                     <div className="mt-4">
                       <Accordion title="View day details" defaultOpen={day.day === 1}>
                         <ul className="space-y-2">
-                          {day.activities.map((item) => (
-                            <li key={item}>- {item}</li>
-                          ))}
+                          {day.morning && <li>Morning: {day.morning.activity} - {day.morning.description} ({day.morning.duration_hrs} hrs, {day.morning.cost_note})</li>}
+                          {day.afternoon && <li>Afternoon: {day.afternoon.activity} - {day.afternoon.description} ({day.afternoon.duration_hrs} hrs, {day.afternoon.cost_note})</li>}
+                          {day.evening && <li>Evening: {day.evening.activity} - {day.evening.description} ({day.evening.duration_hrs} hrs, {day.evening.cost_note})</li>}
+                          {day.tip && <li>Tip: {day.tip}</li>}
+                          {!day.morning &&
+                            day.activities.map((item) => (
+                              <li key={item}>- {item}</li>
+                            ))}
                         </ul>
                       </Accordion>
                     </div>

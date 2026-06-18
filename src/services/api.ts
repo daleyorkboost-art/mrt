@@ -49,8 +49,13 @@ export type TripRecommendation = {
 
 export type ItineraryDay = {
   day: number;
+  day_number?: number;
   title: string;
   activities: string[];
+  morning?: { activity: string; description: string; duration_hrs: number; cost_note: string };
+  afternoon?: { activity: string; description: string; duration_hrs: number; cost_note: string };
+  evening?: { activity: string; description: string; duration_hrs: number; cost_note: string };
+  tip?: string;
 };
 
 export type ItineraryResponse = {
@@ -73,12 +78,16 @@ export type DubaiAttraction = {
   groups: string[];
   interests: string[];
   costUsd: number;
+  avg_cost_aed?: number;
+  duration_hrs?: number;
+  tip?: string;
   score?: number;
 };
 
 export type DubaiPlanResponse = {
   attractions: DubaiAttraction[];
   estimatedCost: number;
+  estimatedCostAed?: number;
   notes: string[];
 };
 

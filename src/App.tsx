@@ -9,6 +9,7 @@ import { DubaiDayPlannerPage } from './pages/DubaiDayPlannerPage';
 import { HomePage } from './pages/HomePage';
 import { InternalQuoteGeneratorPage } from './pages/InternalQuoteGeneratorPage';
 import { ItineraryBuilderPage } from './pages/ItineraryBuilderPage';
+import { NotFoundPage } from './pages/NotFoundPage';
 import { RecommenderPage } from './pages/RecommenderPage';
 import { VisaChecklistPage } from './pages/VisaChecklistPage';
 
@@ -28,6 +29,8 @@ export default function App() {
           <Route path="/dubai-day-planner" element={<DubaiDayPlannerPage />} />
           <Route path="/caption-generator" element={<CaptionGeneratorPage />} />
           <Route path="/internal-quote-generator" element={<InternalQuoteGeneratorPage />} />
+          <Route path="/internal/quote" element={<InternalQuoteGeneratorPage />} />
+          <Route path="*" element={<NotFoundPage />} />
         </Routes>
       </AnimatePresence>
       <Footer />

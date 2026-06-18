@@ -5,8 +5,20 @@ const { normalize } = require('../utils/text');
 function getVisaChecklist(input) {
   const dataset = readJson('visa-data.json');
   const monthName = String(input.month || '').split(/\s+/)[0];
+  const passportAliases = {
+    indian: 'in',
+    india: 'in',
+    us: 'us',
+    usa: 'us',
+    'united states': 'us',
+    uk: 'gb',
+    'united kingdom': 'gb',
+    singapore: 'sg',
+    uae: 'ae',
+  };
+  const passport = passportAliases[normalize(input.passport)] || normalize(input.passport);
   const record = dataset.find(
-    (item) => normalize(item.passport) === normalize(input.passport) && normalize(item.destination) === normalize(input.destination),
+    (item) => normalize(item.passport) === passport && normalize(item.destination) === normalize(input.destination),
   );
 
   if (!record) {

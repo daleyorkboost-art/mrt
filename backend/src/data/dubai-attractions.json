@@ -1,8 +1,1052 @@
 [
-  { "id": "burj-khalifa", "name": "Burj Khalifa Lounge", "budget": "premium", "time": "half day", "groups": ["couple", "family", "friends"], "interests": ["skyline", "luxury", "iconic"], "costUsd": 145 },
-  { "id": "desert-safari", "name": "Private Desert Conservation Drive", "budget": "premium", "time": "full day", "groups": ["couple", "family", "friends"], "interests": ["desert", "adventure", "culture"], "costUsd": 240 },
-  { "id": "yacht-marina", "name": "Dubai Marina Private Yacht", "budget": "ultra luxury", "time": "evening", "groups": ["couple", "friends", "family"], "interests": ["yacht", "romance", "skyline"], "costUsd": 420 },
-  { "id": "future-museum", "name": "Museum of the Future Fast Track", "budget": "smart", "time": "half day", "groups": ["solo", "couple", "family"], "interests": ["culture", "architecture", "innovation"], "costUsd": 65 },
-  { "id": "beach-club", "name": "Jumeirah Beach Club", "budget": "premium", "time": "full day", "groups": ["couple", "friends"], "interests": ["beach", "wellness", "luxury"], "costUsd": 160 },
-  { "id": "old-dubai", "name": "Old Dubai Heritage Walk", "budget": "smart", "time": "half day", "groups": ["solo", "couple", "family", "friends"], "interests": ["culture", "shopping", "food"], "costUsd": 55 }
+  {
+    "id": "dubai-attraction-1",
+    "name": "Burj Khalifa Lounge",
+    "category": "Iconic",
+    "tags": [
+      "luxury",
+      "culture",
+      "desert"
+    ],
+    "budget": "budget",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "thrills",
+      "culture",
+      "shopping"
+    ],
+    "costUsd": 35,
+    "avg_cost_aed": 125,
+    "duration_hrs": 1.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 1
+  },
+  {
+    "id": "dubai-attraction-2",
+    "name": "Museum of the Future",
+    "category": "Culture",
+    "tags": [
+      "luxury",
+      "skyline",
+      "shopping"
+    ],
+    "budget": "moderate",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "culture",
+      "shopping",
+      "beaches"
+    ],
+    "costUsd": 80,
+    "avg_cost_aed": 275,
+    "duration_hrs": 2.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 2
+  },
+  {
+    "id": "dubai-attraction-3",
+    "name": "Dubai Frame",
+    "category": "Shopping",
+    "tags": [
+      "luxury",
+      "culture",
+      "shopping"
+    ],
+    "budget": "premium",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "shopping",
+      "beaches",
+      "fine dining"
+    ],
+    "costUsd": 125,
+    "avg_cost_aed": 425,
+    "duration_hrs": 3.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 3
+  },
+  {
+    "id": "dubai-attraction-4",
+    "name": "Al Fahidi Heritage Walk",
+    "category": "Beach",
+    "tags": [
+      "luxury",
+      "skyline",
+      "desert"
+    ],
+    "budget": "budget",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "beaches",
+      "fine dining",
+      "nightlife"
+    ],
+    "costUsd": 170,
+    "avg_cost_aed": 575,
+    "duration_hrs": 4.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 4
+  },
+  {
+    "id": "dubai-attraction-5",
+    "name": "Gold Souk Private Shopping",
+    "category": "Dining",
+    "tags": [
+      "luxury",
+      "culture",
+      "shopping"
+    ],
+    "budget": "moderate",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "thrills",
+      "culture",
+      "shopping"
+    ],
+    "costUsd": 215,
+    "avg_cost_aed": 725,
+    "duration_hrs": 1.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 5
+  },
+  {
+    "id": "dubai-attraction-6",
+    "name": "Dubai Marina Yacht",
+    "category": "Desert",
+    "tags": [
+      "luxury",
+      "skyline",
+      "shopping"
+    ],
+    "budget": "premium",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "culture",
+      "shopping",
+      "beaches"
+    ],
+    "costUsd": 260,
+    "avg_cost_aed": 875,
+    "duration_hrs": 2.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 6
+  },
+  {
+    "id": "dubai-attraction-7",
+    "name": "Jumeirah Beach Club",
+    "category": "Iconic",
+    "tags": [
+      "luxury",
+      "culture",
+      "desert"
+    ],
+    "budget": "budget",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "shopping",
+      "beaches",
+      "fine dining"
+    ],
+    "costUsd": 305,
+    "avg_cost_aed": 1025,
+    "duration_hrs": 3.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 7
+  },
+  {
+    "id": "dubai-attraction-8",
+    "name": "Desert Conservation Drive",
+    "category": "Culture",
+    "tags": [
+      "luxury",
+      "skyline",
+      "shopping"
+    ],
+    "budget": "moderate",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "beaches",
+      "fine dining",
+      "nightlife"
+    ],
+    "costUsd": 350,
+    "avg_cost_aed": 1175,
+    "duration_hrs": 4.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 8
+  },
+  {
+    "id": "dubai-attraction-9",
+    "name": "Dubai Mall Aquarium",
+    "category": "Shopping",
+    "tags": [
+      "luxury",
+      "culture",
+      "shopping"
+    ],
+    "budget": "premium",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "thrills",
+      "culture",
+      "shopping"
+    ],
+    "costUsd": 35,
+    "avg_cost_aed": 125,
+    "duration_hrs": 1.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 9
+  },
+  {
+    "id": "dubai-attraction-10",
+    "name": "Palm Jumeirah Viewpoint",
+    "category": "Beach",
+    "tags": [
+      "luxury",
+      "skyline",
+      "desert"
+    ],
+    "budget": "budget",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "culture",
+      "shopping",
+      "beaches"
+    ],
+    "costUsd": 80,
+    "avg_cost_aed": 275,
+    "duration_hrs": 2.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 10
+  },
+  {
+    "id": "dubai-attraction-11",
+    "name": "Burj Khalifa Lounge 2",
+    "category": "Dining",
+    "tags": [
+      "luxury",
+      "culture",
+      "shopping"
+    ],
+    "budget": "moderate",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "shopping",
+      "beaches",
+      "fine dining"
+    ],
+    "costUsd": 125,
+    "avg_cost_aed": 425,
+    "duration_hrs": 3.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 11
+  },
+  {
+    "id": "dubai-attraction-12",
+    "name": "Museum of the Future 2",
+    "category": "Desert",
+    "tags": [
+      "luxury",
+      "skyline",
+      "shopping"
+    ],
+    "budget": "premium",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "beaches",
+      "fine dining",
+      "nightlife"
+    ],
+    "costUsd": 170,
+    "avg_cost_aed": 575,
+    "duration_hrs": 4.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 12
+  },
+  {
+    "id": "dubai-attraction-13",
+    "name": "Dubai Frame 2",
+    "category": "Iconic",
+    "tags": [
+      "luxury",
+      "culture",
+      "desert"
+    ],
+    "budget": "budget",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "thrills",
+      "culture",
+      "shopping"
+    ],
+    "costUsd": 215,
+    "avg_cost_aed": 725,
+    "duration_hrs": 1.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 13
+  },
+  {
+    "id": "dubai-attraction-14",
+    "name": "Al Fahidi Heritage Walk 2",
+    "category": "Culture",
+    "tags": [
+      "luxury",
+      "skyline",
+      "shopping"
+    ],
+    "budget": "moderate",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "culture",
+      "shopping",
+      "beaches"
+    ],
+    "costUsd": 260,
+    "avg_cost_aed": 875,
+    "duration_hrs": 2.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 14
+  },
+  {
+    "id": "dubai-attraction-15",
+    "name": "Gold Souk Private Shopping 2",
+    "category": "Shopping",
+    "tags": [
+      "luxury",
+      "culture",
+      "shopping"
+    ],
+    "budget": "premium",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "shopping",
+      "beaches",
+      "fine dining"
+    ],
+    "costUsd": 305,
+    "avg_cost_aed": 1025,
+    "duration_hrs": 3.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 15
+  },
+  {
+    "id": "dubai-attraction-16",
+    "name": "Dubai Marina Yacht 2",
+    "category": "Beach",
+    "tags": [
+      "luxury",
+      "skyline",
+      "desert"
+    ],
+    "budget": "budget",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "beaches",
+      "fine dining",
+      "nightlife"
+    ],
+    "costUsd": 350,
+    "avg_cost_aed": 1175,
+    "duration_hrs": 4.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 16
+  },
+  {
+    "id": "dubai-attraction-17",
+    "name": "Jumeirah Beach Club 2",
+    "category": "Dining",
+    "tags": [
+      "luxury",
+      "culture",
+      "shopping"
+    ],
+    "budget": "moderate",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "thrills",
+      "culture",
+      "shopping"
+    ],
+    "costUsd": 35,
+    "avg_cost_aed": 125,
+    "duration_hrs": 1.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 17
+  },
+  {
+    "id": "dubai-attraction-18",
+    "name": "Desert Conservation Drive 2",
+    "category": "Desert",
+    "tags": [
+      "luxury",
+      "skyline",
+      "shopping"
+    ],
+    "budget": "premium",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "culture",
+      "shopping",
+      "beaches"
+    ],
+    "costUsd": 80,
+    "avg_cost_aed": 275,
+    "duration_hrs": 2.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 18
+  },
+  {
+    "id": "dubai-attraction-19",
+    "name": "Dubai Mall Aquarium 2",
+    "category": "Iconic",
+    "tags": [
+      "luxury",
+      "culture",
+      "desert"
+    ],
+    "budget": "budget",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "shopping",
+      "beaches",
+      "fine dining"
+    ],
+    "costUsd": 125,
+    "avg_cost_aed": 425,
+    "duration_hrs": 3.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 19
+  },
+  {
+    "id": "dubai-attraction-20",
+    "name": "Palm Jumeirah Viewpoint 2",
+    "category": "Culture",
+    "tags": [
+      "luxury",
+      "skyline",
+      "shopping"
+    ],
+    "budget": "moderate",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "beaches",
+      "fine dining",
+      "nightlife"
+    ],
+    "costUsd": 170,
+    "avg_cost_aed": 575,
+    "duration_hrs": 4.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 20
+  },
+  {
+    "id": "dubai-attraction-21",
+    "name": "Burj Khalifa Lounge 3",
+    "category": "Shopping",
+    "tags": [
+      "luxury",
+      "culture",
+      "shopping"
+    ],
+    "budget": "premium",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "thrills",
+      "culture",
+      "shopping"
+    ],
+    "costUsd": 215,
+    "avg_cost_aed": 725,
+    "duration_hrs": 1.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 21
+  },
+  {
+    "id": "dubai-attraction-22",
+    "name": "Museum of the Future 3",
+    "category": "Beach",
+    "tags": [
+      "luxury",
+      "skyline",
+      "desert"
+    ],
+    "budget": "budget",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "culture",
+      "shopping",
+      "beaches"
+    ],
+    "costUsd": 260,
+    "avg_cost_aed": 875,
+    "duration_hrs": 2.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 22
+  },
+  {
+    "id": "dubai-attraction-23",
+    "name": "Dubai Frame 3",
+    "category": "Dining",
+    "tags": [
+      "luxury",
+      "culture",
+      "shopping"
+    ],
+    "budget": "moderate",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "shopping",
+      "beaches",
+      "fine dining"
+    ],
+    "costUsd": 305,
+    "avg_cost_aed": 1025,
+    "duration_hrs": 3.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 23
+  },
+  {
+    "id": "dubai-attraction-24",
+    "name": "Al Fahidi Heritage Walk 3",
+    "category": "Desert",
+    "tags": [
+      "luxury",
+      "skyline",
+      "shopping"
+    ],
+    "budget": "premium",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "beaches",
+      "fine dining",
+      "nightlife"
+    ],
+    "costUsd": 350,
+    "avg_cost_aed": 1175,
+    "duration_hrs": 4.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 24
+  },
+  {
+    "id": "dubai-attraction-25",
+    "name": "Gold Souk Private Shopping 3",
+    "category": "Iconic",
+    "tags": [
+      "luxury",
+      "culture",
+      "desert"
+    ],
+    "budget": "budget",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "thrills",
+      "culture",
+      "shopping"
+    ],
+    "costUsd": 35,
+    "avg_cost_aed": 125,
+    "duration_hrs": 1.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 25
+  },
+  {
+    "id": "dubai-attraction-26",
+    "name": "Dubai Marina Yacht 3",
+    "category": "Culture",
+    "tags": [
+      "luxury",
+      "skyline",
+      "shopping"
+    ],
+    "budget": "moderate",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "culture",
+      "shopping",
+      "beaches"
+    ],
+    "costUsd": 80,
+    "avg_cost_aed": 275,
+    "duration_hrs": 2.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 26
+  },
+  {
+    "id": "dubai-attraction-27",
+    "name": "Jumeirah Beach Club 3",
+    "category": "Shopping",
+    "tags": [
+      "luxury",
+      "culture",
+      "shopping"
+    ],
+    "budget": "premium",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "shopping",
+      "beaches",
+      "fine dining"
+    ],
+    "costUsd": 125,
+    "avg_cost_aed": 425,
+    "duration_hrs": 3.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 27
+  },
+  {
+    "id": "dubai-attraction-28",
+    "name": "Desert Conservation Drive 3",
+    "category": "Beach",
+    "tags": [
+      "luxury",
+      "skyline",
+      "desert"
+    ],
+    "budget": "budget",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "beaches",
+      "fine dining",
+      "nightlife"
+    ],
+    "costUsd": 170,
+    "avg_cost_aed": 575,
+    "duration_hrs": 4.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 28
+  },
+  {
+    "id": "dubai-attraction-29",
+    "name": "Dubai Mall Aquarium 3",
+    "category": "Dining",
+    "tags": [
+      "luxury",
+      "culture",
+      "shopping"
+    ],
+    "budget": "moderate",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "thrills",
+      "culture",
+      "shopping"
+    ],
+    "costUsd": 215,
+    "avg_cost_aed": 725,
+    "duration_hrs": 1.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 29
+  },
+  {
+    "id": "dubai-attraction-30",
+    "name": "Palm Jumeirah Viewpoint 3",
+    "category": "Desert",
+    "tags": [
+      "luxury",
+      "skyline",
+      "shopping"
+    ],
+    "budget": "premium",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group",
+      "friends"
+    ],
+    "interests": [
+      "culture",
+      "shopping",
+      "beaches"
+    ],
+    "costUsd": 260,
+    "avg_cost_aed": 875,
+    "duration_hrs": 2.5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book timed access and keep transfer buffers between stops.",
+    "visit_order_weight": 30
+  }
 ]

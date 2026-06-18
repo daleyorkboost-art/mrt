@@ -1,47 +1,1652 @@
 [
   {
-    "passport": "Indian",
+    "passport": "IN",
     "destination": "UAE",
-    "visa_type": "Tourist eVisa",
-    "validity_days": 60,
-    "required_documents": ["Passport scan", "Passport photo", "Return ticket", "Hotel voucher", "Travel insurance"],
-    "estimated_fees_usd": 115,
-    "processing_time": "3-5 working days",
-    "month_specific_notes": {
-      "August": "Expect hot weather. Carry sun protection and plan indoor activities in the afternoon.",
-      "December": "Peak season. Apply early because hotel and flight confirmations may take longer."
-    },
-    "packing_list": ["Light formal wear", "Sunscreen", "Universal adapter", "Modest clothing for cultural sites"],
-    "important_notices": ["Passport must be valid for 6 months", "Visa rules can change without notice"]
-  },
-  {
-    "passport": "Indian",
-    "destination": "Schengen",
-    "visa_type": "Short Stay Tourist Visa",
+    "visa_type": "Visa-Free",
     "validity_days": 90,
-    "required_documents": ["Passport", "Photos", "Flight reservation", "Hotel booking", "Bank statement", "Travel insurance", "Cover letter"],
-    "estimated_fees_usd": 95,
-    "processing_time": "15-30 calendar days",
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
+    "processing_time": "Not applicable",
     "month_specific_notes": {
-      "July": "Summer demand is high. Book appointment slots as early as possible.",
-      "September": "Shoulder season is smoother, but embassy slots may still be limited."
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
     },
-    "packing_list": ["Layered clothing", "Comfort shoes", "Travel card", "Document folder"],
-    "important_notices": ["Submit to the country of longest stay", "Insurance must cover at least EUR 30,000"]
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
   },
   {
     "passport": "US",
-    "destination": "Japan",
-    "visa_type": "Visa exempt tourism",
+    "destination": "FR",
+    "visa_type": "Visa on Arrival",
     "validity_days": 90,
-    "required_documents": ["Valid passport", "Return ticket", "Hotel details"],
-    "estimated_fees_usd": 0,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "65",
+    "processing_time": "4 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "GB",
+    "destination": "ID",
+    "visa_type": "eVisa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "85",
+    "processing_time": "5 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "AE",
+    "destination": "GB",
+    "visa_type": "Embassy Visa Required",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "105",
+    "processing_time": "6 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "SG",
+    "destination": "JP",
+    "visa_type": "Visa-Free",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
     "processing_time": "Not applicable",
     "month_specific_notes": {
-      "April": "Cherry blossom season has high hotel demand.",
-      "October": "Autumn foliage season needs advance planning."
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
     },
-    "packing_list": ["Comfort shoes", "IC transit card", "Portable charger"],
-    "important_notices": ["Entry conditions may change", "Carry onward travel proof"]
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "CA",
+    "destination": "SG",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "145",
+    "processing_time": "8 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "AU",
+    "destination": "MV",
+    "visa_type": "eVisa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "165",
+    "processing_time": "9 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "FR",
+    "destination": "TH",
+    "visa_type": "Embassy Visa Required",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "45",
+    "processing_time": "10 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "DE",
+    "destination": "CH",
+    "visa_type": "Visa-Free",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "ZA",
+    "destination": "TR",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "85",
+    "processing_time": "12 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "IN",
+    "destination": "UAE",
+    "visa_type": "eVisa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "105",
+    "processing_time": "3 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "US",
+    "destination": "FR",
+    "visa_type": "Embassy Visa Required",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "125",
+    "processing_time": "4 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "GB",
+    "destination": "ID",
+    "visa_type": "Visa-Free",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "AE",
+    "destination": "GB",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "165",
+    "processing_time": "6 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "SG",
+    "destination": "JP",
+    "visa_type": "eVisa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "45",
+    "processing_time": "7 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "CA",
+    "destination": "SG",
+    "visa_type": "Embassy Visa Required",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "65",
+    "processing_time": "8 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "AU",
+    "destination": "MV",
+    "visa_type": "Visa-Free",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "FR",
+    "destination": "TH",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "105",
+    "processing_time": "10 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "DE",
+    "destination": "CH",
+    "visa_type": "eVisa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "125",
+    "processing_time": "11 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "ZA",
+    "destination": "TR",
+    "visa_type": "Embassy Visa Required",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "145",
+    "processing_time": "12 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "IN",
+    "destination": "UAE",
+    "visa_type": "Visa-Free",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "US",
+    "destination": "FR",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "45",
+    "processing_time": "4 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "GB",
+    "destination": "ID",
+    "visa_type": "eVisa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "65",
+    "processing_time": "5 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "AE",
+    "destination": "GB",
+    "visa_type": "Embassy Visa Required",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "85",
+    "processing_time": "6 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "SG",
+    "destination": "JP",
+    "visa_type": "Visa-Free",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "CA",
+    "destination": "SG",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "125",
+    "processing_time": "8 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "AU",
+    "destination": "MV",
+    "visa_type": "eVisa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "145",
+    "processing_time": "9 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "FR",
+    "destination": "TH",
+    "visa_type": "Embassy Visa Required",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "165",
+    "processing_time": "10 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "DE",
+    "destination": "CH",
+    "visa_type": "Visa-Free",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "ZA",
+    "destination": "TR",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "65",
+    "processing_time": "12 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "IN",
+    "destination": "UAE",
+    "visa_type": "eVisa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "85",
+    "processing_time": "3 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "US",
+    "destination": "FR",
+    "visa_type": "Embassy Visa Required",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "105",
+    "processing_time": "4 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "GB",
+    "destination": "ID",
+    "visa_type": "Visa-Free",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "AE",
+    "destination": "GB",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "145",
+    "processing_time": "6 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "SG",
+    "destination": "JP",
+    "visa_type": "eVisa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "165",
+    "processing_time": "7 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "CA",
+    "destination": "SG",
+    "visa_type": "Embassy Visa Required",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "45",
+    "processing_time": "8 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "AU",
+    "destination": "MV",
+    "visa_type": "Visa-Free",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "FR",
+    "destination": "TH",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "85",
+    "processing_time": "10 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "DE",
+    "destination": "CH",
+    "visa_type": "eVisa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "105",
+    "processing_time": "11 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "ZA",
+    "destination": "TR",
+    "visa_type": "Embassy Visa Required",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "125",
+    "processing_time": "12 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "IN",
+    "destination": "UAE",
+    "visa_type": "Visa-Free",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "US",
+    "destination": "FR",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "165",
+    "processing_time": "4 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "GB",
+    "destination": "ID",
+    "visa_type": "eVisa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "45",
+    "processing_time": "5 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "AE",
+    "destination": "GB",
+    "visa_type": "Embassy Visa Required",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "65",
+    "processing_time": "6 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "SG",
+    "destination": "JP",
+    "visa_type": "Visa-Free",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "CA",
+    "destination": "SG",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "105",
+    "processing_time": "8 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "AU",
+    "destination": "MV",
+    "visa_type": "eVisa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "125",
+    "processing_time": "9 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "FR",
+    "destination": "TH",
+    "visa_type": "Embassy Visa Required",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "145",
+    "processing_time": "10 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "DE",
+    "destination": "CH",
+    "visa_type": "Visa-Free",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "0",
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
+  },
+  {
+    "passport": "ZA",
+    "destination": "TR",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport with 6 months validity",
+      "Return ticket proof",
+      "Hotel booking",
+      "Travel insurance",
+      "Bank statement if requested"
+    ],
+    "estimated_fees_usd": "45",
+    "processing_time": "12 working days",
+    "month_specific_notes": {
+      "January": "Peak travel season. Keep bookings confirmed early.",
+      "June": "Check weather and seasonal advisories before packing.",
+      "August": "Allow extra time for appointments during summer travel demand.",
+      "December": "Holiday season demand can affect processing and hotel availability."
+    },
+    "packing_list": [
+      "Document folder",
+      "Universal adapter",
+      "Weather-appropriate clothing",
+      "Medication kit",
+      "Travel insurance copy"
+    ],
+    "important_notices": [
+      "Rules may change without notice",
+      "Always verify with official embassy or consulate",
+      "Carry printed and digital copies"
+    ]
   }
 ]

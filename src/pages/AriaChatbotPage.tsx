@@ -1,5 +1,5 @@
 import { Bot, MessageCircle, Send, Sparkles, UserRound } from 'lucide-react';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Button } from '../components/Button';
 import { Card } from '../components/Card';
 import { PageShell } from '../components/PageShell';
@@ -7,6 +7,7 @@ import { SectionHeader } from '../components/SectionHeader';
 import { api } from '../services/api';
 
 const suggestions = ['Plan 5 days in Dubai', 'What visa documents do I need?', 'Suggest Maldives for a couple', 'Create a luxury Europe route'];
+const storageKey = 'mgt-aria-messages';
 
 type Message = {
   role: 'assistant' | 'user';
@@ -19,6 +20,17 @@ export function AriaChatbotPage() {
   ]);
   const [input, setInput] = useState('');
   const [typing, setTyping] = useState(false);
+
+  useEffect(() => {
+    const stored = window.sessionStorage.getItem(storageKey);
+    if (stored) {
+      setMessages(JSON.parse(stored) as Message[]);
+    }
+  }, []);
+
+  useEffect(() => {
+    window.sessionStorage.setItem(storageKey, JSON.stringify(messages));
+  }, [messages]);
 
   async function send(text = input) {
     if (!text.trim()) return;

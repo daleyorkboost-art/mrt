@@ -1,23 +1,518 @@
 [
   {
-    "budget": "premium",
-    "time": "full day",
-    "group": "couple",
-    "attractionIds": ["future-museum", "beach-club", "desert-safari"],
-    "notes": ["Best for couples who want iconic Dubai plus a refined desert finish.", "Keep lunch light before the evening desert dinner."]
-  },
-  {
-    "budget": "ultra luxury",
-    "time": "evening",
-    "group": "friends",
-    "attractionIds": ["yacht-marina", "burj-khalifa"],
-    "notes": ["Ideal for celebrations and premium nightlife pacing.", "Book yacht departure around sunset."]
-  },
-  {
-    "budget": "smart",
+    "budget": "budget",
+    "budget_range": "budget",
     "time": "half day",
+    "time_slot": "half day",
+    "group": "solo",
+    "group_type": "solo",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-1",
+      "dubai-attraction-2",
+      "dubai-attraction-3"
+    ],
+    "plan": [
+      "dubai-attraction-1",
+      "dubai-attraction-2",
+      "dubai-attraction-3"
+    ],
+    "total_est_cost_aed": 825,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "couple",
+    "group_type": "couple",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-2",
+      "dubai-attraction-3",
+      "dubai-attraction-4",
+      "dubai-attraction-5"
+    ],
+    "plan": [
+      "dubai-attraction-2",
+      "dubai-attraction-3",
+      "dubai-attraction-4",
+      "dubai-attraction-5"
+    ],
+    "total_est_cost_aed": 2000,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "evening",
+    "time_slot": "evening",
     "group": "family",
-    "attractionIds": ["old-dubai", "future-museum"],
-    "notes": ["Comfortable family pacing with cultural context and indoor cooling breaks."]
+    "group_type": "family",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-3",
+      "dubai-attraction-4",
+      "dubai-attraction-5"
+    ],
+    "plan": [
+      "dubai-attraction-3",
+      "dubai-attraction-4",
+      "dubai-attraction-5"
+    ],
+    "total_est_cost_aed": 1725,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "corporate group",
+    "group_type": "corporate group",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-4",
+      "dubai-attraction-5",
+      "dubai-attraction-6"
+    ],
+    "plan": [
+      "dubai-attraction-4",
+      "dubai-attraction-5",
+      "dubai-attraction-6"
+    ],
+    "total_est_cost_aed": 2175,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "friends",
+    "group_type": "friends",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-5",
+      "dubai-attraction-6",
+      "dubai-attraction-7",
+      "dubai-attraction-8"
+    ],
+    "plan": [
+      "dubai-attraction-5",
+      "dubai-attraction-6",
+      "dubai-attraction-7",
+      "dubai-attraction-8"
+    ],
+    "total_est_cost_aed": 3800,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "solo",
+    "group_type": "solo",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-6",
+      "dubai-attraction-7",
+      "dubai-attraction-8"
+    ],
+    "plan": [
+      "dubai-attraction-6",
+      "dubai-attraction-7",
+      "dubai-attraction-8"
+    ],
+    "total_est_cost_aed": 3075,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "couple",
+    "group_type": "couple",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-7",
+      "dubai-attraction-8",
+      "dubai-attraction-9"
+    ],
+    "plan": [
+      "dubai-attraction-7",
+      "dubai-attraction-8",
+      "dubai-attraction-9"
+    ],
+    "total_est_cost_aed": 2325,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "family",
+    "group_type": "family",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-8",
+      "dubai-attraction-9",
+      "dubai-attraction-10",
+      "dubai-attraction-11"
+    ],
+    "plan": [
+      "dubai-attraction-8",
+      "dubai-attraction-9",
+      "dubai-attraction-10",
+      "dubai-attraction-11"
+    ],
+    "total_est_cost_aed": 2000,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "corporate group",
+    "group_type": "corporate group",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-9",
+      "dubai-attraction-10",
+      "dubai-attraction-11"
+    ],
+    "plan": [
+      "dubai-attraction-9",
+      "dubai-attraction-10",
+      "dubai-attraction-11"
+    ],
+    "total_est_cost_aed": 825,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "friends",
+    "group_type": "friends",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-10",
+      "dubai-attraction-11",
+      "dubai-attraction-12"
+    ],
+    "plan": [
+      "dubai-attraction-10",
+      "dubai-attraction-11",
+      "dubai-attraction-12"
+    ],
+    "total_est_cost_aed": 1275,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "solo",
+    "group_type": "solo",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-1",
+      "dubai-attraction-2",
+      "dubai-attraction-3",
+      "dubai-attraction-4"
+    ],
+    "plan": [
+      "dubai-attraction-1",
+      "dubai-attraction-2",
+      "dubai-attraction-3",
+      "dubai-attraction-4"
+    ],
+    "total_est_cost_aed": 1400,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "couple",
+    "group_type": "couple",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-2",
+      "dubai-attraction-3",
+      "dubai-attraction-4"
+    ],
+    "plan": [
+      "dubai-attraction-2",
+      "dubai-attraction-3",
+      "dubai-attraction-4"
+    ],
+    "total_est_cost_aed": 1275,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "family",
+    "group_type": "family",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-3",
+      "dubai-attraction-4",
+      "dubai-attraction-5"
+    ],
+    "plan": [
+      "dubai-attraction-3",
+      "dubai-attraction-4",
+      "dubai-attraction-5"
+    ],
+    "total_est_cost_aed": 1725,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "corporate group",
+    "group_type": "corporate group",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-4",
+      "dubai-attraction-5",
+      "dubai-attraction-6",
+      "dubai-attraction-7"
+    ],
+    "plan": [
+      "dubai-attraction-4",
+      "dubai-attraction-5",
+      "dubai-attraction-6",
+      "dubai-attraction-7"
+    ],
+    "total_est_cost_aed": 3200,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "friends",
+    "group_type": "friends",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-5",
+      "dubai-attraction-6",
+      "dubai-attraction-7"
+    ],
+    "plan": [
+      "dubai-attraction-5",
+      "dubai-attraction-6",
+      "dubai-attraction-7"
+    ],
+    "total_est_cost_aed": 2625,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "solo",
+    "group_type": "solo",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-6",
+      "dubai-attraction-7",
+      "dubai-attraction-8"
+    ],
+    "plan": [
+      "dubai-attraction-6",
+      "dubai-attraction-7",
+      "dubai-attraction-8"
+    ],
+    "total_est_cost_aed": 3075,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "couple",
+    "group_type": "couple",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-7",
+      "dubai-attraction-8",
+      "dubai-attraction-9",
+      "dubai-attraction-10"
+    ],
+    "plan": [
+      "dubai-attraction-7",
+      "dubai-attraction-8",
+      "dubai-attraction-9",
+      "dubai-attraction-10"
+    ],
+    "total_est_cost_aed": 2600,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
+  },
+  {
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "family",
+    "group_type": "family",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience"
+    ],
+    "attractionIds": [
+      "dubai-attraction-8",
+      "dubai-attraction-9",
+      "dubai-attraction-10"
+    ],
+    "plan": [
+      "dubai-attraction-8",
+      "dubai-attraction-9",
+      "dubai-attraction-10"
+    ],
+    "total_est_cost_aed": 1575,
+    "notes": [
+      "Optimized for transfer efficiency.",
+      "Confirm opening hours and private guide availability before final booking."
+    ]
   }
 ]

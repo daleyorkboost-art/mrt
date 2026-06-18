@@ -73,7 +73,8 @@ export function DubaiDayPlannerPage() {
                   <h2 className="mt-2 font-display text-3xl font-bold">Dubai signature schedule</h2>
                 </div>
                 <span className="inline-flex w-fit items-center gap-2 rounded-full bg-gold/16 px-4 py-2 text-sm font-bold text-gold">
-                  <WalletCards aria-hidden className="h-4 w-4" />${result?.estimatedCost || 0} estimate
+                  <WalletCards aria-hidden className="h-4 w-4" />
+                  AED {result?.estimatedCostAed || 0} estimate
                 </span>
               </div>
             </Card>
@@ -84,7 +85,7 @@ export function DubaiDayPlannerPage() {
               ) : (
                 result.attractions.map((item, index) => (
                   <Card key={item.id} className="grid gap-4 p-5 sm:grid-cols-[80px_1fr_auto] sm:items-center">
-                    <span className="font-display text-2xl font-bold text-gold">{String(index + 1).padStart(2, '0')}</span>
+                    <span className="font-display text-2xl font-bold text-gold">{index === 0 ? '9:00' : index === 1 ? '12:00' : index === 2 ? '15:30' : '18:30'}</span>
                     <div className="flex items-center gap-4">
                       <span className="grid h-12 w-12 place-items-center rounded-full bg-white/10 text-gold">
                         <Landmark aria-hidden className="h-5 w-5" />
@@ -92,11 +93,12 @@ export function DubaiDayPlannerPage() {
                       <div>
                         <h3 className="font-display text-2xl font-bold">{item.name}</h3>
                         <p className="text-sm text-mist">
-                          {item.time} / {item.budget} / {item.interests.join(', ')}
+                          {item.duration_hrs || 2} hrs / {item.interests.join(', ')}
                         </p>
+                        {item.tip && <p className="mt-1 text-xs text-gold">Tip: {item.tip}</p>}
                       </div>
                     </div>
-                    <span className="text-lg font-extrabold">${item.costUsd}</span>
+                    <span className="text-lg font-extrabold">AED {item.avg_cost_aed || Math.round(item.costUsd * 3.67)}</span>
                   </Card>
                 ))
               )}
@@ -109,7 +111,7 @@ export function DubaiDayPlannerPage() {
                   {(result?.notes || ['Backend plan notes will appear here.']).map((note) => (
                     <p key={note}>- {note}</p>
                   ))}
-                  <p className="border-t border-white/10 pt-3 text-lg font-bold text-white">Total: ${result?.estimatedCost || 0}</p>
+                  <p className="border-t border-white/10 pt-3 text-lg font-bold text-white">Total: AED {result?.estimatedCostAed || 0}</p>
                 </div>
               </Card>
               <Card className="grid min-h-56 place-items-center overflow-hidden p-5">

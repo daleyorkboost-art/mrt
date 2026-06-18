@@ -10,7 +10,16 @@ function replacePlaceholders(template, values) {
 
 function generateQuoteEmail(input) {
   const templates = readJson('quote-templates.json');
-  const template = templates.default;
+  const destinationKey = String(input.destination || '')
+    .toLowerCase()
+    .split(/[^a-z0-9]+/)
+    .find((part) => templates[part]);
+  const budgetKey = String(input.budget || '').toLowerCase().includes('premium')
+    ? 'premium'
+    : String(input.budget || '').toLowerCase().includes('mid')
+      ? 'mid-range'
+      : 'budget';
+  const template = templates[destinationKey]?.[budgetKey] || templates.default;
   const values = {
     name: input.travellerName,
     destination: input.destination,
