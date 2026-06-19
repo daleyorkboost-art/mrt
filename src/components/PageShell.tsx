@@ -9,7 +9,7 @@ type PageShellProps = {
 export function PageShell({ children, className = '' }: PageShellProps) {
   return (
     <motion.main
-      className={`min-h-screen pt-24 ${className}`}
+      className={`min-h-screen bg-surface pt-24 text-ink ${className}`}
       initial={{ opacity: 0, y: 14 }}
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -14 }}

@@ -20,7 +20,7 @@ export default function App() {
   const location = useLocation();
 
   return (
-    <div className="min-h-screen overflow-x-hidden bg-navy text-white">
+    <div className="min-h-screen overflow-x-hidden bg-surface text-ink">
       <Navbar />
       <VisitorIntelligenceTracker />
       <Suspense fallback={null}>

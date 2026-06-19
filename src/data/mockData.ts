@@ -38,7 +38,7 @@ export type Feature = {
 };
 
 export const heroImage =
-  'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=2400&q=85';
+  'https://images.unsplash.com/photo-1573843981267-be1999ff37cd?auto=format&fit=crop&w=2400&q=88';
 
 export const packages: Package[] = [
   {

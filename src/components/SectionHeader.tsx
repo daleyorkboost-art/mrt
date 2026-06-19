@@ -17,7 +17,7 @@ export function SectionHeader({ eyebrow, title, description, icon: Icon, align =
           {eyebrow}
         </p>
       )}
-      <h1 className="font-display text-3xl font-bold leading-tight text-white sm:text-4xl lg:text-5xl">{title}</h1>
+      <h1 className="font-display text-3xl font-bold leading-tight text-ink sm:text-4xl lg:text-5xl">{title}</h1>
       {description && <p className="mt-4 text-base leading-7 text-mist sm:text-lg">{description}</p>}
     </div>
   );

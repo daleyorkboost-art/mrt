@@ -15,13 +15,13 @@ export function Accordion({ title, children, defaultOpen = false }: AccordionPro
     <Card>
       <button
         aria-expanded={open}
-        className="flex w-full items-center justify-between gap-4 px-5 py-4 text-left font-bold text-white"
+        className="flex w-full items-center justify-between gap-4 px-5 py-4 text-left font-bold text-ink"
         onClick={() => setOpen((value) => !value)}
       >
         {title}
         <ChevronDown aria-hidden className={`h-5 w-5 shrink-0 text-gold transition ${open ? 'rotate-180' : ''}`} />
       </button>
-      {open && <div className="border-t border-white/10 px-5 py-4 text-sm leading-7 text-mist">{children}</div>}
+      {open && <div className="border-t border-line px-5 py-4 text-sm leading-7 text-mist">{children}</div>}
     </Card>
   );
 }

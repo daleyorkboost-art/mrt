@@ -72,7 +72,7 @@ export function HomePage() {
           {['All', 'Dubai', 'Maldives', 'Japan', 'Paris', 'Bali'].map((item) => (
             <button
               key={item}
-              className={`rounded-full border px-4 py-2 text-sm font-bold transition ${region === item ? 'border-gold bg-gold text-navy' : 'border-white/14 bg-white/8 text-mist hover:text-white'}`}
+              className={`rounded-full border px-4 py-2 text-sm font-bold transition ${region === item ? 'border-gold bg-gold text-white shadow-sm' : 'border-line bg-white text-mist hover:border-gold hover:text-gold'}`}
               onClick={() => setRegion(item)}
               type="button"
             >
@@ -113,7 +113,7 @@ export function HomePage() {
         </div>
       </section>
 
-      <section className="bg-midnight/70 py-20">
+      <section className="bg-white py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <SectionHeader align="center" eyebrow="Popular destinations" title="Where premium travellers are going next" />
           <div className="no-scrollbar mt-10 flex gap-5 overflow-x-auto pb-4">
