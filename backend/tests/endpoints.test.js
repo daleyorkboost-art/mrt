@@ -1,6 +1,10 @@
 const assert = require('node:assert/strict');
 const test = require('node:test');
 const http = require('http');
+
+process.env.INTERNAL_QUOTE_PASSWORD = process.env.INTERNAL_QUOTE_PASSWORD || 'test-internal-password';
+process.env.INTERNAL_AUTH_SECRET = process.env.INTERNAL_AUTH_SECRET || 'test-internal-auth-secret';
+
 const app = require('../src/app');
 
 function withServer(run) {
@@ -18,7 +22,7 @@ function withServer(run) {
   });
 }
 
-function postJson(url, body) {
+function postJson(url, body, headers = {}) {
   return new Promise((resolve, reject) => {
     const payload = JSON.stringify(body);
     const request = http.request(
@@ -28,6 +32,7 @@ function postJson(url, body) {
         headers: {
           'Content-Type': 'application/json',
           'Content-Length': Buffer.byteLength(payload),
+          ...headers,
         },
       },
       (response) => {
@@ -57,6 +62,48 @@ test('recommend endpoint returns destinations', async () => {
     assert.equal(response.statusCode, 200);
     assert.equal(response.body.success, true);
     assert.ok(response.body.data.results.length >= 3);
+  });
+});
+
+test('quote endpoints require internal authorization', async () => {
+  await withServer(async (baseUrl) => {
+    const locked = await postJson(`${baseUrl}/api/quote-email`, {
+      travellerName: 'Riya Sharma',
+      destination: 'Dubai',
+      dates: '12-18 September 2026',
+      travellerCount: '2 adults',
+      budget: 'premium',
+      email: 'riya@example.com',
+      phone: '+971 58 556 6036',
+    });
+
+    assert.equal(locked.statusCode, 401);
+    assert.equal(locked.body.success, false);
+
+    const auth = await postJson(`${baseUrl}/api/internal-auth`, {
+      password: 'test-internal-password',
+    });
+
+    assert.equal(auth.statusCode, 200);
+    assert.equal(auth.body.success, true);
+    assert.ok(auth.body.data.token);
+
+    const unlocked = await postJson(
+      `${baseUrl}/api/quote-email`,
+      {
+        travellerName: 'Riya Sharma',
+        destination: 'Dubai',
+        dates: '12-18 September 2026',
+        travellerCount: '2 adults',
+        budget: 'premium',
+        email: 'riya@example.com',
+        phone: '+971 58 556 6036',
+      },
+      { Authorization: `Bearer ${auth.body.data.token}` },
+    );
+
+    assert.equal(unlocked.statusCode, 200);
+    assert.equal(unlocked.body.success, true);
   });
 });
 

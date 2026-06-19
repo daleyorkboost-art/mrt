@@ -1,1226 +1,1214 @@
 [
   {
-    "id": "faq-1",
+    "id": "faq-001",
     "keywords": [
+      "dubai package",
+      "dubai",
       "package",
-      "destination",
-      "tour",
-      "hotel",
-      "package-1"
+      "packages",
+      "packages & destinations"
     ],
     "category": "Packages & Destinations",
-    "answer": "For packages & destinations, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For packages & destinations, dubai packages include curated hotels, transfers, attraction planning, and optional premium add-ons based on your budget and travel dates. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-2",
+    "id": "faq-002",
     "keywords": [
-      "visa",
-      "passport",
-      "documents",
-      "insurance",
-      "visa-2"
-    ],
-    "category": "Visa & Travel Documents",
-    "answer": "For visa & travel documents, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-3",
-    "keywords": [
-      "cancel",
-      "refund",
-      "reschedule",
-      "policy",
-      "cancel-3"
-    ],
-    "category": "Cancellation & Refunds",
-    "answer": "For cancellation & refunds, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-4",
-    "keywords": [
-      "payment",
-      "price",
-      "budget",
-      "installment",
-      "payment-4"
-    ],
-    "category": "Payments & Pricing",
-    "answer": "For payments & pricing, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-5",
-    "keywords": [
-      "booking",
-      "confirm",
-      "quote",
-      "reservation",
-      "booking-5"
-    ],
-    "category": "Booking Process",
-    "answer": "For booking process, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-6",
-    "keywords": [
-      "support",
-      "contact",
-      "whatsapp",
-      "help",
-      "support-6"
-    ],
-    "category": "General / Misc",
-    "answer": "For general / misc, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-7",
-    "keywords": [
-      "package",
-      "destination",
-      "tour",
-      "hotel",
-      "package-7"
+      "europe trip",
+      "europe",
+      "trip",
+      "packages",
+      "packages & destinations"
     ],
     "category": "Packages & Destinations",
-    "answer": "For packages & destinations, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For packages & destinations, europe trips can be planned as single-country holidays or multi-city routes with rail, private transfers, hotels, and visa guidance. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-8",
+    "id": "faq-003",
     "keywords": [
-      "visa",
-      "passport",
-      "documents",
-      "insurance",
-      "visa-8"
-    ],
-    "category": "Visa & Travel Documents",
-    "answer": "For visa & travel documents, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-9",
-    "keywords": [
-      "cancel",
-      "refund",
-      "reschedule",
-      "policy",
-      "cancel-9"
-    ],
-    "category": "Cancellation & Refunds",
-    "answer": "For cancellation & refunds, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-10",
-    "keywords": [
-      "payment",
-      "price",
-      "budget",
-      "installment",
-      "payment-10"
-    ],
-    "category": "Payments & Pricing",
-    "answer": "For payments & pricing, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-11",
-    "keywords": [
+      "cruise booking",
+      "cruise",
       "booking",
-      "confirm",
-      "quote",
-      "reservation",
-      "booking-11"
-    ],
-    "category": "Booking Process",
-    "answer": "For booking process, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-12",
-    "keywords": [
-      "support",
-      "contact",
-      "whatsapp",
-      "help",
-      "support-12"
-    ],
-    "category": "General / Misc",
-    "answer": "For general / misc, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-13",
-    "keywords": [
-      "package",
-      "destination",
-      "tour",
-      "hotel",
-      "package-13"
+      "packages",
+      "packages & destinations"
     ],
     "category": "Packages & Destinations",
-    "answer": "For packages & destinations, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For packages & destinations, cruise quotes depend on sailing date, cabin category, port taxes, gratuities, and inclusions from the cruise line. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-14",
+    "id": "faq-004",
     "keywords": [
-      "visa",
-      "passport",
-      "documents",
-      "insurance",
-      "visa-14"
-    ],
-    "category": "Visa & Travel Documents",
-    "answer": "For visa & travel documents, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-15",
-    "keywords": [
-      "cancel",
-      "refund",
-      "reschedule",
-      "policy",
-      "cancel-15"
-    ],
-    "category": "Cancellation & Refunds",
-    "answer": "For cancellation & refunds, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-16",
-    "keywords": [
-      "payment",
-      "price",
-      "budget",
-      "installment",
-      "payment-16"
-    ],
-    "category": "Payments & Pricing",
-    "answer": "For payments & pricing, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-17",
-    "keywords": [
-      "booking",
-      "confirm",
-      "quote",
-      "reservation",
-      "booking-17"
-    ],
-    "category": "Booking Process",
-    "answer": "For booking process, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-18",
-    "keywords": [
-      "support",
-      "contact",
-      "whatsapp",
-      "help",
-      "support-18"
-    ],
-    "category": "General / Misc",
-    "answer": "For general / misc, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-19",
-    "keywords": [
-      "package",
-      "destination",
-      "tour",
-      "hotel",
-      "package-19"
+      "premium experience",
+      "premium",
+      "experience",
+      "packages",
+      "packages & destinations"
     ],
     "category": "Packages & Destinations",
-    "answer": "For packages & destinations, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For packages & destinations, premium experiences can include private yachts, helicopter rides, hot air balloon flights, limousine transfers, and VIP attraction access. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-20",
+    "id": "faq-005",
     "keywords": [
-      "visa",
-      "passport",
-      "documents",
-      "insurance",
-      "visa-20"
-    ],
-    "category": "Visa & Travel Documents",
-    "answer": "For visa & travel documents, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-21",
-    "keywords": [
-      "cancel",
-      "refund",
-      "reschedule",
-      "policy",
-      "cancel-21"
-    ],
-    "category": "Cancellation & Refunds",
-    "answer": "For cancellation & refunds, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-22",
-    "keywords": [
-      "payment",
-      "price",
-      "budget",
-      "installment",
-      "payment-22"
-    ],
-    "category": "Payments & Pricing",
-    "answer": "For payments & pricing, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-23",
-    "keywords": [
-      "booking",
-      "confirm",
-      "quote",
-      "reservation",
-      "booking-23"
-    ],
-    "category": "Booking Process",
-    "answer": "For booking process, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-24",
-    "keywords": [
-      "support",
-      "contact",
-      "whatsapp",
-      "help",
-      "support-24"
-    ],
-    "category": "General / Misc",
-    "answer": "For general / misc, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-25",
-    "keywords": [
-      "package",
-      "destination",
-      "tour",
-      "hotel",
-      "package-25"
+      "family travel",
+      "family",
+      "travel",
+      "packages",
+      "packages & destinations"
     ],
     "category": "Packages & Destinations",
-    "answer": "For packages & destinations, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For packages & destinations, family trips are planned around room configuration, child-friendly pacing, transfers, meal preferences, and attraction timing. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-26",
+    "id": "faq-006",
     "keywords": [
-      "visa",
-      "passport",
-      "documents",
-      "insurance",
-      "visa-26"
-    ],
-    "category": "Visa & Travel Documents",
-    "answer": "For visa & travel documents, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-27",
-    "keywords": [
-      "cancel",
-      "refund",
-      "reschedule",
-      "policy",
-      "cancel-27"
-    ],
-    "category": "Cancellation & Refunds",
-    "answer": "For cancellation & refunds, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-28",
-    "keywords": [
-      "payment",
-      "price",
-      "budget",
-      "installment",
-      "payment-28"
-    ],
-    "category": "Payments & Pricing",
-    "answer": "For payments & pricing, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-29",
-    "keywords": [
-      "booking",
-      "confirm",
-      "quote",
-      "reservation",
-      "booking-29"
-    ],
-    "category": "Booking Process",
-    "answer": "For booking process, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-30",
-    "keywords": [
-      "support",
-      "contact",
-      "whatsapp",
-      "help",
-      "support-30"
-    ],
-    "category": "General / Misc",
-    "answer": "For general / misc, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-31",
-    "keywords": [
-      "package",
-      "destination",
-      "tour",
-      "hotel",
-      "package-31"
+      "honeymoon",
+      "honeymoon",
+      "packages",
+      "packages & destinations"
     ],
     "category": "Packages & Destinations",
-    "answer": "For packages & destinations, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For packages & destinations, honeymoon packages can include romantic hotels, private transfers, dining reservations, room upgrades, and special occasion requests. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-32",
+    "id": "faq-007",
     "keywords": [
+      "visa documents",
       "visa",
-      "passport",
       "documents",
-      "insurance",
-      "visa-32"
-    ],
-    "category": "Visa & Travel Documents",
-    "answer": "For visa & travel documents, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-33",
-    "keywords": [
-      "cancel",
-      "refund",
-      "reschedule",
-      "policy",
-      "cancel-33"
-    ],
-    "category": "Cancellation & Refunds",
-    "answer": "For cancellation & refunds, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-34",
-    "keywords": [
-      "payment",
-      "price",
-      "budget",
-      "installment",
-      "payment-34"
-    ],
-    "category": "Payments & Pricing",
-    "answer": "For payments & pricing, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-35",
-    "keywords": [
-      "booking",
-      "confirm",
-      "quote",
-      "reservation",
-      "booking-35"
-    ],
-    "category": "Booking Process",
-    "answer": "For booking process, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-36",
-    "keywords": [
-      "support",
-      "contact",
-      "whatsapp",
-      "help",
-      "support-36"
-    ],
-    "category": "General / Misc",
-    "answer": "For general / misc, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-37",
-    "keywords": [
-      "package",
-      "destination",
-      "tour",
-      "hotel",
-      "package-37"
+      "packages",
+      "packages & destinations"
     ],
     "category": "Packages & Destinations",
-    "answer": "For packages & destinations, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For packages & destinations, visa documents usually include passport, photos, travel dates, hotel proof, return flights, insurance, and financial documents depending on destination. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-38",
+    "id": "faq-008",
     "keywords": [
-      "visa",
-      "passport",
-      "documents",
+      "travel insurance",
+      "travel",
       "insurance",
-      "visa-38"
-    ],
-    "category": "Visa & Travel Documents",
-    "answer": "For visa & travel documents, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-39",
-    "keywords": [
-      "cancel",
-      "refund",
-      "reschedule",
-      "policy",
-      "cancel-39"
-    ],
-    "category": "Cancellation & Refunds",
-    "answer": "For cancellation & refunds, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-40",
-    "keywords": [
-      "payment",
-      "price",
-      "budget",
-      "installment",
-      "payment-40"
-    ],
-    "category": "Payments & Pricing",
-    "answer": "For payments & pricing, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-41",
-    "keywords": [
-      "booking",
-      "confirm",
-      "quote",
-      "reservation",
-      "booking-41"
-    ],
-    "category": "Booking Process",
-    "answer": "For booking process, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-42",
-    "keywords": [
-      "support",
-      "contact",
-      "whatsapp",
-      "help",
-      "support-42"
-    ],
-    "category": "General / Misc",
-    "answer": "For general / misc, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-43",
-    "keywords": [
-      "package",
-      "destination",
-      "tour",
-      "hotel",
-      "package-43"
+      "packages",
+      "packages & destinations"
     ],
     "category": "Packages & Destinations",
-    "answer": "For packages & destinations, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For packages & destinations, travel insurance is strongly recommended and may be mandatory for destinations such as Schengen countries. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-44",
+    "id": "faq-009",
     "keywords": [
-      "visa",
-      "passport",
-      "documents",
-      "insurance",
-      "visa-44"
-    ],
-    "category": "Visa & Travel Documents",
-    "answer": "For visa & travel documents, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-45",
-    "keywords": [
-      "cancel",
-      "refund",
-      "reschedule",
-      "policy",
-      "cancel-45"
-    ],
-    "category": "Cancellation & Refunds",
-    "answer": "For cancellation & refunds, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-46",
-    "keywords": [
+      "payment plan",
       "payment",
-      "price",
-      "budget",
-      "installment",
-      "payment-46"
-    ],
-    "category": "Payments & Pricing",
-    "answer": "For payments & pricing, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-47",
-    "keywords": [
-      "booking",
-      "confirm",
-      "quote",
-      "reservation",
-      "booking-47"
-    ],
-    "category": "Booking Process",
-    "answer": "For booking process, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-48",
-    "keywords": [
-      "support",
-      "contact",
-      "whatsapp",
-      "help",
-      "support-48"
-    ],
-    "category": "General / Misc",
-    "answer": "For general / misc, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-49",
-    "keywords": [
-      "package",
-      "destination",
-      "tour",
-      "hotel",
-      "package-49"
+      "plan",
+      "packages",
+      "packages & destinations"
     ],
     "category": "Packages & Destinations",
-    "answer": "For packages & destinations, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For packages & destinations, payment schedules depend on supplier rules, travel date, booking value, and whether flights or non-refundable hotels are included. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-50",
+    "id": "faq-010",
     "keywords": [
-      "visa",
-      "passport",
-      "documents",
-      "insurance",
-      "visa-50"
-    ],
-    "category": "Visa & Travel Documents",
-    "answer": "For visa & travel documents, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-51",
-    "keywords": [
-      "cancel",
-      "refund",
-      "reschedule",
-      "policy",
-      "cancel-51"
-    ],
-    "category": "Cancellation & Refunds",
-    "answer": "For cancellation & refunds, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-52",
-    "keywords": [
-      "payment",
-      "price",
-      "budget",
-      "installment",
-      "payment-52"
-    ],
-    "category": "Payments & Pricing",
-    "answer": "For payments & pricing, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-53",
-    "keywords": [
-      "booking",
-      "confirm",
-      "quote",
-      "reservation",
-      "booking-53"
-    ],
-    "category": "Booking Process",
-    "answer": "For booking process, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-54",
-    "keywords": [
-      "support",
-      "contact",
-      "whatsapp",
-      "help",
-      "support-54"
-    ],
-    "category": "General / Misc",
-    "answer": "For general / misc, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-55",
-    "keywords": [
-      "package",
-      "destination",
-      "tour",
-      "hotel",
-      "package-55"
+      "cancellation",
+      "cancellation",
+      "packages",
+      "packages & destinations"
     ],
     "category": "Packages & Destinations",
-    "answer": "For packages & destinations, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For packages & destinations, cancellation rules vary by airline, hotel, cruise line, and activity supplier. The final quote should be checked before payment. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-56",
+    "id": "faq-011",
     "keywords": [
-      "visa",
-      "passport",
-      "documents",
-      "insurance",
-      "visa-56"
-    ],
-    "category": "Visa & Travel Documents",
-    "answer": "For visa & travel documents, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-57",
-    "keywords": [
-      "cancel",
-      "refund",
-      "reschedule",
-      "policy",
-      "cancel-57"
-    ],
-    "category": "Cancellation & Refunds",
-    "answer": "For cancellation & refunds, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-58",
-    "keywords": [
-      "payment",
-      "price",
-      "budget",
-      "installment",
-      "payment-58"
-    ],
-    "category": "Payments & Pricing",
-    "answer": "For payments & pricing, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-59",
-    "keywords": [
-      "booking",
-      "confirm",
+      "quote time",
       "quote",
-      "reservation",
-      "booking-59"
-    ],
-    "category": "Booking Process",
-    "answer": "For booking process, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-60",
-    "keywords": [
-      "support",
-      "contact",
-      "whatsapp",
-      "help",
-      "support-60"
-    ],
-    "category": "General / Misc",
-    "answer": "For general / misc, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-61",
-    "keywords": [
-      "package",
-      "destination",
-      "tour",
-      "hotel",
-      "package-61"
+      "time",
+      "packages",
+      "packages & destinations"
     ],
     "category": "Packages & Destinations",
-    "answer": "For packages & destinations, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For packages & destinations, most standard quotes can be prepared after receiving destination, dates, traveller count, budget, and preferences. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-62",
+    "id": "faq-012",
     "keywords": [
-      "visa",
-      "passport",
-      "documents",
-      "insurance",
-      "visa-62"
-    ],
-    "category": "Visa & Travel Documents",
-    "answer": "For visa & travel documents, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-63",
-    "keywords": [
-      "cancel",
-      "refund",
-      "reschedule",
-      "policy",
-      "cancel-63"
-    ],
-    "category": "Cancellation & Refunds",
-    "answer": "For cancellation & refunds, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-64",
-    "keywords": [
-      "payment",
-      "price",
-      "budget",
-      "installment",
-      "payment-64"
-    ],
-    "category": "Payments & Pricing",
-    "answer": "For payments & pricing, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-65",
-    "keywords": [
-      "booking",
-      "confirm",
-      "quote",
-      "reservation",
-      "booking-65"
-    ],
-    "category": "Booking Process",
-    "answer": "For booking process, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-66",
-    "keywords": [
-      "support",
-      "contact",
+      "whatsapp support",
       "whatsapp",
-      "help",
-      "support-66"
-    ],
-    "category": "General / Misc",
-    "answer": "For general / misc, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
-    "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
-    ]
-  },
-  {
-    "id": "faq-67",
-    "keywords": [
-      "package",
-      "destination",
-      "tour",
-      "hotel",
-      "package-67"
+      "support",
+      "packages",
+      "packages & destinations"
     ],
     "category": "Packages & Destinations",
-    "answer": "For packages & destinations, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For packages & destinations, you can contact MyGlobalTrips on WhatsApp at +971 58 556 6036 for trip planning, quotes, and follow-up support. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-68",
+    "id": "faq-013",
     "keywords": [
+      "dubai package",
+      "dubai",
+      "package",
       "visa",
-      "passport",
-      "documents",
-      "insurance",
-      "visa-68"
+      "visa & travel documents"
     ],
     "category": "Visa & Travel Documents",
-    "answer": "For visa & travel documents, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For visa & travel documents, dubai packages include curated hotels, transfers, attraction planning, and optional premium add-ons based on your budget and travel dates. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-69",
+    "id": "faq-014",
     "keywords": [
-      "cancel",
+      "europe trip",
+      "europe",
+      "trip",
+      "visa",
+      "visa & travel documents"
+    ],
+    "category": "Visa & Travel Documents",
+    "answer": "For visa & travel documents, europe trips can be planned as single-country holidays or multi-city routes with rail, private transfers, hotels, and visa guidance. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-015",
+    "keywords": [
+      "cruise booking",
+      "cruise",
+      "booking",
+      "visa",
+      "visa & travel documents"
+    ],
+    "category": "Visa & Travel Documents",
+    "answer": "For visa & travel documents, cruise quotes depend on sailing date, cabin category, port taxes, gratuities, and inclusions from the cruise line. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-016",
+    "keywords": [
+      "premium experience",
+      "premium",
+      "experience",
+      "visa",
+      "visa & travel documents"
+    ],
+    "category": "Visa & Travel Documents",
+    "answer": "For visa & travel documents, premium experiences can include private yachts, helicopter rides, hot air balloon flights, limousine transfers, and VIP attraction access. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-017",
+    "keywords": [
+      "family travel",
+      "family",
+      "travel",
+      "visa",
+      "visa & travel documents"
+    ],
+    "category": "Visa & Travel Documents",
+    "answer": "For visa & travel documents, family trips are planned around room configuration, child-friendly pacing, transfers, meal preferences, and attraction timing. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-018",
+    "keywords": [
+      "honeymoon",
+      "honeymoon",
+      "visa",
+      "visa & travel documents"
+    ],
+    "category": "Visa & Travel Documents",
+    "answer": "For visa & travel documents, honeymoon packages can include romantic hotels, private transfers, dining reservations, room upgrades, and special occasion requests. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-019",
+    "keywords": [
+      "visa documents",
+      "visa",
+      "documents",
+      "visa",
+      "visa & travel documents"
+    ],
+    "category": "Visa & Travel Documents",
+    "answer": "For visa & travel documents, visa documents usually include passport, photos, travel dates, hotel proof, return flights, insurance, and financial documents depending on destination. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-020",
+    "keywords": [
+      "travel insurance",
+      "travel",
+      "insurance",
+      "visa",
+      "visa & travel documents"
+    ],
+    "category": "Visa & Travel Documents",
+    "answer": "For visa & travel documents, travel insurance is strongly recommended and may be mandatory for destinations such as Schengen countries. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-021",
+    "keywords": [
+      "payment plan",
+      "payment",
+      "plan",
+      "visa",
+      "visa & travel documents"
+    ],
+    "category": "Visa & Travel Documents",
+    "answer": "For visa & travel documents, payment schedules depend on supplier rules, travel date, booking value, and whether flights or non-refundable hotels are included. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-022",
+    "keywords": [
+      "cancellation",
+      "cancellation",
+      "visa",
+      "visa & travel documents"
+    ],
+    "category": "Visa & Travel Documents",
+    "answer": "For visa & travel documents, cancellation rules vary by airline, hotel, cruise line, and activity supplier. The final quote should be checked before payment. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-023",
+    "keywords": [
+      "quote time",
+      "quote",
+      "time",
+      "visa",
+      "visa & travel documents"
+    ],
+    "category": "Visa & Travel Documents",
+    "answer": "For visa & travel documents, most standard quotes can be prepared after receiving destination, dates, traveller count, budget, and preferences. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-024",
+    "keywords": [
+      "whatsapp support",
+      "whatsapp",
+      "support",
+      "visa",
+      "visa & travel documents"
+    ],
+    "category": "Visa & Travel Documents",
+    "answer": "For visa & travel documents, you can contact MyGlobalTrips on WhatsApp at +971 58 556 6036 for trip planning, quotes, and follow-up support. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-025",
+    "keywords": [
+      "dubai package",
+      "dubai",
+      "package",
       "refund",
-      "reschedule",
-      "policy",
-      "cancel-69"
+      "cancellation & refunds"
     ],
     "category": "Cancellation & Refunds",
-    "answer": "For cancellation & refunds, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For cancellation & refunds, dubai packages include curated hotels, transfers, attraction planning, and optional premium add-ons based on your budget and travel dates. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-70",
+    "id": "faq-026",
     "keywords": [
+      "europe trip",
+      "europe",
+      "trip",
+      "refund",
+      "cancellation & refunds"
+    ],
+    "category": "Cancellation & Refunds",
+    "answer": "For cancellation & refunds, europe trips can be planned as single-country holidays or multi-city routes with rail, private transfers, hotels, and visa guidance. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-027",
+    "keywords": [
+      "cruise booking",
+      "cruise",
+      "booking",
+      "refund",
+      "cancellation & refunds"
+    ],
+    "category": "Cancellation & Refunds",
+    "answer": "For cancellation & refunds, cruise quotes depend on sailing date, cabin category, port taxes, gratuities, and inclusions from the cruise line. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-028",
+    "keywords": [
+      "premium experience",
+      "premium",
+      "experience",
+      "refund",
+      "cancellation & refunds"
+    ],
+    "category": "Cancellation & Refunds",
+    "answer": "For cancellation & refunds, premium experiences can include private yachts, helicopter rides, hot air balloon flights, limousine transfers, and VIP attraction access. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-029",
+    "keywords": [
+      "family travel",
+      "family",
+      "travel",
+      "refund",
+      "cancellation & refunds"
+    ],
+    "category": "Cancellation & Refunds",
+    "answer": "For cancellation & refunds, family trips are planned around room configuration, child-friendly pacing, transfers, meal preferences, and attraction timing. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-030",
+    "keywords": [
+      "honeymoon",
+      "honeymoon",
+      "refund",
+      "cancellation & refunds"
+    ],
+    "category": "Cancellation & Refunds",
+    "answer": "For cancellation & refunds, honeymoon packages can include romantic hotels, private transfers, dining reservations, room upgrades, and special occasion requests. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-031",
+    "keywords": [
+      "visa documents",
+      "visa",
+      "documents",
+      "refund",
+      "cancellation & refunds"
+    ],
+    "category": "Cancellation & Refunds",
+    "answer": "For cancellation & refunds, visa documents usually include passport, photos, travel dates, hotel proof, return flights, insurance, and financial documents depending on destination. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-032",
+    "keywords": [
+      "travel insurance",
+      "travel",
+      "insurance",
+      "refund",
+      "cancellation & refunds"
+    ],
+    "category": "Cancellation & Refunds",
+    "answer": "For cancellation & refunds, travel insurance is strongly recommended and may be mandatory for destinations such as Schengen countries. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-033",
+    "keywords": [
+      "payment plan",
       "payment",
-      "price",
-      "budget",
-      "installment",
-      "payment-70"
+      "plan",
+      "refund",
+      "cancellation & refunds"
+    ],
+    "category": "Cancellation & Refunds",
+    "answer": "For cancellation & refunds, payment schedules depend on supplier rules, travel date, booking value, and whether flights or non-refundable hotels are included. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-034",
+    "keywords": [
+      "cancellation",
+      "cancellation",
+      "refund",
+      "cancellation & refunds"
+    ],
+    "category": "Cancellation & Refunds",
+    "answer": "For cancellation & refunds, cancellation rules vary by airline, hotel, cruise line, and activity supplier. The final quote should be checked before payment. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-035",
+    "keywords": [
+      "quote time",
+      "quote",
+      "time",
+      "refund",
+      "cancellation & refunds"
+    ],
+    "category": "Cancellation & Refunds",
+    "answer": "For cancellation & refunds, most standard quotes can be prepared after receiving destination, dates, traveller count, budget, and preferences. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-036",
+    "keywords": [
+      "whatsapp support",
+      "whatsapp",
+      "support",
+      "refund",
+      "cancellation & refunds"
+    ],
+    "category": "Cancellation & Refunds",
+    "answer": "For cancellation & refunds, you can contact MyGlobalTrips on WhatsApp at +971 58 556 6036 for trip planning, quotes, and follow-up support. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-037",
+    "keywords": [
+      "dubai package",
+      "dubai",
+      "package",
+      "payment",
+      "payments & pricing"
     ],
     "category": "Payments & Pricing",
-    "answer": "For payments & pricing, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For payments & pricing, dubai packages include curated hotels, transfers, attraction planning, and optional premium add-ons based on your budget and travel dates. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-71",
+    "id": "faq-038",
     "keywords": [
+      "europe trip",
+      "europe",
+      "trip",
+      "payment",
+      "payments & pricing"
+    ],
+    "category": "Payments & Pricing",
+    "answer": "For payments & pricing, europe trips can be planned as single-country holidays or multi-city routes with rail, private transfers, hotels, and visa guidance. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-039",
+    "keywords": [
+      "cruise booking",
+      "cruise",
       "booking",
-      "confirm",
+      "payment",
+      "payments & pricing"
+    ],
+    "category": "Payments & Pricing",
+    "answer": "For payments & pricing, cruise quotes depend on sailing date, cabin category, port taxes, gratuities, and inclusions from the cruise line. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-040",
+    "keywords": [
+      "premium experience",
+      "premium",
+      "experience",
+      "payment",
+      "payments & pricing"
+    ],
+    "category": "Payments & Pricing",
+    "answer": "For payments & pricing, premium experiences can include private yachts, helicopter rides, hot air balloon flights, limousine transfers, and VIP attraction access. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-041",
+    "keywords": [
+      "family travel",
+      "family",
+      "travel",
+      "payment",
+      "payments & pricing"
+    ],
+    "category": "Payments & Pricing",
+    "answer": "For payments & pricing, family trips are planned around room configuration, child-friendly pacing, transfers, meal preferences, and attraction timing. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-042",
+    "keywords": [
+      "honeymoon",
+      "honeymoon",
+      "payment",
+      "payments & pricing"
+    ],
+    "category": "Payments & Pricing",
+    "answer": "For payments & pricing, honeymoon packages can include romantic hotels, private transfers, dining reservations, room upgrades, and special occasion requests. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-043",
+    "keywords": [
+      "visa documents",
+      "visa",
+      "documents",
+      "payment",
+      "payments & pricing"
+    ],
+    "category": "Payments & Pricing",
+    "answer": "For payments & pricing, visa documents usually include passport, photos, travel dates, hotel proof, return flights, insurance, and financial documents depending on destination. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-044",
+    "keywords": [
+      "travel insurance",
+      "travel",
+      "insurance",
+      "payment",
+      "payments & pricing"
+    ],
+    "category": "Payments & Pricing",
+    "answer": "For payments & pricing, travel insurance is strongly recommended and may be mandatory for destinations such as Schengen countries. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-045",
+    "keywords": [
+      "payment plan",
+      "payment",
+      "plan",
+      "payment",
+      "payments & pricing"
+    ],
+    "category": "Payments & Pricing",
+    "answer": "For payments & pricing, payment schedules depend on supplier rules, travel date, booking value, and whether flights or non-refundable hotels are included. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-046",
+    "keywords": [
+      "cancellation",
+      "cancellation",
+      "payment",
+      "payments & pricing"
+    ],
+    "category": "Payments & Pricing",
+    "answer": "For payments & pricing, cancellation rules vary by airline, hotel, cruise line, and activity supplier. The final quote should be checked before payment. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-047",
+    "keywords": [
+      "quote time",
       "quote",
-      "reservation",
-      "booking-71"
+      "time",
+      "payment",
+      "payments & pricing"
+    ],
+    "category": "Payments & Pricing",
+    "answer": "For payments & pricing, most standard quotes can be prepared after receiving destination, dates, traveller count, budget, and preferences. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-048",
+    "keywords": [
+      "whatsapp support",
+      "whatsapp",
+      "support",
+      "payment",
+      "payments & pricing"
+    ],
+    "category": "Payments & Pricing",
+    "answer": "For payments & pricing, you can contact MyGlobalTrips on WhatsApp at +971 58 556 6036 for trip planning, quotes, and follow-up support. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-049",
+    "keywords": [
+      "dubai package",
+      "dubai",
+      "package",
+      "booking",
+      "booking process"
     ],
     "category": "Booking Process",
-    "answer": "For booking process, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "answer": "For booking process, dubai packages include curated hotels, transfers, attraction planning, and optional premium add-ons based on your budget and travel dates. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   },
   {
-    "id": "faq-72",
+    "id": "faq-050",
     "keywords": [
-      "support",
-      "contact",
-      "whatsapp",
-      "help",
-      "support-72"
+      "europe trip",
+      "europe",
+      "trip",
+      "booking",
+      "booking process"
     ],
-    "category": "General / Misc",
-    "answer": "For general / misc, MyGlobalTrips provides curated guidance through our travel desk. Share your destination, dates, traveller count, and preferences so our team can advise the right next step.",
+    "category": "Booking Process",
+    "answer": "For booking process, europe trips can be planned as single-country holidays or multi-city routes with rail, private transfers, hotels, and visa guidance. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
     "follow_up_suggestions": [
-      "Generate a quote",
-      "Chat on WhatsApp",
-      "Build an itinerary"
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-051",
+    "keywords": [
+      "cruise booking",
+      "cruise",
+      "booking",
+      "booking",
+      "booking process"
+    ],
+    "category": "Booking Process",
+    "answer": "For booking process, cruise quotes depend on sailing date, cabin category, port taxes, gratuities, and inclusions from the cruise line. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-052",
+    "keywords": [
+      "premium experience",
+      "premium",
+      "experience",
+      "booking",
+      "booking process"
+    ],
+    "category": "Booking Process",
+    "answer": "For booking process, premium experiences can include private yachts, helicopter rides, hot air balloon flights, limousine transfers, and VIP attraction access. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-053",
+    "keywords": [
+      "family travel",
+      "family",
+      "travel",
+      "booking",
+      "booking process"
+    ],
+    "category": "Booking Process",
+    "answer": "For booking process, family trips are planned around room configuration, child-friendly pacing, transfers, meal preferences, and attraction timing. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-054",
+    "keywords": [
+      "honeymoon",
+      "honeymoon",
+      "booking",
+      "booking process"
+    ],
+    "category": "Booking Process",
+    "answer": "For booking process, honeymoon packages can include romantic hotels, private transfers, dining reservations, room upgrades, and special occasion requests. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-055",
+    "keywords": [
+      "visa documents",
+      "visa",
+      "documents",
+      "booking",
+      "booking process"
+    ],
+    "category": "Booking Process",
+    "answer": "For booking process, visa documents usually include passport, photos, travel dates, hotel proof, return flights, insurance, and financial documents depending on destination. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-056",
+    "keywords": [
+      "travel insurance",
+      "travel",
+      "insurance",
+      "booking",
+      "booking process"
+    ],
+    "category": "Booking Process",
+    "answer": "For booking process, travel insurance is strongly recommended and may be mandatory for destinations such as Schengen countries. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-057",
+    "keywords": [
+      "payment plan",
+      "payment",
+      "plan",
+      "booking",
+      "booking process"
+    ],
+    "category": "Booking Process",
+    "answer": "For booking process, payment schedules depend on supplier rules, travel date, booking value, and whether flights or non-refundable hotels are included. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-058",
+    "keywords": [
+      "cancellation",
+      "cancellation",
+      "booking",
+      "booking process"
+    ],
+    "category": "Booking Process",
+    "answer": "For booking process, cancellation rules vary by airline, hotel, cruise line, and activity supplier. The final quote should be checked before payment. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-059",
+    "keywords": [
+      "quote time",
+      "quote",
+      "time",
+      "booking",
+      "booking process"
+    ],
+    "category": "Booking Process",
+    "answer": "For booking process, most standard quotes can be prepared after receiving destination, dates, traveller count, budget, and preferences. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-060",
+    "keywords": [
+      "whatsapp support",
+      "whatsapp",
+      "support",
+      "booking",
+      "booking process"
+    ],
+    "category": "Booking Process",
+    "answer": "For booking process, you can contact MyGlobalTrips on WhatsApp at +971 58 556 6036 for trip planning, quotes, and follow-up support. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-061",
+    "keywords": [
+      "dubai package",
+      "dubai",
+      "package",
+      "support",
+      "general support"
+    ],
+    "category": "General Support",
+    "answer": "For general support, dubai packages include curated hotels, transfers, attraction planning, and optional premium add-ons based on your budget and travel dates. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-062",
+    "keywords": [
+      "europe trip",
+      "europe",
+      "trip",
+      "support",
+      "general support"
+    ],
+    "category": "General Support",
+    "answer": "For general support, europe trips can be planned as single-country holidays or multi-city routes with rail, private transfers, hotels, and visa guidance. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-063",
+    "keywords": [
+      "cruise booking",
+      "cruise",
+      "booking",
+      "support",
+      "general support"
+    ],
+    "category": "General Support",
+    "answer": "For general support, cruise quotes depend on sailing date, cabin category, port taxes, gratuities, and inclusions from the cruise line. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-064",
+    "keywords": [
+      "premium experience",
+      "premium",
+      "experience",
+      "support",
+      "general support"
+    ],
+    "category": "General Support",
+    "answer": "For general support, premium experiences can include private yachts, helicopter rides, hot air balloon flights, limousine transfers, and VIP attraction access. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-065",
+    "keywords": [
+      "family travel",
+      "family",
+      "travel",
+      "support",
+      "general support"
+    ],
+    "category": "General Support",
+    "answer": "For general support, family trips are planned around room configuration, child-friendly pacing, transfers, meal preferences, and attraction timing. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-066",
+    "keywords": [
+      "honeymoon",
+      "honeymoon",
+      "support",
+      "general support"
+    ],
+    "category": "General Support",
+    "answer": "For general support, honeymoon packages can include romantic hotels, private transfers, dining reservations, room upgrades, and special occasion requests. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-067",
+    "keywords": [
+      "visa documents",
+      "visa",
+      "documents",
+      "support",
+      "general support"
+    ],
+    "category": "General Support",
+    "answer": "For general support, visa documents usually include passport, photos, travel dates, hotel proof, return flights, insurance, and financial documents depending on destination. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-068",
+    "keywords": [
+      "travel insurance",
+      "travel",
+      "insurance",
+      "support",
+      "general support"
+    ],
+    "category": "General Support",
+    "answer": "For general support, travel insurance is strongly recommended and may be mandatory for destinations such as Schengen countries. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-069",
+    "keywords": [
+      "payment plan",
+      "payment",
+      "plan",
+      "support",
+      "general support"
+    ],
+    "category": "General Support",
+    "answer": "For general support, payment schedules depend on supplier rules, travel date, booking value, and whether flights or non-refundable hotels are included. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-070",
+    "keywords": [
+      "cancellation",
+      "cancellation",
+      "support",
+      "general support"
+    ],
+    "category": "General Support",
+    "answer": "For general support, cancellation rules vary by airline, hotel, cruise line, and activity supplier. The final quote should be checked before payment. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-071",
+    "keywords": [
+      "quote time",
+      "quote",
+      "time",
+      "support",
+      "general support"
+    ],
+    "category": "General Support",
+    "answer": "For general support, most standard quotes can be prepared after receiving destination, dates, traveller count, budget, and preferences. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
+    ]
+  },
+  {
+    "id": "faq-072",
+    "keywords": [
+      "whatsapp support",
+      "whatsapp",
+      "support",
+      "support",
+      "general support"
+    ],
+    "category": "General Support",
+    "answer": "For general support, you can contact MyGlobalTrips on WhatsApp at +971 58 556 6036 for trip planning, quotes, and follow-up support. For exact advice, share your destination, dates, traveller count, and budget with the MyGlobalTrips team.",
+    "follow_up_suggestions": [
+      "Request a quote",
+      "Ask about visa documents",
+      "Chat on WhatsApp"
     ]
   }
 ]

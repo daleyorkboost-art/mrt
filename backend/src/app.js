@@ -7,6 +7,7 @@ const routes = require('./routes');
 const { errorHandler } = require('./middleware/errorHandler');
 const { notFoundHandler } = require('./middleware/notFoundHandler');
 const { requestLogger } = require('./middleware/requestLogger');
+const { requestTimeout } = require('./middleware/requestTimeout');
 const { sanitizeInput } = require('./middleware/sanitizeInput');
 
 const app = express();
@@ -48,6 +49,7 @@ app.use(
 
 app.use(express.json({ limit: '1mb' }));
 app.use(express.urlencoded({ extended: true, limit: '1mb' }));
+app.use(requestTimeout);
 app.use(requestLogger);
 app.use(sanitizeInput);
 

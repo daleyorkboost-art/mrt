@@ -7,6 +7,7 @@ const faqRoutes = require('./faqRoutes');
 const quoteRoutes = require('./quoteRoutes');
 const captionRoutes = require('./captionRoutes');
 const visitorSignalRoutes = require('./visitorSignalRoutes');
+const internalAuthRoutes = require('./internalAuthRoutes');
 
 const router = express.Router();
 
@@ -15,6 +16,7 @@ router.use(itineraryRoutes);
 router.use(dubaiPlanRoutes);
 router.use(visaRoutes);
 router.use(faqRoutes);
+router.use(internalAuthRoutes);
 router.use(quoteRoutes);
 router.use(captionRoutes);
 router.use(visitorSignalRoutes);

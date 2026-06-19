@@ -61,6 +61,11 @@ const sendEmailValidator = [
   validateRequest,
 ];
 
+const internalAuthValidator = [
+  body('password').isString().trim().isLength({ min: 8, max: 120 }),
+  validateRequest,
+];
+
 const captionValidator = [
   requiredText('style'),
   requiredText('mood'),
@@ -87,6 +92,7 @@ module.exports = {
   faqValidator,
   quoteEmailValidator,
   sendEmailValidator,
+  internalAuthValidator,
   captionValidator,
   visitorSignalValidator,
 };

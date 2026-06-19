@@ -1,6 +1,7 @@
 import { AnimatePresence, motion } from 'framer-motion';
 import { ArrowLeft, ArrowRight, Sparkles } from 'lucide-react';
 import { useEffect, useMemo, useState } from 'react';
+import { Link } from 'react-router-dom';
 import { Button } from '../components/Button';
 import { Card } from '../components/Card';
 import { EmptyState } from '../components/EmptyState';
@@ -161,7 +162,7 @@ export function RecommenderPage() {
             ) : (
               <div>
                 {results.length === 0 ? (
-                  <EmptyState title="No recommendations returned" description="Try changing your preferences or confirm the backend is running on port 5000." />
+                  <EmptyState title="No recommendations returned" description="Try changing your preferences or contact the MyGlobalTrips team for a tailored route." />
                 ) : (
                   <>
                     <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
@@ -190,7 +191,9 @@ export function RecommenderPage() {
                               ))}
                             </ul>
                             {item.fallback && <p className="mt-4 text-xs font-bold uppercase tracking-[0.18em] text-gold">Popular fallback</p>}
-                            <Button className="mt-6 w-full">Get quote</Button>
+                            <Link to="/internal-quote-generator">
+                              <Button className="mt-6 w-full">Get quote</Button>
+                            </Link>
                           </div>
                         </Card>
                       ))}

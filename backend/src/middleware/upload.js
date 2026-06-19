@@ -7,6 +7,7 @@ const { ApiError } = require('../utils/ApiError');
 fs.mkdirSync(env.uploadDir, { recursive: true });
 
 const allowedMimeTypes = new Set(['image/jpeg', 'image/png', 'image/webp']);
+const allowedExtensions = new Set(['.jpg', '.jpeg', '.png', '.webp']);
 
 const storage = multer.diskStorage({
   destination(req, file, cb) {
@@ -26,7 +27,9 @@ const imageUpload = multer({
     files: 1,
   },
   fileFilter(req, file, cb) {
-    if (!allowedMimeTypes.has(file.mimetype)) {
+    const ext = path.extname(file.originalname || '').toLowerCase();
+
+    if (!allowedMimeTypes.has(file.mimetype) || !allowedExtensions.has(ext)) {
       return cb(new ApiError('Only JPG, PNG, and WEBP images are allowed', 400));
     }
 

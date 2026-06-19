@@ -83,7 +83,7 @@ export function DubaiDayPlannerPage() {
 
             <div className="grid gap-4">
               {!result ? (
-                <Card className="p-8 text-center text-mist">Choose your preferences and request a backend Dubai plan.</Card>
+                <Card className="p-8 text-center text-mist">Choose your preferences to build a MyGlobalTrips Dubai plan.</Card>
               ) : (
                 result.attractions.map((item, index) => (
                   <Card key={item.id} className="grid gap-4 p-5 sm:grid-cols-[80px_1fr_auto] sm:items-center">

@@ -1,6 +1,6 @@
 import { Menu, Plane, X } from 'lucide-react';
 import { useState } from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import { navItems } from '../data/mockData';
 import { Button } from './Button';
 
@@ -37,9 +37,11 @@ export function Navbar() {
         </div>
 
         <div className="hidden items-center gap-3 lg:flex">
-          <Button variant="secondary" className="px-4">
-            Get quote
-          </Button>
+          <Link to="/internal-quote-generator">
+            <Button variant="secondary" className="px-4">
+              Get quote
+            </Button>
+          </Link>
         </div>
 
         <button

@@ -16,11 +16,12 @@ async function parseResponse<T>(response: Response): Promise<T> {
   return payload.data;
 }
 
-async function postJson<T>(path: string, body: unknown): Promise<T> {
+async function postJson<T>(path: string, body: unknown, headers: Record<string, string> = {}): Promise<T> {
   const response = await fetch(`${API_BASE_URL}${path}`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
+      ...headers,
     },
     body: JSON.stringify(body),
   });
@@ -127,6 +128,11 @@ export type CaptionResponse = {
   model?: string;
 };
 
+export type InternalAuthResponse = {
+  token: string;
+  expiresInSeconds: number;
+};
+
 export type VisitorSignalResponse = {
   signal: {
     id: string;
@@ -153,6 +159,9 @@ export const api = {
   faq(body: { query: string }) {
     return postJson<FaqResponse>('/api/faq', body);
   },
+  internalAuth(body: { password: string }) {
+    return postJson<InternalAuthResponse>('/api/internal-auth', body);
+  },
   quoteEmail(body: {
     travellerName: string;
     destination: string;
@@ -162,11 +171,15 @@ export const api = {
     specialRequests: string;
     email: string;
     phone: string;
-  }) {
-    return postJson<QuoteEmailResponse>('/api/quote-email', body);
+  }, token: string) {
+    return postJson<QuoteEmailResponse>('/api/quote-email', body, {
+      Authorization: `Bearer ${token}`,
+    });
   },
-  sendEmail(body: { to: string; subject: string; html: string }) {
-    return postJson<SendEmailResponse>('/api/send-email', body);
+  sendEmail(body: { to: string; subject: string; html: string }, token: string) {
+    return postJson<SendEmailResponse>('/api/send-email', body, {
+      Authorization: `Bearer ${token}`,
+    });
   },
   caption(formData: FormData) {
     return postForm<CaptionResponse>('/api/caption', formData);

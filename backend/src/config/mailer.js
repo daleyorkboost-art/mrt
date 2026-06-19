@@ -10,6 +10,11 @@ function createTransporter() {
     host: env.smtp.host,
     port: env.smtp.port,
     secure: env.smtp.secure,
+    connectionTimeout: env.requestTimeoutMs,
+    greetingTimeout: env.requestTimeoutMs,
+    socketTimeout: env.requestTimeoutMs,
+    disableFileAccess: true,
+    disableUrlAccess: true,
     auth: {
       user: env.smtp.user,
       pass: env.smtp.pass,

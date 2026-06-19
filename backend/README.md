@@ -42,9 +42,11 @@ npm run smoke
 
 ## Environment
 
-OpenAI is optional for local demos. If `OPENAI_API_KEY` is empty, `/api/caption` returns realistic mock captions after validating the upload.
+OpenAI is required for production AI captions. If `OPENAI_API_KEY` is empty in local development, `/api/caption` returns a fallback response after validating the upload.
 
 SMTP is required for `/api/send-email`. If SMTP variables are missing, the endpoint returns a clear `503` error.
+
+In production, set `INTERNAL_QUOTE_PASSWORD`, `INTERNAL_AUTH_SECRET`, `OPENAI_API_KEY`, SMTP credentials, and a restricted `CORS_ORIGIN`. The server refuses to boot in production if these required values are missing.
 
 ## Response Shape
 

@@ -3,6 +3,17 @@ const { createOpenAIClient } = require('../config/openai');
 const { env } = require('../config/env');
 const { ApiError } = require('../utils/ApiError');
 
+function isValidImageSignature(file) {
+  const buffer = fs.readFileSync(file.path);
+  const hex = buffer.subarray(0, 12).toString('hex');
+
+  if (file.mimetype === 'image/png') return hex.startsWith('89504e470d0a1a0a');
+  if (file.mimetype === 'image/jpeg') return hex.startsWith('ffd8ff');
+  if (file.mimetype === 'image/webp') return buffer.subarray(0, 4).toString('ascii') === 'RIFF' && buffer.subarray(8, 12).toString('ascii') === 'WEBP';
+
+  return false;
+}
+
 function fallbackCaptions(style, mood) {
   return {
     captions: [
@@ -47,6 +58,11 @@ async function generateCaption(input, file) {
     throw new ApiError('Image upload is required', 400);
   }
 
+  if (!isValidImageSignature(file)) {
+    fs.unlink(file.path, () => {});
+    throw new ApiError('Uploaded file content does not match an allowed image type', 400);
+  }
+
   const imageUrl = `${env.publicBaseUrl}/uploads/${file.filename}`;
   const openai = createOpenAIClient();
 
@@ -54,7 +70,7 @@ async function generateCaption(input, file) {
     return {
       ...fallbackCaptions(input.style, input.mood),
       imageUrl,
-      model: 'mock-fallback',
+      model: 'local-fallback',
     };
   }
 

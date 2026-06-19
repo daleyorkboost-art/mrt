@@ -1,12 +1,50 @@
 [
   {
-    "id": "dubai-attraction-1",
-    "name": "Burj Khalifa Lounge",
-    "category": "Iconic",
+    "id": "burj-khalifa-the-throne-of-the-sky",
+    "name": "Burj Khalifa — The Throne of the Sky",
+    "category": "Dubai — The City That",
     "tags": [
-      "luxury",
-      "culture",
-      "desert"
+      "uae",
+      "downtown dubai",
+      "8am–11pm daily",
+      "1–2 hours"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "skyline"
+    ],
+    "costUsd": 41,
+    "avg_cost_aed": 149,
+    "duration_hrs": 2,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Stand 555 metres above the Earth on Level 148 — the world's highest public observation deck. The city below is not a view. It's a revelation. Choose Level 124/125 for the classic experience, or ascend to the SKY for Arabic sweets in the clouds with a personal ambassador.",
+    "visit_order_weight": 1,
+    "source": "myglobaltrips.com",
+    "description": "Stand 555 metres above the Earth on Level 148 — the world's highest public observation deck. The city below is not a view. It's a revelation. Choose Level 124/125 for the classic experience, or ascend to the SKY for Arabic sweets in the clouds with a personal ambassador.",
+    "duration": "2 hours",
+    "cost": "AED 149"
+  },
+  {
+    "id": "sky-views-observatory-the-glass-frontier",
+    "name": "Sky Views Observatory — The Glass Frontier",
+    "category": "Dubai — The City That",
+    "tags": [
+      "uae",
+      "downtown dubai",
+      "1.5 hours"
     ],
     "budget": "budget",
     "time": "half day",
@@ -14,314 +52,559 @@
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
     ],
     "interests": [
-      "thrills",
-      "culture",
-      "shopping"
+      "skyline"
+    ],
+    "costUsd": 24,
+    "avg_cost_aed": 89,
+    "duration_hrs": 5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "219 metres up on the Address Sky View towers — slide down a transparent glass chute on the outside of a skyscraper. Dubai's most audacious view, its most daring ride.",
+    "visit_order_weight": 2,
+    "source": "myglobaltrips.com",
+    "description": "219 metres up on the Address Sky View towers — slide down a transparent glass chute on the outside of a skyscraper. Dubai's most audacious view, its most daring ride.",
+    "duration": "5 hours",
+    "cost": "AED 89"
+  },
+  {
+    "id": "dubai-frame-a-city-captured-in-gold",
+    "name": "Dubai Frame — A City Captured in Gold",
+    "category": "Dubai — The City That",
+    "tags": [
+      "uae",
+      "zabeel park",
+      "9am–9pm",
+      "adults"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "park"
+    ],
+    "costUsd": 14,
+    "avg_cost_aed": 50,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The world's largest picture frame: 150 metres of gilded steel straddling Old Dubai and New. The glass sky bridge shows you both Dubais at once — the fishing village and the megacity.",
+    "visit_order_weight": 3,
+    "source": "myglobaltrips.com",
+    "description": "The world's largest picture frame: 150 metres of gilded steel straddling Old Dubai and New. The glass sky bridge shows you both Dubais at once — the fishing village and the megacity.",
+    "duration": "3 hours",
+    "cost": "AED 50"
+  },
+  {
+    "id": "ain-dubai-the-colossus-of-bluewaters",
+    "name": "Ain Dubai — The Colossus of Bluewaters",
+    "category": "Dubai — The City That",
+    "tags": [
+      "uae",
+      "bluewaters island",
+      "38 mins/rotation",
+      "standard cabin from"
+    ],
+    "budget": "budget",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "beach"
     ],
     "costUsd": 35,
-    "avg_cost_aed": 125,
-    "duration_hrs": 1.5,
+    "avg_cost_aed": 130,
+    "duration_hrs": 3,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 1
+    "tip": "The world's tallest and largest observation wheel. 250 metres above Bluewaters Island, rotating slowly through the Arabian skyline. Gondolas with a Sky Bar, a lounge, and views that don't beg — they demand.",
+    "visit_order_weight": 4,
+    "source": "myglobaltrips.com",
+    "description": "The world's tallest and largest observation wheel. 250 metres above Bluewaters Island, rotating slowly through the Arabian skyline. Gondolas with a Sky Bar, a lounge, and views that don't beg — they demand.",
+    "duration": "3 hours",
+    "cost": "AED 130"
   },
   {
-    "id": "dubai-attraction-2",
-    "name": "Museum of the Future",
-    "category": "Culture",
+    "id": "img-worlds-of-adventure-the-universe-under-one-roof",
+    "name": "IMG Worlds of Adventure — The Universe Under One Roof",
+    "category": "Dubai — The City That",
     "tags": [
-      "luxury",
-      "skyline",
-      "shopping"
+      "uae",
+      "city of arabia",
+      "10am–8pm"
     ],
     "budget": "moderate",
-    "time": "full day",
+    "time": "evening",
     "groups": [
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
     ],
     "interests": [
-      "culture",
-      "shopping",
-      "beaches"
+      "adventure"
+    ],
+    "costUsd": 50,
+    "avg_cost_aed": 182,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "28 million square feet of pure adrenaline: Marvel heroes, Cartoon Network villains, Haunted Hotel, and Dinosaur territory — all indoors, all day, all exhilarating.",
+    "visit_order_weight": 5,
+    "source": "myglobaltrips.com",
+    "description": "28 million square feet of pure adrenaline: Marvel heroes, Cartoon Network villains, Haunted Hotel, and Dinosaur territory — all indoors, all day, all exhilarating.",
+    "duration": "3 hours",
+    "cost": "AED 182"
+  },
+  {
+    "id": "legoland-dubai-where-bricks-build-worlds",
+    "name": "Legoland Dubai — Where Bricks Build Worlds",
+    "category": "Dubai — The City That",
+    "tags": [
+      "uae",
+      "dubai parks &",
+      "10am–6pm"
+    ],
+    "budget": "moderate",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture"
     ],
     "costUsd": 80,
-    "avg_cost_aed": 275,
-    "duration_hrs": 2.5,
+    "avg_cost_aed": 295,
+    "duration_hrs": 3,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 2
+    "tip": "40 Lego-world rides for children aged 2–12, including a Lego Burj Khalifa, MINILAND with global landmarks, Build-A-Boat, and the Lego Racers ride that turns engineering into play.",
+    "visit_order_weight": 6,
+    "source": "myglobaltrips.com",
+    "description": "40 Lego-world rides for children aged 2–12, including a Lego Burj Khalifa, MINILAND with global landmarks, Build-A-Boat, and the Lego Racers ride that turns engineering into play.",
+    "duration": "3 hours",
+    "cost": "AED 295"
   },
   {
-    "id": "dubai-attraction-3",
-    "name": "Dubai Frame",
-    "category": "Shopping",
+    "id": "motiongate-dubai-hollywood-unleashed",
+    "name": "Motiongate Dubai — Hollywood Unleashed",
+    "category": "Dubai — The City That",
     "tags": [
-      "luxury",
-      "culture",
-      "shopping"
-    ],
-    "budget": "premium",
-    "time": "evening",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "shopping",
-      "beaches",
-      "fine dining"
-    ],
-    "costUsd": 125,
-    "avg_cost_aed": 425,
-    "duration_hrs": 3.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 3
-  },
-  {
-    "id": "dubai-attraction-4",
-    "name": "Al Fahidi Heritage Walk",
-    "category": "Beach",
-    "tags": [
-      "luxury",
-      "skyline",
-      "desert"
-    ],
-    "budget": "budget",
-    "time": "half day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "beaches",
-      "fine dining",
-      "nightlife"
-    ],
-    "costUsd": 170,
-    "avg_cost_aed": 575,
-    "duration_hrs": 4.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 4
-  },
-  {
-    "id": "dubai-attraction-5",
-    "name": "Gold Souk Private Shopping",
-    "category": "Dining",
-    "tags": [
-      "luxury",
-      "culture",
-      "shopping"
+      "uae",
+      "dubai parks &",
+      "10am–8pm"
     ],
     "budget": "moderate",
-    "time": "full day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "thrills",
-      "culture",
-      "shopping"
-    ],
-    "costUsd": 215,
-    "avg_cost_aed": 725,
-    "duration_hrs": 1.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 5
-  },
-  {
-    "id": "dubai-attraction-6",
-    "name": "Dubai Marina Yacht",
-    "category": "Desert",
-    "tags": [
-      "luxury",
-      "skyline",
-      "shopping"
-    ],
-    "budget": "premium",
     "time": "evening",
     "groups": [
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
     ],
     "interests": [
-      "culture",
-      "shopping",
-      "beaches"
+      "culture"
     ],
-    "costUsd": 260,
-    "avg_cost_aed": 875,
-    "duration_hrs": 2.5,
+    "costUsd": 117,
+    "avg_cost_aed": 430,
+    "duration_hrs": 3,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 6
+    "tip": "The Middle East's only Hollywood-branded theme park: DreamWorks, Columbia Pictures, Lionsgate, Smurfs Village. The world's fastest single-car spinning rollercoaster is here.",
+    "visit_order_weight": 7,
+    "source": "myglobaltrips.com",
+    "description": "The Middle East's only Hollywood-branded theme park: DreamWorks, Columbia Pictures, Lionsgate, Smurfs Village. The world's fastest single-car spinning rollercoaster is here.",
+    "duration": "3 hours",
+    "cost": "AED 430"
   },
   {
-    "id": "dubai-attraction-7",
-    "name": "Jumeirah Beach Club",
-    "category": "Iconic",
+    "id": "ski-dubai-the-alpine-anomaly",
+    "name": "Ski Dubai — The Alpine Anomaly",
+    "category": "Dubai — The City That",
     "tags": [
-      "luxury",
-      "culture",
-      "desert"
+      "uae",
+      "mall of emirates",
+      "10am–11pm",
+      "snow park from"
     ],
     "budget": "budget",
-    "time": "half day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "shopping",
-      "beaches",
-      "fine dining"
-    ],
-    "costUsd": 305,
-    "avg_cost_aed": 1025,
-    "duration_hrs": 3.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 7
-  },
-  {
-    "id": "dubai-attraction-8",
-    "name": "Desert Conservation Drive",
-    "category": "Culture",
-    "tags": [
-      "luxury",
-      "skyline",
-      "shopping"
-    ],
-    "budget": "moderate",
-    "time": "full day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "beaches",
-      "fine dining",
-      "nightlife"
-    ],
-    "costUsd": 350,
-    "avg_cost_aed": 1175,
-    "duration_hrs": 4.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 8
-  },
-  {
-    "id": "dubai-attraction-9",
-    "name": "Dubai Mall Aquarium",
-    "category": "Shopping",
-    "tags": [
-      "luxury",
-      "culture",
-      "shopping"
-    ],
-    "budget": "premium",
     "time": "evening",
     "groups": [
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
     ],
     "interests": [
-      "thrills",
-      "culture",
-      "shopping"
+      "park"
     ],
     "costUsd": 35,
-    "avg_cost_aed": 125,
-    "duration_hrs": 1.5,
+    "avg_cost_aed": 130,
+    "duration_hrs": 3,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 9
+    "tip": "A ski slope inside a desert mall. Real snow. Real penguins. Real chairlifts. Five runs, a snow park, snowboarding, and a mountain at –1°C when it's 45°C outside the window.",
+    "visit_order_weight": 8,
+    "source": "myglobaltrips.com",
+    "description": "A ski slope inside a desert mall. Real snow. Real penguins. Real chairlifts. Five runs, a snow park, snowboarding, and a mountain at –1°C when it's 45°C outside the window.",
+    "duration": "3 hours",
+    "cost": "AED 130"
   },
   {
-    "id": "dubai-attraction-10",
-    "name": "Palm Jumeirah Viewpoint",
-    "category": "Beach",
+    "id": "aquaventure-world-the-waterpark-of-myths",
+    "name": "Aquaventure World — The Waterpark of Myths",
+    "category": "Dubai — The City That",
     "tags": [
-      "luxury",
-      "skyline",
+      "uae",
+      "atlantis, the palm",
+      "10am–6pm"
+    ],
+    "budget": "moderate",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "beach"
+    ],
+    "costUsd": 157,
+    "avg_cost_aed": 575,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The world's largest waterpark at Atlantis The Palm. Plummeting tube slides, lazy rivers, private beach access, and the Lost World Aquarium — all inside one legendary Palmtop campus.",
+    "visit_order_weight": 9,
+    "source": "myglobaltrips.com",
+    "description": "The world's largest waterpark at Atlantis The Palm. Plummeting tube slides, lazy rivers, private beach access, and the Lost World Aquarium — all inside one legendary Palmtop campus.",
+    "duration": "3 hours",
+    "cost": "AED 575"
+  },
+  {
+    "id": "global-village-90-nations-in-one-night",
+    "name": "Global Village — 90 Nations in One Night",
+    "category": "Dubai — The City That",
+    "tags": [
+      "uae",
+      "expo city road",
+      "4pm–12am"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "shopping"
+    ],
+    "costUsd": 13,
+    "avg_cost_aed": 49,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The world's leading multicultural festival destination: 90 country pavilions, 3,500 live performances, carnival rides, street food from every continent, and nights that don't end quietly.",
+    "visit_order_weight": 10,
+    "source": "myglobaltrips.com",
+    "description": "The world's leading multicultural festival destination: 90 country pavilions, 3,500 live performances, carnival rides, street food from every continent, and nights that don't end quietly.",
+    "duration": "3 hours",
+    "cost": "AED 49"
+  },
+  {
+    "id": "museum-of-the-future-a-postcard-from-2071",
+    "name": "Museum of the Future — A Postcard from 2071",
+    "category": "Dubai — The City That",
+    "tags": [
+      "uae",
+      "sheikh zayed road",
+      "9am–6pm"
+    ],
+    "budget": "moderate",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture"
+    ],
+    "costUsd": 42,
+    "avg_cost_aed": 155,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The world's most beautiful building holds the world's most mind-expanding museum. Five floors of AI, robotics, sustainable cities, and healthcare in 2071 — interactive, immersive, and unlike anything you've ever experienced.",
+    "visit_order_weight": 11,
+    "source": "myglobaltrips.com",
+    "description": "The world's most beautiful building holds the world's most mind-expanding museum. Five floors of AI, robotics, sustainable cities, and healthcare in 2071 — interactive, immersive, and unlike anything you've ever experienced.",
+    "duration": "3 hours",
+    "cost": "AED 155"
+  },
+  {
+    "id": "dubai-miracle-garden-150-million-blooms",
+    "name": "Dubai Miracle Garden — 150 Million Blooms",
+    "category": "Dubai — The City That",
+    "tags": [
+      "uae",
+      "al barsha south",
+      "9am–9pm"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture"
+    ],
+    "costUsd": 12,
+    "avg_cost_aed": 45,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "150 million flowers sculpted into castles, aeroplanes, hearts, and peacocks across 72,000 sqm of impossible colour. The world's largest natural flower garden — in the heart of the desert.",
+    "visit_order_weight": 12,
+    "source": "myglobaltrips.com",
+    "description": "150 million flowers sculpted into castles, aeroplanes, hearts, and peacocks across 72,000 sqm of impossible colour. The world's largest natural flower garden — in the heart of the desert.",
+    "duration": "3 hours",
+    "cost": "AED 45"
+  },
+  {
+    "id": "dubai-aquarium-underwater-zoo-the-shark-corridor",
+    "name": "Dubai Aquarium & Underwater Zoo — The Shark Corridor",
+    "category": "Dubai — The City That",
+    "tags": [
+      "uae",
+      "dubai mall",
+      "10am–10pm"
+    ],
+    "budget": "moderate",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "shopping",
+      "beach"
+    ],
+    "costUsd": 44,
+    "avg_cost_aed": 160,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "33,000 aquatic animals — including 400 sharks and rays — behind a 10-metre acrylic viewing panel. The world's largest suspended aquarium, where penguins waddle at Penguin Cove and you walk through tunnels of tiger sharks.",
+    "visit_order_weight": 13,
+    "source": "myglobaltrips.com",
+    "description": "33,000 aquatic animals — including 400 sharks and rays — behind a 10-metre acrylic viewing panel. The world's largest suspended aquarium, where penguins waddle at Penguin Cove and you walk through tunnels of tiger sharks.",
+    "duration": "3 hours",
+    "cost": "AED 160"
+  },
+  {
+    "id": "lost-world-aquarium-the-deep-reborn",
+    "name": "Lost World Aquarium — The Deep Reborn",
+    "category": "Dubai — The City That",
+    "tags": [
+      "uae",
+      "atlantis, the palm",
+      "10am–9pm"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture"
+    ],
+    "costUsd": 26,
+    "avg_cost_aed": 95,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Atlantis reimagined: 430 new marine animals across 19 habitats, live mermaids, the Interactive Trident, and projection-mapped oceanic storytelling. Brighter, bolder, and more breathtaking than before.",
+    "visit_order_weight": 14,
+    "source": "myglobaltrips.com",
+    "description": "Atlantis reimagined: 430 new marine animals across 19 habitats, live mermaids, the Interactive Trident, and projection-mapped oceanic storytelling. Brighter, bolder, and more breathtaking than before.",
+    "duration": "3 hours",
+    "cost": "AED 95"
+  },
+  {
+    "id": "the-green-planet-a-rainforest-rises-in-dubai",
+    "name": "The Green Planet — A Rainforest Rises in Dubai",
+    "category": "Dubai — The City That",
+    "tags": [
+      "uae",
+      "city walk",
+      "10am–8pm"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture"
+    ],
+    "costUsd": 32,
+    "avg_cost_aed": 119,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "A four-storey bio-dome in City Walk housing 3,000 tropical plants and 500 animals — sloths, toucans, piranhas, and tree frogs — in a self-sustaining ecosystem. Dubai's most surprising secret.",
+    "visit_order_weight": 15,
+    "source": "myglobaltrips.com",
+    "description": "A four-storey bio-dome in City Walk housing 3,000 tropical plants and 500 animals — sloths, toucans, piranhas, and tree frogs — in a self-sustaining ecosystem. Dubai's most surprising secret.",
+    "duration": "3 hours",
+    "cost": "AED 119"
+  },
+  {
+    "id": "dubai-desert-safari-the-sands-after-sundown",
+    "name": "Dubai Desert Safari — The Sands After Sundown",
+    "category": "Dubai — The City That",
+    "tags": [
+      "uae",
+      "arabian desert",
+      "3pm–10pm pickup",
+      "6 hours"
+    ],
+    "budget": "moderate",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
       "desert"
+    ],
+    "costUsd": 49,
+    "avg_cost_aed": 180,
+    "duration_hrs": 5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "4×4 dune bashing across red sand seas at spine-tingling angles, camel rides, traditional Arabic camp, BBQ spread, belly dance, tanoura whirl, and stargazing. The quintessential Dubai evening — all in one unforgettable package.",
+    "visit_order_weight": 16,
+    "source": "myglobaltrips.com",
+    "description": "4×4 dune bashing across red sand seas at spine-tingling angles, camel rides, traditional Arabic camp, BBQ spread, belly dance, tanoura whirl, and stargazing. The quintessential Dubai evening — all in one unforgettable package.",
+    "duration": "5 hours",
+    "cost": "AED 180"
+  },
+  {
+    "id": "aya-universe-where-art-becomes-gravity",
+    "name": "AYA Universe — Where Art Becomes Gravity",
+    "category": "Dubai — The City That",
+    "tags": [
+      "uae",
+      "city centre mirdif",
+      "60–90 mins"
     ],
     "budget": "budget",
     "time": "half day",
@@ -329,384 +612,344 @@
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture"
+    ],
+    "costUsd": 26,
+    "avg_cost_aed": 95,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "An immersive world of 13 interconnected realms: light tunnels, infinity mirrors, floating jellyfish, digital waterfalls, and glitch forests. Not a gallery. A dimension shift inside a mall on Al Quoz.",
+    "visit_order_weight": 17,
+    "source": "myglobaltrips.com",
+    "description": "An immersive world of 13 interconnected realms: light tunnels, infinity mirrors, floating jellyfish, digital waterfalls, and glitch forests. Not a gallery. A dimension shift inside a mall on Al Quoz.",
+    "duration": "3 hours",
+    "cost": "AED 95"
+  },
+  {
+    "id": "ferrari-world-abu-dhabi-the-temple-of-speed",
+    "name": "Ferrari World Abu Dhabi — The Temple of Speed",
+    "category": "Abu Dhabi — The Capital",
+    "tags": [
+      "uae",
+      "yas island",
+      "10am–7pm",
+      "free shuttle from",
+      "general admission"
+    ],
+    "budget": "moderate",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
     ],
     "interests": [
       "culture",
-      "shopping",
-      "beaches"
+      "beach"
+    ],
+    "costUsd": 94,
+    "avg_cost_aed": 345,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The world's largest Ferrari-branded theme park under the world's largest space frame roof. Formula Rossa hits 240 km/h — making it the world's fastest rollercoaster. 40+ heart-stopping attractions pay tribute to the most iconic car brand on earth. One day is not enough.",
+    "visit_order_weight": 18,
+    "source": "myglobaltrips.com",
+    "description": "The world's largest Ferrari-branded theme park under the world's largest space frame roof. Formula Rossa hits 240 km/h — making it the world's fastest rollercoaster. 40+ heart-stopping attractions pay tribute to the most iconic car brand on earth. One day is not enough.",
+    "duration": "3 hours",
+    "cost": "AED 345"
+  },
+  {
+    "id": "warner-bros-world-gotham-meets-bedrock",
+    "name": "Warner Bros. World — Gotham Meets Bedrock",
+    "category": "Abu Dhabi — The Capital",
+    "tags": [
+      "uae",
+      "yas island",
+      "free shuttle from"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture",
+      "beach"
+    ],
+    "costUsd": 94,
+    "avg_cost_aed": 345,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The world's first Warner Bros. indoor theme park: 29 rides across Gotham City, Metropolis, Cartoon Junction, Bedrock, and Dynamite Gulch. Batman, Superman, Bugs Bunny, and the Flintstones — all in a day.",
+    "visit_order_weight": 19,
+    "source": "myglobaltrips.com",
+    "description": "The world's first Warner Bros. indoor theme park: 29 rides across Gotham City, Metropolis, Cartoon Junction, Bedrock, and Dynamite Gulch. Batman, Superman, Bugs Bunny, and the Flintstones — all in a day.",
+    "duration": "3 hours",
+    "cost": "AED 345"
+  },
+  {
+    "id": "yas-waterworld-a-thousand-splashes",
+    "name": "Yas Waterworld — A Thousand Splashes",
+    "category": "Abu Dhabi — The Capital",
+    "tags": [
+      "uae",
+      "yas island",
+      "10am–6pm"
+    ],
+    "budget": "moderate",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture",
+      "beach"
     ],
     "costUsd": 80,
-    "avg_cost_aed": 275,
-    "duration_hrs": 2.5,
+    "avg_cost_aed": 295,
+    "duration_hrs": 3,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 10
+    "tip": "43 rides, slides, and water experiences inspired by Emirati pearl diving traditions. The Dawwama is a 238m family mega-slide. The FlowBarrel is the UAE's only surf simulator for serious wave-chasers.",
+    "visit_order_weight": 20,
+    "source": "myglobaltrips.com",
+    "description": "43 rides, slides, and water experiences inspired by Emirati pearl diving traditions. The Dawwama is a 238m family mega-slide. The FlowBarrel is the UAE's only surf simulator for serious wave-chasers.",
+    "duration": "3 hours",
+    "cost": "AED 295"
   },
   {
-    "id": "dubai-attraction-11",
-    "name": "Burj Khalifa Lounge 2",
-    "category": "Dining",
+    "id": "seaworld-abu-dhabi-where-ocean-meets-imagination",
+    "name": "SeaWorld Abu Dhabi — Where Ocean Meets Imagination",
+    "category": "Abu Dhabi — The Capital",
     "tags": [
-      "luxury",
-      "culture",
-      "shopping"
+      "uae",
+      "yas island",
+      "10am–8pm"
     ],
     "budget": "moderate",
-    "time": "full day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "shopping",
-      "beaches",
-      "fine dining"
-    ],
-    "costUsd": 125,
-    "avg_cost_aed": 425,
-    "duration_hrs": 3.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 11
-  },
-  {
-    "id": "dubai-attraction-12",
-    "name": "Museum of the Future 2",
-    "category": "Desert",
-    "tags": [
-      "luxury",
-      "skyline",
-      "shopping"
-    ],
-    "budget": "premium",
     "time": "evening",
     "groups": [
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "beaches",
-      "fine dining",
-      "nightlife"
-    ],
-    "costUsd": 170,
-    "avg_cost_aed": 575,
-    "duration_hrs": 4.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
+      "friends",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 12
-  },
-  {
-    "id": "dubai-attraction-13",
-    "name": "Dubai Frame 2",
-    "category": "Iconic",
-    "tags": [
-      "luxury",
-      "culture",
-      "desert"
-    ],
-    "budget": "budget",
-    "time": "half day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "thrills",
-      "culture",
-      "shopping"
-    ],
-    "costUsd": 215,
-    "avg_cost_aed": 725,
-    "duration_hrs": 1.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 13
-  },
-  {
-    "id": "dubai-attraction-14",
-    "name": "Al Fahidi Heritage Walk 2",
-    "category": "Culture",
-    "tags": [
-      "luxury",
-      "skyline",
-      "shopping"
-    ],
-    "budget": "moderate",
-    "time": "full day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
     "interests": [
       "culture",
-      "shopping",
-      "beaches"
-    ],
-    "costUsd": 260,
-    "avg_cost_aed": 875,
-    "duration_hrs": 2.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 14
-  },
-  {
-    "id": "dubai-attraction-15",
-    "name": "Gold Souk Private Shopping 2",
-    "category": "Shopping",
-    "tags": [
-      "luxury",
-      "culture",
-      "shopping"
-    ],
-    "budget": "premium",
-    "time": "evening",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "shopping",
-      "beaches",
-      "fine dining"
-    ],
-    "costUsd": 305,
-    "avg_cost_aed": 1025,
-    "duration_hrs": 3.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 15
-  },
-  {
-    "id": "dubai-attraction-16",
-    "name": "Dubai Marina Yacht 2",
-    "category": "Beach",
-    "tags": [
-      "luxury",
-      "skyline",
-      "desert"
-    ],
-    "budget": "budget",
-    "time": "half day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "beaches",
-      "fine dining",
-      "nightlife"
-    ],
-    "costUsd": 350,
-    "avg_cost_aed": 1175,
-    "duration_hrs": 4.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 16
-  },
-  {
-    "id": "dubai-attraction-17",
-    "name": "Jumeirah Beach Club 2",
-    "category": "Dining",
-    "tags": [
-      "luxury",
-      "culture",
-      "shopping"
-    ],
-    "budget": "moderate",
-    "time": "full day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "thrills",
-      "culture",
-      "shopping"
-    ],
-    "costUsd": 35,
-    "avg_cost_aed": 125,
-    "duration_hrs": 1.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 17
-  },
-  {
-    "id": "dubai-attraction-18",
-    "name": "Desert Conservation Drive 2",
-    "category": "Desert",
-    "tags": [
-      "luxury",
-      "skyline",
-      "shopping"
-    ],
-    "budget": "premium",
-    "time": "evening",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "culture",
-      "shopping",
-      "beaches"
+      "beach"
     ],
     "costUsd": 80,
-    "avg_cost_aed": 275,
-    "duration_hrs": 2.5,
+    "avg_cost_aed": 295,
+    "duration_hrs": 3,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 18
+    "tip": "The Middle East's first SeaWorld: no performing orca shows, pure conservation-led marine education. Six themed realms, one infinity pool overlooking Yas Bay, 68,000+ marine animals. Responsible wonder.",
+    "visit_order_weight": 21,
+    "source": "myglobaltrips.com",
+    "description": "The Middle East's first SeaWorld: no performing orca shows, pure conservation-led marine education. Six themed realms, one infinity pool overlooking Yas Bay, 68,000+ marine animals. Responsible wonder.",
+    "duration": "3 hours",
+    "cost": "AED 295"
   },
   {
-    "id": "dubai-attraction-19",
-    "name": "Dubai Mall Aquarium 2",
-    "category": "Iconic",
+    "id": "louvre-abu-dhabi-art-without-borders",
+    "name": "Louvre Abu Dhabi — Art Without Borders",
+    "category": "Abu Dhabi — The Capital",
     "tags": [
-      "luxury",
+      "uae",
+      "saadiyat island",
+      "10am–8pm (fri until",
+      "adults"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture",
+      "beach"
+    ],
+    "costUsd": 17,
+    "avg_cost_aed": 63,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Jean Nouvel's geometric floating dome rains light on 23 interconnected galleries of 600+ objects — from ancient civilisations to contemporary masters. Where East and West share the same walls, finally.",
+    "visit_order_weight": 22,
+    "source": "myglobaltrips.com",
+    "description": "Jean Nouvel's geometric floating dome rains light on 23 interconnected galleries of 600+ objects — from ancient civilisations to contemporary masters. Where East and West share the same walls, finally.",
+    "duration": "3 hours",
+    "cost": "AED 63"
+  },
+  {
+    "id": "qasr-al-watan-inside-the-palace-of-the-nation",
+    "name": "Qasr Al Watan — Inside the Palace of the Nation",
+    "category": "Abu Dhabi — The Capital",
+    "tags": [
+      "uae",
+      "abu dhabi corniche",
+      "10am–8pm",
+      "adults"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture"
+    ],
+    "costUsd": 8,
+    "avg_cost_aed": 30,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The UAE's Presidential Palace opened its gates to the public — a rare privilege. Explore halls of governance, rare manuscripts, the Great Hall under a soaring dome, and the Palace in Motion light show at night.",
+    "visit_order_weight": 23,
+    "source": "myglobaltrips.com",
+    "description": "The UAE's Presidential Palace opened its gates to the public — a rare privilege. Explore halls of governance, rare manuscripts, the Great Hall under a soaring dome, and the Palace in Motion light show at night.",
+    "duration": "3 hours",
+    "cost": "AED 30"
+  },
+  {
+    "id": "sharjah-aquarium-where-the-arabian-gulf-opens-up",
+    "name": "Sharjah Aquarium — Where the Arabian Gulf Opens Up",
+    "category": "Sharjah — The Soul",
+    "tags": [
+      "uae",
+      "al khan, sharjah",
+      "8am–8pm (closed tue)",
+      "adults"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture"
+    ],
+    "costUsd": 7,
+    "avg_cost_aed": 25,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The Gulf's most educational aquarium: 250 species of marine life, the largest shark tank in the UAE outside Dubai, interactive touch pools, and exhibits on Gulf fishing traditions and coral conservation.",
+    "visit_order_weight": 24,
+    "source": "myglobaltrips.com",
+    "description": "The Gulf's most educational aquarium: 250 species of marine life, the largest shark tank in the UAE outside Dubai, interactive touch pools, and exhibits on Gulf fishing traditions and coral conservation.",
+    "duration": "3 hours",
+    "cost": "AED 25"
+  },
+  {
+    "id": "sharjah-desert-park-the-wilderness-that-waited",
+    "name": "Sharjah Desert Park — The Wilderness That Waited",
+    "category": "Sharjah — The Soul",
+    "tags": [
+      "uae",
+      "sharjah – al",
+      "9am–5:30pm",
+      "adults"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
       "culture",
       "desert"
     ],
-    "budget": "budget",
-    "time": "half day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "shopping",
-      "beaches",
-      "fine dining"
-    ],
-    "costUsd": 125,
-    "avg_cost_aed": 425,
-    "duration_hrs": 3.5,
+    "costUsd": 4,
+    "avg_cost_aed": 15,
+    "duration_hrs": 3,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 19
+    "tip": "The finest nature reserve in the UAE: Arabian Wildlife Centre, Children's Farm, a Natural History Museum, and botanical gardens. See Arabian oryx, sand gazelles, and endemic reptiles in vast open enclosures.",
+    "visit_order_weight": 25,
+    "source": "myglobaltrips.com",
+    "description": "The finest nature reserve in the UAE: Arabian Wildlife Centre, Children's Farm, a Natural History Museum, and botanical gardens. See Arabian oryx, sand gazelles, and endemic reptiles in vast open enclosures.",
+    "duration": "3 hours",
+    "cost": "AED 15"
   },
   {
-    "id": "dubai-attraction-20",
-    "name": "Palm Jumeirah Viewpoint 2",
-    "category": "Culture",
+    "id": "jais-flight-the-sky-as-your-runway",
+    "name": "Jais Flight — The Sky as Your Runway",
+    "category": "Ras Al Khaimah — The Wild",
     "tags": [
-      "luxury",
-      "skyline",
-      "shopping"
-    ],
-    "budget": "moderate",
-    "time": "full day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "beaches",
-      "fine dining",
-      "nightlife"
-    ],
-    "costUsd": 170,
-    "avg_cost_aed": 575,
-    "duration_hrs": 4.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 20
-  },
-  {
-    "id": "dubai-attraction-21",
-    "name": "Burj Khalifa Lounge 3",
-    "category": "Shopping",
-    "tags": [
-      "luxury",
-      "culture",
-      "shopping"
+      "uae",
+      "jebel jais, rak",
+      "9am–5pm (wed–sun in"
     ],
     "budget": "premium",
     "time": "evening",
@@ -714,34 +957,302 @@
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
     ],
     "interests": [
-      "thrills",
-      "culture",
-      "shopping"
+      "skyline"
     ],
-    "costUsd": 215,
-    "avg_cost_aed": 725,
-    "duration_hrs": 1.5,
+    "costUsd": 177,
+    "avg_cost_aed": 650,
+    "duration_hrs": 3,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 21
+    "tip": "The world's longest zipline. 2.83 kilometres. 1,680 metres above sea level. Speeds of up to 160 km/h. You fly tandem over the Hajar Mountains in three minutes of pure superhero-grade weightlessness. The most dramatic 180 seconds in the UAE.",
+    "visit_order_weight": 26,
+    "source": "myglobaltrips.com",
+    "description": "The world's longest zipline. 2.83 kilometres. 1,680 metres above sea level. Speeds of up to 160 km/h. You fly tandem over the Hajar Mountains in three minutes of pure superhero-grade weightlessness. The most dramatic 180 seconds in the UAE.",
+    "duration": "3 hours",
+    "cost": "AED 650"
   },
   {
-    "id": "dubai-attraction-22",
-    "name": "Museum of the Future 3",
-    "category": "Beach",
+    "id": "jais-sky-tour-the-canyon-crawler",
+    "name": "Jais Sky Tour — The Canyon Crawler",
+    "category": "Ras Al Khaimah — The Wild",
     "tags": [
-      "luxury",
-      "skyline",
-      "desert"
+      "uae",
+      "jebel jais, rak",
+      "3–4 hours"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "skyline"
+    ],
+    "costUsd": 150,
+    "avg_cost_aed": 550,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Six ziplines. Five kilometres of mountain terrain. A self-guided aerial circuit at 60 km/h, criss-crossing canyon walls and valley drops on seven consecutive platforms. For those who want the mountain, not just a moment of it.",
+    "visit_order_weight": 27,
+    "source": "myglobaltrips.com",
+    "description": "Six ziplines. Five kilometres of mountain terrain. A self-guided aerial circuit at 60 km/h, criss-crossing canyon walls and valley drops on seven consecutive platforms. For those who want the mountain, not just a moment of it.",
+    "duration": "3 hours",
+    "cost": "AED 550"
+  },
+  {
+    "id": "ajman-museum-the-fort-that-became-a-memory-palace",
+    "name": "Ajman Museum — The Fort That Became a Memory Palace",
+    "category": "Ajman — The Emirate",
+    "tags": [
+      "uae",
+      "ajman city centre",
+      "9am–7pm (fri 4–7pm)",
+      "adults"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture"
+    ],
+    "costUsd": 1,
+    "avg_cost_aed": 4,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "An 18th-century fortress converted into Ajman's finest museum: weapons, jewellery, archaeological artefacts, and traditional Emirati rooms recreated in painstaking detail. The quietest, richest AED 4 you'll spend in the UAE.",
+    "visit_order_weight": 28,
+    "source": "myglobaltrips.com",
+    "description": "An 18th-century fortress converted into Ajman's finest museum: weapons, jewellery, archaeological artefacts, and traditional Emirati rooms recreated in painstaking detail. The quietest, richest AED 4 you'll spend in the UAE.",
+    "duration": "3 hours",
+    "cost": "AED 4"
+  },
+  {
+    "id": "snoopy-island-the-reef-that-wears-a-famous-face",
+    "name": "Snoopy Island — The Reef That Wears a Famous Face",
+    "category": "Fujairah — Where the Hajar",
+    "tags": [
+      "uae",
+      "al aqah, fujairah",
+      "9am–6pm",
+      "1h 40min from"
+    ],
+    "budget": "moderate",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "beach"
+    ],
+    "costUsd": 41,
+    "avg_cost_aed": 150,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "A rocky outcrop shaped like Snoopy lying on his back, 100 metres off Al Aqah Beach. Beneath its surface: green turtles, blacktip reef sharks, parrotfish, moray eels, angelfish, and some of the UAE's richest living coral. Snorkel tours include equipment, kayaks, and SUP boards — all against the dramatic silhouette of the Hajar Mountains.",
+    "visit_order_weight": 29,
+    "source": "myglobaltrips.com",
+    "description": "A rocky outcrop shaped like Snoopy lying on his back, 100 metres off Al Aqah Beach. Beneath its surface: green turtles, blacktip reef sharks, parrotfish, moray eels, angelfish, and some of the UAE's richest living coral. Snorkel tours include equipment, kayaks, and SUP boards — all against the dramatic silhouette of the Hajar Mountains.",
+    "duration": "3 hours",
+    "cost": "AED 150"
+  },
+  {
+    "id": "fujairah-fort-the-watchtower-that-survived-empires",
+    "name": "Fujairah Fort — The Watchtower That Survived Empires",
+    "category": "Fujairah — Where the Hajar",
+    "tags": [
+      "uae",
+      "fujairah city",
+      "8am–5pm (closed fri",
+      "adults"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "skyline"
+    ],
+    "costUsd": 1,
+    "avg_cost_aed": 5,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Built in 1670, stormed by Wahhabists in the 1800s, shelled by the British in 1925, and still standing — Fujairah Fort is the UAE's oldest and most battle-scarred monument. Perched on a hilltop above the old town, its towers command views over mountains, date palms, and the glittering Gulf of Oman below.",
+    "visit_order_weight": 30,
+    "source": "myglobaltrips.com",
+    "description": "Built in 1670, stormed by Wahhabists in the 1800s, shelled by the British in 1925, and still standing — Fujairah Fort is the UAE's oldest and most battle-scarred monument. Perched on a hilltop above the old town, its towers command views over mountains, date palms, and the glittering Gulf of Oman below.",
+    "duration": "3 hours",
+    "cost": "AED 5"
+  },
+  {
+    "id": "ain-al-madhab-hot-springs-sulphur-silence-the-mountains",
+    "name": "Ain Al Madhab Hot Springs — Sulphur, Silence & the Mountains",
+    "category": "Fujairah — Where the Hajar",
+    "tags": [
+      "uae",
+      "fujairah city outskirts",
+      "7am–10pm daily",
+      "park entry"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "park"
+    ],
+    "costUsd": 1,
+    "avg_cost_aed": 5,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "A cluster of natural sulphur hot springs at the foot of the Hajar Mountains, long believed to have therapeutic properties. Set inside a landscaped park with pools, shaded paths, and mountain views — a completely unexpected oasis tucked at the edge of Fujairah City. Cooler, quieter, and more restorative than anything on the west coast.",
+    "visit_order_weight": 31,
+    "source": "myglobaltrips.com",
+    "description": "A cluster of natural sulphur hot springs at the foot of the Hajar Mountains, long believed to have therapeutic properties. Set inside a landscaped park with pools, shaded paths, and mountain views — a completely unexpected oasis tucked at the edge of Fujairah City. Cooler, quieter, and more restorative than anything on the west coast.",
+    "duration": "3 hours",
+    "cost": "AED 5"
+  },
+  {
+    "id": "fujairah-museum-4-500-years-under-one-roof",
+    "name": "Fujairah Museum — 4,500 Years Under One Roof",
+    "category": "Fujairah — Where the Hajar",
+    "tags": [
+      "uae",
+      "fujairah city (next",
+      "8am–6pm (closed fri)",
+      "30–45 mins"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "culture"
+    ],
+    "costUsd": 1,
+    "avg_cost_aed": 5,
+    "duration_hrs": 0.75,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Three halls of Bronze Age artefacts, ancient weapons, traditional Emirati household objects, and an ostrich egg from the 3rd century BC. Finds from Qidfa and Bithna excavations include U-shaped tombs from 2000 BC. The emirate's entire history distilled into a small, richly stocked museum — for AED 5.",
+    "visit_order_weight": 32,
+    "source": "myglobaltrips.com",
+    "description": "Three halls of Bronze Age artefacts, ancient weapons, traditional Emirati household objects, and an ostrich egg from the 3rd century BC. Finds from Qidfa and Bithna excavations include U-shaped tombs from 2000 BC. The emirate's entire history distilled into a small, richly stocked museum — for AED 5.",
+    "duration": "0.75 hours",
+    "cost": "AED 5"
+  },
+  {
+    "id": "dreamland-aqua-park-the-waterpark-that-time-forgot-in-the-best-way",
+    "name": "Dreamland Aqua Park — The Waterpark That Time Forgot (in the Best Way)",
+    "category": "Umm Al Quwain — The",
+    "tags": [
+      "uae",
+      "uaq coastline",
+      "10am–7pm (fri until",
+      "1 hour from"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "beach"
+    ],
+    "costUsd": 25,
+    "avg_cost_aed": 90,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "One of the region's largest waterparks — 30+ slides, wave pools, lazy rivers, and lush landscaped gardens on the UAQ coastline — without the queues, the crowds, or the Atlantis price tag. The Twister, Black Hole, Dead Sea wave pool, and Twisting Dragons deliver genuine thrills. Overnight beach camping with cabanas and BBQ from November to April.",
+    "visit_order_weight": 33,
+    "source": "myglobaltrips.com",
+    "description": "One of the region's largest waterparks — 30+ slides, wave pools, lazy rivers, and lush landscaped gardens on the UAQ coastline — without the queues, the crowds, or the Atlantis price tag. The Twister, Black Hole, Dead Sea wave pool, and Twisting Dragons deliver genuine thrills. Overnight beach camping with cabanas and BBQ from November to April.",
+    "duration": "3 hours",
+    "cost": "AED 90"
+  },
+  {
+    "id": "al-sinniyah-island-uaq-mangroves-where-flamingos-outnumber-tourists",
+    "name": "Al Sinniyah Island & UAQ Mangroves — Where Flamingos Outnumber Tourists",
+    "category": "Umm Al Quwain — The",
+    "tags": [
+      "uae",
+      "east of uaq",
+      "sunrise tours recommended",
+      "kayak/boat tour from"
     ],
     "budget": "budget",
     "time": "half day",
@@ -749,104 +1260,194 @@
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
     ],
     "interests": [
-      "culture",
-      "shopping",
-      "beaches"
+      "beach"
     ],
-    "costUsd": 260,
-    "avg_cost_aed": 875,
-    "duration_hrs": 2.5,
+    "costUsd": 27,
+    "avg_cost_aed": 100,
+    "duration_hrs": 3,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 22
+    "tip": "A protected archipelago of mangrove-dense islands east of the UAQ mainland — home to the rare Socotra cormorant colony, flamingo flocks, seagulls, and some of the Gulf's most intact coastal ecosystems. Kayak or boat tour through the mangroves at dawn, when the water is still and the birds have the sky to themselves.",
+    "visit_order_weight": 34,
+    "source": "myglobaltrips.com",
+    "description": "A protected archipelago of mangrove-dense islands east of the UAQ mainland — home to the rare Socotra cormorant colony, flamingo flocks, seagulls, and some of the Gulf's most intact coastal ecosystems. Kayak or boat tour through the mangroves at dawn, when the water is still and the birds have the sky to themselves.",
+    "duration": "3 hours",
+    "cost": "AED 100"
   },
   {
-    "id": "dubai-attraction-23",
-    "name": "Dubai Frame 3",
-    "category": "Dining",
+    "id": "uaq-national-museum-the-quiet-chronicle-of-a-proud-emirate",
+    "name": "UAQ National Museum — The Quiet Chronicle of a Proud Emirate",
+    "category": "Umm Al Quwain — The",
     "tags": [
-      "luxury",
-      "culture",
-      "shopping"
+      "uae",
+      "uaq old town",
+      "8am–8pm (closed fri",
+      "30 mins"
     ],
-    "budget": "moderate",
-    "time": "full day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "shopping",
-      "beaches",
-      "fine dining"
-    ],
-    "costUsd": 305,
-    "avg_cost_aed": 1025,
-    "duration_hrs": 3.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 23
-  },
-  {
-    "id": "dubai-attraction-24",
-    "name": "Al Fahidi Heritage Walk 3",
-    "category": "Desert",
-    "tags": [
-      "luxury",
-      "skyline",
-      "shopping"
-    ],
-    "budget": "premium",
+    "budget": "budget",
     "time": "evening",
     "groups": [
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
     ],
     "interests": [
-      "beaches",
-      "fine dining",
-      "nightlife"
+      "culture"
     ],
-    "costUsd": 350,
-    "avg_cost_aed": 1175,
-    "duration_hrs": 4.5,
+    "costUsd": 1,
+    "avg_cost_aed": 5,
+    "duration_hrs": 0.75,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 24
+    "tip": "A 250-year-old fort that once sheltered the royal family of Umm Al Quwain, now a meticulously restored museum. Two round towers, a square courtyard, and rooms filled with archaeological objects, traditional tools, old photographs, and artefacts that tell the story of an emirate that has always done things quietly — and done them well.",
+    "visit_order_weight": 35,
+    "source": "myglobaltrips.com",
+    "description": "A 250-year-old fort that once sheltered the royal family of Umm Al Quwain, now a meticulously restored museum. Two round towers, a square courtyard, and rooms filled with archaeological objects, traditional tools, old photographs, and artefacts that tell the story of an emirate that has always done things quietly — and done them well.",
+    "duration": "0.75 hours",
+    "cost": "AED 5"
   },
   {
-    "id": "dubai-attraction-25",
-    "name": "Gold Souk Private Shopping 3",
-    "category": "Iconic",
+    "id": "dubai-marina-dhow-dinner-cruise",
+    "name": "Dubai Marina Dhow Dinner Cruise",
+    "category": "Dhow Cruise — Old Dubai,",
     "tags": [
-      "luxury",
-      "culture",
-      "desert"
+      "premium",
+      "2 hours",
+      "buffet included",
+      "live tanoura show",
+      "daily 8:30–10:30pm"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "cruise"
+    ],
+    "costUsd": 33,
+    "avg_cost_aed": 120,
+    "duration_hrs": 2,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "A 2-hour sail through Dubai Marina's canyon of glass towers aboard a traditional wooden dhow, refurbished into a floating restaurant. International buffet dinner, live Tanoura dance, and skyline views from Ain Dubai to the Marina Yacht Club.",
+    "visit_order_weight": 36,
+    "source": "myglobaltrips.com",
+    "description": "A 2-hour sail through Dubai Marina's canyon of glass towers aboard a traditional wooden dhow, refurbished into a floating restaurant. International buffet dinner, live Tanoura dance, and skyline views from Ain Dubai to the Marina Yacht Club.",
+    "duration": "2 hours",
+    "cost": "AED 120"
+  },
+  {
+    "id": "dubai-creek-heritage-dhow-cruise",
+    "name": "Dubai Creek Heritage Dhow Cruise",
+    "category": "Dhow Cruise — Old Dubai,",
+    "tags": [
+      "premium",
+      "1.5–2 hours",
+      "buffet optional",
+      "heritage route",
+      "evening departures"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "cruise",
+      "heritage"
+    ],
+    "costUsd": 18,
+    "avg_cost_aed": 65,
+    "duration_hrs": 2,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The original dhow route — sailing the historic Creek between Deira's spice souqs and Bur Dubai's wind-tower architecture. The contrast between old Arabia and the Burj Khalifa skyline, all from one wooden deck.",
+    "visit_order_weight": 37,
+    "source": "myglobaltrips.com",
+    "description": "The original dhow route — sailing the historic Creek between Deira's spice souqs and Bur Dubai's wind-tower architecture. The contrast between old Arabia and the Burj Khalifa skyline, all from one wooden deck.",
+    "duration": "2 hours",
+    "cost": "AED 65"
+  },
+  {
+    "id": "private-dhow-charter-family-group-celebration",
+    "name": "Private Dhow Charter — Family & Group Celebration",
+    "category": "Dhow Cruise — Old Dubai,",
+    "tags": [
+      "premium",
+      "2–3 hours",
+      "fully private",
+      "customisable",
+      "up to 80"
+    ],
+    "budget": "premium",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "cruise"
+    ],
+    "costUsd": 1226,
+    "avg_cost_aed": 4500,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Charter the entire dhow for your group — birthdays, anniversaries, corporate gatherings. Customisable menu, decorations, and music, with the whole vessel reserved exclusively for your party along the Marina or Creek.",
+    "visit_order_weight": 38,
+    "source": "myglobaltrips.com",
+    "description": "Charter the entire dhow for your group — birthdays, anniversaries, corporate gatherings. Customisable menu, decorations, and music, with the whole vessel reserved exclusively for your party along the Marina or Creek.",
+    "duration": "3 hours",
+    "cost": "AED 4500"
+  },
+  {
+    "id": "premium-catamaran-sightseeing-cruise",
+    "name": "Premium Catamaran Sightseeing Cruise",
+    "category": "Premium Dubai Marina Cruise —",
+    "tags": [
+      "premium",
+      "1–1.5 hours",
+      "welcome drinks",
+      "open sundeck",
+      "multiple daily departures"
     ],
     "budget": "budget",
     "time": "half day",
@@ -854,139 +1455,644 @@
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
     ],
     "interests": [
-      "thrills",
-      "culture",
-      "shopping"
+      "premium",
+      "cruise"
     ],
-    "costUsd": 35,
-    "avg_cost_aed": 125,
-    "duration_hrs": 1.5,
+    "costUsd": 27,
+    "avg_cost_aed": 99,
+    "duration_hrs": 5,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 25
+    "tip": "A sleek catamaran with a sundeck and shaded lounge — gliding past Ain Dubai, Bluewaters Island, and the Marina towers. Faster and more stable than a dhow, with panoramic 360° views and onboard refreshments.",
+    "visit_order_weight": 39,
+    "source": "myglobaltrips.com",
+    "description": "A sleek catamaran with a sundeck and shaded lounge — gliding past Ain Dubai, Bluewaters Island, and the Marina towers. Faster and more stable than a dhow, with panoramic 360° views and onboard refreshments.",
+    "duration": "5 hours",
+    "cost": "AED 99"
   },
   {
-    "id": "dubai-attraction-26",
-    "name": "Dubai Marina Yacht 3",
-    "category": "Culture",
+    "id": "marina-bbq-sunset-cruise",
+    "name": "Marina BBQ Sunset Cruise",
+    "category": "Premium Dubai Marina Cruise —",
     "tags": [
-      "luxury",
-      "skyline",
-      "shopping"
+      "premium",
+      "2 hours",
+      "live bbq grill",
+      "dj onboard",
+      "sunset departure"
     ],
     "budget": "moderate",
-    "time": "full day",
-    "groups": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group",
-      "friends"
-    ],
-    "interests": [
-      "culture",
-      "shopping",
-      "beaches"
-    ],
-    "costUsd": 80,
-    "avg_cost_aed": 275,
-    "duration_hrs": 2.5,
-    "best_for": [
-      "solo",
-      "couple",
-      "family",
-      "corporate group"
-    ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 26
-  },
-  {
-    "id": "dubai-attraction-27",
-    "name": "Jumeirah Beach Club 3",
-    "category": "Shopping",
-    "tags": [
-      "luxury",
-      "culture",
-      "shopping"
-    ],
-    "budget": "premium",
     "time": "evening",
     "groups": [
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
     ],
     "interests": [
-      "shopping",
-      "beaches",
-      "fine dining"
+      "premium",
+      "cruise"
     ],
-    "costUsd": 125,
-    "avg_cost_aed": 425,
-    "duration_hrs": 3.5,
+    "costUsd": 41,
+    "avg_cost_aed": 150,
+    "duration_hrs": 2,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 27
+    "tip": "Watch the Marina towers turn gold as the sun sets, with a live BBQ grill on deck, unlimited soft drinks, and a DJ setting the mood. A more relaxed, social alternative to the formal dinner buffet cruise.",
+    "visit_order_weight": 40,
+    "source": "myglobaltrips.com",
+    "description": "Watch the Marina towers turn gold as the sun sets, with a live BBQ grill on deck, unlimited soft drinks, and a DJ setting the mood. A more relaxed, social alternative to the formal dinner buffet cruise.",
+    "duration": "2 hours",
+    "cost": "AED 150"
   },
   {
-    "id": "dubai-attraction-28",
-    "name": "Desert Conservation Drive 3",
-    "category": "Beach",
+    "id": "private-speedboat-marina-tour",
+    "name": "Private Speedboat Marina Tour",
+    "category": "Premium Dubai Marina Cruise —",
     "tags": [
-      "luxury",
-      "skyline",
-      "desert"
+      "premium",
+      "30–45 mins",
+      "high speed",
+      "photos included",
+      "private group"
     ],
-    "budget": "budget",
+    "budget": "moderate",
     "time": "half day",
     "groups": [
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
     ],
     "interests": [
-      "beaches",
-      "fine dining",
-      "nightlife"
+      "premium",
+      "cruise"
     ],
-    "costUsd": 170,
-    "avg_cost_aed": 575,
-    "duration_hrs": 4.5,
+    "costUsd": 95,
+    "avg_cost_aed": 350,
+    "duration_hrs": 0.75,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 28
+    "tip": "A 30–45 minute adrenaline-laced speedboat run past Burj Al Arab, Atlantis, and the Marina skyline — for those who want the views without the dinner-cruise pace. Photos and video included on most packages.",
+    "visit_order_weight": 41,
+    "source": "myglobaltrips.com",
+    "description": "A 30–45 minute adrenaline-laced speedboat run past Burj Al Arab, Atlantis, and the Marina skyline — for those who want the views without the dinner-cruise pace. Photos and video included on most packages.",
+    "duration": "0.75 hours",
+    "cost": "AED 350"
   },
   {
-    "id": "dubai-attraction-29",
-    "name": "Dubai Mall Aquarium 3",
-    "category": "Dining",
+    "id": "42ft-yacht-intimate-private-charter",
+    "name": "42ft Yacht — Intimate Private Charter",
+    "category": "Premium Yachts — For Private",
     "tags": [
-      "luxury",
-      "culture",
-      "shopping"
+      "premium",
+      "per hour",
+      "up to 10",
+      "captain & crew",
+      "soft drinks incl."
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 136,
+    "avg_cost_aed": 499,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The perfect entry point into Dubai yachting — a sleek 42-footer for couples, small families, or close friends. Cruise past Ain Dubai and Palm Jumeirah with your own private captain and crew.",
+    "visit_order_weight": 42,
+    "source": "myglobaltrips.com",
+    "description": "The perfect entry point into Dubai yachting — a sleek 42-footer for couples, small families, or close friends. Cruise past Ain Dubai and Palm Jumeirah with your own private captain and crew.",
+    "duration": "3 hours",
+    "cost": "AED 499"
+  },
+  {
+    "id": "56-65ft-yacht-team-offsites-family-parties",
+    "name": "56–65ft Yacht — Team Offsites & Family Parties",
+    "category": "Premium Yachts — For Private",
+    "tags": [
+      "premium",
+      "per hour",
+      "19–30 guests",
+      "bbq add-on available",
+      "sound system"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 245,
+    "avg_cost_aed": 899,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Comfortably hosts 19–30 guests — the sweet spot for birthdays, team offsites, and family celebrations that actually feel like a party. Sun deck, lounge seating, and optional BBQ or catering add-ons.",
+    "visit_order_weight": 43,
+    "source": "myglobaltrips.com",
+    "description": "Comfortably hosts 19–30 guests — the sweet spot for birthdays, team offsites, and family celebrations that actually feel like a party. Sun deck, lounge seating, and optional BBQ or catering add-ons.",
+    "duration": "3 hours",
+    "cost": "AED 899"
+  },
+  {
+    "id": "71-88ft-yacht-floating-estate-for-corporate-events",
+    "name": "71–88ft Yacht — Floating Estate for Corporate Events",
+    "category": "Premium Yachts — For Private",
+    "tags": [
+      "premium",
+      "per hour",
+      "30–65 guests",
+      "premium catering",
+      "av/presentation ready"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 381,
+    "avg_cost_aed": 1400,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Expanded lounges, larger sun decks, and richer finishes — built to host 30–65 guests for serious corporate hospitality, product launches, or milestone celebrations on the water.",
+    "visit_order_weight": 44,
+    "source": "myglobaltrips.com",
+    "description": "Expanded lounges, larger sun decks, and richer finishes — built to host 30–65 guests for serious corporate hospitality, product launches, or milestone celebrations on the water.",
+    "duration": "3 hours",
+    "cost": "AED 1400"
+  },
+  {
+    "id": "100ft-superyacht-vip-large-scale-events",
+    "name": "100ft+ Superyacht — VIP & Large-Scale Events",
+    "category": "Premium Yachts — For Private",
+    "tags": [
+      "premium",
+      "per hour",
+      "65+ guests",
+      "private chef available",
+      "full av &"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 2180,
+    "avg_cost_aed": 8000,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Multi-deck superyachts with cinema-grade sound, VIP lounges, and full chef setups — the kind of private floating venue reserved for milestone corporate galas, weddings, or VIP entertaining at the highest level.",
+    "visit_order_weight": 45,
+    "source": "myglobaltrips.com",
+    "description": "Multi-deck superyachts with cinema-grade sound, VIP lounges, and full chef setups — the kind of private floating venue reserved for milestone corporate galas, weddings, or VIP entertaining at the highest level.",
+    "duration": "3 hours",
+    "cost": "AED 8000"
+  },
+  {
+    "id": "executive-sedan-limousine",
+    "name": "Executive Sedan Limousine",
+    "category": "Limousine Premium —",
+    "tags": [
+      "premium",
+      "hourly or point-to-point",
+      "rta-licensed chauffeur",
+      "luggage assistance",
+      "24/7 availability"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 109,
+    "avg_cost_aed": 399,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "A premium sedan with a professional, uniformed chauffeur — discreet, punctual, and built for business travel, hotel transfers, or simply arriving in quiet comfort. RTA-licensed and fully insured.",
+    "visit_order_weight": 46,
+    "source": "myglobaltrips.com",
+    "description": "A premium sedan with a professional, uniformed chauffeur — discreet, punctual, and built for business travel, hotel transfers, or simply arriving in quiet comfort. RTA-licensed and fully insured.",
+    "duration": "3 hours",
+    "cost": "AED 399"
+  },
+  {
+    "id": "stretch-limousine-weddings-celebrations",
+    "name": "Stretch Limousine — Weddings & Celebrations",
+    "category": "Limousine Premium —",
+    "tags": [
+      "premium",
+      "min. 3 hours",
+      "wedding decor available",
+      "minibar onboard",
+      "photo-ready styling"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 177,
+    "avg_cost_aed": 650,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The classic stretch limousine — leather salon interior, mood lighting, and a spacious cabin built for bridal parties, anniversaries, and milestone celebrations across Dubai's most photogenic backdrops.",
+    "visit_order_weight": 47,
+    "source": "myglobaltrips.com",
+    "description": "The classic stretch limousine — leather salon interior, mood lighting, and a spacious cabin built for bridal parties, anniversaries, and milestone celebrations across Dubai's most photogenic backdrops.",
+    "duration": "3 hours",
+    "cost": "AED 650"
+  },
+  {
+    "id": "premium-suv-8-seater-limousine",
+    "name": "Premium SUV / 8-Seater Limousine",
+    "category": "Limousine Premium —",
+    "tags": [
+      "premium",
+      "hourly or half-day",
+      "up to 10",
+      "privacy partition",
+      "premium audio"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 136,
+    "avg_cost_aed": 499,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "An elevated SUV-class limousine seating up to 10 — privacy partitions, premium audio, and the legroom your group actually needs. Ideal for families, small corporate groups, or VIP guest transport.",
+    "visit_order_weight": 48,
+    "source": "myglobaltrips.com",
+    "description": "An elevated SUV-class limousine seating up to 10 — privacy partitions, premium audio, and the legroom your group actually needs. Ideal for families, small corporate groups, or VIP guest transport.",
+    "duration": "3 hours",
+    "cost": "AED 499"
+  },
+  {
+    "id": "buses-cars-vans-across-the-uae",
+    "name": "Buses, Cars & Vans Across the UAE",
+    "category": "Premium Ground Transfers —",
+    "tags": [
+      "premium",
+      "view all →",
+      "executive sedan",
+      "2–3 passengers"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 41,
+    "avg_cost_aed": 150,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "From a single executive sedan to a 66-seater corporate coach — reliable, RTA-compliant ground transport connecting every emirate, every airport, every itinerary.",
+    "visit_order_weight": 49,
+    "source": "myglobaltrips.com",
+    "description": "From a single executive sedan to a 66-seater corporate coach — reliable, RTA-compliant ground transport connecting every emirate, every airport, every itinerary.",
+    "duration": "3 hours",
+    "cost": "AED 150"
+  },
+  {
+    "id": "group-transport",
+    "name": "Group Transport",
+    "category": "Premium Ground Transfers —",
+    "tags": [
+      "premium"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 204,
+    "avg_cost_aed": 750,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book Group Transport in advance with MyGlobalTrips for current availability and inclusions.",
+    "visit_order_weight": 50,
+    "source": "myglobaltrips.com",
+    "description": "Book Group Transport in advance with MyGlobalTrips for current availability and inclusions.",
+    "duration": "3 hours",
+    "cost": "AED 750"
+  },
+  {
+    "id": "corporate-groups",
+    "name": "Corporate Groups",
+    "category": "Premium Ground Transfers —",
+    "tags": [
+      "premium"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 259,
+    "avg_cost_aed": 950,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book Corporate Groups in advance with MyGlobalTrips for current availability and inclusions.",
+    "visit_order_weight": 51,
+    "source": "myglobaltrips.com",
+    "description": "Book Corporate Groups in advance with MyGlobalTrips for current availability and inclusions.",
+    "duration": "3 hours",
+    "cost": "AED 950"
+  },
+  {
+    "id": "large-corporate",
+    "name": "Large Corporate",
+    "category": "Premium Ground Transfers —",
+    "tags": [
+      "premium"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 381,
+    "avg_cost_aed": 1400,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book Large Corporate in advance with MyGlobalTrips for current availability and inclusions.",
+    "visit_order_weight": 52,
+    "source": "myglobaltrips.com",
+    "description": "Book Large Corporate in advance with MyGlobalTrips for current availability and inclusions.",
+    "duration": "3 hours",
+    "cost": "AED 1400"
+  },
+  {
+    "id": "mega-groups-mice",
+    "name": "Mega Groups/MICE",
+    "category": "Premium Ground Transfers —",
+    "tags": [
+      "premium"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 763,
+    "avg_cost_aed": 2800,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book Mega Groups/MICE in advance with MyGlobalTrips for current availability and inclusions.",
+    "visit_order_weight": 53,
+    "source": "myglobaltrips.com",
+    "description": "Book Mega Groups/MICE in advance with MyGlobalTrips for current availability and inclusions.",
+    "duration": "3 hours",
+    "cost": "AED 2800"
+  },
+  {
+    "id": "inter-emirate-transfer",
+    "name": "Inter-Emirate Transfer",
+    "category": "Premium Ground Transfers —",
+    "tags": [
+      "premium"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 150,
+    "avg_cost_aed": 550,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Book Inter-Emirate Transfer in advance with MyGlobalTrips for current availability and inclusions.",
+    "visit_order_weight": 54,
+    "source": "myglobaltrips.com",
+    "description": "Book Inter-Emirate Transfer in advance with MyGlobalTrips for current availability and inclusions.",
+    "duration": "3 hours",
+    "cost": "AED 550"
+  },
+  {
+    "id": "dubai-airport-meet-greet-transfer",
+    "name": "Dubai Airport Meet & Greet Transfer",
+    "category": "Premium Ground Transfers —",
+    "tags": [
+      "premium",
+      "flight tracking included",
+      "meet & greet",
+      "sedan or suv",
+      "24/7 service"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 41,
+    "avg_cost_aed": 150,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "A chauffeur with a name board waiting inside the terminal, luggage assistance, and a direct ride to your hotel in a premium sedan or SUV. The first impression of your UAE holiday, handled properly.",
+    "visit_order_weight": 55,
+    "source": "myglobaltrips.com",
+    "description": "A chauffeur with a name board waiting inside the terminal, luggage assistance, and a direct ride to your hotel in a premium sedan or SUV. The first impression of your UAE holiday, handled properly.",
+    "duration": "3 hours",
+    "cost": "AED 150"
+  },
+  {
+    "id": "inter-emirate-day-tour-transfer",
+    "name": "Inter-Emirate Day Tour Transfer",
+    "category": "Premium Ground Transfers —",
+    "tags": [
+      "premium",
+      "full day (8–10",
+      "multi-emirate routes",
+      "sedan to coach",
+      "english-speaking driver"
     ],
     "budget": "moderate",
     "time": "full day",
@@ -994,34 +2100,274 @@
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
     ],
     "interests": [
-      "thrills",
-      "culture",
-      "shopping"
+      "premium"
     ],
-    "costUsd": 215,
-    "avg_cost_aed": 725,
-    "duration_hrs": 1.5,
+    "costUsd": 150,
+    "avg_cost_aed": 550,
+    "duration_hrs": 3,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 29
+    "tip": "A dedicated vehicle and driver for a full day covering Dubai to Abu Dhabi, Sharjah, Fujairah, or Ras Al Khaimah and back — flexible stops, your schedule, no rushing between sights.",
+    "visit_order_weight": 56,
+    "source": "myglobaltrips.com",
+    "description": "A dedicated vehicle and driver for a full day covering Dubai to Abu Dhabi, Sharjah, Fujairah, or Ras Al Khaimah and back — flexible stops, your schedule, no rushing between sights.",
+    "duration": "3 hours",
+    "cost": "AED 550"
   },
   {
-    "id": "dubai-attraction-30",
-    "name": "Palm Jumeirah Viewpoint 3",
-    "category": "Desert",
+    "id": "corporate-event-mice-transport",
+    "name": "Corporate Event & MICE Transport",
+    "category": "Premium Ground Transfers —",
     "tags": [
-      "luxury",
+      "premium",
+      "custom scheduling",
+      "multi-vehicle fleets",
+      "dedicated coordinator",
+      "corporate billing"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "premium"
+    ],
+    "costUsd": 259,
+    "avg_cost_aed": 950,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "End-to-end transport coordination for conferences, incentive groups, and corporate events — multiple vehicles, synchronised pickup schedules, and a single point of contact for the entire group's movement.",
+    "visit_order_weight": 57,
+    "source": "myglobaltrips.com",
+    "description": "End-to-end transport coordination for conferences, incentive groups, and corporate events — multiple vehicles, synchronised pickup schedules, and a single point of contact for the entire group's movement.",
+    "duration": "3 hours",
+    "cost": "AED 950"
+  },
+  {
+    "id": "sunrise-desert-balloon-flight-bedouin-breakfast",
+    "name": "Sunrise Desert Balloon Flight + Bedouin Breakfast",
+    "category": "Hot Air Balloon — The Desert",
+    "tags": [
+      "premium",
+      "5 hours door-to-door",
+      "sunrise departure",
+      "breakfast included",
+      "falconry show"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "desert"
+    ],
+    "costUsd": 177,
+    "avg_cost_aed": 649,
+    "duration_hrs": 5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Rise 4,000 feet above the Dubai Desert Conservation Reserve as the sun clears the dunes, drifting silently for 45–60 minutes over camels, oryx, and gazelles. Land to a gourmet Arabian breakfast at a traditional Bedouin camp, with falconry demonstrations.",
+    "visit_order_weight": 58,
+    "source": "myglobaltrips.com",
+    "description": "Rise 4,000 feet above the Dubai Desert Conservation Reserve as the sun clears the dunes, drifting silently for 45–60 minutes over camels, oryx, and gazelles. Land to a gourmet Arabian breakfast at a traditional Bedouin camp, with falconry demonstrations.",
+    "duration": "5 hours",
+    "cost": "AED 649"
+  },
+  {
+    "id": "premium-balloon-flight-camel-ride",
+    "name": "Premium Balloon Flight + Camel Ride",
+    "category": "Hot Air Balloon — The Desert",
+    "tags": [
+      "premium",
+      "5.5 hours",
+      "camel ride included",
+      "gourmet breakfast",
+      "professional photos"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "desert"
+    ],
+    "costUsd": 259,
+    "avg_cost_aed": 949,
+    "duration_hrs": 5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The full desert morning — a balloon flight, followed by a guided camel ride through the dunes, then breakfast beneath the open sky. A complete Arabian morning, built for first-time UAE visitors and honeymooners alike.",
+    "visit_order_weight": 59,
+    "source": "myglobaltrips.com",
+    "description": "The full desert morning — a balloon flight, followed by a guided camel ride through the dunes, then breakfast beneath the open sky. A complete Arabian morning, built for first-time UAE visitors and honeymooners alike.",
+    "duration": "5 hours",
+    "cost": "AED 949"
+  },
+  {
+    "id": "private-balloon-charter-proposals-exclusive-flights",
+    "name": "Private Balloon Charter — Proposals & Exclusive Flights",
+    "category": "Hot Air Balloon — The Desert",
+    "tags": [
+      "premium",
+      "60 min flight",
+      "proposal-ready",
+      "private pilot",
+      "champagne option"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "desert"
+    ],
+    "costUsd": 763,
+    "avg_cost_aed": 2800,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Your own dedicated balloon and pilot — no sharing the basket with strangers. The definitive setting for marriage proposals, anniversaries, or simply a flight on your own schedule with total privacy.",
+    "visit_order_weight": 60,
+    "source": "myglobaltrips.com",
+    "description": "Your own dedicated balloon and pilot — no sharing the basket with strangers. The definitive setting for marriage proposals, anniversaries, or simply a flight on your own schedule with total privacy.",
+    "duration": "3 hours",
+    "cost": "AED 2800"
+  },
+  {
+    "id": "the-iconic-tour-12-minutes",
+    "name": "The Iconic Tour — 12 Minutes",
+    "category": "Helicopter Rides — Dubai's",
+    "tags": [
+      "premium",
+      "12 minutes",
+      "shared flight",
+      "window seat guaranteed",
+      "palm jumeirah &"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
       "skyline",
-      "shopping"
+      "luxury"
+    ],
+    "costUsd": 177,
+    "avg_cost_aed": 649,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The essential Dubai flyover: Palm Jumeirah, Atlantis The Palm, and the sail-shaped Burj Al Arab from above. The perfect introduction to aerial Dubai for first-time visitors or those on a tighter budget.",
+    "visit_order_weight": 61,
+    "source": "myglobaltrips.com",
+    "description": "The essential Dubai flyover: Palm Jumeirah, Atlantis The Palm, and the sail-shaped Burj Al Arab from above. The perfect introduction to aerial Dubai for first-time visitors or those on a tighter budget.",
+    "duration": "3 hours",
+    "cost": "AED 649"
+  },
+  {
+    "id": "the-palm-tour-17-minutes",
+    "name": "The Palm Tour — 17 Minutes",
+    "category": "Helicopter Rides — Dubai's",
+    "tags": [
+      "premium",
+      "17 minutes",
+      "shared flight",
+      "includes burj khalifa",
+      "downtown + coastline"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "skyline",
+      "luxury"
+    ],
+    "costUsd": 218,
+    "avg_cost_aed": 799,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Extends the Iconic route to include Downtown Dubai and the Burj Khalifa — a closer, more detailed look at the city's modern skyline alongside the coastal landmarks of the first tour.",
+    "visit_order_weight": 62,
+    "source": "myglobaltrips.com",
+    "description": "Extends the Iconic route to include Downtown Dubai and the Burj Khalifa — a closer, more detailed look at the city's modern skyline alongside the coastal landmarks of the first tour.",
+    "duration": "3 hours",
+    "cost": "AED 799"
+  },
+  {
+    "id": "the-grand-tour-30-minutes",
+    "name": "The Grand Tour — 30 Minutes",
+    "category": "Helicopter Rides — Dubai's",
+    "tags": [
+      "premium",
+      "30 minutes",
+      "shared flight",
+      "world islands &",
+      "best for photography"
     ],
     "budget": "premium",
     "time": "evening",
@@ -1029,24 +2375,688 @@
       "solo",
       "couple",
       "family",
-      "corporate group",
-      "friends"
+      "friends",
+      "corporate group"
     ],
     "interests": [
-      "culture",
-      "shopping",
-      "beaches"
+      "skyline",
+      "beach",
+      "luxury"
     ],
-    "costUsd": 260,
-    "avg_cost_aed": 875,
-    "duration_hrs": 2.5,
+    "costUsd": 354,
+    "avg_cost_aed": 1299,
+    "duration_hrs": 3,
     "best_for": [
       "solo",
       "couple",
       "family",
       "corporate group"
     ],
-    "tip": "Book timed access and keep transfer buffers between stops.",
-    "visit_order_weight": 30
+    "tip": "The complete aerial story of Dubai — World Islands, Dubai Creek, the entire coastline, and inland development. For photographers, repeat visitors, and anyone who wants the full picture, not just the highlights.",
+    "visit_order_weight": 63,
+    "source": "myglobaltrips.com",
+    "description": "The complete aerial story of Dubai — World Islands, Dubai Creek, the entire coastline, and inland development. For photographers, repeat visitors, and anyone who wants the full picture, not just the highlights.",
+    "duration": "3 hours",
+    "cost": "AED 1299"
+  },
+  {
+    "id": "private-helicopter-charter-proposals-vip",
+    "name": "Private Helicopter Charter — Proposals & VIP",
+    "category": "Helicopter Rides — Dubai's",
+    "tags": [
+      "premium",
+      "17–22 minutes",
+      "private charter",
+      "proposal-ready",
+      "up to 5"
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "skyline",
+      "luxury"
+    ],
+    "costUsd": 1199,
+    "avg_cost_aed": 4400,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The entire helicopter reserved for your group only — no strangers, your own schedule, and an in-flight moment that can include a proposal, birthday celebration, or simply uninterrupted views with people you choose.",
+    "visit_order_weight": 64,
+    "source": "myglobaltrips.com",
+    "description": "The entire helicopter reserved for your group only — no strangers, your own schedule, and an in-flight moment that can include a proposal, birthday celebration, or simply uninterrupted views with people you choose.",
+    "duration": "3 hours",
+    "cost": "AED 4400"
+  },
+  {
+    "id": "jet-ski-tour-burj-al-arab-atlantis",
+    "name": "Jet Ski Tour — Burj Al Arab & Atlantis",
+    "category": "Water Sports — The Gulf",
+    "tags": [
+      "premium",
+      "30–60 mins",
+      "photos included",
+      "no license needed"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "water"
+    ],
+    "costUsd": 45,
+    "avg_cost_aed": 165,
+    "duration_hrs": 5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Speed across the Gulf with the Burj Al Arab and Atlantis The Palm as your backdrop. Certified guides, photo and video included on most packages, suitable for first-timers and experienced riders alike.",
+    "visit_order_weight": 65,
+    "source": "myglobaltrips.com",
+    "description": "Speed across the Gulf with the Burj Al Arab and Atlantis The Palm as your backdrop. Certified guides, photo and video included on most packages, suitable for first-timers and experienced riders alike.",
+    "duration": "5 hours",
+    "cost": "AED 165"
+  },
+  {
+    "id": "parasailing-over-jbr-beach",
+    "name": "Parasailing Over JBR Beach",
+    "category": "Water Sports — The Gulf",
+    "tags": [
+      "premium",
+      "1 hour",
+      "up to 250m",
+      "family-friendly"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "water",
+      "family"
+    ],
+    "costUsd": 76,
+    "avg_cost_aed": 280,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Rise 250 metres above the Gulf, towed by speedboat, for panoramic views of the Palm, the Marina skyline, and JBR's beachfront from a totally different angle. Calm, scenic, and accessible to nearly everyone.",
+    "visit_order_weight": 66,
+    "source": "myglobaltrips.com",
+    "description": "Rise 250 metres above the Gulf, towed by speedboat, for panoramic views of the Palm, the Marina skyline, and JBR's beachfront from a totally different angle. Calm, scenic, and accessible to nearly everyone.",
+    "duration": "3 hours",
+    "cost": "AED 280"
+  },
+  {
+    "id": "flyboard-experience-jumeirah",
+    "name": "Flyboard Experience — Jumeirah",
+    "category": "Water Sports — The Gulf",
+    "tags": [
+      "premium",
+      "30 minutes",
+      "instructor-guided",
+      "burj al arab"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "water"
+    ],
+    "costUsd": 87,
+    "avg_cost_aed": 320,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Strap into a water-propelled jetpack and rocket above the surface like a superhero, fully guided by a certified instructor. The most photogenic, most talked-about water sport on this list.",
+    "visit_order_weight": 67,
+    "source": "myglobaltrips.com",
+    "description": "Strap into a water-propelled jetpack and rocket above the surface like a superhero, fully guided by a certified instructor. The most photogenic, most talked-about water sport on this list.",
+    "duration": "3 hours",
+    "cost": "AED 320"
+  },
+  {
+    "id": "self-drive-bbq-boat-day",
+    "name": "Self-Drive BBQ Boat Day",
+    "category": "Water Sports — The Gulf",
+    "tags": [
+      "premium",
+      "1.5 hours",
+      "bbq equipment incl.",
+      "no license needed"
+    ],
+    "budget": "moderate",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "water"
+    ],
+    "costUsd": 174,
+    "avg_cost_aed": 640,
+    "duration_hrs": 5,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "A self-driveable BBQ pontoon boat for small groups — grill onboard, cruise at your own pace, and anchor wherever the view looks best. No license required, just a sense of adventure.",
+    "visit_order_weight": 68,
+    "source": "myglobaltrips.com",
+    "description": "A self-driveable BBQ pontoon boat for small groups — grill onboard, cruise at your own pace, and anchor wherever the view looks best. No license required, just a sense of adventure.",
+    "duration": "5 hours",
+    "cost": "AED 640"
+  },
+  {
+    "id": "donut-ride-banana-boat",
+    "name": "Donut Ride / Banana Boat",
+    "category": "Water Sports — The Gulf",
+    "tags": [
+      "premium",
+      "15–20 mins",
+      "group activity",
+      "maximum fun"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "water"
+    ],
+    "costUsd": 68,
+    "avg_cost_aed": 250,
+    "duration_hrs": 2,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The classic group water sport — hold on tight as your inflatable donut or banana boat gets towed and flipped across the waves. The most laugh-out-loud activity in the whole lineup.",
+    "visit_order_weight": 69,
+    "source": "myglobaltrips.com",
+    "description": "The classic group water sport — hold on tight as your inflatable donut or banana boat gets towed and flipped across the waves. The most laugh-out-loud activity in the whole lineup.",
+    "duration": "2 hours",
+    "cost": "AED 250"
+  },
+  {
+    "id": "wakeboarding-dubai-marina",
+    "name": "Wakeboarding — Dubai Marina",
+    "category": "Water Sports — The Gulf",
+    "tags": [
+      "premium",
+      "30 mins",
+      "all skill levels",
+      "instructor available"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "water"
+    ],
+    "costUsd": 82,
+    "avg_cost_aed": 300,
+    "duration_hrs": 0.75,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Carve across the wake behind a speedboat on the calm waters of Dubai Marina, with instructor guidance for beginners and full freedom for experienced riders.",
+    "visit_order_weight": 70,
+    "source": "myglobaltrips.com",
+    "description": "Carve across the wake behind a speedboat on the calm waters of Dubai Marina, with instructor guidance for beginners and full freedom for experienced riders.",
+    "duration": "0.75 hours",
+    "cost": "AED 300"
+  },
+  {
+    "id": "scuba-diving-snorkelling-fujairah-coast",
+    "name": "Scuba Diving & Snorkelling — Fujairah Coast",
+    "category": "Water Sports — The Gulf",
+    "tags": [
+      "premium",
+      "half-day",
+      "padi certified",
+      "turtle sightings common"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "water"
+    ],
+    "costUsd": 68,
+    "avg_cost_aed": 250,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The UAE's only east-coast diving grounds — coral reefs, reef sharks, and turtles around Snoopy Island. PADI-certified instructors for beginners through to advanced divers.",
+    "visit_order_weight": 71,
+    "source": "myglobaltrips.com",
+    "description": "The UAE's only east-coast diving grounds — coral reefs, reef sharks, and turtles around Snoopy Island. PADI-certified instructors for beginners through to advanced divers.",
+    "duration": "3 hours",
+    "cost": "AED 250"
+  },
+  {
+    "id": "kayaking-dubai-water-canal-mangroves",
+    "name": "Kayaking — Dubai Water Canal & Mangroves",
+    "category": "Water Sports — The Gulf",
+    "tags": [
+      "premium",
+      "1–2 hours",
+      "mangrove routes",
+      "family-friendly"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "water",
+      "family"
+    ],
+    "costUsd": 41,
+    "avg_cost_aed": 150,
+    "duration_hrs": 2,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "A quieter, more reflective water experience — paddle through the Dubai Water Canal or the mangrove channels of Jubail Island at your own pace, ideal for families and nature lovers.",
+    "visit_order_weight": 72,
+    "source": "myglobaltrips.com",
+    "description": "A quieter, more reflective water experience — paddle through the Dubai Water Canal or the mangrove channels of Jubail Island at your own pace, ideal for families and nature lovers.",
+    "duration": "2 hours",
+    "cost": "AED 150"
+  },
+  {
+    "id": "jais-flight-world-s-longest-zipline",
+    "name": "Jais Flight — World's Longest Zipline",
+    "category": "Zipline — From Mountain",
+    "tags": [
+      "premium",
+      "2.83 km —",
+      "up to 160",
+      "3 min flight",
+      "closed in peak"
+    ],
+    "budget": "premium",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "adventure",
+      "luxury"
+    ],
+    "costUsd": 177,
+    "avg_cost_aed": 650,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The Guinness World Record holder: 2.83 kilometres of zipline at 1,680 metres above sea level, reaching speeds up to 160 km/h. Three minutes of superhero-grade flight across the Hajar Mountains — the most dramatic ride in the UAE.",
+    "visit_order_weight": 73,
+    "source": "myglobaltrips.com",
+    "description": "The Guinness World Record holder: 2.83 kilometres of zipline at 1,680 metres above sea level, reaching speeds up to 160 km/h. Three minutes of superhero-grade flight across the Hajar Mountains — the most dramatic ride in the UAE.",
+    "duration": "3 hours",
+    "cost": "AED 650"
+  },
+  {
+    "id": "jais-sky-tour-6-line-mountain-circuit",
+    "name": "Jais Sky Tour — 6-Line Mountain Circuit",
+    "category": "Zipline — From Mountain",
+    "tags": [
+      "premium",
+      "5 km total",
+      "up to 60",
+      "3–4 hours",
+      "canyon terrain"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "skyline",
+      "adventure",
+      "luxury"
+    ],
+    "costUsd": 150,
+    "avg_cost_aed": 550,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "A self-guided circuit of six consecutive ziplines covering 5 kilometres of canyon terrain at speeds up to 60 km/h. For those who want the full mountain experience, not just one fast flight.",
+    "visit_order_weight": 74,
+    "source": "myglobaltrips.com",
+    "description": "A self-guided circuit of six consecutive ziplines covering 5 kilometres of canyon terrain at speeds up to 60 km/h. For those who want the full mountain experience, not just one fast flight.",
+    "duration": "3 hours",
+    "cost": "AED 550"
+  },
+  {
+    "id": "xline-dubai-marina-urban-zipline",
+    "name": "XLine Dubai Marina — Urban Zipline",
+    "category": "Zipline — From Mountain",
+    "tags": [
+      "premium",
+      "1 km —",
+      "up to 80",
+      "1.5 min flight",
+      "city skyline views"
+    ],
+    "budget": "moderate",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "skyline"
+    ],
+    "costUsd": 163,
+    "avg_cost_aed": 600,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The world's longest urban zipline — launched from a 170-metre tower, soaring above Dubai Marina's promenade and JBR beach at speeds up to 80 km/h. Skyscraper-level adrenaline in the heart of the city.",
+    "visit_order_weight": 75,
+    "source": "myglobaltrips.com",
+    "description": "The world's longest urban zipline — launched from a 170-metre tower, soaring above Dubai Marina's promenade and JBR beach at speeds up to 80 km/h. Skyscraper-level adrenaline in the heart of the city.",
+    "duration": "3 hours",
+    "cost": "AED 600"
+  },
+  {
+    "id": "classic-evening-desert-safari-with-bbq-dinner",
+    "name": "Classic Evening Desert Safari with BBQ Dinner",
+    "category": "Desert Safari — The Sands",
+    "tags": [
+      "premium",
+      "6–7 hours",
+      "bbq buffet incl.",
+      "camel ride incl.",
+      "live shows"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "desert"
+    ],
+    "costUsd": 27,
+    "avg_cost_aed": 99,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The quintessential Dubai evening: 4×4 dune bashing across the red sands of Lahbab at golden hour, a stop atop the highest dune for sunset photos, then a traditional Bedouin camp with camel rides, henna, shisha, Tanoura and belly dance shows, and an Arabic-international BBQ buffet under the stars.",
+    "visit_order_weight": 76,
+    "source": "myglobaltrips.com",
+    "description": "The quintessential Dubai evening: 4×4 dune bashing across the red sands of Lahbab at golden hour, a stop atop the highest dune for sunset photos, then a traditional Bedouin camp with camel rides, henna, shisha, Tanoura and belly dance shows, and an Arabic-international BBQ buffet under the stars.",
+    "duration": "3 hours",
+    "cost": "AED 99"
+  },
+  {
+    "id": "premium-safari-quad-bike-dune-buggy-add-on",
+    "name": "Premium Safari — Quad Bike & Dune Buggy Add-On",
+    "category": "Desert Safari — The Sands",
+    "tags": [
+      "premium",
+      "7 hours",
+      "quad bike incl.",
+      "bbq buffet incl.",
+      "live shows"
+    ],
+    "budget": "moderate",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "desert"
+    ],
+    "costUsd": 136,
+    "avg_cost_aed": 499,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "Everything in the Classic Safari, upgraded with a 30-minute quad bike ride across the dunes and the option to add a dune buggy session — for travellers who want the adrenaline to match the scenery.",
+    "visit_order_weight": 77,
+    "source": "myglobaltrips.com",
+    "description": "Everything in the Classic Safari, upgraded with a 30-minute quad bike ride across the dunes and the option to add a dune buggy session — for travellers who want the adrenaline to match the scenery.",
+    "duration": "3 hours",
+    "cost": "AED 499"
+  },
+  {
+    "id": "overnight-desert-safari-sleep-under-the-stars",
+    "name": "Overnight Desert Safari — Sleep Under the Stars",
+    "category": "Desert Safari — The Sands",
+    "tags": [
+      "premium",
+      "18 hours",
+      "tent stay incl.",
+      "sunrise trek",
+      "breakfast incl."
+    ],
+    "budget": "premium",
+    "time": "full day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "desert"
+    ],
+    "costUsd": 195,
+    "avg_cost_aed": 716,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "An 18-hour immersion: dune bashing, camel rides, BBQ dinner and entertainment, then sleeping in a real Bedouin tent on a Nawar bed — followed by a sunrise camel trek and Arabian breakfast before your hotel drop-off.",
+    "visit_order_weight": 78,
+    "source": "myglobaltrips.com",
+    "description": "An 18-hour immersion: dune bashing, camel rides, BBQ dinner and entertainment, then sleeping in a real Bedouin tent on a Nawar bed — followed by a sunrise camel trek and Arabian breakfast before your hotel drop-off.",
+    "duration": "3 hours",
+    "cost": "AED 716"
+  },
+  {
+    "id": "morning-desert-safari-dunes-before-the-heat",
+    "name": "Morning Desert Safari — Dunes Before the Heat",
+    "category": "Desert Safari — The Sands",
+    "tags": [
+      "premium",
+      "4 hours",
+      "sandboarding incl.",
+      "cooler temps"
+    ],
+    "budget": "budget",
+    "time": "evening",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "desert"
+    ],
+    "costUsd": 41,
+    "avg_cost_aed": 149,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "A 4-hour adventure timed for the cool morning hours: dune bashing, sandboarding, and a short camel ride, returning to your hotel before midday — ideal for travellers who want the thrill without sacrificing an entire evening.",
+    "visit_order_weight": 79,
+    "source": "myglobaltrips.com",
+    "description": "A 4-hour adventure timed for the cool morning hours: dune bashing, sandboarding, and a short camel ride, returning to your hotel before midday — ideal for travellers who want the thrill without sacrificing an entire evening.",
+    "duration": "3 hours",
+    "cost": "AED 149"
+  },
+  {
+    "id": "private-desert-safari-your-own-land-cruiser-driver",
+    "name": "Private Desert Safari — Your Own Land Cruiser & Driver",
+    "category": "Desert Safari — The Sands",
+    "tags": [
+      "premium",
+      "6–7 hours",
+      "private vehicle",
+      "up to 6",
+      "bbq buffet incl."
+    ],
+    "budget": "premium",
+    "time": "half day",
+    "groups": [
+      "solo",
+      "couple",
+      "family",
+      "friends",
+      "corporate group"
+    ],
+    "interests": [
+      "desert"
+    ],
+    "costUsd": 218,
+    "avg_cost_aed": 799,
+    "duration_hrs": 3,
+    "best_for": [
+      "solo",
+      "couple",
+      "family",
+      "corporate group"
+    ],
+    "tip": "The full Classic Safari experience with no shared seating — your own 4×4, your own driver, and a separate private seating area at the Bedouin camp. The choice for families, honeymooners, and anyone who prefers privacy over the shared-vehicle crowd.",
+    "visit_order_weight": 80,
+    "source": "myglobaltrips.com",
+    "description": "The full Classic Safari experience with no shared seating — your own 4×4, your own driver, and a separate private seating area at the Bedouin camp. The choice for families, honeymooners, and anyone who prefers privacy over the shared-vehicle crowd.",
+    "duration": "3 hours",
+    "cost": "AED 799"
   }
 ]

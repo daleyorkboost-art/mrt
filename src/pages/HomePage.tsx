@@ -56,10 +56,12 @@ export function HomePage() {
                 </div>
               </div>
             ))}
-            <Button className="h-full rounded-[8px]" onClick={() => trackMicroConversion('Homepage search triggered')}>
-              <Search aria-hidden className="h-4 w-4" />
-              Search
-            </Button>
+            <Link to="/ai-trip-recommender" onClick={() => trackMicroConversion('Homepage search triggered')}>
+              <Button className="h-full w-full rounded-[8px]">
+                <Search aria-hidden className="h-4 w-4" />
+                Search
+              </Button>
+            </Link>
           </Card>
         </div>
       </section>
@@ -101,7 +103,9 @@ export function HomePage() {
                   <p className="text-sm text-mist">
                     From <span className="text-xl font-extrabold text-white">{item.price}</span>
                   </p>
-                  <Button onClick={() => trackMicroConversion('Package viewed', { package: item.title })} variant="secondary">View</Button>
+                  <Link to="/ai-trip-recommender" onClick={() => trackMicroConversion('Package viewed', { package: item.title })}>
+                    <Button variant="secondary">View</Button>
+                  </Link>
                 </div>
               </div>
             </Card>
@@ -135,7 +139,7 @@ export function HomePage() {
       </section>
 
       <section className="mx-auto grid max-w-7xl gap-14 px-4 py-20 sm:px-6 lg:grid-cols-[0.9fr_1.1fr] lg:px-8">
-        <SectionHeader eyebrow="How it works" title="From inspiration to a polished proposal" description="The demo shows the platform as a connected travel operating system, not just a booking page." />
+        <SectionHeader eyebrow="How it works" title="From inspiration to a polished proposal" description="The platform works as a connected travel operating system, not just a booking page." />
         <div className="grid gap-4">
           {howItWorks.map((item, index) => (
             <Card key={item.title} className="flex gap-4 p-5">

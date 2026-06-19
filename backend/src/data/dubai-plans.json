@@ -1,5 +1,6 @@
 [
   {
+    "id": "dubai-plan-budget-half-day-solo-1",
     "budget": "budget",
     "budget_range": "budget",
     "time": "half day",
@@ -9,25 +10,395 @@
     "interests": [
       "culture",
       "shopping",
-      "desert experience"
+      "desert experience",
+      "luxury"
     ],
     "attractionIds": [
-      "dubai-attraction-1",
-      "dubai-attraction-2",
-      "dubai-attraction-3"
+      "burj-khalifa-the-throne-of-the-sky",
+      "sky-views-observatory-the-glass-frontier",
+      "dubai-frame-a-city-captured-in-gold"
     ],
     "plan": [
-      "dubai-attraction-1",
-      "dubai-attraction-2",
-      "dubai-attraction-3"
+      "burj-khalifa-the-throne-of-the-sky",
+      "sky-views-observatory-the-glass-frontier",
+      "dubai-frame-a-city-captured-in-gold"
     ],
-    "total_est_cost_aed": 825,
+    "total_est_cost_aed": 288,
     "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
     ]
   },
   {
+    "id": "dubai-plan-budget-full-day-solo-2",
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "solo",
+    "group_type": "solo",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "ain-dubai-the-colossus-of-bluewaters",
+      "ski-dubai-the-alpine-anomaly",
+      "global-village-90-nations-in-one-night",
+      "dubai-miracle-garden-150-million-blooms"
+    ],
+    "plan": [
+      "ain-dubai-the-colossus-of-bluewaters",
+      "ski-dubai-the-alpine-anomaly",
+      "global-village-90-nations-in-one-night",
+      "dubai-miracle-garden-150-million-blooms"
+    ],
+    "total_est_cost_aed": 354,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-budget-evening-solo-3",
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "solo",
+    "group_type": "solo",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "dubai-miracle-garden-150-million-blooms",
+      "lost-world-aquarium-the-deep-reborn",
+      "the-green-planet-a-rainforest-rises-in-dubai"
+    ],
+    "plan": [
+      "dubai-miracle-garden-150-million-blooms",
+      "lost-world-aquarium-the-deep-reborn",
+      "the-green-planet-a-rainforest-rises-in-dubai"
+    ],
+    "total_est_cost_aed": 259,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-moderate-half-day-solo-4",
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "solo",
+    "group_type": "solo",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "yas-waterworld-a-thousand-splashes",
+      "seaworld-abu-dhabi-where-ocean-meets-imagination",
+      "jais-sky-tour-the-canyon-crawler"
+    ],
+    "plan": [
+      "yas-waterworld-a-thousand-splashes",
+      "seaworld-abu-dhabi-where-ocean-meets-imagination",
+      "jais-sky-tour-the-canyon-crawler"
+    ],
+    "total_est_cost_aed": 1140,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-moderate-full-day-solo-5",
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "solo",
+    "group_type": "solo",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "snoopy-island-the-reef-that-wears-a-famous-face",
+      "marina-bbq-sunset-cruise",
+      "private-speedboat-marina-tour",
+      "42ft-yacht-intimate-private-charter"
+    ],
+    "plan": [
+      "snoopy-island-the-reef-that-wears-a-famous-face",
+      "marina-bbq-sunset-cruise",
+      "private-speedboat-marina-tour",
+      "42ft-yacht-intimate-private-charter"
+    ],
+    "total_est_cost_aed": 1149,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-moderate-evening-solo-6",
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "solo",
+    "group_type": "solo",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "42ft-yacht-intimate-private-charter",
+      "executive-sedan-limousine",
+      "premium-suv-8-seater-limousine"
+    ],
+    "plan": [
+      "42ft-yacht-intimate-private-charter",
+      "executive-sedan-limousine",
+      "premium-suv-8-seater-limousine"
+    ],
+    "total_est_cost_aed": 1397,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-half-day-solo-7",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "solo",
+    "group_type": "solo",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "warner-bros-world-gotham-meets-bedrock",
+      "yas-waterworld-a-thousand-splashes",
+      "seaworld-abu-dhabi-where-ocean-meets-imagination"
+    ],
+    "plan": [
+      "warner-bros-world-gotham-meets-bedrock",
+      "yas-waterworld-a-thousand-splashes",
+      "seaworld-abu-dhabi-where-ocean-meets-imagination"
+    ],
+    "total_est_cost_aed": 935,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-full-day-solo-8",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "solo",
+    "group_type": "solo",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "louvre-abu-dhabi-art-without-borders",
+      "qasr-al-watan-inside-the-palace-of-the-nation",
+      "sharjah-aquarium-where-the-arabian-gulf-opens-up",
+      "sharjah-desert-park-the-wilderness-that-waited"
+    ],
+    "plan": [
+      "louvre-abu-dhabi-art-without-borders",
+      "qasr-al-watan-inside-the-palace-of-the-nation",
+      "sharjah-aquarium-where-the-arabian-gulf-opens-up",
+      "sharjah-desert-park-the-wilderness-that-waited"
+    ],
+    "total_est_cost_aed": 133,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-evening-solo-9",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "solo",
+    "group_type": "solo",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "sharjah-desert-park-the-wilderness-that-waited",
+      "jais-flight-the-sky-as-your-runway",
+      "jais-sky-tour-the-canyon-crawler"
+    ],
+    "plan": [
+      "sharjah-desert-park-the-wilderness-that-waited",
+      "jais-flight-the-sky-as-your-runway",
+      "jais-sky-tour-the-canyon-crawler"
+    ],
+    "total_est_cost_aed": 1215,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-budget-half-day-couple-10",
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "couple",
+    "group_type": "couple",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "global-village-90-nations-in-one-night",
+      "dubai-miracle-garden-150-million-blooms",
+      "lost-world-aquarium-the-deep-reborn"
+    ],
+    "plan": [
+      "global-village-90-nations-in-one-night",
+      "dubai-miracle-garden-150-million-blooms",
+      "lost-world-aquarium-the-deep-reborn"
+    ],
+    "total_est_cost_aed": 189,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-budget-full-day-couple-11",
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "couple",
+    "group_type": "couple",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "the-green-planet-a-rainforest-rises-in-dubai",
+      "aya-universe-where-art-becomes-gravity",
+      "louvre-abu-dhabi-art-without-borders",
+      "qasr-al-watan-inside-the-palace-of-the-nation"
+    ],
+    "plan": [
+      "the-green-planet-a-rainforest-rises-in-dubai",
+      "aya-universe-where-art-becomes-gravity",
+      "louvre-abu-dhabi-art-without-borders",
+      "qasr-al-watan-inside-the-palace-of-the-nation"
+    ],
+    "total_est_cost_aed": 307,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-budget-evening-couple-12",
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "couple",
+    "group_type": "couple",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "qasr-al-watan-inside-the-palace-of-the-nation",
+      "sharjah-aquarium-where-the-arabian-gulf-opens-up",
+      "sharjah-desert-park-the-wilderness-that-waited"
+    ],
+    "plan": [
+      "qasr-al-watan-inside-the-palace-of-the-nation",
+      "sharjah-aquarium-where-the-arabian-gulf-opens-up",
+      "sharjah-desert-park-the-wilderness-that-waited"
+    ],
+    "total_est_cost_aed": 70,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-moderate-half-day-couple-13",
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "couple",
+    "group_type": "couple",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "dubai-aquarium-underwater-zoo-the-shark-corridor",
+      "dubai-desert-safari-the-sands-after-sundown",
+      "ferrari-world-abu-dhabi-the-temple-of-speed"
+    ],
+    "plan": [
+      "dubai-aquarium-underwater-zoo-the-shark-corridor",
+      "dubai-desert-safari-the-sands-after-sundown",
+      "ferrari-world-abu-dhabi-the-temple-of-speed"
+    ],
+    "total_est_cost_aed": 685,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-moderate-full-day-couple-14",
     "budget": "moderate",
     "budget_range": "moderate",
     "time": "full day",
@@ -37,27 +408,397 @@
     "interests": [
       "culture",
       "shopping",
-      "desert experience"
+      "desert experience",
+      "luxury"
     ],
     "attractionIds": [
-      "dubai-attraction-2",
-      "dubai-attraction-3",
-      "dubai-attraction-4",
-      "dubai-attraction-5"
+      "warner-bros-world-gotham-meets-bedrock",
+      "yas-waterworld-a-thousand-splashes",
+      "seaworld-abu-dhabi-where-ocean-meets-imagination",
+      "jais-sky-tour-the-canyon-crawler"
     ],
     "plan": [
-      "dubai-attraction-2",
-      "dubai-attraction-3",
-      "dubai-attraction-4",
-      "dubai-attraction-5"
+      "warner-bros-world-gotham-meets-bedrock",
+      "yas-waterworld-a-thousand-splashes",
+      "seaworld-abu-dhabi-where-ocean-meets-imagination",
+      "jais-sky-tour-the-canyon-crawler"
     ],
-    "total_est_cost_aed": 2000,
+    "total_est_cost_aed": 1485,
     "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
     ]
   },
   {
+    "id": "dubai-plan-moderate-evening-couple-15",
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "couple",
+    "group_type": "couple",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "jais-sky-tour-the-canyon-crawler",
+      "snoopy-island-the-reef-that-wears-a-famous-face",
+      "marina-bbq-sunset-cruise"
+    ],
+    "plan": [
+      "jais-sky-tour-the-canyon-crawler",
+      "snoopy-island-the-reef-that-wears-a-famous-face",
+      "marina-bbq-sunset-cruise"
+    ],
+    "total_est_cost_aed": 850,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-half-day-couple-16",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "couple",
+    "group_type": "couple",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "executive-sedan-limousine",
+      "stretch-limousine-weddings-celebrations",
+      "premium-suv-8-seater-limousine"
+    ],
+    "plan": [
+      "executive-sedan-limousine",
+      "stretch-limousine-weddings-celebrations",
+      "premium-suv-8-seater-limousine"
+    ],
+    "total_est_cost_aed": 1548,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-full-day-couple-17",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "couple",
+    "group_type": "couple",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "buses-cars-vans-across-the-uae",
+      "group-transport",
+      "corporate-groups",
+      "large-corporate"
+    ],
+    "plan": [
+      "buses-cars-vans-across-the-uae",
+      "group-transport",
+      "corporate-groups",
+      "large-corporate"
+    ],
+    "total_est_cost_aed": 3250,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-evening-couple-18",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "couple",
+    "group_type": "couple",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "large-corporate",
+      "mega-groups-mice",
+      "inter-emirate-transfer"
+    ],
+    "plan": [
+      "large-corporate",
+      "mega-groups-mice",
+      "inter-emirate-transfer"
+    ],
+    "total_est_cost_aed": 4750,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-budget-half-day-family-19",
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "family",
+    "group_type": "family",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "louvre-abu-dhabi-art-without-borders",
+      "qasr-al-watan-inside-the-palace-of-the-nation",
+      "sharjah-aquarium-where-the-arabian-gulf-opens-up"
+    ],
+    "plan": [
+      "louvre-abu-dhabi-art-without-borders",
+      "qasr-al-watan-inside-the-palace-of-the-nation",
+      "sharjah-aquarium-where-the-arabian-gulf-opens-up"
+    ],
+    "total_est_cost_aed": 118,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-budget-full-day-family-20",
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "family",
+    "group_type": "family",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "sharjah-desert-park-the-wilderness-that-waited",
+      "ajman-museum-the-fort-that-became-a-memory-palace",
+      "fujairah-fort-the-watchtower-that-survived-empires",
+      "ain-al-madhab-hot-springs-sulphur-silence-the-mountains"
+    ],
+    "plan": [
+      "sharjah-desert-park-the-wilderness-that-waited",
+      "ajman-museum-the-fort-that-became-a-memory-palace",
+      "fujairah-fort-the-watchtower-that-survived-empires",
+      "ain-al-madhab-hot-springs-sulphur-silence-the-mountains"
+    ],
+    "total_est_cost_aed": 29,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-budget-evening-family-21",
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "family",
+    "group_type": "family",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "ain-al-madhab-hot-springs-sulphur-silence-the-mountains",
+      "fujairah-museum-4-500-years-under-one-roof",
+      "dreamland-aqua-park-the-waterpark-that-time-forgot-in-the-best-way"
+    ],
+    "plan": [
+      "ain-al-madhab-hot-springs-sulphur-silence-the-mountains",
+      "fujairah-museum-4-500-years-under-one-roof",
+      "dreamland-aqua-park-the-waterpark-that-time-forgot-in-the-best-way"
+    ],
+    "total_est_cost_aed": 100,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-moderate-half-day-family-22",
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "family",
+    "group_type": "family",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "legoland-dubai-where-bricks-build-worlds",
+      "motiongate-dubai-hollywood-unleashed",
+      "aquaventure-world-the-waterpark-of-myths"
+    ],
+    "plan": [
+      "legoland-dubai-where-bricks-build-worlds",
+      "motiongate-dubai-hollywood-unleashed",
+      "aquaventure-world-the-waterpark-of-myths"
+    ],
+    "total_est_cost_aed": 1300,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-moderate-full-day-family-23",
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "family",
+    "group_type": "family",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "museum-of-the-future-a-postcard-from-2071",
+      "dubai-aquarium-underwater-zoo-the-shark-corridor",
+      "dubai-desert-safari-the-sands-after-sundown",
+      "ferrari-world-abu-dhabi-the-temple-of-speed"
+    ],
+    "plan": [
+      "museum-of-the-future-a-postcard-from-2071",
+      "dubai-aquarium-underwater-zoo-the-shark-corridor",
+      "dubai-desert-safari-the-sands-after-sundown",
+      "ferrari-world-abu-dhabi-the-temple-of-speed"
+    ],
+    "total_est_cost_aed": 840,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-moderate-evening-family-24",
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "family",
+    "group_type": "family",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "ferrari-world-abu-dhabi-the-temple-of-speed",
+      "warner-bros-world-gotham-meets-bedrock",
+      "yas-waterworld-a-thousand-splashes"
+    ],
+    "plan": [
+      "ferrari-world-abu-dhabi-the-temple-of-speed",
+      "warner-bros-world-gotham-meets-bedrock",
+      "yas-waterworld-a-thousand-splashes"
+    ],
+    "total_est_cost_aed": 985,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-half-day-family-25",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "family",
+    "group_type": "family",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "jais-flight-world-s-longest-zipline",
+      "jais-sky-tour-6-line-mountain-circuit",
+      "xline-dubai-marina-urban-zipline"
+    ],
+    "plan": [
+      "jais-flight-world-s-longest-zipline",
+      "jais-sky-tour-6-line-mountain-circuit",
+      "xline-dubai-marina-urban-zipline"
+    ],
+    "total_est_cost_aed": 1800,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-full-day-family-26",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "family",
+    "group_type": "family",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "classic-evening-desert-safari-with-bbq-dinner",
+      "premium-safari-quad-bike-dune-buggy-add-on",
+      "overnight-desert-safari-sleep-under-the-stars",
+      "morning-desert-safari-dunes-before-the-heat"
+    ],
+    "plan": [
+      "classic-evening-desert-safari-with-bbq-dinner",
+      "premium-safari-quad-bike-dune-buggy-add-on",
+      "overnight-desert-safari-sleep-under-the-stars",
+      "morning-desert-safari-dunes-before-the-heat"
+    ],
+    "total_est_cost_aed": 1463,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-evening-family-27",
     "budget": "premium",
     "budget_range": "premium",
     "time": "evening",
@@ -67,25 +808,27 @@
     "interests": [
       "culture",
       "shopping",
-      "desert experience"
+      "desert experience",
+      "luxury"
     ],
     "attractionIds": [
-      "dubai-attraction-3",
-      "dubai-attraction-4",
-      "dubai-attraction-5"
+      "dubai-frame-a-city-captured-in-gold",
+      "ain-dubai-the-colossus-of-bluewaters",
+      "img-worlds-of-adventure-the-universe-under-one-roof"
     ],
     "plan": [
-      "dubai-attraction-3",
-      "dubai-attraction-4",
-      "dubai-attraction-5"
+      "dubai-frame-a-city-captured-in-gold",
+      "ain-dubai-the-colossus-of-bluewaters",
+      "img-worlds-of-adventure-the-universe-under-one-roof"
     ],
-    "total_est_cost_aed": 1725,
+    "total_est_cost_aed": 362,
     "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
     ]
   },
   {
+    "id": "dubai-plan-budget-half-day-corporate-group-28",
     "budget": "budget",
     "budget_range": "budget",
     "time": "half day",
@@ -95,143 +838,61 @@
     "interests": [
       "culture",
       "shopping",
-      "desert experience"
+      "desert experience",
+      "luxury"
     ],
     "attractionIds": [
-      "dubai-attraction-4",
-      "dubai-attraction-5",
-      "dubai-attraction-6"
+      "fujairah-fort-the-watchtower-that-survived-empires",
+      "ain-al-madhab-hot-springs-sulphur-silence-the-mountains",
+      "fujairah-museum-4-500-years-under-one-roof"
     ],
     "plan": [
-      "dubai-attraction-4",
-      "dubai-attraction-5",
-      "dubai-attraction-6"
+      "fujairah-fort-the-watchtower-that-survived-empires",
+      "ain-al-madhab-hot-springs-sulphur-silence-the-mountains",
+      "fujairah-museum-4-500-years-under-one-roof"
     ],
-    "total_est_cost_aed": 2175,
+    "total_est_cost_aed": 15,
     "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
     ]
   },
   {
-    "budget": "moderate",
-    "budget_range": "moderate",
-    "time": "full day",
-    "time_slot": "full day",
-    "group": "friends",
-    "group_type": "friends",
-    "interests": [
-      "culture",
-      "shopping",
-      "desert experience"
-    ],
-    "attractionIds": [
-      "dubai-attraction-5",
-      "dubai-attraction-6",
-      "dubai-attraction-7",
-      "dubai-attraction-8"
-    ],
-    "plan": [
-      "dubai-attraction-5",
-      "dubai-attraction-6",
-      "dubai-attraction-7",
-      "dubai-attraction-8"
-    ],
-    "total_est_cost_aed": 3800,
-    "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
-    ]
-  },
-  {
-    "budget": "premium",
-    "budget_range": "premium",
-    "time": "evening",
-    "time_slot": "evening",
-    "group": "solo",
-    "group_type": "solo",
-    "interests": [
-      "culture",
-      "shopping",
-      "desert experience"
-    ],
-    "attractionIds": [
-      "dubai-attraction-6",
-      "dubai-attraction-7",
-      "dubai-attraction-8"
-    ],
-    "plan": [
-      "dubai-attraction-6",
-      "dubai-attraction-7",
-      "dubai-attraction-8"
-    ],
-    "total_est_cost_aed": 3075,
-    "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
-    ]
-  },
-  {
+    "id": "dubai-plan-budget-full-day-corporate-group-29",
     "budget": "budget",
     "budget_range": "budget",
-    "time": "half day",
-    "time_slot": "half day",
-    "group": "couple",
-    "group_type": "couple",
-    "interests": [
-      "culture",
-      "shopping",
-      "desert experience"
-    ],
-    "attractionIds": [
-      "dubai-attraction-7",
-      "dubai-attraction-8",
-      "dubai-attraction-9"
-    ],
-    "plan": [
-      "dubai-attraction-7",
-      "dubai-attraction-8",
-      "dubai-attraction-9"
-    ],
-    "total_est_cost_aed": 2325,
-    "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
-    ]
-  },
-  {
-    "budget": "moderate",
-    "budget_range": "moderate",
     "time": "full day",
     "time_slot": "full day",
-    "group": "family",
-    "group_type": "family",
+    "group": "corporate group",
+    "group_type": "corporate group",
     "interests": [
       "culture",
       "shopping",
-      "desert experience"
+      "desert experience",
+      "luxury"
     ],
     "attractionIds": [
-      "dubai-attraction-8",
-      "dubai-attraction-9",
-      "dubai-attraction-10",
-      "dubai-attraction-11"
+      "dreamland-aqua-park-the-waterpark-that-time-forgot-in-the-best-way",
+      "al-sinniyah-island-uaq-mangroves-where-flamingos-outnumber-tourists",
+      "uaq-national-museum-the-quiet-chronicle-of-a-proud-emirate",
+      "dubai-marina-dhow-dinner-cruise"
     ],
     "plan": [
-      "dubai-attraction-8",
-      "dubai-attraction-9",
-      "dubai-attraction-10",
-      "dubai-attraction-11"
+      "dreamland-aqua-park-the-waterpark-that-time-forgot-in-the-best-way",
+      "al-sinniyah-island-uaq-mangroves-where-flamingos-outnumber-tourists",
+      "uaq-national-museum-the-quiet-chronicle-of-a-proud-emirate",
+      "dubai-marina-dhow-dinner-cruise"
     ],
-    "total_est_cost_aed": 2000,
+    "total_est_cost_aed": 315,
     "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
     ]
   },
   {
-    "budget": "premium",
-    "budget_range": "premium",
+    "id": "dubai-plan-budget-evening-corporate-group-30",
+    "budget": "budget",
+    "budget_range": "budget",
     "time": "evening",
     "time_slot": "evening",
     "group": "corporate group",
@@ -239,139 +900,57 @@
     "interests": [
       "culture",
       "shopping",
-      "desert experience"
+      "desert experience",
+      "luxury"
     ],
     "attractionIds": [
-      "dubai-attraction-9",
-      "dubai-attraction-10",
-      "dubai-attraction-11"
+      "dubai-marina-dhow-dinner-cruise",
+      "dubai-creek-heritage-dhow-cruise",
+      "premium-catamaran-sightseeing-cruise"
     ],
     "plan": [
-      "dubai-attraction-9",
-      "dubai-attraction-10",
-      "dubai-attraction-11"
+      "dubai-marina-dhow-dinner-cruise",
+      "dubai-creek-heritage-dhow-cruise",
+      "premium-catamaran-sightseeing-cruise"
     ],
-    "total_est_cost_aed": 825,
+    "total_est_cost_aed": 284,
     "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
     ]
   },
   {
-    "budget": "budget",
-    "budget_range": "budget",
-    "time": "half day",
-    "time_slot": "half day",
-    "group": "friends",
-    "group_type": "friends",
-    "interests": [
-      "culture",
-      "shopping",
-      "desert experience"
-    ],
-    "attractionIds": [
-      "dubai-attraction-10",
-      "dubai-attraction-11",
-      "dubai-attraction-12"
-    ],
-    "plan": [
-      "dubai-attraction-10",
-      "dubai-attraction-11",
-      "dubai-attraction-12"
-    ],
-    "total_est_cost_aed": 1275,
-    "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
-    ]
-  },
-  {
+    "id": "dubai-plan-moderate-half-day-corporate-group-31",
     "budget": "moderate",
     "budget_range": "moderate",
-    "time": "full day",
-    "time_slot": "full day",
-    "group": "solo",
-    "group_type": "solo",
-    "interests": [
-      "culture",
-      "shopping",
-      "desert experience"
-    ],
-    "attractionIds": [
-      "dubai-attraction-1",
-      "dubai-attraction-2",
-      "dubai-attraction-3",
-      "dubai-attraction-4"
-    ],
-    "plan": [
-      "dubai-attraction-1",
-      "dubai-attraction-2",
-      "dubai-attraction-3",
-      "dubai-attraction-4"
-    ],
-    "total_est_cost_aed": 1400,
-    "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
-    ]
-  },
-  {
-    "budget": "premium",
-    "budget_range": "premium",
-    "time": "evening",
-    "time_slot": "evening",
-    "group": "couple",
-    "group_type": "couple",
-    "interests": [
-      "culture",
-      "shopping",
-      "desert experience"
-    ],
-    "attractionIds": [
-      "dubai-attraction-2",
-      "dubai-attraction-3",
-      "dubai-attraction-4"
-    ],
-    "plan": [
-      "dubai-attraction-2",
-      "dubai-attraction-3",
-      "dubai-attraction-4"
-    ],
-    "total_est_cost_aed": 1275,
-    "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
-    ]
-  },
-  {
-    "budget": "budget",
-    "budget_range": "budget",
     "time": "half day",
     "time_slot": "half day",
-    "group": "family",
-    "group_type": "family",
+    "group": "corporate group",
+    "group_type": "corporate group",
     "interests": [
       "culture",
       "shopping",
-      "desert experience"
+      "desert experience",
+      "luxury"
     ],
     "attractionIds": [
-      "dubai-attraction-3",
-      "dubai-attraction-4",
-      "dubai-attraction-5"
+      "donut-ride-banana-boat",
+      "wakeboarding-dubai-marina",
+      "scuba-diving-snorkelling-fujairah-coast"
     ],
     "plan": [
-      "dubai-attraction-3",
-      "dubai-attraction-4",
-      "dubai-attraction-5"
+      "donut-ride-banana-boat",
+      "wakeboarding-dubai-marina",
+      "scuba-diving-snorkelling-fujairah-coast"
     ],
-    "total_est_cost_aed": 1725,
+    "total_est_cost_aed": 800,
     "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
     ]
   },
   {
+    "id": "dubai-plan-moderate-full-day-corporate-group-32",
     "budget": "moderate",
     "budget_range": "moderate",
     "time": "full day",
@@ -381,27 +960,397 @@
     "interests": [
       "culture",
       "shopping",
-      "desert experience"
+      "desert experience",
+      "luxury"
     ],
     "attractionIds": [
-      "dubai-attraction-4",
-      "dubai-attraction-5",
-      "dubai-attraction-6",
-      "dubai-attraction-7"
+      "img-worlds-of-adventure-the-universe-under-one-roof",
+      "legoland-dubai-where-bricks-build-worlds",
+      "motiongate-dubai-hollywood-unleashed",
+      "aquaventure-world-the-waterpark-of-myths"
     ],
     "plan": [
-      "dubai-attraction-4",
-      "dubai-attraction-5",
-      "dubai-attraction-6",
-      "dubai-attraction-7"
+      "img-worlds-of-adventure-the-universe-under-one-roof",
+      "legoland-dubai-where-bricks-build-worlds",
+      "motiongate-dubai-hollywood-unleashed",
+      "aquaventure-world-the-waterpark-of-myths"
     ],
-    "total_est_cost_aed": 3200,
+    "total_est_cost_aed": 1482,
     "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
     ]
   },
   {
+    "id": "dubai-plan-moderate-evening-corporate-group-33",
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "corporate group",
+    "group_type": "corporate group",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "aquaventure-world-the-waterpark-of-myths",
+      "museum-of-the-future-a-postcard-from-2071",
+      "dubai-aquarium-underwater-zoo-the-shark-corridor"
+    ],
+    "plan": [
+      "aquaventure-world-the-waterpark-of-myths",
+      "museum-of-the-future-a-postcard-from-2071",
+      "dubai-aquarium-underwater-zoo-the-shark-corridor"
+    ],
+    "total_est_cost_aed": 890,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-half-day-corporate-group-34",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "corporate group",
+    "group_type": "corporate group",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "sharjah-aquarium-where-the-arabian-gulf-opens-up",
+      "sharjah-desert-park-the-wilderness-that-waited",
+      "jais-flight-the-sky-as-your-runway"
+    ],
+    "plan": [
+      "sharjah-aquarium-where-the-arabian-gulf-opens-up",
+      "sharjah-desert-park-the-wilderness-that-waited",
+      "jais-flight-the-sky-as-your-runway"
+    ],
+    "total_est_cost_aed": 690,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-full-day-corporate-group-35",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "corporate group",
+    "group_type": "corporate group",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "jais-sky-tour-the-canyon-crawler",
+      "ajman-museum-the-fort-that-became-a-memory-palace",
+      "snoopy-island-the-reef-that-wears-a-famous-face",
+      "fujairah-fort-the-watchtower-that-survived-empires"
+    ],
+    "plan": [
+      "jais-sky-tour-the-canyon-crawler",
+      "ajman-museum-the-fort-that-became-a-memory-palace",
+      "snoopy-island-the-reef-that-wears-a-famous-face",
+      "fujairah-fort-the-watchtower-that-survived-empires"
+    ],
+    "total_est_cost_aed": 709,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-evening-corporate-group-36",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "corporate group",
+    "group_type": "corporate group",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "fujairah-fort-the-watchtower-that-survived-empires",
+      "ain-al-madhab-hot-springs-sulphur-silence-the-mountains",
+      "fujairah-museum-4-500-years-under-one-roof"
+    ],
+    "plan": [
+      "fujairah-fort-the-watchtower-that-survived-empires",
+      "ain-al-madhab-hot-springs-sulphur-silence-the-mountains",
+      "fujairah-museum-4-500-years-under-one-roof"
+    ],
+    "total_est_cost_aed": 15,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-budget-half-day-friends-37",
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "friends",
+    "group_type": "friends",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "uaq-national-museum-the-quiet-chronicle-of-a-proud-emirate",
+      "dubai-marina-dhow-dinner-cruise",
+      "dubai-creek-heritage-dhow-cruise"
+    ],
+    "plan": [
+      "uaq-national-museum-the-quiet-chronicle-of-a-proud-emirate",
+      "dubai-marina-dhow-dinner-cruise",
+      "dubai-creek-heritage-dhow-cruise"
+    ],
+    "total_est_cost_aed": 190,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-budget-full-day-friends-38",
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "friends",
+    "group_type": "friends",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "sky-views-observatory-the-glass-frontier",
+      "dubai-frame-a-city-captured-in-gold",
+      "ain-dubai-the-colossus-of-bluewaters",
+      "ski-dubai-the-alpine-anomaly"
+    ],
+    "plan": [
+      "sky-views-observatory-the-glass-frontier",
+      "dubai-frame-a-city-captured-in-gold",
+      "ain-dubai-the-colossus-of-bluewaters",
+      "ski-dubai-the-alpine-anomaly"
+    ],
+    "total_est_cost_aed": 399,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-budget-evening-friends-39",
+    "budget": "budget",
+    "budget_range": "budget",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "friends",
+    "group_type": "friends",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "ski-dubai-the-alpine-anomaly",
+      "global-village-90-nations-in-one-night",
+      "dubai-miracle-garden-150-million-blooms"
+    ],
+    "plan": [
+      "ski-dubai-the-alpine-anomaly",
+      "global-village-90-nations-in-one-night",
+      "dubai-miracle-garden-150-million-blooms"
+    ],
+    "total_est_cost_aed": 224,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-moderate-half-day-friends-40",
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "friends",
+    "group_type": "friends",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "jet-ski-tour-burj-al-arab-atlantis",
+      "parasailing-over-jbr-beach",
+      "flyboard-experience-jumeirah"
+    ],
+    "plan": [
+      "jet-ski-tour-burj-al-arab-atlantis",
+      "parasailing-over-jbr-beach",
+      "flyboard-experience-jumeirah"
+    ],
+    "total_est_cost_aed": 765,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-moderate-full-day-friends-41",
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "friends",
+    "group_type": "friends",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "self-drive-bbq-boat-day",
+      "donut-ride-banana-boat",
+      "wakeboarding-dubai-marina",
+      "scuba-diving-snorkelling-fujairah-coast"
+    ],
+    "plan": [
+      "self-drive-bbq-boat-day",
+      "donut-ride-banana-boat",
+      "wakeboarding-dubai-marina",
+      "scuba-diving-snorkelling-fujairah-coast"
+    ],
+    "total_est_cost_aed": 1440,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-moderate-evening-friends-42",
+    "budget": "moderate",
+    "budget_range": "moderate",
+    "time": "evening",
+    "time_slot": "evening",
+    "group": "friends",
+    "group_type": "friends",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "scuba-diving-snorkelling-fujairah-coast",
+      "kayaking-dubai-water-canal-mangroves",
+      "jais-sky-tour-6-line-mountain-circuit"
+    ],
+    "plan": [
+      "scuba-diving-snorkelling-fujairah-coast",
+      "kayaking-dubai-water-canal-mangroves",
+      "jais-sky-tour-6-line-mountain-circuit"
+    ],
+    "total_est_cost_aed": 950,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-half-day-friends-43",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "half day",
+    "time_slot": "half day",
+    "group": "friends",
+    "group_type": "friends",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "corporate-groups",
+      "large-corporate",
+      "mega-groups-mice"
+    ],
+    "plan": [
+      "corporate-groups",
+      "large-corporate",
+      "mega-groups-mice"
+    ],
+    "total_est_cost_aed": 5150,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-full-day-friends-44",
+    "budget": "premium",
+    "budget_range": "premium",
+    "time": "full day",
+    "time_slot": "full day",
+    "group": "friends",
+    "group_type": "friends",
+    "interests": [
+      "culture",
+      "shopping",
+      "desert experience",
+      "luxury"
+    ],
+    "attractionIds": [
+      "inter-emirate-transfer",
+      "dubai-airport-meet-greet-transfer",
+      "inter-emirate-day-tour-transfer",
+      "corporate-event-mice-transport"
+    ],
+    "plan": [
+      "inter-emirate-transfer",
+      "dubai-airport-meet-greet-transfer",
+      "inter-emirate-day-tour-transfer",
+      "corporate-event-mice-transport"
+    ],
+    "total_est_cost_aed": 2200,
+    "notes": [
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
+    ]
+  },
+  {
+    "id": "dubai-plan-premium-evening-friends-45",
     "budget": "premium",
     "budget_range": "premium",
     "time": "evening",
@@ -411,108 +1360,23 @@
     "interests": [
       "culture",
       "shopping",
-      "desert experience"
+      "desert experience",
+      "luxury"
     ],
     "attractionIds": [
-      "dubai-attraction-5",
-      "dubai-attraction-6",
-      "dubai-attraction-7"
+      "corporate-event-mice-transport",
+      "sunrise-desert-balloon-flight-bedouin-breakfast",
+      "premium-balloon-flight-camel-ride"
     ],
     "plan": [
-      "dubai-attraction-5",
-      "dubai-attraction-6",
-      "dubai-attraction-7"
+      "corporate-event-mice-transport",
+      "sunrise-desert-balloon-flight-bedouin-breakfast",
+      "premium-balloon-flight-camel-ride"
     ],
-    "total_est_cost_aed": 2625,
+    "total_est_cost_aed": 2548,
     "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
-    ]
-  },
-  {
-    "budget": "budget",
-    "budget_range": "budget",
-    "time": "half day",
-    "time_slot": "half day",
-    "group": "solo",
-    "group_type": "solo",
-    "interests": [
-      "culture",
-      "shopping",
-      "desert experience"
-    ],
-    "attractionIds": [
-      "dubai-attraction-6",
-      "dubai-attraction-7",
-      "dubai-attraction-8"
-    ],
-    "plan": [
-      "dubai-attraction-6",
-      "dubai-attraction-7",
-      "dubai-attraction-8"
-    ],
-    "total_est_cost_aed": 3075,
-    "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
-    ]
-  },
-  {
-    "budget": "moderate",
-    "budget_range": "moderate",
-    "time": "full day",
-    "time_slot": "full day",
-    "group": "couple",
-    "group_type": "couple",
-    "interests": [
-      "culture",
-      "shopping",
-      "desert experience"
-    ],
-    "attractionIds": [
-      "dubai-attraction-7",
-      "dubai-attraction-8",
-      "dubai-attraction-9",
-      "dubai-attraction-10"
-    ],
-    "plan": [
-      "dubai-attraction-7",
-      "dubai-attraction-8",
-      "dubai-attraction-9",
-      "dubai-attraction-10"
-    ],
-    "total_est_cost_aed": 2600,
-    "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
-    ]
-  },
-  {
-    "budget": "premium",
-    "budget_range": "premium",
-    "time": "evening",
-    "time_slot": "evening",
-    "group": "family",
-    "group_type": "family",
-    "interests": [
-      "culture",
-      "shopping",
-      "desert experience"
-    ],
-    "attractionIds": [
-      "dubai-attraction-8",
-      "dubai-attraction-9",
-      "dubai-attraction-10"
-    ],
-    "plan": [
-      "dubai-attraction-8",
-      "dubai-attraction-9",
-      "dubai-attraction-10"
-    ],
-    "total_est_cost_aed": 1575,
-    "notes": [
-      "Optimized for transfer efficiency.",
-      "Confirm opening hours and private guide availability before final booking."
+      "Built from MyGlobalTrips UAE attraction and premium experience content.",
+      "Confirm latest timings and live pricing before final booking."
     ]
   }
 ]

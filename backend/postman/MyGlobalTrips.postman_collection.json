@@ -7,6 +7,10 @@
     {
       "key": "baseUrl",
       "value": "http://localhost:5000"
+    },
+    {
+      "key": "internalToken",
+      "value": ""
     }
   ],
   "item": [
@@ -78,13 +82,28 @@
       }
     },
     {
-      "name": "Quote Email",
+      "name": "Internal Quote Auth",
       "request": {
         "method": "POST",
         "header": [{ "key": "Content-Type", "value": "application/json" }],
         "body": {
           "mode": "raw",
-          "raw": "{\n  \"travellerName\": \"Riya Sharma\",\n  \"destination\": \"Dubai + Maldives\",\n  \"dates\": \"12-18 September 2026\",\n  \"travellerCount\": \"2 adults\",\n  \"budget\": \"$6,000 - $8,000\",\n  \"specialRequests\": \"Overwater villa and private transfers\",\n  \"email\": \"riya@example.com\",\n  \"phone\": \"+971500000000\"\n}"
+          "raw": "{\n  \"password\": \"replace-with-secure-internal-password\"\n}"
+        },
+        "url": "{{baseUrl}}/api/internal-auth"
+      }
+    },
+    {
+      "name": "Quote Email",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" },
+          { "key": "Authorization", "value": "Bearer {{internalToken}}" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"travellerName\": \"Riya Sharma\",\n  \"destination\": \"Dubai + Maldives\",\n  \"dates\": \"12-18 September 2026\",\n  \"travellerCount\": \"2 adults\",\n  \"budget\": \"$6,000 - $8,000\",\n  \"specialRequests\": \"Overwater villa and private transfers\",\n  \"email\": \"riya@example.com\",\n  \"phone\": \"+971 58 556 6036\"\n}"
         },
         "url": "{{baseUrl}}/api/quote-email"
       }
@@ -93,7 +112,10 @@
       "name": "Send Email",
       "request": {
         "method": "POST",
-        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "header": [
+          { "key": "Content-Type", "value": "application/json" },
+          { "key": "Authorization", "value": "Bearer {{internalToken}}" }
+        ],
         "body": {
           "mode": "raw",
           "raw": "{\n  \"to\": \"client@example.com\",\n  \"subject\": \"Your MyGlobalTrips quote\",\n  \"html\": \"<p>Hello from MyGlobalTrips</p>\"\n}"

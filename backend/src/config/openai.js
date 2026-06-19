@@ -8,6 +8,8 @@ function createOpenAIClient() {
 
   return new OpenAI({
     apiKey: env.openaiApiKey,
+    timeout: env.openaiTimeoutMs,
+    maxRetries: 1,
   });
 }
 

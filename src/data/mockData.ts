@@ -5,18 +5,12 @@ import {
   CheckCircle2,
   Clock,
   Compass,
-  Crown,
   FileCheck2,
-  Gem,
   Globe2,
   Hotel,
-  Landmark,
-  MapPin,
   Plane,
   ShieldCheck,
   Sparkles,
-  Star,
-  Utensils,
   WalletCards,
 } from 'lucide-react';
 import type { LucideIcon } from 'lucide-react';
@@ -48,79 +42,79 @@ export const heroImage =
 
 export const packages: Package[] = [
   {
-    title: 'Dubai Royal Escape',
-    location: 'Dubai, UAE',
-    price: '$2,840',
-    days: '5 nights',
-    image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Private transfers', 'Burj suite view', 'Desert dinner'],
-  },
-  {
-    title: 'Maldives Overwater Retreat',
-    location: 'Baa Atoll, Maldives',
-    price: '$4,950',
-    days: '6 nights',
-    image: 'https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Seaplane', 'Spa credit', 'Reef dining'],
-  },
-  {
-    title: 'Swiss Alpine Luxe',
-    location: 'Lucerne & Zermatt',
-    price: '$5,320',
-    days: '7 nights',
+    title: 'Switzerland — The Alpine Crown Jewel',
+    location: 'Western Europe',
+    price: 'AED 5,500',
+    days: '7-14 nights',
     image: 'https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Glacier Express', 'Lake hotel', 'Concierge'],
+    tags: ['Jungfraujoch', 'Lucerne', 'Swiss Rail Pass'],
   },
   {
-    title: 'Japan Golden Route Luxe',
-    location: 'Tokyo, Kyoto & Osaka',
-    price: '$4,680',
+    title: 'Italy — La Dolce Vita in Every Piazza',
+    location: 'Southern Europe',
+    price: 'AED 5,200',
+    days: '7-12 nights',
+    image: 'https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1200&q=80',
+    tags: ['Rome', 'Venice', 'Amalfi Coast'],
+  },
+  {
+    title: 'Dubai Marina Dhow Dinner Cruise',
+    location: 'Dubai, UAE',
+    price: 'AED 120',
+    days: '2 hours',
+    image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80',
+    tags: ['Buffet included', 'Live Tanoura Show', 'Daily 8:30-10:30PM'],
+  },
+  {
+    title: 'Royal Caribbean — 7-Night Western Caribbean Adventure',
+    location: 'Caribbean Cruise',
+    price: 'AED 3,200',
     days: '7 nights',
-    image: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Ryokan stay', 'Food trail', 'Bullet train'],
+    image: 'https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=1200&q=80',
+    tags: ['Miami', 'Cozumel', 'CocoCay'],
   },
   {
-    title: 'Paris Riviera Romance',
-    location: 'Paris & Nice',
-    price: '$5,880',
-    days: '8 nights',
-    image: 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Palace hotel', 'Private Louvre', 'Beach club'],
+    title: 'Museum of the Future — A Postcard from 2071',
+    location: 'Dubai, UAE',
+    price: 'AED 155',
+    days: 'Half day',
+    image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80',
+    tags: ['Future Technology', 'Sheikh Zayed Road', '9AM-6PM'],
   },
   {
-    title: 'Bali Wellness Sanctuary',
-    location: 'Ubud & Nusa Dua',
-    price: '$2,460',
-    days: '6 nights',
-    image: 'https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Spa retreat', 'Temple trail', 'Villa pool'],
+    title: 'Sunrise Desert Balloon Flight + Bedouin Breakfast',
+    location: 'Dubai Desert Conservation Reserve',
+    price: 'AED 649',
+    days: '~5 hours',
+    image: 'https://images.unsplash.com/photo-1547234935-80c7145ec969?auto=format&fit=crop&w=1200&q=80',
+    tags: ['Sunrise departure', 'Breakfast included', 'Falconry show'],
   },
 ];
 
 export const destinations: Destination[] = [
   {
-    name: 'Santorini',
-    country: 'Greece',
+    name: 'Switzerland',
+    country: 'Western Europe',
     rating: '4.9',
-    image: 'https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=1000&q=80',
+    image: 'https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1000&q=80',
   },
   {
-    name: 'Kyoto',
-    country: 'Japan',
+    name: 'Dubai',
+    country: 'UAE',
     rating: '4.8',
-    image: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1000&q=80',
+    image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1000&q=80',
   },
   {
-    name: 'Paris',
-    country: 'France',
-    rating: '4.9',
-    image: 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1000&q=80',
-  },
-  {
-    name: 'Bali',
-    country: 'Indonesia',
+    name: 'Caribbean',
+    country: 'Cruise Packages',
     rating: '4.8',
-    image: 'https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1000&q=80',
+    image: 'https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=1000&q=80',
+  },
+  {
+    name: 'Italy',
+    country: 'Southern Europe',
+    rating: '4.8',
+    image: 'https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1000&q=80',
   },
 ];
 
@@ -174,87 +168,12 @@ export const recommenderOptions = {
   destination: ['Dubai', 'Maldives', 'Europe', 'Japan', 'Surprise me'],
 };
 
-export const recommendations = [
-  {
-    title: 'Dubai + Maldives Signature',
-    image: packages[0].image,
-    highlights: ['Private yacht sunset cruise', 'Overwater villa upgrade', 'Fine-dining reservations'],
-  },
-  {
-    title: 'Japan Golden Route Luxe',
-    image: destinations[1].image,
-    highlights: ['Ryokan with private onsen', 'Kyoto tea ceremony', 'Michelin dining trail'],
-  },
-  {
-    title: 'Swiss Lakes & Peaks',
-    image: packages[2].image,
-    highlights: ['First-class rail', 'Matterhorn suite', 'Alpine spa circuit'],
-  },
-];
-
-export const itineraryDays = [
-  {
-    day: 'Day 1',
-    title: 'Arrival & Signature Welcome',
-    icon: Hotel,
-    items: ['VIP airport meet-and-assist', 'Check in to a skyline-view hotel', 'Chef-led welcome dinner'],
-  },
-  {
-    day: 'Day 2',
-    title: 'Icons, Culture & Private Access',
-    icon: Landmark,
-    items: ['Morning landmark tour', 'Museum or old-town walk', 'Private sunset viewpoint'],
-  },
-  {
-    day: 'Day 3',
-    title: 'Slow Luxury Day',
-    icon: Gem,
-    items: ['Spa breakfast', 'Curated shopping or beach club', 'Night market tasting route'],
-  },
-  {
-    day: 'Day 4',
-    title: 'Adventure Finale',
-    icon: Camera,
-    items: ['Scenic helicopter or yacht option', 'Golden-hour photography session', 'Farewell lounge transfer'],
-  },
-];
-
-export const visaChecklist = [
-  'Passport valid for at least 6 months',
-  'Confirmed return flight reservation',
-  'Hotel booking or invitation letter',
-  'Recent passport-size photographs',
-  'Travel insurance policy',
-  'Bank statement or income proof',
-];
-
-export const packingGroups = [
-  { title: 'Documents', items: ['Passport copy', 'Travel insurance', 'Hotel vouchers', 'Emergency contacts'] },
-  { title: 'Smart Packing', items: ['Universal adapter', 'Evening wear', 'Comfort shoes', 'Medication kit'] },
-  { title: 'Luxury Extras', items: ['Lounge access card', 'Preferred fragrance', 'Camera gear', 'Resort wear'] },
-];
-
-export const dubaiTimeline = [
-  { time: '09:00', title: 'Private Marina Breakfast', cost: '$85', icon: Utensils },
-  { time: '11:00', title: 'Museum of the Future Fast Track', cost: '$65', icon: Landmark },
-  { time: '14:00', title: 'Jumeirah Beach Club', cost: '$140', icon: Crown },
-  { time: '17:30', title: 'Desert Conservation Drive', cost: '$210', icon: MapPin },
-  { time: '20:30', title: 'Skyline Dinner Reservation', cost: '$180', icon: Star },
-];
-
-export const captionIdeas = [
-  'Golden hour, first-class state of mind.',
-  'Some views deserve a passport stamp and a quiet table for two.',
-  'Luxury is the art of arriving slowly.',
-  'Out of office, into something unforgettable.',
-];
-
 export const footerLinks = [
-  'Luxury Holidays',
+  'World Tour Packages',
   'Corporate Travel',
   'Visa Concierge',
-  'Dubai Experiences',
-  'AI Travel Tools',
+  'UAE Attractions',
+  'Cruise Packages',
 ];
 
 export const navItems = [

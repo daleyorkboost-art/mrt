@@ -6,6 +6,8 @@ Base URL:
 http://localhost:5000
 ```
 
+Internal quote endpoints require a short-lived bearer token from `/api/internal-auth`.
+
 All API responses use:
 
 ```json
@@ -29,6 +31,27 @@ Errors use:
 `GET /health`
 
 Returns service health and timestamp.
+
+## Internal Quote Auth
+
+`POST /api/internal-auth`
+
+Body:
+
+```json
+{
+  "password": "secure internal password"
+}
+```
+
+Returns:
+
+```json
+{
+  "token": "short-lived-token",
+  "expiresInSeconds": 3600
+}
+```
 
 ## Trip Recommender
 
@@ -119,6 +142,12 @@ Lowercases and tokenizes the query, scores FAQ keyword matches, and returns the 
 
 `POST /api/quote-email`
 
+Header:
+
+```text
+Authorization: Bearer <internal-token>
+```
+
 Body:
 
 ```json
@@ -130,7 +159,7 @@ Body:
   "budget": "$6,000 - $8,000",
   "specialRequests": "Overwater villa and private transfers",
   "email": "riya@example.com",
-  "phone": "+971500000000"
+  "phone": "+971 58 556 6036"
 }
 ```
 
@@ -139,6 +168,12 @@ Returns generated email subject and HTML.
 ## Send Quote Email
 
 `POST /api/send-email`
+
+Header:
+
+```text
+Authorization: Bearer <internal-token>
+```
 
 Body:
 

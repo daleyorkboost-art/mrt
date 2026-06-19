@@ -1,1652 +1,1618 @@
 [
   {
     "passport": "IN",
+    "nationality": "Indian",
     "destination": "UAE",
-    "visa_type": "Visa-Free",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "US",
-    "destination": "FR",
-    "visa_type": "Visa on Arrival",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "65",
-    "processing_time": "4 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "GB",
-    "destination": "ID",
-    "visa_type": "eVisa",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "85",
-    "processing_time": "5 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "AE",
-    "destination": "GB",
-    "visa_type": "Embassy Visa Required",
+    "visa_type": "Tourist Visa / eVisa",
     "validity_days": 30,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
+      "Passport copy",
+      "Passport-size photo",
+      "Return flight reservation",
       "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
+      "Travel insurance"
     ],
-    "estimated_fees_usd": "105",
-    "processing_time": "6 working days",
+    "estimated_fees_usd": 110,
+    "processing_time": "3-5 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Light clothing",
+      "Modest outfit for cultural sites",
+      "Sunscreen",
+      "Universal adapter"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "SG",
-    "destination": "JP",
-    "visa_type": "Visa-Free",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "CA",
-    "destination": "SG",
-    "visa_type": "Visa on Arrival",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "145",
-    "processing_time": "8 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "AU",
-    "destination": "MV",
-    "visa_type": "eVisa",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "165",
-    "processing_time": "9 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "FR",
-    "destination": "TH",
-    "visa_type": "Embassy Visa Required",
-    "validity_days": 30,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "45",
-    "processing_time": "10 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "DE",
-    "destination": "CH",
-    "visa_type": "Visa-Free",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "ZA",
-    "destination": "TR",
-    "visa_type": "Visa on Arrival",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "85",
-    "processing_time": "12 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Rules vary by nationality. Confirm latest UAE immigration guidance before booking."
     ]
   },
   {
     "passport": "IN",
-    "destination": "UAE",
-    "visa_type": "eVisa",
+    "nationality": "Indian",
+    "destination": "Schengen",
+    "visa_type": "Schengen Short-Stay Visa",
     "validity_days": 90,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
+      "Passport valid for 6 months",
+      "Schengen application form",
       "Travel insurance",
-      "Bank statement if requested"
+      "Flight itinerary",
+      "Hotel bookings",
+      "Bank statement"
     ],
-    "estimated_fees_usd": "105",
-    "processing_time": "3 working days",
+    "estimated_fees_usd": 90,
+    "processing_time": "10-20 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Comfort walking shoes",
+      "Layered clothing",
+      "Travel insurance copy",
+      "European plug adapter"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "US",
-    "destination": "FR",
-    "visa_type": "Embassy Visa Required",
-    "validity_days": 30,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "125",
-    "processing_time": "4 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "GB",
-    "destination": "ID",
-    "visa_type": "Visa-Free",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "AE",
-    "destination": "GB",
-    "visa_type": "Visa on Arrival",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "165",
-    "processing_time": "6 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "SG",
-    "destination": "JP",
-    "visa_type": "eVisa",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "45",
-    "processing_time": "7 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "CA",
-    "destination": "SG",
-    "visa_type": "Embassy Visa Required",
-    "validity_days": 30,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "65",
-    "processing_time": "8 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "AU",
-    "destination": "MV",
-    "visa_type": "Visa-Free",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "FR",
-    "destination": "TH",
-    "visa_type": "Visa on Arrival",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "105",
-    "processing_time": "10 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "DE",
-    "destination": "CH",
-    "visa_type": "eVisa",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "125",
-    "processing_time": "11 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "ZA",
-    "destination": "TR",
-    "visa_type": "Embassy Visa Required",
-    "validity_days": 30,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "145",
-    "processing_time": "12 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Appointments fill quickly during summer and holidays. Carry printed hotel and insurance documents."
     ]
   },
   {
     "passport": "IN",
-    "destination": "UAE",
-    "visa_type": "Visa-Free",
+    "nationality": "Indian",
+    "destination": "Japan",
+    "visa_type": "Temporary Visitor Visa / Visa Waiver",
     "validity_days": 90,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
+      "Passport",
+      "Completed visa form if required",
+      "Photo",
+      "Daily schedule",
+      "Flight and hotel proof",
+      "Financial proof"
     ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
+    "estimated_fees_usd": 35,
+    "processing_time": "5-10 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Comfortable shoes",
+      "Power adapter",
+      "Transit card wallet",
+      "Weather layers"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "US",
-    "destination": "FR",
-    "visa_type": "Visa on Arrival",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "45",
-    "processing_time": "4 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "GB",
-    "destination": "ID",
-    "visa_type": "eVisa",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "65",
-    "processing_time": "5 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "AE",
-    "destination": "GB",
-    "visa_type": "Embassy Visa Required",
-    "validity_days": 30,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "85",
-    "processing_time": "6 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "SG",
-    "destination": "JP",
-    "visa_type": "Visa-Free",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "CA",
-    "destination": "SG",
-    "visa_type": "Visa on Arrival",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "125",
-    "processing_time": "8 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "AU",
-    "destination": "MV",
-    "visa_type": "eVisa",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "145",
-    "processing_time": "9 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "FR",
-    "destination": "TH",
-    "visa_type": "Embassy Visa Required",
-    "validity_days": 30,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "165",
-    "processing_time": "10 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "DE",
-    "destination": "CH",
-    "visa_type": "Visa-Free",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "ZA",
-    "destination": "TR",
-    "visa_type": "Visa on Arrival",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "65",
-    "processing_time": "12 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Cherry blossom and autumn periods require early booking. Visa-waiver eligibility depends on passport."
     ]
   },
   {
     "passport": "IN",
-    "destination": "UAE",
-    "visa_type": "eVisa",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "85",
-    "processing_time": "3 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "US",
-    "destination": "FR",
-    "visa_type": "Embassy Visa Required",
-    "validity_days": 30,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "105",
-    "processing_time": "4 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "GB",
-    "destination": "ID",
-    "visa_type": "Visa-Free",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "AE",
-    "destination": "GB",
+    "nationality": "Indian",
+    "destination": "Maldives",
     "visa_type": "Visa on Arrival",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "145",
-    "processing_time": "6 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "SG",
-    "destination": "JP",
-    "visa_type": "eVisa",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "165",
-    "processing_time": "7 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "CA",
-    "destination": "SG",
-    "visa_type": "Embassy Visa Required",
     "validity_days": 30,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
+      "Passport valid for 6 months",
+      "Confirmed resort booking",
+      "Return ticket",
+      "Sufficient funds proof"
     ],
-    "estimated_fees_usd": "45",
-    "processing_time": "8 working days",
+    "estimated_fees_usd": 0,
+    "processing_time": "Issued on arrival",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Resort wear",
+      "Reef-safe sunscreen",
+      "Swimwear",
+      "Waterproof pouch"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "AU",
-    "destination": "MV",
-    "visa_type": "Visa-Free",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "FR",
-    "destination": "TH",
-    "visa_type": "Visa on Arrival",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "85",
-    "processing_time": "10 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "DE",
-    "destination": "CH",
-    "visa_type": "eVisa",
-    "validity_days": 90,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "105",
-    "processing_time": "11 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
-    ]
-  },
-  {
-    "passport": "ZA",
-    "destination": "TR",
-    "visa_type": "Embassy Visa Required",
-    "validity_days": 30,
-    "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
-    ],
-    "estimated_fees_usd": "125",
-    "processing_time": "12 working days",
-    "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
-    },
-    "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
-    ],
-    "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Resort transfers must be aligned with flight arrival times. Green tax and resort rules may apply."
     ]
   },
   {
     "passport": "IN",
-    "destination": "UAE",
-    "visa_type": "Visa-Free",
-    "validity_days": 90,
+    "nationality": "Indian",
+    "destination": "UK",
+    "visa_type": "Standard Visitor Visa",
+    "validity_days": 180,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
+      "Passport",
+      "Online application",
+      "Biometrics appointment",
+      "Travel itinerary",
+      "Accommodation proof",
+      "Financial documents"
     ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
+    "estimated_fees_usd": 145,
+    "processing_time": "15-30 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Rain jacket",
+      "Smart casual outfit",
+      "UK plug adapter",
+      "Printed appointment documents"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Processing can vary around school holidays. Do not book non-refundable services before visa confirmation."
     ]
   },
   {
     "passport": "US",
-    "destination": "FR",
-    "visa_type": "Visa on Arrival",
-    "validity_days": 90,
+    "nationality": "US",
+    "destination": "UAE",
+    "visa_type": "Tourist Visa / eVisa",
+    "validity_days": 30,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
+      "Passport copy",
+      "Passport-size photo",
+      "Return flight reservation",
       "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
+      "Travel insurance"
     ],
-    "estimated_fees_usd": "165",
-    "processing_time": "4 working days",
+    "estimated_fees_usd": 110,
+    "processing_time": "3-5 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Light clothing",
+      "Modest outfit for cultural sites",
+      "Sunscreen",
+      "Universal adapter"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Rules vary by nationality. Confirm latest UAE immigration guidance before booking."
+    ]
+  },
+  {
+    "passport": "US",
+    "nationality": "US",
+    "destination": "Schengen",
+    "visa_type": "Schengen Short-Stay Visa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Schengen application form",
+      "Travel insurance",
+      "Flight itinerary",
+      "Hotel bookings",
+      "Bank statement"
+    ],
+    "estimated_fees_usd": 90,
+    "processing_time": "10-20 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfort walking shoes",
+      "Layered clothing",
+      "Travel insurance copy",
+      "European plug adapter"
+    ],
+    "important_notices": [
+      "Appointments fill quickly during summer and holidays. Carry printed hotel and insurance documents."
+    ]
+  },
+  {
+    "passport": "US",
+    "nationality": "US",
+    "destination": "Japan",
+    "visa_type": "Temporary Visitor Visa / Visa Waiver",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport",
+      "Completed visa form if required",
+      "Photo",
+      "Daily schedule",
+      "Flight and hotel proof",
+      "Financial proof"
+    ],
+    "estimated_fees_usd": 35,
+    "processing_time": "5-10 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfortable shoes",
+      "Power adapter",
+      "Transit card wallet",
+      "Weather layers"
+    ],
+    "important_notices": [
+      "Cherry blossom and autumn periods require early booking. Visa-waiver eligibility depends on passport."
+    ]
+  },
+  {
+    "passport": "US",
+    "nationality": "US",
+    "destination": "Maldives",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Confirmed resort booking",
+      "Return ticket",
+      "Sufficient funds proof"
+    ],
+    "estimated_fees_usd": 0,
+    "processing_time": "Issued on arrival",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Resort wear",
+      "Reef-safe sunscreen",
+      "Swimwear",
+      "Waterproof pouch"
+    ],
+    "important_notices": [
+      "Resort transfers must be aligned with flight arrival times. Green tax and resort rules may apply."
+    ]
+  },
+  {
+    "passport": "US",
+    "nationality": "US",
+    "destination": "UK",
+    "visa_type": "Standard Visitor Visa",
+    "validity_days": 180,
+    "required_documents": [
+      "Passport",
+      "Online application",
+      "Biometrics appointment",
+      "Travel itinerary",
+      "Accommodation proof",
+      "Financial documents"
+    ],
+    "estimated_fees_usd": 145,
+    "processing_time": "15-30 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Rain jacket",
+      "Smart casual outfit",
+      "UK plug adapter",
+      "Printed appointment documents"
+    ],
+    "important_notices": [
+      "Processing can vary around school holidays. Do not book non-refundable services before visa confirmation."
     ]
   },
   {
     "passport": "GB",
-    "destination": "ID",
-    "visa_type": "eVisa",
-    "validity_days": 90,
+    "nationality": "UK",
+    "destination": "UAE",
+    "visa_type": "Tourist Visa / eVisa",
+    "validity_days": 30,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
+      "Passport copy",
+      "Passport-size photo",
+      "Return flight reservation",
       "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
+      "Travel insurance"
     ],
-    "estimated_fees_usd": "45",
-    "processing_time": "5 working days",
+    "estimated_fees_usd": 110,
+    "processing_time": "3-5 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Light clothing",
+      "Modest outfit for cultural sites",
+      "Sunscreen",
+      "Universal adapter"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Rules vary by nationality. Confirm latest UAE immigration guidance before booking."
     ]
   },
   {
-    "passport": "AE",
-    "destination": "GB",
-    "visa_type": "Embassy Visa Required",
-    "validity_days": 30,
+    "passport": "GB",
+    "nationality": "UK",
+    "destination": "Schengen",
+    "visa_type": "Schengen Short-Stay Visa",
+    "validity_days": 90,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
+      "Passport valid for 6 months",
+      "Schengen application form",
       "Travel insurance",
-      "Bank statement if requested"
+      "Flight itinerary",
+      "Hotel bookings",
+      "Bank statement"
     ],
-    "estimated_fees_usd": "65",
-    "processing_time": "6 working days",
+    "estimated_fees_usd": 90,
+    "processing_time": "10-20 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Comfort walking shoes",
+      "Layered clothing",
+      "Travel insurance copy",
+      "European plug adapter"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Appointments fill quickly during summer and holidays. Carry printed hotel and insurance documents."
+    ]
+  },
+  {
+    "passport": "GB",
+    "nationality": "UK",
+    "destination": "Japan",
+    "visa_type": "Temporary Visitor Visa / Visa Waiver",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport",
+      "Completed visa form if required",
+      "Photo",
+      "Daily schedule",
+      "Flight and hotel proof",
+      "Financial proof"
+    ],
+    "estimated_fees_usd": 35,
+    "processing_time": "5-10 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfortable shoes",
+      "Power adapter",
+      "Transit card wallet",
+      "Weather layers"
+    ],
+    "important_notices": [
+      "Cherry blossom and autumn periods require early booking. Visa-waiver eligibility depends on passport."
+    ]
+  },
+  {
+    "passport": "GB",
+    "nationality": "UK",
+    "destination": "Maldives",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Confirmed resort booking",
+      "Return ticket",
+      "Sufficient funds proof"
+    ],
+    "estimated_fees_usd": 0,
+    "processing_time": "Issued on arrival",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Resort wear",
+      "Reef-safe sunscreen",
+      "Swimwear",
+      "Waterproof pouch"
+    ],
+    "important_notices": [
+      "Resort transfers must be aligned with flight arrival times. Green tax and resort rules may apply."
+    ]
+  },
+  {
+    "passport": "GB",
+    "nationality": "UK",
+    "destination": "UK",
+    "visa_type": "Standard Visitor Visa",
+    "validity_days": 180,
+    "required_documents": [
+      "Passport",
+      "Online application",
+      "Biometrics appointment",
+      "Travel itinerary",
+      "Accommodation proof",
+      "Financial documents"
+    ],
+    "estimated_fees_usd": 145,
+    "processing_time": "15-30 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Rain jacket",
+      "Smart casual outfit",
+      "UK plug adapter",
+      "Printed appointment documents"
+    ],
+    "important_notices": [
+      "Processing can vary around school holidays. Do not book non-refundable services before visa confirmation."
     ]
   },
   {
     "passport": "SG",
-    "destination": "JP",
-    "visa_type": "Visa-Free",
-    "validity_days": 90,
+    "nationality": "Singapore",
+    "destination": "UAE",
+    "visa_type": "Tourist Visa / eVisa",
+    "validity_days": 30,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
+      "Passport copy",
+      "Passport-size photo",
+      "Return flight reservation",
       "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
+      "Travel insurance"
     ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
+    "estimated_fees_usd": 110,
+    "processing_time": "3-5 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Light clothing",
+      "Modest outfit for cultural sites",
+      "Sunscreen",
+      "Universal adapter"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Rules vary by nationality. Confirm latest UAE immigration guidance before booking."
+    ]
+  },
+  {
+    "passport": "SG",
+    "nationality": "Singapore",
+    "destination": "Schengen",
+    "visa_type": "Schengen Short-Stay Visa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Schengen application form",
+      "Travel insurance",
+      "Flight itinerary",
+      "Hotel bookings",
+      "Bank statement"
+    ],
+    "estimated_fees_usd": 90,
+    "processing_time": "10-20 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfort walking shoes",
+      "Layered clothing",
+      "Travel insurance copy",
+      "European plug adapter"
+    ],
+    "important_notices": [
+      "Appointments fill quickly during summer and holidays. Carry printed hotel and insurance documents."
+    ]
+  },
+  {
+    "passport": "SG",
+    "nationality": "Singapore",
+    "destination": "Japan",
+    "visa_type": "Temporary Visitor Visa / Visa Waiver",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport",
+      "Completed visa form if required",
+      "Photo",
+      "Daily schedule",
+      "Flight and hotel proof",
+      "Financial proof"
+    ],
+    "estimated_fees_usd": 35,
+    "processing_time": "5-10 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfortable shoes",
+      "Power adapter",
+      "Transit card wallet",
+      "Weather layers"
+    ],
+    "important_notices": [
+      "Cherry blossom and autumn periods require early booking. Visa-waiver eligibility depends on passport."
+    ]
+  },
+  {
+    "passport": "SG",
+    "nationality": "Singapore",
+    "destination": "Maldives",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Confirmed resort booking",
+      "Return ticket",
+      "Sufficient funds proof"
+    ],
+    "estimated_fees_usd": 0,
+    "processing_time": "Issued on arrival",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Resort wear",
+      "Reef-safe sunscreen",
+      "Swimwear",
+      "Waterproof pouch"
+    ],
+    "important_notices": [
+      "Resort transfers must be aligned with flight arrival times. Green tax and resort rules may apply."
+    ]
+  },
+  {
+    "passport": "SG",
+    "nationality": "Singapore",
+    "destination": "UK",
+    "visa_type": "Standard Visitor Visa",
+    "validity_days": 180,
+    "required_documents": [
+      "Passport",
+      "Online application",
+      "Biometrics appointment",
+      "Travel itinerary",
+      "Accommodation proof",
+      "Financial documents"
+    ],
+    "estimated_fees_usd": 145,
+    "processing_time": "15-30 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Rain jacket",
+      "Smart casual outfit",
+      "UK plug adapter",
+      "Printed appointment documents"
+    ],
+    "important_notices": [
+      "Processing can vary around school holidays. Do not book non-refundable services before visa confirmation."
+    ]
+  },
+  {
+    "passport": "AE",
+    "nationality": "UAE",
+    "destination": "UAE",
+    "visa_type": "No Visa Required",
+    "validity_days": 365,
+    "required_documents": [
+      "Valid Emirates ID or UAE passport"
+    ],
+    "estimated_fees_usd": 0,
+    "processing_time": "Not applicable",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Light clothing",
+      "Modest outfit for cultural sites",
+      "Sunscreen",
+      "Universal adapter"
+    ],
+    "important_notices": [
+      "Rules vary by nationality. Confirm latest UAE immigration guidance before booking."
+    ]
+  },
+  {
+    "passport": "AE",
+    "nationality": "UAE",
+    "destination": "Schengen",
+    "visa_type": "Schengen Short-Stay Visa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Schengen application form",
+      "Travel insurance",
+      "Flight itinerary",
+      "Hotel bookings",
+      "Bank statement"
+    ],
+    "estimated_fees_usd": 90,
+    "processing_time": "10-20 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfort walking shoes",
+      "Layered clothing",
+      "Travel insurance copy",
+      "European plug adapter"
+    ],
+    "important_notices": [
+      "Appointments fill quickly during summer and holidays. Carry printed hotel and insurance documents."
+    ]
+  },
+  {
+    "passport": "AE",
+    "nationality": "UAE",
+    "destination": "Japan",
+    "visa_type": "Temporary Visitor Visa / Visa Waiver",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport",
+      "Completed visa form if required",
+      "Photo",
+      "Daily schedule",
+      "Flight and hotel proof",
+      "Financial proof"
+    ],
+    "estimated_fees_usd": 35,
+    "processing_time": "5-10 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfortable shoes",
+      "Power adapter",
+      "Transit card wallet",
+      "Weather layers"
+    ],
+    "important_notices": [
+      "Cherry blossom and autumn periods require early booking. Visa-waiver eligibility depends on passport."
+    ]
+  },
+  {
+    "passport": "AE",
+    "nationality": "UAE",
+    "destination": "Maldives",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Confirmed resort booking",
+      "Return ticket",
+      "Sufficient funds proof"
+    ],
+    "estimated_fees_usd": 0,
+    "processing_time": "Issued on arrival",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Resort wear",
+      "Reef-safe sunscreen",
+      "Swimwear",
+      "Waterproof pouch"
+    ],
+    "important_notices": [
+      "Resort transfers must be aligned with flight arrival times. Green tax and resort rules may apply."
+    ]
+  },
+  {
+    "passport": "AE",
+    "nationality": "UAE",
+    "destination": "UK",
+    "visa_type": "Standard Visitor Visa",
+    "validity_days": 180,
+    "required_documents": [
+      "Passport",
+      "Online application",
+      "Biometrics appointment",
+      "Travel itinerary",
+      "Accommodation proof",
+      "Financial documents"
+    ],
+    "estimated_fees_usd": 145,
+    "processing_time": "15-30 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Rain jacket",
+      "Smart casual outfit",
+      "UK plug adapter",
+      "Printed appointment documents"
+    ],
+    "important_notices": [
+      "Processing can vary around school holidays. Do not book non-refundable services before visa confirmation."
     ]
   },
   {
     "passport": "CA",
-    "destination": "SG",
-    "visa_type": "Visa on Arrival",
-    "validity_days": 90,
+    "nationality": "Canadian",
+    "destination": "UAE",
+    "visa_type": "Tourist Visa / eVisa",
+    "validity_days": 30,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
+      "Passport copy",
+      "Passport-size photo",
+      "Return flight reservation",
       "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
+      "Travel insurance"
     ],
-    "estimated_fees_usd": "105",
-    "processing_time": "8 working days",
+    "estimated_fees_usd": 110,
+    "processing_time": "3-5 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Light clothing",
+      "Modest outfit for cultural sites",
+      "Sunscreen",
+      "Universal adapter"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Rules vary by nationality. Confirm latest UAE immigration guidance before booking."
+    ]
+  },
+  {
+    "passport": "CA",
+    "nationality": "Canadian",
+    "destination": "Schengen",
+    "visa_type": "Schengen Short-Stay Visa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Schengen application form",
+      "Travel insurance",
+      "Flight itinerary",
+      "Hotel bookings",
+      "Bank statement"
+    ],
+    "estimated_fees_usd": 90,
+    "processing_time": "10-20 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfort walking shoes",
+      "Layered clothing",
+      "Travel insurance copy",
+      "European plug adapter"
+    ],
+    "important_notices": [
+      "Appointments fill quickly during summer and holidays. Carry printed hotel and insurance documents."
+    ]
+  },
+  {
+    "passport": "CA",
+    "nationality": "Canadian",
+    "destination": "Japan",
+    "visa_type": "Temporary Visitor Visa / Visa Waiver",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport",
+      "Completed visa form if required",
+      "Photo",
+      "Daily schedule",
+      "Flight and hotel proof",
+      "Financial proof"
+    ],
+    "estimated_fees_usd": 35,
+    "processing_time": "5-10 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfortable shoes",
+      "Power adapter",
+      "Transit card wallet",
+      "Weather layers"
+    ],
+    "important_notices": [
+      "Cherry blossom and autumn periods require early booking. Visa-waiver eligibility depends on passport."
+    ]
+  },
+  {
+    "passport": "CA",
+    "nationality": "Canadian",
+    "destination": "Maldives",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Confirmed resort booking",
+      "Return ticket",
+      "Sufficient funds proof"
+    ],
+    "estimated_fees_usd": 0,
+    "processing_time": "Issued on arrival",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Resort wear",
+      "Reef-safe sunscreen",
+      "Swimwear",
+      "Waterproof pouch"
+    ],
+    "important_notices": [
+      "Resort transfers must be aligned with flight arrival times. Green tax and resort rules may apply."
+    ]
+  },
+  {
+    "passport": "CA",
+    "nationality": "Canadian",
+    "destination": "UK",
+    "visa_type": "Standard Visitor Visa",
+    "validity_days": 180,
+    "required_documents": [
+      "Passport",
+      "Online application",
+      "Biometrics appointment",
+      "Travel itinerary",
+      "Accommodation proof",
+      "Financial documents"
+    ],
+    "estimated_fees_usd": 145,
+    "processing_time": "15-30 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Rain jacket",
+      "Smart casual outfit",
+      "UK plug adapter",
+      "Printed appointment documents"
+    ],
+    "important_notices": [
+      "Processing can vary around school holidays. Do not book non-refundable services before visa confirmation."
     ]
   },
   {
     "passport": "AU",
-    "destination": "MV",
-    "visa_type": "eVisa",
-    "validity_days": 90,
+    "nationality": "Australian",
+    "destination": "UAE",
+    "visa_type": "Tourist Visa / eVisa",
+    "validity_days": 30,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
+      "Passport copy",
+      "Passport-size photo",
+      "Return flight reservation",
       "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
+      "Travel insurance"
     ],
-    "estimated_fees_usd": "125",
-    "processing_time": "9 working days",
+    "estimated_fees_usd": 110,
+    "processing_time": "3-5 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Light clothing",
+      "Modest outfit for cultural sites",
+      "Sunscreen",
+      "Universal adapter"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Rules vary by nationality. Confirm latest UAE immigration guidance before booking."
     ]
   },
   {
-    "passport": "FR",
-    "destination": "TH",
-    "visa_type": "Embassy Visa Required",
-    "validity_days": 30,
+    "passport": "AU",
+    "nationality": "Australian",
+    "destination": "Schengen",
+    "visa_type": "Schengen Short-Stay Visa",
+    "validity_days": 90,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
+      "Passport valid for 6 months",
+      "Schengen application form",
       "Travel insurance",
-      "Bank statement if requested"
+      "Flight itinerary",
+      "Hotel bookings",
+      "Bank statement"
     ],
-    "estimated_fees_usd": "145",
-    "processing_time": "10 working days",
+    "estimated_fees_usd": 90,
+    "processing_time": "10-20 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Comfort walking shoes",
+      "Layered clothing",
+      "Travel insurance copy",
+      "European plug adapter"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Appointments fill quickly during summer and holidays. Carry printed hotel and insurance documents."
+    ]
+  },
+  {
+    "passport": "AU",
+    "nationality": "Australian",
+    "destination": "Japan",
+    "visa_type": "Temporary Visitor Visa / Visa Waiver",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport",
+      "Completed visa form if required",
+      "Photo",
+      "Daily schedule",
+      "Flight and hotel proof",
+      "Financial proof"
+    ],
+    "estimated_fees_usd": 35,
+    "processing_time": "5-10 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfortable shoes",
+      "Power adapter",
+      "Transit card wallet",
+      "Weather layers"
+    ],
+    "important_notices": [
+      "Cherry blossom and autumn periods require early booking. Visa-waiver eligibility depends on passport."
+    ]
+  },
+  {
+    "passport": "AU",
+    "nationality": "Australian",
+    "destination": "Maldives",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Confirmed resort booking",
+      "Return ticket",
+      "Sufficient funds proof"
+    ],
+    "estimated_fees_usd": 0,
+    "processing_time": "Issued on arrival",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Resort wear",
+      "Reef-safe sunscreen",
+      "Swimwear",
+      "Waterproof pouch"
+    ],
+    "important_notices": [
+      "Resort transfers must be aligned with flight arrival times. Green tax and resort rules may apply."
+    ]
+  },
+  {
+    "passport": "AU",
+    "nationality": "Australian",
+    "destination": "UK",
+    "visa_type": "Standard Visitor Visa",
+    "validity_days": 180,
+    "required_documents": [
+      "Passport",
+      "Online application",
+      "Biometrics appointment",
+      "Travel itinerary",
+      "Accommodation proof",
+      "Financial documents"
+    ],
+    "estimated_fees_usd": 145,
+    "processing_time": "15-30 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Rain jacket",
+      "Smart casual outfit",
+      "UK plug adapter",
+      "Printed appointment documents"
+    ],
+    "important_notices": [
+      "Processing can vary around school holidays. Do not book non-refundable services before visa confirmation."
     ]
   },
   {
     "passport": "DE",
-    "destination": "CH",
-    "visa_type": "Visa-Free",
-    "validity_days": 90,
+    "nationality": "German",
+    "destination": "UAE",
+    "visa_type": "Tourist Visa / eVisa",
+    "validity_days": 30,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
+      "Passport copy",
+      "Passport-size photo",
+      "Return flight reservation",
       "Hotel booking",
-      "Travel insurance",
-      "Bank statement if requested"
+      "Travel insurance"
     ],
-    "estimated_fees_usd": "0",
-    "processing_time": "Not applicable",
+    "estimated_fees_usd": 110,
+    "processing_time": "3-5 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Light clothing",
+      "Modest outfit for cultural sites",
+      "Sunscreen",
+      "Universal adapter"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Rules vary by nationality. Confirm latest UAE immigration guidance before booking."
     ]
   },
   {
-    "passport": "ZA",
-    "destination": "TR",
-    "visa_type": "Visa on Arrival",
+    "passport": "DE",
+    "nationality": "German",
+    "destination": "Schengen",
+    "visa_type": "Schengen Short-Stay Visa",
     "validity_days": 90,
     "required_documents": [
-      "Passport with 6 months validity",
-      "Return ticket proof",
-      "Hotel booking",
+      "Passport valid for 6 months",
+      "Schengen application form",
       "Travel insurance",
-      "Bank statement if requested"
+      "Flight itinerary",
+      "Hotel bookings",
+      "Bank statement"
     ],
-    "estimated_fees_usd": "45",
-    "processing_time": "12 working days",
+    "estimated_fees_usd": 90,
+    "processing_time": "10-20 working days",
     "month_specific_notes": {
-      "January": "Peak travel season. Keep bookings confirmed early.",
-      "June": "Check weather and seasonal advisories before packing.",
-      "August": "Allow extra time for appointments during summer travel demand.",
-      "December": "Holiday season demand can affect processing and hotel availability."
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
     },
     "packing_list": [
-      "Document folder",
-      "Universal adapter",
-      "Weather-appropriate clothing",
-      "Medication kit",
-      "Travel insurance copy"
+      "Comfort walking shoes",
+      "Layered clothing",
+      "Travel insurance copy",
+      "European plug adapter"
     ],
     "important_notices": [
-      "Rules may change without notice",
-      "Always verify with official embassy or consulate",
-      "Carry printed and digital copies"
+      "Appointments fill quickly during summer and holidays. Carry printed hotel and insurance documents."
+    ]
+  },
+  {
+    "passport": "DE",
+    "nationality": "German",
+    "destination": "Japan",
+    "visa_type": "Temporary Visitor Visa / Visa Waiver",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport",
+      "Completed visa form if required",
+      "Photo",
+      "Daily schedule",
+      "Flight and hotel proof",
+      "Financial proof"
+    ],
+    "estimated_fees_usd": 35,
+    "processing_time": "5-10 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfortable shoes",
+      "Power adapter",
+      "Transit card wallet",
+      "Weather layers"
+    ],
+    "important_notices": [
+      "Cherry blossom and autumn periods require early booking. Visa-waiver eligibility depends on passport."
+    ]
+  },
+  {
+    "passport": "DE",
+    "nationality": "German",
+    "destination": "Maldives",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Confirmed resort booking",
+      "Return ticket",
+      "Sufficient funds proof"
+    ],
+    "estimated_fees_usd": 0,
+    "processing_time": "Issued on arrival",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Resort wear",
+      "Reef-safe sunscreen",
+      "Swimwear",
+      "Waterproof pouch"
+    ],
+    "important_notices": [
+      "Resort transfers must be aligned with flight arrival times. Green tax and resort rules may apply."
+    ]
+  },
+  {
+    "passport": "DE",
+    "nationality": "German",
+    "destination": "UK",
+    "visa_type": "Standard Visitor Visa",
+    "validity_days": 180,
+    "required_documents": [
+      "Passport",
+      "Online application",
+      "Biometrics appointment",
+      "Travel itinerary",
+      "Accommodation proof",
+      "Financial documents"
+    ],
+    "estimated_fees_usd": 145,
+    "processing_time": "15-30 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Rain jacket",
+      "Smart casual outfit",
+      "UK plug adapter",
+      "Printed appointment documents"
+    ],
+    "important_notices": [
+      "Processing can vary around school holidays. Do not book non-refundable services before visa confirmation."
+    ]
+  },
+  {
+    "passport": "FR",
+    "nationality": "French",
+    "destination": "UAE",
+    "visa_type": "Tourist Visa / eVisa",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport copy",
+      "Passport-size photo",
+      "Return flight reservation",
+      "Hotel booking",
+      "Travel insurance"
+    ],
+    "estimated_fees_usd": 110,
+    "processing_time": "3-5 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Light clothing",
+      "Modest outfit for cultural sites",
+      "Sunscreen",
+      "Universal adapter"
+    ],
+    "important_notices": [
+      "Rules vary by nationality. Confirm latest UAE immigration guidance before booking."
+    ]
+  },
+  {
+    "passport": "FR",
+    "nationality": "French",
+    "destination": "Schengen",
+    "visa_type": "Schengen Short-Stay Visa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Schengen application form",
+      "Travel insurance",
+      "Flight itinerary",
+      "Hotel bookings",
+      "Bank statement"
+    ],
+    "estimated_fees_usd": 90,
+    "processing_time": "10-20 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfort walking shoes",
+      "Layered clothing",
+      "Travel insurance copy",
+      "European plug adapter"
+    ],
+    "important_notices": [
+      "Appointments fill quickly during summer and holidays. Carry printed hotel and insurance documents."
+    ]
+  },
+  {
+    "passport": "FR",
+    "nationality": "French",
+    "destination": "Japan",
+    "visa_type": "Temporary Visitor Visa / Visa Waiver",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport",
+      "Completed visa form if required",
+      "Photo",
+      "Daily schedule",
+      "Flight and hotel proof",
+      "Financial proof"
+    ],
+    "estimated_fees_usd": 35,
+    "processing_time": "5-10 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfortable shoes",
+      "Power adapter",
+      "Transit card wallet",
+      "Weather layers"
+    ],
+    "important_notices": [
+      "Cherry blossom and autumn periods require early booking. Visa-waiver eligibility depends on passport."
+    ]
+  },
+  {
+    "passport": "FR",
+    "nationality": "French",
+    "destination": "Maldives",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Confirmed resort booking",
+      "Return ticket",
+      "Sufficient funds proof"
+    ],
+    "estimated_fees_usd": 0,
+    "processing_time": "Issued on arrival",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Resort wear",
+      "Reef-safe sunscreen",
+      "Swimwear",
+      "Waterproof pouch"
+    ],
+    "important_notices": [
+      "Resort transfers must be aligned with flight arrival times. Green tax and resort rules may apply."
+    ]
+  },
+  {
+    "passport": "FR",
+    "nationality": "French",
+    "destination": "UK",
+    "visa_type": "Standard Visitor Visa",
+    "validity_days": 180,
+    "required_documents": [
+      "Passport",
+      "Online application",
+      "Biometrics appointment",
+      "Travel itinerary",
+      "Accommodation proof",
+      "Financial documents"
+    ],
+    "estimated_fees_usd": 145,
+    "processing_time": "15-30 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Rain jacket",
+      "Smart casual outfit",
+      "UK plug adapter",
+      "Printed appointment documents"
+    ],
+    "important_notices": [
+      "Processing can vary around school holidays. Do not book non-refundable services before visa confirmation."
+    ]
+  },
+  {
+    "passport": "SA",
+    "nationality": "Saudi",
+    "destination": "UAE",
+    "visa_type": "Tourist Visa / eVisa",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport copy",
+      "Passport-size photo",
+      "Return flight reservation",
+      "Hotel booking",
+      "Travel insurance"
+    ],
+    "estimated_fees_usd": 110,
+    "processing_time": "3-5 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Light clothing",
+      "Modest outfit for cultural sites",
+      "Sunscreen",
+      "Universal adapter"
+    ],
+    "important_notices": [
+      "Rules vary by nationality. Confirm latest UAE immigration guidance before booking."
+    ]
+  },
+  {
+    "passport": "SA",
+    "nationality": "Saudi",
+    "destination": "Schengen",
+    "visa_type": "Schengen Short-Stay Visa",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Schengen application form",
+      "Travel insurance",
+      "Flight itinerary",
+      "Hotel bookings",
+      "Bank statement"
+    ],
+    "estimated_fees_usd": 90,
+    "processing_time": "10-20 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfort walking shoes",
+      "Layered clothing",
+      "Travel insurance copy",
+      "European plug adapter"
+    ],
+    "important_notices": [
+      "Appointments fill quickly during summer and holidays. Carry printed hotel and insurance documents."
+    ]
+  },
+  {
+    "passport": "SA",
+    "nationality": "Saudi",
+    "destination": "Japan",
+    "visa_type": "Temporary Visitor Visa / Visa Waiver",
+    "validity_days": 90,
+    "required_documents": [
+      "Passport",
+      "Completed visa form if required",
+      "Photo",
+      "Daily schedule",
+      "Flight and hotel proof",
+      "Financial proof"
+    ],
+    "estimated_fees_usd": 35,
+    "processing_time": "5-10 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Comfortable shoes",
+      "Power adapter",
+      "Transit card wallet",
+      "Weather layers"
+    ],
+    "important_notices": [
+      "Cherry blossom and autumn periods require early booking. Visa-waiver eligibility depends on passport."
+    ]
+  },
+  {
+    "passport": "SA",
+    "nationality": "Saudi",
+    "destination": "Maldives",
+    "visa_type": "Visa on Arrival",
+    "validity_days": 30,
+    "required_documents": [
+      "Passport valid for 6 months",
+      "Confirmed resort booking",
+      "Return ticket",
+      "Sufficient funds proof"
+    ],
+    "estimated_fees_usd": 0,
+    "processing_time": "Issued on arrival",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Resort wear",
+      "Reef-safe sunscreen",
+      "Swimwear",
+      "Waterproof pouch"
+    ],
+    "important_notices": [
+      "Resort transfers must be aligned with flight arrival times. Green tax and resort rules may apply."
+    ]
+  },
+  {
+    "passport": "SA",
+    "nationality": "Saudi",
+    "destination": "UK",
+    "visa_type": "Standard Visitor Visa",
+    "validity_days": 180,
+    "required_documents": [
+      "Passport",
+      "Online application",
+      "Biometrics appointment",
+      "Travel itinerary",
+      "Accommodation proof",
+      "Financial documents"
+    ],
+    "estimated_fees_usd": 145,
+    "processing_time": "15-30 working days",
+    "month_specific_notes": {
+      "April": "Good shoulder-season travel window. Confirm public holiday closures before departure.",
+      "July": "Peak summer conditions in many regions. Carry heat protection and confirm attraction timings.",
+      "August": "High travel demand month. Apply early and reconfirm hotel/transfer availability.",
+      "September": "Good post-summer travel period with smoother appointment availability in many markets.",
+      "December": "Peak festive season. Expect longer processing and higher air/hotel demand."
+    },
+    "packing_list": [
+      "Rain jacket",
+      "Smart casual outfit",
+      "UK plug adapter",
+      "Printed appointment documents"
+    ],
+    "important_notices": [
+      "Processing can vary around school holidays. Do not book non-refundable services before visa confirmation."
     ]
   }
 ]

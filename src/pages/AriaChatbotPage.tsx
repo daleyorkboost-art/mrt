@@ -70,7 +70,7 @@ export function AriaChatbotPage() {
           <SectionHeader
             eyebrow="ARIA chatbot"
             title="A premium travel assistant that feels like a concierge"
-            description="This page demonstrates suggested prompts, message bubbles, a floating chat bubble, and responsive chat behavior."
+            description="Ask destination, visa, package, and planning questions through MyGlobalTrips' concierge knowledge base."
             icon={Sparkles}
           />
           <Card className="mt-8 p-5">
@@ -101,7 +101,7 @@ export function AriaChatbotPage() {
                 <p className="text-sm text-mist">Online travel concierge</p>
               </div>
             </div>
-            <span className="rounded-full bg-teal/20 px-3 py-1 text-xs font-bold text-[#7dd3c7]">Live demo</span>
+            <span className="rounded-full bg-teal/20 px-3 py-1 text-xs font-bold text-[#7dd3c7]">Online</span>
           </div>
 
           <div className="flex h-[500px] flex-col gap-4 overflow-y-auto py-6">
