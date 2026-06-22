@@ -22,7 +22,7 @@
 - [ ] Validation errors return `{ success: false, message }`.
 - [ ] Rate limit on `/api/caption` returns a friendly error.
 - [ ] SMTP missing returns a clear quote-send error.
-- [ ] OpenAI missing uses fallback captions without exposing keys.
+- [ ] Gemini missing uses fallback captions without exposing keys.
 
 ## Accessibility
 
@@ -35,7 +35,7 @@
 ## Deployment
 
 - [ ] Frontend `.env` contains `VITE_API_BASE_URL`.
-- [ ] Backend `.env` contains CORS, OpenAI, SMTP, and public base URL settings.
+- [ ] Backend `.env` contains CORS, Gemini, SMTP, and public base URL settings.
 - [ ] `npm run build` passes.
 - [ ] PM2 starts backend successfully.
 - [ ] HTTPS is active in production.

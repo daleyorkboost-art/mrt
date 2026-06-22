@@ -1,7 +1,7 @@
 const path = require('path');
-require('dotenv').config();
 
 const rootDir = path.resolve(__dirname, '../..');
+require('dotenv').config({ path: path.resolve(rootDir, '.env') });
 
 const env = {
   nodeEnv: process.env.NODE_ENV || 'development',
@@ -17,9 +17,9 @@ const env = {
   publicBaseUrl: process.env.PUBLIC_BASE_URL || 'http://localhost:5000',
   internalQuotePassword: process.env.INTERNAL_QUOTE_PASSWORD || '',
   internalAuthSecret: process.env.INTERNAL_AUTH_SECRET || '',
-  openaiApiKey: process.env.OPENAI_API_KEY || '',
-  openaiVisionModel: process.env.OPENAI_VISION_MODEL || 'gpt-4o',
-  openaiTimeoutMs: Number(process.env.OPENAI_TIMEOUT_MS || 30000),
+  geminiApiKey: process.env.GEMINI_API_KEY || '',
+  geminiVisionModel: process.env.GEMINI_VISION_MODEL || 'gemini-2.5-flash',
+  geminiTimeoutMs: Number(process.env.GEMINI_TIMEOUT_MS || 30000),
   smtp: {
     host: process.env.SMTP_HOST || '',
     port: Number(process.env.SMTP_PORT || 587),
@@ -34,7 +34,7 @@ if (env.nodeEnv === 'production') {
   const missing = [];
   if (!env.internalQuotePassword) missing.push('INTERNAL_QUOTE_PASSWORD');
   if (!env.internalAuthSecret) missing.push('INTERNAL_AUTH_SECRET');
-  if (!env.openaiApiKey) missing.push('OPENAI_API_KEY');
+  if (!env.geminiApiKey) missing.push('GEMINI_API_KEY');
   if (!env.smtp.host) missing.push('SMTP_HOST');
   if (!env.smtp.user) missing.push('SMTP_USER');
   if (!env.smtp.pass) missing.push('SMTP_PASS');

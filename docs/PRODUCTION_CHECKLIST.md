@@ -3,7 +3,7 @@
 - [ ] Frontend `npm run lint`, `npm test`, and `npm run build` pass.
 - [ ] Backend `npm run lint`, `npm test`, and `npm run smoke` pass.
 - [ ] `npm audit --omit=dev` returns no high or critical vulnerabilities for frontend and backend.
-- [ ] `OPENAI_API_KEY` is configured on the backend server.
+- [ ] `GEMINI_API_KEY` is configured on the backend server.
 - [ ] SMTP credentials are configured on the backend server.
 - [ ] Internal quote password and auth secret are configured.
 - [ ] CORS is restricted to the production frontend domain.

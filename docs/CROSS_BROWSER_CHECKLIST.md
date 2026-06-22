@@ -8,4 +8,4 @@
 - [ ] Chrome Android 112+: navigation, WhatsApp popup, upload, tool forms.
 - [ ] Verify no browser console errors on initial load and each tool submission.
 - [ ] Verify CORS works from production frontend domain to production API domain.
-- [ ] Verify OpenAI and SMTP failures render friendly frontend messages.
+- [ ] Verify Gemini and SMTP failures render friendly frontend messages.

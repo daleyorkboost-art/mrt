@@ -23,9 +23,9 @@ REQUEST_TIMEOUT_MS=30000
 UPLOAD_DIR=uploads
 INTERNAL_QUOTE_PASSWORD=<secure internal password>
 INTERNAL_AUTH_SECRET=<strong random secret>
-OPENAI_API_KEY=<openai api key>
-OPENAI_VISION_MODEL=gpt-4o
-OPENAI_TIMEOUT_MS=30000
+GEMINI_API_KEY=<gemini api key>
+GEMINI_VISION_MODEL=gemini-2.5-flash
+GEMINI_TIMEOUT_MS=30000
 SMTP_HOST=<smtp host>
 SMTP_PORT=587
 SMTP_SECURE=false
@@ -60,6 +60,6 @@ pm2 save
 - Frontend build output is served over HTTPS.
 - Backend runs behind HTTPS/reverse proxy.
 - `CORS_ORIGIN` is restricted to the production domain.
-- OpenAI and SMTP credentials are configured in the server environment only.
+- Gemini and SMTP credentials are configured in the server environment only.
 - `/health` returns a healthy response.
 - `robots.txt` and `sitemap.xml` are deployed with the frontend.

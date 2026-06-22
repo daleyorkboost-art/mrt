@@ -42,12 +42,18 @@ async function sendQuoteEmail(input) {
     throw new ApiError('SMTP is not configured. Add SMTP settings to .env.', 503);
   }
 
-  const info = await transporter.sendMail({
-    from: env.smtp.from,
-    to: input.to,
-    subject: input.subject,
-    html: input.html,
-  });
+  let info;
+  try {
+    info = await transporter.sendMail({
+      from: env.smtp.from,
+      to: input.to,
+      subject: input.subject,
+      html: input.html,
+    });
+  } catch (error) {
+    const providerMessage = error?.message || 'SMTP delivery failed';
+    throw new ApiError(`SMTP delivery failed: ${providerMessage}`, 503);
+  }
 
   return {
     delivered: true,
