@@ -100,7 +100,12 @@ async function generateWithGemini(input, file, imageBase64) {
     if (error.name === 'AbortError') {
       throw new ApiError('Gemini caption generation timed out. Please try again.', 504);
     }
-    throw error;
+
+    if (error instanceof ApiError) {
+      throw error;
+    }
+
+    throw new ApiError('Gemini caption service is currently unavailable. Please try again shortly.', 503);
   } finally {
     clearTimeout(timeout);
   }

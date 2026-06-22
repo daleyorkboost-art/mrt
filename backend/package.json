@@ -8,6 +8,7 @@
     "start": "node server.js",
     "dev": "node --watch server.js",
     "lint": "node scripts/check-syntax.js",
+    "preprod:audit": "node scripts/preprod-audit-sweep.js",
     "smoke": "node scripts/smoke-test.js",
     "test": "node --test tests/*.test.js"
   },
