@@ -1,0 +1,994 @@
+[
+  {
+    "id": "royal-caribbean-7-night-western-caribbean-adventure",
+    "title": "Royal Caribbean - 7-Night Western Caribbean Adventure",
+    "slug": "royal-caribbean-7-night-western-caribbean-adventure",
+    "description": "Cozumel's coral walls, Jamaica's Dunn's River Falls, the private island paradise of CocoCay - Royal Caribbean's Western Caribbean circuit is the definitive introduction to island-hopping at sea. Aboard the Harmony of the Seas, with waterslides, a surf simulator, and 20 restaurants.",
+    "category": "caribbean",
+    "cruiseLine": "Royal Caribbean International",
+    "destination": "Caribbean - The Blueprint of Paradise",
+    "price": "AED 3,200",
+    "priceValueAed": 3200,
+    "duration": "7 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "7 Nights",
+      "Harmony of the Seas",
+      "Fly from Dubai",
+      "Year-round"
+    ],
+    "badges": [
+      "Bestseller",
+      "Family"
+    ],
+    "tags": [
+      "Caribbean - The Blueprint of Paradise",
+      "Royal Caribbean International",
+      "Bestseller",
+      "Family"
+    ],
+    "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=800&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "norwegian-eastern-caribbean-7-night-escape",
+    "title": "Norwegian - Eastern Caribbean 7-Night Escape",
+    "slug": "norwegian-eastern-caribbean-7-night-escape",
+    "description": "St. Thomas's duty-free paradise, Nassau's pink colonial buildings, Puerto Rico's El Morro fortress, and Norwegian's Freestyle Cruising ethos - dine when you want, do what you want, no fixed schedules.",
+    "category": "caribbean",
+    "cruiseLine": "Norwegian Cruise Line",
+    "destination": "Caribbean - The Blueprint of Paradise",
+    "price": "AED 2,900",
+    "priceValueAed": 2900,
+    "duration": "7 Nights",
+    "rating": "4.6",
+    "highlights": [
+      "7 Nights",
+      "Norwegian Epic",
+      "Fly from Dubai",
+      "Nov - Apr"
+    ],
+    "badges": [
+      "Freestyle",
+      "Adults"
+    ],
+    "tags": [
+      "Caribbean - The Blueprint of Paradise",
+      "Norwegian Cruise Line",
+      "Freestyle",
+      "Adults"
+    ],
+    "image": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "msc-caribbean-14-night-grand-voyage",
+    "title": "MSC - Caribbean 14-Night Grand Voyage",
+    "slug": "msc-caribbean-14-night-grand-voyage",
+    "description": "Fourteen nights covering Barbados, Martinique, St. Kitts, Antigua, Tortola, and St. Maarten. MSC's European elegance meets Caribbean colour - black-tie nights in the Grand Ballroom, beach afternoons in turquoise coves.",
+    "category": "caribbean",
+    "cruiseLine": "MSC Cruises",
+    "destination": "Caribbean - The Blueprint of Paradise",
+    "price": "AED 5,100",
+    "priceValueAed": 5100,
+    "duration": "14 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "14 Nights",
+      "MSC Divina",
+      "Fly from Dubai",
+      "Dec - Mar"
+    ],
+    "badges": [
+      "European Style",
+      "Extended"
+    ],
+    "tags": [
+      "Caribbean - The Blueprint of Paradise",
+      "MSC Cruises",
+      "European Style",
+      "Extended"
+    ],
+    "image": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "celebrity-cruises-southern-caribbean-abc-islands",
+    "title": "Celebrity Cruises - Southern Caribbean & ABC Islands",
+    "slug": "celebrity-cruises-southern-caribbean-abc-islands",
+    "description": "Aruba's white sand and constant sunshine, Bonaire's world-class diving, Cura ao's Dutch-Caribbean architecture and Handelskade's candy-coloured waterfront. Celebrity's premium Modern Luxury experience elevates every port.",
+    "category": "caribbean",
+    "cruiseLine": "Celebrity Cruises",
+    "destination": "Caribbean - The Blueprint of Paradise",
+    "price": "AED 4,400",
+    "priceValueAed": 4400,
+    "duration": "10 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "10 Nights",
+      "Celebrity Edge",
+      "Fly from Dubai",
+      "Nov - Apr"
+    ],
+    "badges": [
+      "Premium",
+      "Diving"
+    ],
+    "tags": [
+      "Caribbean - The Blueprint of Paradise",
+      "Celebrity Cruises",
+      "Premium",
+      "Diving"
+    ],
+    "image": "https://images.unsplash.com/photo-1580742914263-b3a8bc9b52d9?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "disney-cruise-line-bahamas-disney-s-private-island",
+    "title": "Disney Cruise Line - Bahamas & Disney's Private Island",
+    "slug": "disney-cruise-line-bahamas-disney-s-private-island",
+    "description": "Castaway Cay - Disney's private Bahamian island - is the crown jewel: a 1,000-foot stretch of white sand, waterslides, and adults-only beach clubs. Pair with Nassau's colonial heart and pirate-themed evenings onboard.",
+    "category": "caribbean",
+    "cruiseLine": "Disney Cruise Line",
+    "destination": "Caribbean - The Blueprint of Paradise",
+    "price": "AED 5,800",
+    "priceValueAed": 5800,
+    "duration": "5 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "5 Nights",
+      "Disney Dream",
+      "Fly from Dubai",
+      "Year-round"
+    ],
+    "badges": [
+      "Family",
+      "Private Island"
+    ],
+    "tags": [
+      "Caribbean - The Blueprint of Paradise",
+      "Disney Cruise Line",
+      "Family",
+      "Private Island"
+    ],
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "msc-western-mediterranean-7-night-odyssey",
+    "title": "MSC - Western Mediterranean 7-Night Odyssey",
+    "slug": "msc-western-mediterranean-7-night-odyssey",
+    "description": "Barcelona's Gaud skyline, Marseille's Calanques, Genoa's carruggi alleyways, Naples' pizza and Pompeii, and Rome's Colosseum on a day excursion from Civitavecchia. Seven nights that feel like a semester in European civilisation.",
+    "category": "mediterranean",
+    "cruiseLine": "MSC Cruises",
+    "destination": "Mediterranean - Where Civilisation Learned to Sail",
+    "price": "AED 2,600",
+    "priceValueAed": 2600,
+    "duration": "7 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "7 Nights",
+      "MSC Bellissima",
+      "Dubai to Barcelona",
+      "Apr - Oct"
+    ],
+    "badges": [
+      "Bestseller",
+      "Culture"
+    ],
+    "tags": [
+      "Mediterranean - Where Civilisation Learned to Sail",
+      "MSC Cruises",
+      "Bestseller",
+      "Culture"
+    ],
+    "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "costa-cruises-spanish-french-riviera",
+    "title": "Costa Cruises - Spanish & French Riviera",
+    "slug": "costa-cruises-spanish-french-riviera",
+    "description": "Palma de Mallorca's cathedral rising from the sea wall, Valencia's City of Arts, Toulon's azure bay, Monte Carlo's harbour of superyachts. Costa brings Italian flair to the Riviera's most glamorous coastline.",
+    "category": "mediterranean",
+    "cruiseLine": "Costa Cruises",
+    "destination": "Mediterranean - Where Civilisation Learned to Sail",
+    "price": "AED 2,200",
+    "priceValueAed": 2200,
+    "duration": "7 Nights",
+    "rating": "4.5",
+    "highlights": [
+      "7 Nights",
+      "Costa Firenze",
+      "Fly from Dubai",
+      "May - Sep"
+    ],
+    "badges": [
+      "Italian Style"
+    ],
+    "tags": [
+      "Mediterranean - Where Civilisation Learned to Sail",
+      "Costa Cruises",
+      "Italian Style"
+    ],
+    "image": "https://images.unsplash.com/photo-1543785734-4b6e564642f8?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "royal-caribbean-12-night-mediterranean-explorer",
+    "title": "Royal Caribbean - 12-Night Mediterranean Explorer",
+    "slug": "royal-caribbean-12-night-mediterranean-explorer",
+    "description": "From Venice's Grand Canal to Santorini's clifftop villages, Athens' Acropolis, Rhodes' walled city, and Dubrovnik's Game of Thrones walls - Royal Caribbean's extended Med circuit covers the greatest hits without rushing any of them.",
+    "category": "mediterranean",
+    "cruiseLine": "Royal Caribbean International",
+    "destination": "Mediterranean - Where Civilisation Learned to Sail",
+    "price": "AED 5,200",
+    "priceValueAed": 5200,
+    "duration": "12 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "12 Nights",
+      "Wonder of the Seas",
+      "Fly from Dubai",
+      "May - Oct"
+    ],
+    "badges": [
+      "Extended",
+      "Greece"
+    ],
+    "tags": [
+      "Mediterranean - Where Civilisation Learned to Sail",
+      "Royal Caribbean International",
+      "Extended",
+      "Greece"
+    ],
+    "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "celebrity-greek-isles-turkey-10-night",
+    "title": "Celebrity - Greek Isles & Turkey 10-Night",
+    "slug": "celebrity-greek-isles-turkey-10-night",
+    "description": "Mykonos' windmills and Little Venice, Ephesus' marble-paved Roman avenue, Istanbul's Blue Mosque at sunset, Kusadasi's bazaar carpets. Celebrity's Retreat deck makes every port arrival a private moment of arrival.",
+    "category": "mediterranean",
+    "cruiseLine": "Celebrity Cruises",
+    "destination": "Mediterranean - Where Civilisation Learned to Sail",
+    "price": "AED 4,800",
+    "priceValueAed": 4800,
+    "duration": "10 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "10 Nights",
+      "Celebrity Apex",
+      "Dubai to Athens",
+      "May - Oct"
+    ],
+    "badges": [
+      "Premium",
+      "Greece & Turkey"
+    ],
+    "tags": [
+      "Mediterranean - Where Civilisation Learned to Sail",
+      "Celebrity Cruises",
+      "Premium",
+      "Greece & Turkey"
+    ],
+    "image": "https://images.unsplash.com/photo-1555993539-1732b0258235?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "silversea-aegean-holy-land-luxury-voyage",
+    "title": "Silversea - Aegean & Holy Land Luxury Voyage",
+    "slug": "silversea-aegean-holy-land-luxury-voyage",
+    "description": "From Athens to Jerusalem - Santorini's caldera, the caves of Malta, Crusader Acre, Jerusalem's Old City, the Dead Sea - aboard an ultra-luxury all-suite ship where every port comes with a dedicated butler briefing.",
+    "category": "mediterranean",
+    "cruiseLine": "Silversea Cruises",
+    "destination": "Mediterranean - Where Civilisation Learned to Sail",
+    "price": "AED 18,500",
+    "priceValueAed": 18500,
+    "duration": "14 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "14 Nights",
+      "Silver Spirit",
+      "Fly from Dubai",
+      "Apr - Oct"
+    ],
+    "badges": [
+      "Ultra-Luxury",
+      "All-Suite"
+    ],
+    "tags": [
+      "Mediterranean - Where Civilisation Learned to Sail",
+      "Silversea Cruises",
+      "Ultra-Luxury",
+      "All-Suite"
+    ],
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "ponant-adriatic-dalmatian-coast-expedition",
+    "title": "Ponant - Adriatic & Dalmatian Coast Expedition",
+    "slug": "ponant-adriatic-dalmatian-coast-expedition",
+    "description": "A boutique French expedition yacht threading the Dalmatian coast's 1,200 islands - Hvar's lavender fields, Kotor Bay's fjord-like beauty, Dubrovnik's pearl, and Montenegro's wild Lov en National Park - for 200 passengers only.",
+    "category": "mediterranean",
+    "cruiseLine": "Ponant Cruises",
+    "destination": "Mediterranean - Where Civilisation Learned to Sail",
+    "price": "AED 14,200",
+    "priceValueAed": 14200,
+    "duration": "10 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "10 Nights",
+      "Le Laperouse",
+      "Dubai to Venice",
+      "May - Sep"
+    ],
+    "badges": [
+      "Boutique",
+      "Expedition"
+    ],
+    "tags": [
+      "Mediterranean - Where Civilisation Learned to Sail",
+      "Ponant Cruises",
+      "Boutique",
+      "Expedition"
+    ],
+    "image": "https://images.unsplash.com/photo-1555993539-1732b0258235?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "viking-river-grand-european-danube-tour",
+    "title": "Viking River - Grand European Danube Tour",
+    "slug": "viking-river-grand-european-danube-tour",
+    "description": "Fifteen days from Amsterdam to Budapest - the Rhine's Lorelei cliffs, R desheim's wine village, Regensburg's perfectly intact medieval old town, Vienna's Ringstrasse, and Budapest straddling the Danube like a lit crown jewel. Viking's longships redefine what a river can be.",
+    "category": "europe-rivers",
+    "cruiseLine": "Viking River Cruises",
+    "destination": "European River Cruises - The Slower, Richer Journey",
+    "price": "AED 9,800",
+    "priceValueAed": 9800,
+    "duration": "15 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "15 Nights",
+      "Viking Longship",
+      "Dubai to Amsterdam",
+      "Apr - Nov"
+    ],
+    "badges": [
+      "Bestseller",
+      "Grand Tour"
+    ],
+    "tags": [
+      "European River Cruises - The Slower, Richer Journey",
+      "Viking River Cruises",
+      "Bestseller",
+      "Grand Tour"
+    ],
+    "image": "https://images.unsplash.com/photo-1541849546-216549ae216d?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "avalon-rhine-river-castles-wine",
+    "title": "Avalon - Rhine River: Castles & Wine",
+    "slug": "avalon-rhine-river-castles-wine",
+    "description": "Basel's Art Basel district, the Rhine Gorge's 19 castles in 65 km, R desheim's Drosselgasse, Cologne's twin-spired cathedral, and Amsterdam's canal ring. The Rhine valley is the most scenic river in Europe - Avalon's floor-to-ceiling windows prove it.",
+    "category": "europe-rivers",
+    "cruiseLine": "Avalon Waterways",
+    "destination": "European River Cruises - The Slower, Richer Journey",
+    "price": "AED 7,200",
+    "priceValueAed": 7200,
+    "duration": "8 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "8 Nights",
+      "Avalon Imagery II",
+      "Dubai to Basel",
+      "Apr - Oct"
+    ],
+    "badges": [
+      "Scenic",
+      "Wine Country"
+    ],
+    "tags": [
+      "European River Cruises - The Slower, Richer Journey",
+      "Avalon Waterways",
+      "Scenic",
+      "Wine Country"
+    ],
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "amawaterways-tulip-time-rhine-amsterdam",
+    "title": "AmaWaterways - Tulip Time Rhine & Amsterdam",
+    "slug": "amawaterways-tulip-time-rhine-amsterdam",
+    "description": "Keukenhof's 7 million tulips in bloom, Amsterdam's canal district, Kinderdijk's 19 windmills reflected in still water. The Tulip Time cruise runs only in April when the Netherlands becomes one vast floating garden - book months ahead.",
+    "category": "europe-rivers",
+    "cruiseLine": "AmaWaterways",
+    "destination": "European River Cruises - The Slower, Richer Journey",
+    "price": "AED 8,500",
+    "priceValueAed": 8500,
+    "duration": "7 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "7 Nights",
+      "AmaPrima",
+      "Dubai to Amsterdam",
+      "April Only"
+    ],
+    "badges": [
+      "Tulip Season",
+      "April Only"
+    ],
+    "tags": [
+      "European River Cruises - The Slower, Richer Journey",
+      "AmaWaterways",
+      "Tulip Season",
+      "April Only"
+    ],
+    "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "scenic-douro-valley-portugal-wine-soul",
+    "title": "Scenic - Douro Valley, Portugal: Wine & Soul",
+    "slug": "scenic-douro-valley-portugal-wine-soul",
+    "description": "Porto's Ribeira waterfront, Douro's terraced quintas producing Port wine since the 17th century, Salamanca's golden sandstone plazas, and R gua's wine museum. The Douro is Portugal's most beautiful secret - a river that tastes like a fortified wine.",
+    "category": "europe-rivers",
+    "cruiseLine": "Scenic Luxury Cruises",
+    "destination": "European River Cruises - The Slower, Richer Journey",
+    "price": "AED 10,200",
+    "priceValueAed": 10200,
+    "duration": "8 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "8 Nights",
+      "Scenic Azure",
+      "Dubai to Porto",
+      "Apr - Oct"
+    ],
+    "badges": [
+      "Wine Cruise",
+      "Luxury"
+    ],
+    "tags": [
+      "European River Cruises - The Slower, Richer Journey",
+      "Scenic Luxury Cruises",
+      "Wine Cruise",
+      "Luxury"
+    ],
+    "image": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "viking-christmas-markets-rhine-danube",
+    "title": "Viking - Christmas Markets: Rhine & Danube",
+    "slug": "viking-christmas-markets-rhine-danube",
+    "description": "Nuremberg's Christkindlesmarkt glowing in December, Vienna's Rathausmarkt, Cologne's Cathedral Christmas Market, Regensburg's medieval Thurn und Taxis market. The Rhine in December is the most atmospheric Christmas anywhere on earth.",
+    "category": "europe-rivers",
+    "cruiseLine": "Viking River Cruises",
+    "destination": "European River Cruises - The Slower, Richer Journey",
+    "price": "AED 11,500",
+    "priceValueAed": 11500,
+    "duration": "15 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "15 Nights",
+      "Viking Longship",
+      "Dubai to Nuremberg",
+      "Nov - Dec Only"
+    ],
+    "badges": [
+      "Christmas Markets",
+      "Bucket List"
+    ],
+    "tags": [
+      "European River Cruises - The Slower, Richer Journey",
+      "Viking River Cruises",
+      "Christmas Markets",
+      "Bucket List"
+    ],
+    "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "croisieurope-provence-rh-ne-river",
+    "title": "CroisiEurope - Provence & Rh ne River",
+    "slug": "croisieurope-provence-rh-ne-river",
+    "description": "Avignon's Papal Palace, Arles' Roman arena where gladiators fought, Pont du Gard's 2,000-year-old Roman aqueduct, and Ch teauneuf-du-Pape's vineyards. The Rh ne through Provence is Impressionism made navigable.",
+    "category": "europe-rivers",
+    "cruiseLine": "CroisiEurope",
+    "destination": "European River Cruises - The Slower, Richer Journey",
+    "price": "AED 5,800",
+    "priceValueAed": 5800,
+    "duration": "7 Nights",
+    "rating": "4.6",
+    "highlights": [
+      "7 Nights",
+      "MS Loire Princesse",
+      "Dubai to Lyon",
+      "Apr - Oct"
+    ],
+    "badges": [
+      "Provence",
+      "Value"
+    ],
+    "tags": [
+      "European River Cruises - The Slower, Richer Journey",
+      "CroisiEurope",
+      "Provence",
+      "Value"
+    ],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "royal-caribbean-southeast-asia-12-night",
+    "title": "Royal Caribbean - Southeast Asia 12-Night",
+    "slug": "royal-caribbean-southeast-asia-12-night",
+    "description": "Singapore's supertrees, Kuala Lumpur's Petronas Towers, Penang's street food alleyways, Phuket's limestone bays, Ho Chi Minh City's motorbike rivers, and Ha Long Bay's mythical karst formations. Southeast Asia in twelve extraordinary days.",
+    "category": "asia-pacific",
+    "cruiseLine": "Royal Caribbean International",
+    "destination": "Asia Pacific - Ancient Ports, Modern Skylines & Remote Atolls",
+    "price": "AED 4,800",
+    "priceValueAed": 4800,
+    "duration": "12 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "12 Nights",
+      "Spectrum of the Seas",
+      "Dubai to Singapore",
+      "Nov - Apr"
+    ],
+    "badges": [
+      "Multi-Country",
+      "Southeast Asia"
+    ],
+    "tags": [
+      "Asia Pacific - Ancient Ports, Modern Skylines & Remote Atolls",
+      "Royal Caribbean International",
+      "Multi-Country",
+      "Southeast Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "princess-cruises-japan-cherry-blossom-14-night",
+    "title": "Princess Cruises - Japan Cherry Blossom 14-Night",
+    "slug": "princess-cruises-japan-cherry-blossom-14-night",
+    "description": "Sakura season at sea - Yokohama's harbour cherry blossoms, Kyoto's Philosopher's Path exploding pink, Hiroshima's Peace Park, and Kagoshima's Sakurajima volcano smoking across the bay. Japan in bloom is Japan at its most devastatingly beautiful.",
+    "category": "asia-pacific",
+    "cruiseLine": "Princess Cruises",
+    "destination": "Asia Pacific - Ancient Ports, Modern Skylines & Remote Atolls",
+    "price": "AED 7,400",
+    "priceValueAed": 7400,
+    "duration": "14 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "14 Nights",
+      "Diamond Princess",
+      "Dubai to Tokyo",
+      "Late Mar - Apr"
+    ],
+    "badges": [
+      "Cherry Blossom",
+      "Bucket List"
+    ],
+    "tags": [
+      "Asia Pacific - Ancient Ports, Modern Skylines & Remote Atolls",
+      "Princess Cruises",
+      "Cherry Blossom",
+      "Bucket List"
+    ],
+    "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "cunard-asia-grand-voyage-india-to-japan",
+    "title": "Cunard - Asia Grand Voyage: India to Japan",
+    "slug": "cunard-asia-grand-voyage-india-to-japan",
+    "description": "Mumbai's Gateway of India, Sri Lanka's Galle Fort, Singapore's colonial Raffles, Vietnam's imperial Hue, and Kobe's harbourfront. Cunard's Queen Victoria carries white-gloved afternoon tea through Asia's most extraordinary coastlines.",
+    "category": "asia-pacific",
+    "cruiseLine": "Cunard Line",
+    "destination": "Asia Pacific - Ancient Ports, Modern Skylines & Remote Atolls",
+    "price": "AED 16,800",
+    "priceValueAed": 16800,
+    "duration": "28 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "28 Nights",
+      "Queen Victoria",
+      "Departs Dubai",
+      "Jan - Feb"
+    ],
+    "badges": [
+      "Grand Voyage",
+      "Departs Dubai"
+    ],
+    "tags": [
+      "Asia Pacific - Ancient Ports, Modern Skylines & Remote Atolls",
+      "Cunard Line",
+      "Grand Voyage",
+      "Departs Dubai"
+    ],
+    "image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "p-o-australia-new-zealand-21-night-grand",
+    "title": "P&O - Australia & New Zealand 21-Night Grand",
+    "slug": "p-o-australia-new-zealand-21-night-grand",
+    "description": "Sydney Harbour Bridge's steel arch at dawn, Milford Sound's waterfalls plunging into a fjord, Queenstown's adrenaline capital, Fiordland's raw wilderness, and the Great Barrier Reef's coral palette. The Australia-New Zealand circuit is the Southern Hemisphere's finest cruise.",
+    "category": "asia-pacific",
+    "cruiseLine": "P&O Cruises Australia",
+    "destination": "Asia Pacific - Ancient Ports, Modern Skylines & Remote Atolls",
+    "price": "AED 9,200",
+    "priceValueAed": 9200,
+    "duration": "21 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "21 Nights",
+      "Pacific Explorer",
+      "Dubai to Sydney",
+      "Dec - Feb"
+    ],
+    "badges": [
+      "Southern Hemisphere",
+      "Epic"
+    ],
+    "tags": [
+      "Asia Pacific - Ancient Ports, Modern Skylines & Remote Atolls",
+      "P&O Cruises Australia",
+      "Southern Hemisphere",
+      "Epic"
+    ],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "norwegian-south-pacific-islands-bora-bora-fiji",
+    "title": "Norwegian - South Pacific Islands: Bora Bora & Fiji",
+    "slug": "norwegian-south-pacific-islands-bora-bora-fiji",
+    "description": "Bora Bora's overwater bungalows, Moorea's shark-feeding lagoon, the raw jungle of Samoa, and Fiji's kava ceremonies. The South Pacific is the most remote major cruise destination - and the most visually breathtaking.",
+    "category": "asia-pacific",
+    "cruiseLine": "Norwegian Cruise Line",
+    "destination": "Asia Pacific - Ancient Ports, Modern Skylines & Remote Atolls",
+    "price": "AED 11,800",
+    "priceValueAed": 11800,
+    "duration": "24 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "24 Nights",
+      "Norwegian Jewel",
+      "Dubai to LA",
+      "Dec - Mar"
+    ],
+    "badges": [
+      "Paradise",
+      "Remote Islands"
+    ],
+    "tags": [
+      "Asia Pacific - Ancient Ports, Modern Skylines & Remote Atolls",
+      "Norwegian Cruise Line",
+      "Paradise",
+      "Remote Islands"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "hurtigruten-arctic-norway-svalbard-expedition",
+    "title": "Hurtigruten - Arctic Norway & Svalbard Expedition",
+    "slug": "hurtigruten-arctic-norway-svalbard-expedition",
+    "description": "Longyearbyen at 78 North - polar bears outnumber humans - glaciers the size of cities, walrus colonies on ice floes, and the midnight sun burning gold at 3am. Hurtigruten's ice-class expedition ships carry scientists, guides, and guests into the high Arctic with equal seriousness.",
+    "category": "arctic",
+    "cruiseLine": "Hurtigruten Expeditions",
+    "destination": "Arctic, Antarctica & Alaska - Where Silence Roars",
+    "price": "AED 14,600",
+    "priceValueAed": 14600,
+    "duration": "13 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "13 Nights",
+      "MS Roald Amundsen",
+      "Dubai to Oslo",
+      "Jun - Aug"
+    ],
+    "badges": [
+      "Expedition",
+      "Polar Bears"
+    ],
+    "tags": [
+      "Arctic, Antarctica & Alaska - Where Silence Roars",
+      "Hurtigruten Expeditions",
+      "Expedition",
+      "Polar Bears"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "viking-norwegian-fjords-northern-lights",
+    "title": "Viking - Norwegian Fjords & Northern Lights",
+    "slug": "viking-norwegian-fjords-northern-lights",
+    "description": "Bergen's Bryggen wharf, Fl m's mountain railway, Geiranger fjord's double cascade waterfalls, and the Northern Lights aurora swirling above Troms . Viking's Bergen - Bergen circuit is the definitive fjord cruise, refined to a precise science.",
+    "category": "arctic",
+    "cruiseLine": "Viking Ocean Cruises",
+    "destination": "Arctic, Antarctica & Alaska - Where Silence Roars",
+    "price": "AED 8,900",
+    "priceValueAed": 8900,
+    "duration": "9 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "9 Nights",
+      "Viking Orion",
+      "Dubai to Bergen",
+      "Nov - Mar (Lights)"
+    ],
+    "badges": [
+      "Northern Lights",
+      "Fjords"
+    ],
+    "tags": [
+      "Arctic, Antarctica & Alaska - Where Silence Roars",
+      "Viking Ocean Cruises",
+      "Northern Lights",
+      "Fjords"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "ponant-greenland-iceland-discovery",
+    "title": "Ponant - Greenland & Iceland Discovery",
+    "slug": "ponant-greenland-iceland-discovery",
+    "description": "Ilulissat Icefjord's cathedral icebergs (UNESCO World Heritage), Disco Bay's midnight sun, Reykjavik's geothermal city, the Blue Lagoon's milky-silica waters, and the Golden Circle - two of the most dramatic geological landscapes on earth, back to back.",
+    "category": "arctic",
+    "cruiseLine": "Ponant Cruises",
+    "destination": "Arctic, Antarctica & Alaska - Where Silence Roars",
+    "price": "AED 22,400",
+    "priceValueAed": 22400,
+    "duration": "14 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "14 Nights",
+      "Le Commandant Charcot",
+      "Dubai to Reykjavik",
+      "Jun - Aug"
+    ],
+    "badges": [
+      "Arctic",
+      "UNESCO"
+    ],
+    "tags": [
+      "Arctic, Antarctica & Alaska - Where Silence Roars",
+      "Ponant Cruises",
+      "Arctic",
+      "UNESCO"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "princess-cruises-alaska-inside-passage",
+    "title": "Princess Cruises - Alaska Inside Passage",
+    "slug": "princess-cruises-alaska-inside-passage",
+    "description": "Glacier Bay's 16 tidewater glaciers calving with sonic booms, Ketchikan's totems, Juneau's whale-watch tenders, Skagway's Klondike Gold Rush history, and Tracy Arm Fjord's mirror-surfaced walls of blue ice. Alaska from the sea is Alaska as it should be seen.",
+    "category": "arctic",
+    "cruiseLine": "Princess Cruises",
+    "destination": "Arctic, Antarctica & Alaska - Where Silence Roars",
+    "price": "AED 5,600",
+    "priceValueAed": 5600,
+    "duration": "7 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "7 Nights",
+      "Crown Princess",
+      "Dubai to Vancouver",
+      "May - Sep"
+    ],
+    "badges": [
+      "Glaciers",
+      "Bestseller"
+    ],
+    "tags": [
+      "Arctic, Antarctica & Alaska - Where Silence Roars",
+      "Princess Cruises",
+      "Glaciers",
+      "Bestseller"
+    ],
+    "image": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "silversea-antarctica-discovery-expedition",
+    "title": "Silversea - Antarctica Discovery Expedition",
+    "slug": "silversea-antarctica-discovery-expedition",
+    "description": "The Drake Passage's roaring swells, the South Shetland Islands' penguin rookeries, the Antarctic Peninsula's iceberg cathedrals, zodiac landings on the seventh continent, and the most profound silence any human can experience - aboard an ultra-luxury all-suite expedition ship.",
+    "category": "arctic",
+    "cruiseLine": "Silversea Cruises",
+    "destination": "Arctic, Antarctica & Alaska - Where Silence Roars",
+    "price": "AED 32,000",
+    "priceValueAed": 32000,
+    "duration": "12 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "12 Nights",
+      "Silver Cloud",
+      "Dubai to Buenos Aires",
+      "Nov - Mar"
+    ],
+    "badges": [
+      "Antarctica",
+      "Ultra-Luxury",
+      "Expedition"
+    ],
+    "tags": [
+      "Arctic, Antarctica & Alaska - Where Silence Roars",
+      "Silversea Cruises",
+      "Antarctica",
+      "Ultra-Luxury",
+      "Expedition"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "cunard-world-voyage-queen-mary-2",
+    "title": "Cunard - World Voyage: Queen Mary 2",
+    "slug": "cunard-world-voyage-queen-mary-2",
+    "description": "The most famous ship in the world on the most ambitious itinerary on earth - 115 nights, 52 ports, 6 continents. White-gloved dinners in the Britannia Restaurant, lectures in the Royal Court Theatre, and a transatlantic crossing as crossing should be made - aboard the last ocean liner ever built.",
+    "category": "luxury",
+    "cruiseLine": "Cunard Line",
+    "destination": "Luxury Lines & World Voyages - The Pinnacle of Sea Travel",
+    "price": "AED 62,000",
+    "priceValueAed": 62000,
+    "duration": "115 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "115 Nights",
+      "Queen Mary 2",
+      "Fly to Southampton",
+      "Jan - Apr"
+    ],
+    "badges": [
+      "World Cruise",
+      "Iconic Ship"
+    ],
+    "tags": [
+      "Luxury Lines & World Voyages - The Pinnacle of Sea Travel",
+      "Cunard Line",
+      "World Cruise",
+      "Iconic Ship"
+    ],
+    "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "regent-seven-seas-all-inclusive-luxury-mediterranean",
+    "title": "Regent Seven Seas - All-Inclusive Luxury Mediterranean",
+    "slug": "regent-seven-seas-all-inclusive-luxury-mediterranean",
+    "description": "Every suite, every shore excursion, every drink, every speciality restaurant, every spa treatment, every flight - included. Regent's true all-inclusive formula removes every friction point from luxury travel. The Mediterranean aboard Seven Seas Explorer is as good as cruising gets.",
+    "category": "luxury",
+    "cruiseLine": "Regent Seven Seas",
+    "destination": "Luxury Lines & World Voyages - The Pinnacle of Sea Travel",
+    "price": "AED 24,500",
+    "priceValueAed": 24500,
+    "duration": "12 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "12 Nights",
+      "Seven Seas Explorer",
+      "All flights included",
+      "May - Oct"
+    ],
+    "badges": [
+      "True All-Inclusive",
+      "Luxury"
+    ],
+    "tags": [
+      "Luxury Lines & World Voyages - The Pinnacle of Sea Travel",
+      "Regent Seven Seas",
+      "True All-Inclusive",
+      "Luxury"
+    ],
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "seabourn-encore-tahiti-to-tokyo",
+    "title": "Seabourn - Encore: Tahiti to Tokyo",
+    "slug": "seabourn-encore-tahiti-to-tokyo",
+    "description": "The most intimate luxury ships on the Pacific - 600 guests, all ocean-view suites, complimentary caviar and champagne on the bow, and a crew that remembers your name, your drink, and your preference for the early or late sunset spot. Tahiti to Tokyo via Fiji, Vanuatu, PNG, and Japan.",
+    "category": "luxury",
+    "cruiseLine": "Seabourn Cruise Line",
+    "destination": "Luxury Lines & World Voyages - The Pinnacle of Sea Travel",
+    "price": "AED 38,500",
+    "priceValueAed": 38500,
+    "duration": "35 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "35 Nights",
+      "Seabourn Encore",
+      "Dubai to Tahiti",
+      "Feb - Mar"
+    ],
+    "badges": [
+      "Ultra-Luxury",
+      "Pacific"
+    ],
+    "tags": [
+      "Luxury Lines & World Voyages - The Pinnacle of Sea Travel",
+      "Seabourn Cruise Line",
+      "Ultra-Luxury",
+      "Pacific"
+    ],
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "msc-arabian-gulf-red-sea-from-dubai",
+    "title": "MSC - Arabian Gulf & Red Sea from Dubai",
+    "slug": "msc-arabian-gulf-red-sea-from-dubai",
+    "description": "The only major cruise that departs Dubai directly - Muscat's white-washed port, Khasab's Musandam fjords by dhow, Aqaba's gateway to Petra, Safaga for Luxor's temples, and the Suez Canal's engineering marvel. No flights required.",
+    "category": "luxury",
+    "cruiseLine": "MSC Cruises",
+    "destination": "Luxury Lines & World Voyages - The Pinnacle of Sea Travel",
+    "price": "AED 3,400",
+    "priceValueAed": 3400,
+    "duration": "14 Nights",
+    "rating": "4.6",
+    "highlights": [
+      "14 Nights",
+      "MSC Orchestra",
+      "DEPARTS DUBAI",
+      "Oct - Apr"
+    ],
+    "badges": [
+      "Departs Dubai",
+      "No Flights"
+    ],
+    "tags": [
+      "Luxury Lines & World Voyages - The Pinnacle of Sea Travel",
+      "MSC Cruises",
+      "Departs Dubai",
+      "No Flights"
+    ],
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&q=80",
+    "source": "cruise-packages.html"
+  },
+  {
+    "id": "costa-dubai-to-india-sri-lanka",
+    "title": "Costa - Dubai to India & Sri Lanka",
+    "slug": "costa-dubai-to-india-sri-lanka",
+    "description": "Departing Dubai for Mumbai's Gateway of India, Goa's Portuguese-tiled churches, Cochin's Chinese fishing nets, and Colombo's Dutch Fort - then back to Dubai. A subcontinental circuit from your home port, no transatlantic positioning required.",
+    "category": "luxury",
+    "cruiseLine": "Costa Cruises",
+    "destination": "Luxury Lines & World Voyages - The Pinnacle of Sea Travel",
+    "price": "AED 2,900",
+    "priceValueAed": 2900,
+    "duration": "16 Nights",
+    "rating": "4.5",
+    "highlights": [
+      "16 Nights",
+      "Costa neoClassica",
+      "DEPARTS DUBAI",
+      "Nov - Mar"
+    ],
+    "badges": [
+      "Departs Dubai",
+      "Indian Subcontinent"
+    ],
+    "tags": [
+      "Luxury Lines & World Voyages - The Pinnacle of Sea Travel",
+      "Costa Cruises",
+      "Departs Dubai",
+      "Indian Subcontinent"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=600&q=80",
+    "source": "cruise-packages.html"
+  }
+]

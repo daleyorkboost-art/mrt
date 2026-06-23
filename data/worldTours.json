@@ -1,0 +1,1657 @@
+[
+  {
+    "id": "switzerland-the-alpine-crown-jewel",
+    "title": "Switzerland - The Alpine Crown Jewel",
+    "slug": "switzerland-the-alpine-crown-jewel",
+    "description": "Lucerne at dawn, Jungfraujoch at noon, Zurich at dusk. Switzerland doesn't offer views - it offers vertical poetry. Premium rail passes, lakeside hotels, and chocolate fondue evenings included.",
+    "category": "europe",
+    "destination": "Switzerland",
+    "region": "Western Europe",
+    "price": "AED 5,500",
+    "priceValueAed": 5500,
+    "duration": "7 - 14 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "Jungfraujoch",
+      "Lucerne",
+      "Zurich",
+      "Swiss Rail Pass",
+      "Scenic Trains"
+    ],
+    "badges": [
+      "Bestseller",
+      "Honeymoon"
+    ],
+    "tags": [
+      "Bestseller",
+      "Honeymoon",
+      "Jungfraujoch",
+      "Lucerne",
+      "Zurich",
+      "Swiss Rail Pass",
+      "Scenic Trains",
+      "Western Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Oct (Snow Dec - Mar)",
+      "travellerTypes": "Couples - Families - Honeymoon"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "germany-castles-christmas-craft-beer",
+    "title": "Germany - Castles, Christmas & Craft Beer",
+    "slug": "germany-castles-christmas-craft-beer",
+    "description": "Neuschwanstein Castle rising from the Bavarian mist, the Rhine Valley's half-timbered villages, Berlin's electric energy. Germany covers every mood - history, nature, and unforgettable evenings.",
+    "category": "europe",
+    "destination": "Germany",
+    "region": "Western Europe",
+    "price": "AED 4,800",
+    "priceValueAed": 4800,
+    "duration": "6 - 10 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Neuschwanstein",
+      "Berlin",
+      "Munich",
+      "Rhine Valley",
+      "Black Forest"
+    ],
+    "badges": [
+      "Popular"
+    ],
+    "tags": [
+      "Popular",
+      "Neuschwanstein",
+      "Berlin",
+      "Munich",
+      "Rhine Valley",
+      "Black Forest",
+      "Western Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=600&q=80",
+    "metadata": {
+      "travelWindow": "May - Oct",
+      "travellerTypes": "Families - Groups - Culture"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "italy-la-dolce-vita-in-every-piazza",
+    "title": "Italy - La Dolce Vita in Every Piazza",
+    "slug": "italy-la-dolce-vita-in-every-piazza",
+    "description": "Rome's Colosseum, Venice's canals, Tuscany's cypress-lined roads, and Amalfi's cliffside lemons. Italy is not a country - it's a sensory overload, served with pasta and a Campari sunset.",
+    "category": "europe",
+    "destination": "Italy",
+    "region": "Western Europe",
+    "price": "AED 5,200",
+    "priceValueAed": 5200,
+    "duration": "7 - 12 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "Rome",
+      "Venice",
+      "Florence",
+      "Amalfi Coast",
+      "Tuscany"
+    ],
+    "badges": [
+      "Romantic",
+      "Hot"
+    ],
+    "tags": [
+      "Romantic",
+      "Hot",
+      "Rome",
+      "Venice",
+      "Florence",
+      "Amalfi Coast",
+      "Tuscany",
+      "Western Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Jun, Sep - Oct",
+      "travellerTypes": "Couples - Families - Honeymoon"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "france-paris-provence-beyond",
+    "title": "France - Paris, Provence & Beyond",
+    "slug": "france-paris-provence-beyond",
+    "description": "The Eiffel Tower at midnight, the lavender fields of Provence, Mont Saint-Michel at high tide. France gives you art, cuisine, and the feeling that you're living inside a painting.",
+    "category": "europe",
+    "destination": "France",
+    "region": "Western Europe",
+    "price": "AED 5,500",
+    "priceValueAed": 5500,
+    "duration": "7 - 12 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "Paris",
+      "Eiffel Tower",
+      "Loire Valley",
+      "Provence",
+      "Nice"
+    ],
+    "badges": [
+      "Honeymoon"
+    ],
+    "tags": [
+      "Honeymoon",
+      "Paris",
+      "Eiffel Tower",
+      "Loire Valley",
+      "Provence",
+      "Nice",
+      "Western Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=600&q=80",
+    "metadata": {
+      "travelWindow": "May - Sep",
+      "travellerTypes": "Couples - Honeymoon"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "sweden-finland-chasing-the-northern-lights",
+    "title": "Sweden & Finland - Chasing the Northern Lights",
+    "slug": "sweden-finland-chasing-the-northern-lights",
+    "description": "Aurora borealis over Lapland's frozen lakes, husky sledding at minus 20 C, glass igloos under an electric sky. Sweden and Finland offer the most extraordinary nights on earth - literally.",
+    "category": "europe",
+    "destination": "Sweden & Finland",
+    "region": "Northern Europe",
+    "price": "AED 6,800",
+    "priceValueAed": 6800,
+    "duration": "8 - 12 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "Northern Lights",
+      "Husky Safari",
+      "Glass Igloo",
+      "Stockholm",
+      "Helsinki"
+    ],
+    "badges": [
+      "Aurora Hunt",
+      "Bucket List"
+    ],
+    "tags": [
+      "Aurora Hunt",
+      "Bucket List",
+      "Northern Lights",
+      "Husky Safari",
+      "Glass Igloo",
+      "Stockholm",
+      "Helsinki",
+      "Northern Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Nov - Mar (Lights) - Jun - Aug (Midnight Sun)",
+      "travellerTypes": "Couples - Adventure"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "scotland-highlands-whisky-wild-coasts",
+    "title": "Scotland - Highlands, Whisky & Wild Coasts",
+    "slug": "scotland-highlands-whisky-wild-coasts",
+    "description": "The Isle of Skye's black Cuillins, Eilean Donan Castle rising from a loch, single malts swirling in ancient distilleries. Scotland is the most dramatic landscape in Europe that most travellers haven't properly seen.",
+    "category": "europe",
+    "destination": "Scotland",
+    "region": "Northern Europe",
+    "price": "AED 4,500",
+    "priceValueAed": 4500,
+    "duration": "7 - 10 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Isle of Skye",
+      "Edinburgh",
+      "Loch Ness",
+      "Distilleries",
+      "Highlands"
+    ],
+    "badges": [
+      "Hidden Gem"
+    ],
+    "tags": [
+      "Hidden Gem",
+      "Isle of Skye",
+      "Edinburgh",
+      "Loch Ness",
+      "Distilleries",
+      "Highlands",
+      "Northern Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1513026705753-bc3fffca8bf4?w=600&q=80",
+    "metadata": {
+      "travelWindow": "May - Sep",
+      "travellerTypes": "Couples - Adventure"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "netherlands-belgium-masters-moules",
+    "title": "Netherlands & Belgium - Masters & Moules",
+    "slug": "netherlands-belgium-masters-moules",
+    "description": "Rijksmuseum Rembrandts, Amsterdam's canal ring at golden hour, Bruges' medieval chocolate-box streets, Ghent's alleyways. The Low Countries pack remarkable density of beauty into very few kilometres.",
+    "category": "europe",
+    "destination": "Netherlands & Belgium",
+    "region": "Northern Europe",
+    "price": "AED 4,200",
+    "priceValueAed": 4200,
+    "duration": "5 - 8 Nights",
+    "rating": "4.6",
+    "highlights": [
+      "Amsterdam",
+      "Keukenhof Tulips",
+      "Bruges",
+      "Ghent",
+      "Rijksmuseum"
+    ],
+    "badges": [
+      "Culture"
+    ],
+    "tags": [
+      "Culture",
+      "Amsterdam",
+      "Keukenhof Tulips",
+      "Bruges",
+      "Ghent",
+      "Rijksmuseum",
+      "Northern Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Mar - Oct (Tulips Apr - May)",
+      "travellerTypes": "Culture - Couples"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "greece-gods-islands-olive-groves",
+    "title": "Greece - Gods, Islands & Olive Groves",
+    "slug": "greece-gods-islands-olive-groves",
+    "description": "Santorini's blue domes at sunset, Mykonos' windmills, the Acropolis at dusk. Greece is the birthplace of beauty - and it shows in every sunset, every feta-crumbled salad, and every whitewashed alleyway.",
+    "category": "europe",
+    "destination": "Greece",
+    "region": "Southern Europe",
+    "price": "AED 4,800",
+    "priceValueAed": 4800,
+    "duration": "7 - 12 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "Santorini",
+      "Mykonos",
+      "Athens",
+      "Crete",
+      "Acropolis"
+    ],
+    "badges": [
+      "Romantic",
+      "Islands"
+    ],
+    "tags": [
+      "Romantic",
+      "Islands",
+      "Santorini",
+      "Mykonos",
+      "Athens",
+      "Crete",
+      "Acropolis",
+      "Southern Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=600&q=80",
+    "metadata": {
+      "travelWindow": "May - Oct",
+      "travellerTypes": "Couples - Honeymoon"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "spain-flamenco-gaud-the-sun-drenched-south",
+    "title": "Spain - Flamenco, Gaud & the Sun-Drenched South",
+    "slug": "spain-flamenco-gaud-the-sun-drenched-south",
+    "description": "Barcelona's Sagrada Fam lia, Madrid's Prado, the Alhambra's Moorish grandeur, and Ibiza's legendary sunsets. Spain contains multitudes - and rewards those who stay long enough to feel them.",
+    "category": "europe",
+    "destination": "Spain",
+    "region": "Southern Europe",
+    "price": "AED 4,600",
+    "priceValueAed": 4600,
+    "duration": "7 - 11 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Barcelona",
+      "Madrid",
+      "Alhambra",
+      "Seville",
+      "San Sebasti n"
+    ],
+    "badges": [
+      "Cultural"
+    ],
+    "tags": [
+      "Cultural",
+      "Barcelona",
+      "Madrid",
+      "Alhambra",
+      "Seville",
+      "San Sebasti n",
+      "Southern Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1543785734-4b6e564642f8?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Jun, Sep - Nov",
+      "travellerTypes": "Families - Couples"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "eastern-europe-highlights-prague-budapest-vienna",
+    "title": "Eastern Europe Highlights - Prague, Budapest & Vienna",
+    "slug": "eastern-europe-highlights-prague-budapest-vienna",
+    "description": "Three grand imperial capitals in one extraordinary circuit: Prague's Charles Bridge at dawn, Budapest's thermal baths, Vienna's Sachertorte in a fin-de-si cle caf . Elegance without the Western price tag.",
+    "category": "europe",
+    "destination": "Eastern Europe Highlights",
+    "region": "Eastern Europe",
+    "price": "AED 4,400",
+    "priceValueAed": 4400,
+    "duration": "8 - 12 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Prague",
+      "Budapest",
+      "Vienna",
+      "Thermal Baths",
+      "Charles Bridge"
+    ],
+    "badges": [
+      "Value",
+      "Multi-City"
+    ],
+    "tags": [
+      "Value",
+      "Multi-City",
+      "Prague",
+      "Budapest",
+      "Vienna",
+      "Thermal Baths",
+      "Charles Bridge",
+      "Eastern Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1541849546-216549ae216d?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Oct",
+      "travellerTypes": "Culture - Groups"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "russia-moscow-st-petersburg-the-trans-siberian",
+    "title": "Russia - Moscow, St. Petersburg & the Trans-Siberian",
+    "slug": "russia-moscow-st-petersburg-the-trans-siberian",
+    "description": "St. Basil's Cathedral in Red Square, the Hermitage's 3 million masterworks, the Catherine Palace's golden halls, and the world's most dramatic train journey threading Siberia's vast silence.",
+    "category": "europe",
+    "destination": "Russia",
+    "region": "Eastern Europe",
+    "price": "AED 5,000",
+    "priceValueAed": 5000,
+    "duration": "8 - 14 Nights",
+    "rating": "4.6",
+    "highlights": [
+      "Red Square",
+      "Hermitage",
+      "St. Petersburg",
+      "Catherine Palace",
+      "Trans-Siberian"
+    ],
+    "badges": [
+      "Exclusive"
+    ],
+    "tags": [
+      "Exclusive",
+      "Red Square",
+      "Hermitage",
+      "St. Petersburg",
+      "Catherine Palace",
+      "Trans-Siberian",
+      "Eastern Europe"
+    ],
+    "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=600&q=80",
+    "metadata": {
+      "travelWindow": "May - Sep",
+      "travellerTypes": ""
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "japan-where-ancient-meets-ultramodern",
+    "title": "Japan - Where Ancient Meets Ultramodern",
+    "slug": "japan-where-ancient-meets-ultramodern",
+    "description": "Cherry blossoms along the Philosopher's Path, bullet trains threading rice paddies, ramen at 2am in Tokyo, Kyoto's 10,000 torii gates. Japan operates on another level of excellence - in everything.",
+    "category": "asia",
+    "destination": "Japan",
+    "region": "East Asia",
+    "price": "AED 5,800",
+    "priceValueAed": 5800,
+    "duration": "8 - 14 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Bullet Train",
+      "Cherry Blossoms"
+    ],
+    "badges": [
+      "Trending",
+      "Sakura Season"
+    ],
+    "tags": [
+      "Trending",
+      "Sakura Season",
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Bullet Train",
+      "Cherry Blossoms",
+      "East Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=800&q=80",
+    "metadata": {
+      "travelWindow": "Mar - May (Sakura) - Oct - Nov",
+      "travellerTypes": "Couples - Families - Solo"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "china-the-dragon-awakened",
+    "title": "China - The Dragon Awakened",
+    "slug": "china-the-dragon-awakened",
+    "description": "The Great Wall at Mutianyu stretching to the horizon, Shanghai's Pudong skyline reflected in Huangpu River, Xi'an's Terracotta Army standing in silent formation for 2,200 years. China's scale is humbling.",
+    "category": "asia",
+    "destination": "China",
+    "region": "East Asia",
+    "price": "AED 5,200",
+    "priceValueAed": 5200,
+    "duration": "10 - 14 Nights",
+    "rating": "4.6",
+    "highlights": [
+      "Great Wall",
+      "Terracotta Army",
+      "Shanghai",
+      "Beijing",
+      "Li River"
+    ],
+    "badges": [
+      "Epic Journey"
+    ],
+    "tags": [
+      "Epic Journey",
+      "Great Wall",
+      "Terracotta Army",
+      "Shanghai",
+      "Beijing",
+      "Li River",
+      "East Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Jun, Sep - Nov",
+      "travellerTypes": "Families - Culture"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "south-korea-k-culture-palaces-hiking",
+    "title": "South Korea - K-Culture, Palaces & Hiking",
+    "slug": "south-korea-k-culture-palaces-hiking",
+    "description": "Seoul's Bukchon Hanok village at golden hour, hiking Seoraksan's granite peaks, K-drama film locations, night markets overflowing with tteokbokki. South Korea is compact, intense, and deeply satisfying.",
+    "category": "asia",
+    "destination": "South Korea",
+    "region": "East Asia",
+    "price": "AED 4,400",
+    "priceValueAed": 4400,
+    "duration": "6 - 9 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Seoul",
+      "Jeju Island",
+      "Gyeongbok Palace",
+      "DMZ",
+      "K-BBQ"
+    ],
+    "badges": [
+      "Trending"
+    ],
+    "tags": [
+      "Trending",
+      "Seoul",
+      "Jeju Island",
+      "Gyeongbok Palace",
+      "DMZ",
+      "K-BBQ",
+      "East Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Jun, Sep - Nov",
+      "travellerTypes": "Couples - Youth"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "singapore-the-city-that-does-everything-right",
+    "title": "Singapore - The City That Does Everything Right",
+    "slug": "singapore-the-city-that-does-everything-right",
+    "description": "Gardens by the Bay's Supertrees glowing at night, hawker centres where a Michelin-starred meal costs SGD 6, Sentosa's beaches, and the cleanest, safest, most efficient city on earth.",
+    "category": "asia",
+    "destination": "Singapore",
+    "region": "East Asia",
+    "price": "AED 2,900",
+    "priceValueAed": 2900,
+    "duration": "4 - 7 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Gardens by the Bay",
+      "Sentosa",
+      "Universal Studios",
+      "Marina Bay",
+      "Hawker Food"
+    ],
+    "badges": [
+      "Family",
+      "City Break"
+    ],
+    "tags": [
+      "Family",
+      "City Break",
+      "Gardens by the Bay",
+      "Sentosa",
+      "Universal Studios",
+      "Marina Bay",
+      "Hawker Food",
+      "East Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=600&q=80",
+    "metadata": {
+      "travelWindow": "",
+      "travellerTypes": "Families - Couples"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "bhutan-the-last-shangri-la",
+    "title": "Bhutan - The Last Shangri-La",
+    "slug": "bhutan-the-last-shangri-la",
+    "description": "A kingdom that measures its wealth in Gross National Happiness. Tiger's Nest monastery clinging to a cliff, prayer flags snapping in thin air, yaks grazing below Himalayan peaks. Bhutan is the most serene place you will ever visit.",
+    "category": "asia",
+    "destination": "Bhutan",
+    "region": "South Asia",
+    "price": "AED 4,200",
+    "priceValueAed": 4200,
+    "duration": "6 - 10 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "Tiger's Nest",
+      "Thimphu",
+      "Paro",
+      "Punakha Dzong",
+      "Himalayan Views"
+    ],
+    "badges": [
+      "Spiritual",
+      "MGT Specialist"
+    ],
+    "tags": [
+      "Spiritual",
+      "MGT Specialist",
+      "Tiger's Nest",
+      "Thimphu",
+      "Paro",
+      "Punakha Dzong",
+      "Himalayan Views",
+      "South Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1582650625119-3a31f8fa2699?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Oct - Apr",
+      "travellerTypes": "Spiritual - Adventure - Couples"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "thailand-the-land-of-smiles-and-temples",
+    "title": "Thailand - The Land of Smiles (and Temples)",
+    "slug": "thailand-the-land-of-smiles-and-temples",
+    "description": "Bangkok's golden spires at dawn, Chiang Mai's lantern festival, Krabi's limestone karsts rising from jade water. Thailand delivers the perfect ratio of culture, beach, food, and value that no other destination quite matches.",
+    "category": "asia",
+    "destination": "Thailand",
+    "region": "Southeast Asia",
+    "price": "AED 2,800",
+    "priceValueAed": 2800,
+    "duration": "5 - 10 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Bangkok",
+      "Chiang Mai",
+      "Krabi",
+      "Phuket",
+      "Thai Cuisine"
+    ],
+    "badges": [
+      "Budget-Friendly",
+      "Family"
+    ],
+    "tags": [
+      "Budget-Friendly",
+      "Family",
+      "Bangkok",
+      "Chiang Mai",
+      "Krabi",
+      "Phuket",
+      "Thai Cuisine",
+      "Southeast Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Nov - Apr",
+      "travellerTypes": "Families - Couples - Groups"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "vietnam-a-country-not-just-a-destination",
+    "title": "Vietnam - A Country, Not Just a Destination",
+    "slug": "vietnam-a-country-not-just-a-destination",
+    "description": "Halong Bay's limestone towers piercing morning fog, Hoi An's lantern-lit ancient town, Hanoi's street food chaos at its finest. Vietnam moves from north to south like a perfectly constructed novel.",
+    "category": "asia",
+    "destination": "Vietnam",
+    "region": "Southeast Asia",
+    "price": "AED 3,200",
+    "priceValueAed": 3200,
+    "duration": "8 - 12 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Halong Bay",
+      "Hanoi",
+      "Hoi An",
+      "Ho Chi Minh City",
+      "Mekong Delta"
+    ],
+    "badges": [
+      "Scenic"
+    ],
+    "tags": [
+      "Scenic",
+      "Halong Bay",
+      "Hanoi",
+      "Hoi An",
+      "Ho Chi Minh City",
+      "Mekong Delta",
+      "Southeast Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Oct - Apr",
+      "travellerTypes": ""
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "sri-lanka-the-teardrop-of-the-indian-ocean",
+    "title": "Sri Lanka - The Teardrop of the Indian Ocean",
+    "slug": "sri-lanka-the-teardrop-of-the-indian-ocean",
+    "description": "Sigiriya's rock fortress, tea-estate trains threading misty Ella hills, colonial Galle Fort, blue whales off Mirissa, wild leopards in Yala. Sri Lanka is astonishingly varied for an island you can drive across in a day.",
+    "category": "asia",
+    "destination": "Sri Lanka",
+    "region": "South Asia",
+    "price": "AED 2,600",
+    "priceValueAed": 2600,
+    "duration": "6 - 10 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Sigiriya",
+      "Ella",
+      "Galle Fort",
+      "Yala Safari",
+      "Whale Watching"
+    ],
+    "badges": [
+      "Family Favourite"
+    ],
+    "tags": [
+      "Family Favourite",
+      "Sigiriya",
+      "Ella",
+      "Galle Fort",
+      "Yala Safari",
+      "Whale Watching",
+      "South Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1583087253562-0fb2b07f0b3b?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Dec - Apr",
+      "travellerTypes": "Families - Adventure"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "bali-the-island-of-the-gods",
+    "title": "Bali - The Island of the Gods",
+    "slug": "bali-the-island-of-the-gods",
+    "description": "Ubud's rice terraces cascading to the valley, Tanah Lot at sunset, Seminyak's world-class beach clubs, and spiritual healing energy that permeates every temple and ceremony. Bali is transcendent for couples.",
+    "category": "asia",
+    "destination": "Bali",
+    "region": "Southeast Asia",
+    "price": "AED 3,500",
+    "priceValueAed": 3500,
+    "duration": "6 - 9 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "Ubud",
+      "Seminyak",
+      "Tanah Lot",
+      "Rice Terraces",
+      "Spa Retreat"
+    ],
+    "badges": [
+      "Romantic",
+      "Honeymoon"
+    ],
+    "tags": [
+      "Romantic",
+      "Honeymoon",
+      "Ubud",
+      "Seminyak",
+      "Tanah Lot",
+      "Rice Terraces",
+      "Spa Retreat",
+      "Southeast Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Oct",
+      "travellerTypes": "Couples - Honeymoon"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "india-kerala-rajasthan-the-golden-triangle",
+    "title": "India - Kerala, Rajasthan & the Golden Triangle",
+    "slug": "india-kerala-rajasthan-the-golden-triangle",
+    "description": "The Taj Mahal at sunrise, Jaipur's Pink City bazaars, Kerala's houseboat sunsets on silent backwaters. India is not one destination - it's thirty. We build the best ones into one seamless journey.",
+    "category": "asia",
+    "destination": "India",
+    "region": "South Asia",
+    "price": "AED 1,800",
+    "priceValueAed": 1800,
+    "duration": "7 - 14 Nights",
+    "rating": "4.6",
+    "highlights": [
+      "Taj Mahal",
+      "Jaipur",
+      "Kerala Backwaters",
+      "Udaipur",
+      "Varanasi"
+    ],
+    "badges": [
+      "MGT Specialist",
+      "Multi-Region"
+    ],
+    "tags": [
+      "MGT Specialist",
+      "Multi-Region",
+      "Taj Mahal",
+      "Jaipur",
+      "Kerala Backwaters",
+      "Udaipur",
+      "Varanasi",
+      "South Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Oct - Mar",
+      "travellerTypes": "Families - Culture - Spiritual"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "uzbekistan-samarkand-bukhara-the-blue-domes",
+    "title": "Uzbekistan - Samarkand, Bukhara & the Blue Domes",
+    "slug": "uzbekistan-samarkand-bukhara-the-blue-domes",
+    "description": "Registan Square's three medrasa facades glittering with Timurid tilework, Bukhara's mud-brick labyrinth, Shah-i-Zinda's mosaic canyon. Uzbekistan is the Silk Road's most spectacular surviving act - and MGT's most under-the-radar bestseller.",
+    "category": "middleeast",
+    "destination": "Uzbekistan",
+    "region": "Central Asia",
+    "price": "AED 3,200",
+    "priceValueAed": 3200,
+    "duration": "6 - 9 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "Registan Square",
+      "Bukhara",
+      "Khiva",
+      "Samarkand",
+      "Shah-i-Zinda"
+    ],
+    "badges": [
+      "MGT Specialist",
+      "Hidden Gem"
+    ],
+    "tags": [
+      "MGT Specialist",
+      "Hidden Gem",
+      "Registan Square",
+      "Bukhara",
+      "Khiva",
+      "Samarkand",
+      "Shah-i-Zinda",
+      "Central Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1596627116790-af6f46dddbae?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Jun, Sep - Nov",
+      "travellerTypes": ""
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "azerbaijan-where-europe-meets-the-orient",
+    "title": "Azerbaijan - Where Europe Meets the Orient",
+    "slug": "azerbaijan-where-europe-meets-the-orient",
+    "description": "Baku's Old City walls rising beside flame-shaped glass towers, Sheki's caravanserai, Gobustan's mud volcanoes, and the Caspian's mercurial light. Azerbaijan is the surprise of the decade.",
+    "category": "middleeast",
+    "destination": "Azerbaijan",
+    "region": "Central Asia",
+    "price": "AED 2,800",
+    "priceValueAed": 2800,
+    "duration": "5 - 8 Nights",
+    "rating": "4.6",
+    "highlights": [
+      "Baku Old City",
+      "Flame Towers",
+      "Sheki",
+      "Caspian Coast",
+      "Gobustan"
+    ],
+    "badges": [
+      "Trending"
+    ],
+    "tags": [
+      "Trending",
+      "Baku Old City",
+      "Flame Towers",
+      "Sheki",
+      "Caspian Coast",
+      "Gobustan",
+      "Central Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Jun, Sep - Oct",
+      "travellerTypes": "Couples - Culture"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "turkey-istanbul-cappadocia-the-turquoise-coast",
+    "title": "Turkey - Istanbul, Cappadocia & the Turquoise Coast",
+    "slug": "turkey-istanbul-cappadocia-the-turquoise-coast",
+    "description": "Hot air balloons over Cappadocia's fairy chimneys at sunrise, the Blue Mosque's six minarets at dusk, gulets sailing the Aegean past sunken Lycian ruins. Turkey delivers luxury and antiquity in the same breath.",
+    "category": "middleeast",
+    "destination": "Turkey",
+    "region": "Middle East",
+    "price": "AED 3,800",
+    "priceValueAed": 3800,
+    "duration": "7 - 12 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "Istanbul",
+      "Cappadocia",
+      "Ephesus",
+      "Pamukkale",
+      "Turquoise Coast"
+    ],
+    "badges": [
+      "Bestseller",
+      "Balloon Flight"
+    ],
+    "tags": [
+      "Bestseller",
+      "Balloon Flight",
+      "Istanbul",
+      "Cappadocia",
+      "Ephesus",
+      "Pamukkale",
+      "Turquoise Coast",
+      "Middle East"
+    ],
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Oct",
+      "travellerTypes": "Couples - Families - Honeymoon"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "jordan-petra-wadi-rum-the-dead-sea",
+    "title": "Jordan - Petra, Wadi Rum & the Dead Sea",
+    "slug": "jordan-petra-wadi-rum-the-dead-sea",
+    "description": "The Siq opening to reveal Petra's Treasury, Wadi Rum's red sand desert glowing at dusk, floating effortlessly in the Dead Sea's mineral-dense silence. Jordan is a short flight and a world apart.",
+    "category": "middleeast",
+    "destination": "Jordan",
+    "region": "Middle East",
+    "price": "AED 3,500",
+    "priceValueAed": 3500,
+    "duration": "5 - 8 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "Petra",
+      "Wadi Rum",
+      "Dead Sea",
+      "Jerash",
+      "Aqaba"
+    ],
+    "badges": [
+      "7 Wonders",
+      "Desert"
+    ],
+    "tags": [
+      "7 Wonders",
+      "Desert",
+      "Petra",
+      "Wadi Rum",
+      "Dead Sea",
+      "Jerash",
+      "Aqaba",
+      "Middle East"
+    ],
+    "image": "https://images.unsplash.com/photo-1579606032821-4e6161c81bd3?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Oct - May",
+      "travellerTypes": ""
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "oman-arabia-s-most-beautiful-secret",
+    "title": "Oman - Arabia's Most Beautiful Secret",
+    "slug": "oman-arabia-s-most-beautiful-secret",
+    "description": "Muscat's white-washed Royal Opera House, the Grand Canyon-like Jebel Akhdar gorge, Nizwa Fort's Friday goat market, and Wahiba Sands' golden dunes at first light. Oman is what you imagined Arabia to be.",
+    "category": "middleeast",
+    "destination": "Oman",
+    "region": "Middle East",
+    "price": "AED 2,400",
+    "priceValueAed": 2400,
+    "duration": "5 - 8 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "Muscat",
+      "Nizwa Fort",
+      "Jebel Akhdar",
+      "Wahiba Sands",
+      "Salalah"
+    ],
+    "badges": [
+      "Close to UAE",
+      "Scenic"
+    ],
+    "tags": [
+      "Close to UAE",
+      "Scenic",
+      "Muscat",
+      "Nizwa Fort",
+      "Jebel Akhdar",
+      "Wahiba Sands",
+      "Salalah",
+      "Middle East"
+    ],
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Oct - Apr",
+      "travellerTypes": "Adventure - Couples"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "maldives-the-overwater-villa-dream",
+    "title": "Maldives - The Overwater Villa Dream",
+    "slug": "maldives-the-overwater-villa-dream",
+    "description": "A private water villa where the floor is glass and the Indian Ocean is your carpet. Manta ray snorkel at dawn, sunset dolphin cruise, bioluminescent beach walk at midnight. The Maldives is not a holiday - it's a religion.",
+    "category": "islands",
+    "destination": "Maldives",
+    "region": "Indian Ocean",
+    "price": "AED 4,500",
+    "priceValueAed": 4500,
+    "duration": "4 - 7 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "Overwater Villa",
+      "Snorkelling",
+      "Manta Rays",
+      "Dolphin Cruise",
+      "Bioluminescent Beach"
+    ],
+    "badges": [
+      "Honeymoon",
+      "Overwater Villa"
+    ],
+    "tags": [
+      "Honeymoon",
+      "Overwater Villa",
+      "Snorkelling",
+      "Manta Rays",
+      "Dolphin Cruise",
+      "Bioluminescent Beach",
+      "Indian Ocean"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800&q=80",
+    "metadata": {
+      "travelWindow": "Nov - Apr",
+      "travellerTypes": "Honeymoon - Couples - Luxury"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "salalah-oman-arabia-s-green-season-secret",
+    "title": "Salalah, Oman - Arabia's Green Season Secret",
+    "slug": "salalah-oman-arabia-s-green-season-secret",
+    "description": "During the Khareef (monsoon) season, arid Dhofar transforms - waterfalls flow, frankincense trees drip with resin, coconut palms bend in misty sea winds. Salalah in summer is unlike anything else in Arabia.",
+    "category": "islands",
+    "destination": "Salalah, Oman",
+    "region": "Arabian Sea",
+    "price": "AED 1,600",
+    "priceValueAed": 1600,
+    "duration": "4 - 6 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Wadi Darbat",
+      "Frankincense Trees",
+      "Mughsail Beach",
+      "Al Haffa Souq",
+      "Waterfalls"
+    ],
+    "badges": [
+      "Khareef Season",
+      "Best Value"
+    ],
+    "tags": [
+      "Khareef Season",
+      "Best Value",
+      "Wadi Darbat",
+      "Frankincense Trees",
+      "Mughsail Beach",
+      "Al Haffa Souq",
+      "Waterfalls",
+      "Arabian Sea"
+    ],
+    "image": "https://images.unsplash.com/photo-1473625247510-8ceb1760943f?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Jun - Sep (Khareef Season)",
+      "travellerTypes": "Families - Nature"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "seychelles-the-granite-garden-of-eden",
+    "title": "Seychelles - The Granite Garden of Eden",
+    "slug": "seychelles-the-granite-garden-of-eden",
+    "description": "Anse Source d'Argent's sculpted granite boulders, Vall e de Mai's prehistoric coco de mer palms, and sea turtles nesting on Aldabra. Seychelles was designed by a world that hadn't yet decided to be practical.",
+    "category": "islands",
+    "destination": "Seychelles",
+    "region": "Indian Ocean",
+    "price": "AED 6,200",
+    "priceValueAed": 6200,
+    "duration": "5 - 8 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "Mah",
+      "Praslin",
+      "La Digue",
+      "Anse Source d'Argent",
+      "Marine Parks"
+    ],
+    "badges": [
+      "Luxury",
+      "Honeymoon"
+    ],
+    "tags": [
+      "Luxury",
+      "Honeymoon",
+      "Mah",
+      "Praslin",
+      "La Digue",
+      "Anse Source d'Argent",
+      "Marine Parks",
+      "Indian Ocean"
+    ],
+    "image": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - May, Oct - Nov",
+      "travellerTypes": "Honeymoon - Luxury"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "mauritius-the-honeymoon-island",
+    "title": "Mauritius - The Honeymoon Island",
+    "slug": "mauritius-the-honeymoon-island",
+    "description": "Champagne-pink sunsets, turquoise lagoons rimmed by coral reef, undersea waterfalls viewed from above, and resorts that understand what luxury actually means. Mauritius is one of the most complete island experiences on earth.",
+    "category": "islands",
+    "destination": "Mauritius",
+    "region": "Indian Ocean",
+    "price": "AED 4,800",
+    "priceValueAed": 4800,
+    "duration": "6 - 9 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "Le Morne",
+      "Chamarel",
+      "Blue Bay Marine Park",
+      "Ile aux Cerfs",
+      "Undersea Waterfall"
+    ],
+    "badges": [
+      "Honeymoon",
+      "Beach"
+    ],
+    "tags": [
+      "Honeymoon",
+      "Beach",
+      "Le Morne",
+      "Chamarel",
+      "Blue Bay Marine Park",
+      "Ile aux Cerfs",
+      "Undersea Waterfall",
+      "Indian Ocean"
+    ],
+    "image": "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Nov",
+      "travellerTypes": "Honeymoon - Couples"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "phuket-thai-islands-the-beach-you-dreamed-of",
+    "title": "Phuket & Thai Islands - The Beach You Dreamed Of",
+    "slug": "phuket-thai-islands-the-beach-you-dreamed-of",
+    "description": "Phi Phi Islands' vertical limestone walls, Khao Sok's jungle-lake kayaking, Koh Lanta's long-tail boats at golden hour. Thailand's islands are achingly beautiful - and still genuinely affordable.",
+    "category": "islands",
+    "destination": "Phuket & Thai Islands",
+    "region": "Southeast Asia",
+    "price": "AED 2,400",
+    "priceValueAed": 2400,
+    "duration": "5 - 9 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Phi Phi Islands",
+      "Phuket",
+      "Krabi",
+      "James Bond Island",
+      "Koh Samui"
+    ],
+    "badges": [
+      "Beaches",
+      "Budget-Friendly"
+    ],
+    "tags": [
+      "Beaches",
+      "Budget-Friendly",
+      "Phi Phi Islands",
+      "Phuket",
+      "Krabi",
+      "James Bond Island",
+      "Koh Samui",
+      "Southeast Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1504214208698-ea1916a2195a?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Nov - Apr",
+      "travellerTypes": "Families - Couples"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "bali-lombok-island-twins-different-souls",
+    "title": "Bali & Lombok - Island Twins, Different Souls",
+    "slug": "bali-lombok-island-twins-different-souls",
+    "description": "Bali's temples, rice terraces, and world-class spa culture paired with Lombok's raw, unhurried Gili Islands - white sand, no motorbikes, and sunsets that make you stay one more night, then another.",
+    "category": "islands",
+    "destination": "Bali & Lombok",
+    "region": "Southeast Asia",
+    "price": "AED 3,800",
+    "priceValueAed": 3800,
+    "duration": "7 - 10 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "Ubud",
+      "Gili Islands",
+      "Seminyak",
+      "Mount Rinjani",
+      "Nusa Penida"
+    ],
+    "badges": [
+      "Romantic",
+      "Combo"
+    ],
+    "tags": [
+      "Romantic",
+      "Combo",
+      "Ubud",
+      "Gili Islands",
+      "Seminyak",
+      "Mount Rinjani",
+      "Nusa Penida",
+      "Southeast Asia"
+    ],
+    "image": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Oct",
+      "travellerTypes": "Couples - Honeymoon"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "usa-east-coast-west-coast-vegas",
+    "title": "USA - East Coast, West Coast & Vegas",
+    "slug": "usa-east-coast-west-coast-vegas",
+    "description": "New York City's skyline at midnight, the Grand Canyon's mile-deep silence, Las Vegas' neon fever dream, and the Pacific Coast Highway unspooling along California's cliffs. America is the world's most cinematic road trip.",
+    "category": "americas",
+    "destination": "USA",
+    "region": "North America",
+    "price": "AED 8,000",
+    "priceValueAed": 8000,
+    "duration": "10 - 16 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "New York",
+      "Las Vegas",
+      "Grand Canyon",
+      "Los Angeles",
+      "Miami"
+    ],
+    "badges": [
+      "Epic",
+      "Multi-City"
+    ],
+    "tags": [
+      "Epic",
+      "Multi-City",
+      "New York",
+      "Las Vegas",
+      "Grand Canyon",
+      "Los Angeles",
+      "Miami",
+      "North America"
+    ],
+    "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=600&q=80",
+    "metadata": {
+      "travelWindow": "",
+      "travellerTypes": "Families - Couples - Groups"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "canada-niagara-rockies-the-great-north",
+    "title": "Canada - Niagara, Rockies & the Great North",
+    "slug": "canada-niagara-rockies-the-great-north",
+    "description": "Niagara Falls' roar, Banff's impossibly turquoise Lake Louise, Vancouver's mountain-sea horizon, and the Northern Lights dancing over Yukon. Canada is the USA's quieter, more polite, and arguably more beautiful cousin.",
+    "category": "americas",
+    "destination": "Canada",
+    "region": "North America",
+    "price": "AED 7,500",
+    "priceValueAed": 7500,
+    "duration": "10 - 14 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Niagara Falls",
+      "Banff",
+      "Lake Louise",
+      "Vancouver",
+      "Quebec City"
+    ],
+    "badges": [
+      "Nature",
+      "Family"
+    ],
+    "tags": [
+      "Nature",
+      "Family",
+      "Niagara Falls",
+      "Banff",
+      "Lake Louise",
+      "Vancouver",
+      "Quebec City",
+      "North America"
+    ],
+    "image": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=600&q=80",
+    "metadata": {
+      "travelWindow": "May - Oct",
+      "travellerTypes": "Families - Nature"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "mexico-riviera-maya-mexico-city-cenotes",
+    "title": "Mexico - Riviera Maya, Mexico City & Cenotes",
+    "slug": "mexico-riviera-maya-mexico-city-cenotes",
+    "description": "Chichen Itza's pyramid casting its serpent shadow at equinox, Tulum's Mayan cliff temples above turquoise Caribbean, cenote swimming in prehistoric sinkholes. Mexico is deeper and more extraordinary than its resort reputation suggests.",
+    "category": "americas",
+    "destination": "Mexico",
+    "region": "North America",
+    "price": "AED 5,500",
+    "priceValueAed": 5500,
+    "duration": "8 - 12 Nights",
+    "rating": "4.6",
+    "highlights": [
+      "Chichen Itza",
+      "Tulum",
+      "Cancun",
+      "Mexico City",
+      "Cenotes"
+    ],
+    "badges": [
+      "Culture",
+      "Beaches"
+    ],
+    "tags": [
+      "Culture",
+      "Beaches",
+      "Chichen Itza",
+      "Tulum",
+      "Cancun",
+      "Mexico City",
+      "Cenotes",
+      "North America"
+    ],
+    "image": "https://images.unsplash.com/photo-1512813195386-6cf811ad3542?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Nov - Apr",
+      "travellerTypes": "Couples - Adventure"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "peru-machu-picchu-the-sacred-valley-the-amazon",
+    "title": "Peru - Machu Picchu, the Sacred Valley & the Amazon",
+    "slug": "peru-machu-picchu-the-sacred-valley-the-amazon",
+    "description": "The Inca citadel emerging from cloud forest at 2,430 metres, the Sacred Valley's terraced ruins, Lake Titicaca's floating islands, and the Amazon's cathedral of green. Peru is the most rewarding country on earth to understand slowly.",
+    "category": "americas",
+    "destination": "Peru",
+    "region": "South America",
+    "price": "AED 7,200",
+    "priceValueAed": 7200,
+    "duration": "10 - 14 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "Machu Picchu",
+      "Cusco",
+      "Sacred Valley",
+      "Lake Titicaca",
+      "Inca Trail"
+    ],
+    "badges": [
+      "Bucket List",
+      "World Heritage"
+    ],
+    "tags": [
+      "Bucket List",
+      "World Heritage",
+      "Machu Picchu",
+      "Cusco",
+      "Sacred Valley",
+      "Lake Titicaca",
+      "Inca Trail",
+      "South America"
+    ],
+    "image": "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Apr - Oct",
+      "travellerTypes": ""
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "brazil-argentina-iguazu-rio-patagonia",
+    "title": "Brazil & Argentina - Iguazu, Rio & Patagonia",
+    "slug": "brazil-argentina-iguazu-rio-patagonia",
+    "description": "Iguazu Falls' 275 cascades straddling two countries, Rio's Christ the Redeemer surveying the Carnival city, and Patagonia's granite Torres del Paine rising above glacial ice. South America's southern cone at its absolute wildest.",
+    "category": "americas",
+    "destination": "Brazil & Argentina",
+    "region": "South America",
+    "price": "AED 9,000",
+    "priceValueAed": 9000,
+    "duration": "12 - 16 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Iguazu Falls",
+      "Rio de Janeiro",
+      "Buenos Aires",
+      "Patagonia",
+      "Torres del Paine"
+    ],
+    "badges": [
+      "Epic Journey"
+    ],
+    "tags": [
+      "Epic Journey",
+      "Iguazu Falls",
+      "Rio de Janeiro",
+      "Buenos Aires",
+      "Patagonia",
+      "Torres del Paine",
+      "South America"
+    ],
+    "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Oct - Mar",
+      "travellerTypes": ""
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "kenya-tanzania-safari-the-great-migration",
+    "title": "Kenya & Tanzania Safari - The Great Migration",
+    "slug": "kenya-tanzania-safari-the-great-migration",
+    "description": "1.5 million wildebeest crossing the Mara River in a scene unchanged for 10,000 years, lions on acacia silhouettes at dusk, and lodge breakfasts while elephants graze 50 metres away. The African safari is the world's most extraordinary wildlife spectacle.",
+    "category": "africa",
+    "destination": "Kenya & Tanzania Safari",
+    "region": "East Africa",
+    "price": "AED 8,500",
+    "priceValueAed": 8500,
+    "duration": "8 - 12 Nights",
+    "rating": "4.9",
+    "highlights": [
+      "Masai Mara",
+      "Serengeti",
+      "Ngorongoro",
+      "Amboseli",
+      "Lake Nakuru"
+    ],
+    "badges": [
+      "Great Migration",
+      "Bucket List"
+    ],
+    "tags": [
+      "Great Migration",
+      "Bucket List",
+      "Masai Mara",
+      "Serengeti",
+      "Ngorongoro",
+      "Amboseli",
+      "Lake Nakuru",
+      "East Africa"
+    ],
+    "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Jul - Oct (Migration) - Jan - Mar",
+      "travellerTypes": "Adventure - Couples - Families"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "zanzibar-the-spice-island-dream",
+    "title": "Zanzibar - The Spice Island Dream",
+    "slug": "zanzibar-the-spice-island-dream",
+    "description": "Stone Town's labyrinthine Arab alleys, clove and cardamom drifting from doorways, dhow sunsets over the Indian Ocean, and Nungwi's white sand reef just steps from your beach bungalow. Zanzibar pairs perfectly with a mainland Tanzania safari.",
+    "category": "africa",
+    "destination": "Zanzibar",
+    "region": "East Africa",
+    "price": "AED 4,200",
+    "priceValueAed": 4200,
+    "duration": "5 - 8 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "Stone Town",
+      "Nungwi Beach",
+      "Spice Tour",
+      "Dhow Sunset",
+      "Snorkelling"
+    ],
+    "badges": [
+      "Romantic",
+      "Beach"
+    ],
+    "tags": [
+      "Romantic",
+      "Beach",
+      "Stone Town",
+      "Nungwi Beach",
+      "Spice Tour",
+      "Dhow Sunset",
+      "Snorkelling",
+      "East Africa"
+    ],
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Jun - Oct, Dec - Feb",
+      "travellerTypes": "Couples - Honeymoon"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "south-africa-cape-town-safari-the-garden-route",
+    "title": "South Africa - Cape Town, Safari & the Garden Route",
+    "slug": "south-africa-cape-town-safari-the-garden-route",
+    "description": "Table Mountain's tablecloth cloud at sunrise, the Garden Route's fynbos-scented coast, a Kruger Park leopard in a tamboti tree, and Franschhoek's Michelin-calibre wine estates. South Africa is the most complete country in the world.",
+    "category": "africa",
+    "destination": "South Africa",
+    "region": "Southern Africa",
+    "price": "AED 6,500",
+    "priceValueAed": 6500,
+    "duration": "10 - 14 Nights",
+    "rating": "4.8",
+    "highlights": [
+      "Cape Town",
+      "Table Mountain",
+      "Kruger Safari",
+      "Garden Route",
+      "Winelands"
+    ],
+    "badges": [
+      "Complete Package",
+      "Wine"
+    ],
+    "tags": [
+      "Complete Package",
+      "Wine",
+      "Cape Town",
+      "Table Mountain",
+      "Kruger Safari",
+      "Garden Route",
+      "Winelands",
+      "Southern Africa"
+    ],
+    "image": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Oct - Apr",
+      "travellerTypes": "Couples - Adventure - Food"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "egypt-pharaohs-pyramids-the-nile",
+    "title": "Egypt - Pharaohs, Pyramids & the Nile",
+    "slug": "egypt-pharaohs-pyramids-the-nile",
+    "description": "The Great Pyramid at Giza - the only surviving ancient wonder - Luxor's Valley of the Kings, Abu Simbel's colossi carved into Nubian sandstone, and a Nile felucca drifting past temples that predate Rome by 2,000 years.",
+    "category": "africa",
+    "destination": "Egypt",
+    "region": "North Africa",
+    "price": "AED 3,200",
+    "priceValueAed": 3200,
+    "duration": "7 - 10 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Giza Pyramids",
+      "Luxor",
+      "Valley of the Kings",
+      "Nile Cruise",
+      "Abu Simbel"
+    ],
+    "badges": [
+      "Ancient Wonders",
+      "Close to UAE"
+    ],
+    "tags": [
+      "Ancient Wonders",
+      "Close to UAE",
+      "Giza Pyramids",
+      "Luxor",
+      "Valley of the Kings",
+      "Nile Cruise",
+      "Abu Simbel",
+      "North Africa"
+    ],
+    "image": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Oct - Apr",
+      "travellerTypes": "Culture - Families - History"
+    },
+    "source": "world-tours-packages.html"
+  },
+  {
+    "id": "morocco-medinas-mountains-the-sahara",
+    "title": "Morocco - Medinas, Mountains & the Sahara",
+    "slug": "morocco-medinas-mountains-the-sahara",
+    "description": "Fez's medieval medina unchanged since the 9th century, Marrakech's Djemaa el-Fna at midnight, the Atlas Mountains' Berber villages, and sleeping in a desert camp as the Erg Chebbi dunes turn gold at dawn.",
+    "category": "africa",
+    "destination": "Morocco",
+    "region": "North Africa",
+    "price": "AED 3,800",
+    "priceValueAed": 3800,
+    "duration": "7 - 10 Nights",
+    "rating": "4.7",
+    "highlights": [
+      "Marrakech",
+      "Fez Medina",
+      "Sahara Desert",
+      "Atlas Mountains",
+      "Chefchaouen"
+    ],
+    "badges": [
+      "Exotic",
+      "Sahara"
+    ],
+    "tags": [
+      "Exotic",
+      "Sahara",
+      "Marrakech",
+      "Fez Medina",
+      "Sahara Desert",
+      "Atlas Mountains",
+      "Chefchaouen",
+      "North Africa"
+    ],
+    "image": "https://images.unsplash.com/photo-1539020140153-e479b8c22e70?w=600&q=80",
+    "metadata": {
+      "travelWindow": "Mar - May, Sep - Nov",
+      "travellerTypes": "Culture - Adventure - Couples"
+    },
+    "source": "world-tours-packages.html"
+  }
+]

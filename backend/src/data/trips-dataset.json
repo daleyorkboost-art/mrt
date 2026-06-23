@@ -3722,5 +3722,2750 @@
     "price": "AED 150",
     "popularity": 907,
     "source": "myglobaltrips.com"
+  },
+  {
+    "id": "switzerland-the-alpine-crown-jewel",
+    "destination": "Switzerland - The Alpine Crown Jewel",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "bestseller",
+      "honeymoon",
+      "jungfraujoch",
+      "lucerne",
+      "zurich"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    "highlights": [
+      "Jungfraujoch",
+      "Lucerne",
+      "Zurich",
+      "Swiss Rail Pass",
+      "Scenic Trains"
+    ],
+    "popularity": 94,
+    "category": "europe",
+    "price": "AED 5,500",
+    "duration": "7 - 14 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "germany-castles-christmas-craft-beer",
+    "destination": "Germany - Castles, Christmas & Craft Beer",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "popular",
+      "neuschwanstein",
+      "berlin",
+      "munich",
+      "rhine valley"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=600&q=80",
+    "highlights": [
+      "Neuschwanstein",
+      "Berlin",
+      "Munich",
+      "Rhine Valley",
+      "Black Forest"
+    ],
+    "popularity": 91,
+    "category": "europe",
+    "price": "AED 4,800",
+    "duration": "6 - 10 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "italy-la-dolce-vita-in-every-piazza",
+    "destination": "Italy - La Dolce Vita in Every Piazza",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "romantic",
+      "hot",
+      "rome",
+      "venice",
+      "florence"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=600&q=80",
+    "highlights": [
+      "Rome",
+      "Venice",
+      "Florence",
+      "Amalfi Coast",
+      "Tuscany"
+    ],
+    "popularity": 92,
+    "category": "europe",
+    "price": "AED 5,200",
+    "duration": "7 - 12 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "france-paris-provence-beyond",
+    "destination": "France - Paris, Provence & Beyond",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "honeymoon",
+      "paris",
+      "eiffel tower",
+      "loire valley",
+      "provence"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=600&q=80",
+    "highlights": [
+      "Paris",
+      "Eiffel Tower",
+      "Loire Valley",
+      "Provence",
+      "Nice"
+    ],
+    "popularity": 92,
+    "category": "europe",
+    "price": "AED 5,500",
+    "duration": "7 - 12 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "sweden-finland-chasing-the-northern-lights",
+    "destination": "Sweden & Finland - Chasing the Northern Lights",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "aurora hunt",
+      "bucket list",
+      "northern lights",
+      "husky safari",
+      "glass igloo"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "highlights": [
+      "Northern Lights",
+      "Husky Safari",
+      "Glass Igloo",
+      "Stockholm",
+      "Helsinki"
+    ],
+    "popularity": 94,
+    "category": "europe",
+    "price": "AED 6,800",
+    "duration": "8 - 12 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "scotland-highlands-whisky-wild-coasts",
+    "destination": "Scotland - Highlands, Whisky & Wild Coasts",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "hidden gem",
+      "isle of skye",
+      "edinburgh",
+      "loch ness",
+      "distilleries"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1513026705753-bc3fffca8bf4?w=600&q=80",
+    "highlights": [
+      "Isle of Skye",
+      "Edinburgh",
+      "Loch Ness",
+      "Distilleries",
+      "Highlands"
+    ],
+    "popularity": 91,
+    "category": "europe",
+    "price": "AED 4,500",
+    "duration": "7 - 10 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "netherlands-belgium-masters-moules",
+    "destination": "Netherlands & Belgium - Masters & Moules",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "amsterdam",
+      "keukenhof tulips",
+      "bruges",
+      "ghent",
+      "rijksmuseum"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=600&q=80",
+    "highlights": [
+      "Amsterdam",
+      "Keukenhof Tulips",
+      "Bruges",
+      "Ghent",
+      "Rijksmuseum"
+    ],
+    "popularity": 89,
+    "category": "europe",
+    "price": "AED 4,200",
+    "duration": "5 - 8 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "greece-gods-islands-olive-groves",
+    "destination": "Greece - Gods, Islands & Olive Groves",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "romantic",
+      "islands",
+      "santorini",
+      "mykonos",
+      "athens"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=600&q=80",
+    "highlights": [
+      "Santorini",
+      "Mykonos",
+      "Athens",
+      "Crete",
+      "Acropolis"
+    ],
+    "popularity": 92,
+    "category": "europe",
+    "price": "AED 4,800",
+    "duration": "7 - 12 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "spain-flamenco-gaud-the-sun-drenched-south",
+    "destination": "Spain - Flamenco, Gaud & the Sun-Drenched South",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "cultural",
+      "barcelona",
+      "madrid",
+      "alhambra",
+      "seville"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1543785734-4b6e564642f8?w=600&q=80",
+    "highlights": [
+      "Barcelona",
+      "Madrid",
+      "Alhambra",
+      "Seville",
+      "San Sebasti n"
+    ],
+    "popularity": 91,
+    "category": "europe",
+    "price": "AED 4,600",
+    "duration": "7 - 11 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "eastern-europe-highlights-prague-budapest-vienna",
+    "destination": "Eastern Europe Highlights - Prague, Budapest & Vienna",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "value",
+      "multi-city",
+      "prague",
+      "budapest",
+      "vienna"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1541849546-216549ae216d?w=600&q=80",
+    "highlights": [
+      "Prague",
+      "Budapest",
+      "Vienna",
+      "Thermal Baths",
+      "Charles Bridge"
+    ],
+    "popularity": 91,
+    "category": "europe",
+    "price": "AED 4,400",
+    "duration": "8 - 12 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "russia-moscow-st-petersburg-the-trans-siberian",
+    "destination": "Russia - Moscow, St. Petersburg & the Trans-Siberian",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "exclusive",
+      "red square",
+      "hermitage",
+      "st. petersburg",
+      "catherine palace"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=600&q=80",
+    "highlights": [
+      "Red Square",
+      "Hermitage",
+      "St. Petersburg",
+      "Catherine Palace",
+      "Trans-Siberian"
+    ],
+    "popularity": 89,
+    "category": "europe",
+    "price": "AED 5,000",
+    "duration": "8 - 14 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "japan-where-ancient-meets-ultramodern",
+    "destination": "Japan - Where Ancient Meets Ultramodern",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "trending",
+      "sakura season",
+      "tokyo",
+      "kyoto",
+      "osaka"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=800&q=80",
+    "highlights": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Bullet Train",
+      "Cherry Blossoms"
+    ],
+    "popularity": 94,
+    "category": "asia",
+    "price": "AED 5,800",
+    "duration": "8 - 14 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "china-the-dragon-awakened",
+    "destination": "China - The Dragon Awakened",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "epic journey",
+      "great wall",
+      "terracotta army",
+      "shanghai",
+      "beijing"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
+    "highlights": [
+      "Great Wall",
+      "Terracotta Army",
+      "Shanghai",
+      "Beijing",
+      "Li River"
+    ],
+    "popularity": 89,
+    "category": "asia",
+    "price": "AED 5,200",
+    "duration": "10 - 14 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "south-korea-k-culture-palaces-hiking",
+    "destination": "South Korea - K-Culture, Palaces & Hiking",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "trending",
+      "seoul",
+      "jeju island",
+      "gyeongbok palace",
+      "dmz"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?w=600&q=80",
+    "highlights": [
+      "Seoul",
+      "Jeju Island",
+      "Gyeongbok Palace",
+      "DMZ",
+      "K-BBQ"
+    ],
+    "popularity": 91,
+    "category": "asia",
+    "price": "AED 4,400",
+    "duration": "6 - 9 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "singapore-the-city-that-does-everything-right",
+    "destination": "Singapore - The City That Does Everything Right",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "family",
+      "city break",
+      "gardens by the bay",
+      "sentosa",
+      "universal studios"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=600&q=80",
+    "highlights": [
+      "Gardens by the Bay",
+      "Sentosa",
+      "Universal Studios",
+      "Marina Bay",
+      "Hawker Food"
+    ],
+    "popularity": 91,
+    "category": "asia",
+    "price": "AED 2,900",
+    "duration": "4 - 7 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "bhutan-the-last-shangri-la",
+    "destination": "Bhutan - The Last Shangri-La",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "spiritual",
+      "mgt specialist",
+      "tiger's nest",
+      "thimphu",
+      "paro"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1582650625119-3a31f8fa2699?w=600&q=80",
+    "highlights": [
+      "Tiger's Nest",
+      "Thimphu",
+      "Paro",
+      "Punakha Dzong",
+      "Himalayan Views"
+    ],
+    "popularity": 94,
+    "category": "asia",
+    "price": "AED 4,200",
+    "duration": "6 - 10 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "thailand-the-land-of-smiles-and-temples",
+    "destination": "Thailand - The Land of Smiles (and Temples)",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "budget-friendly",
+      "family",
+      "bangkok",
+      "chiang mai",
+      "krabi"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=600&q=80",
+    "highlights": [
+      "Bangkok",
+      "Chiang Mai",
+      "Krabi",
+      "Phuket",
+      "Thai Cuisine"
+    ],
+    "popularity": 91,
+    "category": "asia",
+    "price": "AED 2,800",
+    "duration": "5 - 10 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "vietnam-a-country-not-just-a-destination",
+    "destination": "Vietnam - A Country, Not Just a Destination",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "scenic",
+      "halong bay",
+      "hanoi",
+      "hoi an",
+      "ho chi minh city"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=600&q=80",
+    "highlights": [
+      "Halong Bay",
+      "Hanoi",
+      "Hoi An",
+      "Ho Chi Minh City",
+      "Mekong Delta"
+    ],
+    "popularity": 91,
+    "category": "asia",
+    "price": "AED 3,200",
+    "duration": "8 - 12 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "sri-lanka-the-teardrop-of-the-indian-ocean",
+    "destination": "Sri Lanka - The Teardrop of the Indian Ocean",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "family favourite",
+      "sigiriya",
+      "ella",
+      "galle fort",
+      "yala safari"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1583087253562-0fb2b07f0b3b?w=600&q=80",
+    "highlights": [
+      "Sigiriya",
+      "Ella",
+      "Galle Fort",
+      "Yala Safari",
+      "Whale Watching"
+    ],
+    "popularity": 91,
+    "category": "asia",
+    "price": "AED 2,600",
+    "duration": "6 - 10 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "bali-the-island-of-the-gods",
+    "destination": "Bali - The Island of the Gods",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "romantic",
+      "honeymoon",
+      "ubud",
+      "seminyak",
+      "tanah lot"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=600&q=80",
+    "highlights": [
+      "Ubud",
+      "Seminyak",
+      "Tanah Lot",
+      "Rice Terraces",
+      "Spa Retreat"
+    ],
+    "popularity": 92,
+    "category": "asia",
+    "price": "AED 3,500",
+    "duration": "6 - 9 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "india-kerala-rajasthan-the-golden-triangle",
+    "destination": "India - Kerala, Rajasthan & the Golden Triangle",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "mgt specialist",
+      "multi-region",
+      "taj mahal",
+      "jaipur",
+      "kerala backwaters"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "moderate",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=600&q=80",
+    "highlights": [
+      "Taj Mahal",
+      "Jaipur",
+      "Kerala Backwaters",
+      "Udaipur",
+      "Varanasi"
+    ],
+    "popularity": 89,
+    "category": "asia",
+    "price": "AED 1,800",
+    "duration": "7 - 14 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "uzbekistan-samarkand-bukhara-the-blue-domes",
+    "destination": "Uzbekistan - Samarkand, Bukhara & the Blue Domes",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "mgt specialist",
+      "hidden gem",
+      "registan square",
+      "bukhara",
+      "khiva"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1596627116790-af6f46dddbae?w=600&q=80",
+    "highlights": [
+      "Registan Square",
+      "Bukhara",
+      "Khiva",
+      "Samarkand",
+      "Shah-i-Zinda"
+    ],
+    "popularity": 94,
+    "category": "middleeast",
+    "price": "AED 3,200",
+    "duration": "6 - 9 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "azerbaijan-where-europe-meets-the-orient",
+    "destination": "Azerbaijan - Where Europe Meets the Orient",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "trending",
+      "baku old city",
+      "flame towers",
+      "sheki",
+      "caspian coast"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+    "highlights": [
+      "Baku Old City",
+      "Flame Towers",
+      "Sheki",
+      "Caspian Coast",
+      "Gobustan"
+    ],
+    "popularity": 89,
+    "category": "middleeast",
+    "price": "AED 2,800",
+    "duration": "5 - 8 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "turkey-istanbul-cappadocia-the-turquoise-coast",
+    "destination": "Turkey - Istanbul, Cappadocia & the Turquoise Coast",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "bestseller",
+      "balloon flight",
+      "istanbul",
+      "cappadocia",
+      "ephesus"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?w=600&q=80",
+    "highlights": [
+      "Istanbul",
+      "Cappadocia",
+      "Ephesus",
+      "Pamukkale",
+      "Turquoise Coast"
+    ],
+    "popularity": 92,
+    "category": "middleeast",
+    "price": "AED 3,800",
+    "duration": "7 - 12 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "jordan-petra-wadi-rum-the-dead-sea",
+    "destination": "Jordan - Petra, Wadi Rum & the Dead Sea",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "7 wonders",
+      "desert",
+      "petra",
+      "wadi rum",
+      "dead sea"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1579606032821-4e6161c81bd3?w=600&q=80",
+    "highlights": [
+      "Petra",
+      "Wadi Rum",
+      "Dead Sea",
+      "Jerash",
+      "Aqaba"
+    ],
+    "popularity": 92,
+    "category": "middleeast",
+    "price": "AED 3,500",
+    "duration": "5 - 8 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "oman-arabia-s-most-beautiful-secret",
+    "destination": "Oman - Arabia's Most Beautiful Secret",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "close to uae",
+      "scenic",
+      "muscat",
+      "nizwa fort",
+      "jebel akhdar"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "moderate",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&q=80",
+    "highlights": [
+      "Muscat",
+      "Nizwa Fort",
+      "Jebel Akhdar",
+      "Wahiba Sands",
+      "Salalah"
+    ],
+    "popularity": 92,
+    "category": "middleeast",
+    "price": "AED 2,400",
+    "duration": "5 - 8 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "maldives-the-overwater-villa-dream",
+    "destination": "Maldives - The Overwater Villa Dream",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "honeymoon",
+      "overwater villa",
+      "snorkelling",
+      "manta rays",
+      "dolphin cruise"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800&q=80",
+    "highlights": [
+      "Overwater Villa",
+      "Snorkelling",
+      "Manta Rays",
+      "Dolphin Cruise",
+      "Bioluminescent Beach"
+    ],
+    "popularity": 94,
+    "category": "islands",
+    "price": "AED 4,500",
+    "duration": "4 - 7 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "salalah-oman-arabia-s-green-season-secret",
+    "destination": "Salalah, Oman - Arabia's Green Season Secret",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "khareef season",
+      "best value",
+      "wadi darbat",
+      "frankincense trees",
+      "mughsail beach"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "moderate",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1473625247510-8ceb1760943f?w=600&q=80",
+    "highlights": [
+      "Wadi Darbat",
+      "Frankincense Trees",
+      "Mughsail Beach",
+      "Al Haffa Souq",
+      "Waterfalls"
+    ],
+    "popularity": 91,
+    "category": "islands",
+    "price": "AED 1,600",
+    "duration": "4 - 6 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "seychelles-the-granite-garden-of-eden",
+    "destination": "Seychelles - The Granite Garden of Eden",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "honeymoon",
+      "mah",
+      "praslin",
+      "la digue",
+      "anse source d'argent"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=600&q=80",
+    "highlights": [
+      "Mah",
+      "Praslin",
+      "La Digue",
+      "Anse Source d'Argent",
+      "Marine Parks"
+    ],
+    "popularity": 94,
+    "category": "islands",
+    "price": "AED 6,200",
+    "duration": "5 - 8 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "mauritius-the-honeymoon-island",
+    "destination": "Mauritius - The Honeymoon Island",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "honeymoon",
+      "beach",
+      "le morne",
+      "chamarel",
+      "blue bay marine park"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=600&q=80",
+    "highlights": [
+      "Le Morne",
+      "Chamarel",
+      "Blue Bay Marine Park",
+      "Ile aux Cerfs",
+      "Undersea Waterfall"
+    ],
+    "popularity": 92,
+    "category": "islands",
+    "price": "AED 4,800",
+    "duration": "6 - 9 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "phuket-thai-islands-the-beach-you-dreamed-of",
+    "destination": "Phuket & Thai Islands - The Beach You Dreamed Of",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "beaches",
+      "budget-friendly",
+      "phi phi islands",
+      "phuket",
+      "krabi"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "moderate",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1504214208698-ea1916a2195a?w=600&q=80",
+    "highlights": [
+      "Phi Phi Islands",
+      "Phuket",
+      "Krabi",
+      "James Bond Island",
+      "Koh Samui"
+    ],
+    "popularity": 91,
+    "category": "islands",
+    "price": "AED 2,400",
+    "duration": "5 - 9 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "bali-lombok-island-twins-different-souls",
+    "destination": "Bali & Lombok - Island Twins, Different Souls",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "romantic",
+      "combo",
+      "ubud",
+      "gili islands",
+      "seminyak"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=600&q=80",
+    "highlights": [
+      "Ubud",
+      "Gili Islands",
+      "Seminyak",
+      "Mount Rinjani",
+      "Nusa Penida"
+    ],
+    "popularity": 92,
+    "category": "islands",
+    "price": "AED 3,800",
+    "duration": "7 - 10 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "usa-east-coast-west-coast-vegas",
+    "destination": "USA - East Coast, West Coast & Vegas",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "epic",
+      "multi-city",
+      "new york",
+      "las vegas",
+      "grand canyon"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=600&q=80",
+    "highlights": [
+      "New York",
+      "Las Vegas",
+      "Grand Canyon",
+      "Los Angeles",
+      "Miami"
+    ],
+    "popularity": 91,
+    "category": "americas",
+    "price": "AED 8,000",
+    "duration": "10 - 16 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "canada-niagara-rockies-the-great-north",
+    "destination": "Canada - Niagara, Rockies & the Great North",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "nature",
+      "family",
+      "niagara falls",
+      "banff",
+      "lake louise"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=600&q=80",
+    "highlights": [
+      "Niagara Falls",
+      "Banff",
+      "Lake Louise",
+      "Vancouver",
+      "Quebec City"
+    ],
+    "popularity": 91,
+    "category": "americas",
+    "price": "AED 7,500",
+    "duration": "10 - 14 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "mexico-riviera-maya-mexico-city-cenotes",
+    "destination": "Mexico - Riviera Maya, Mexico City & Cenotes",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "beaches",
+      "chichen itza",
+      "tulum",
+      "cancun",
+      "mexico city"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1512813195386-6cf811ad3542?w=600&q=80",
+    "highlights": [
+      "Chichen Itza",
+      "Tulum",
+      "Cancun",
+      "Mexico City",
+      "Cenotes"
+    ],
+    "popularity": 89,
+    "category": "americas",
+    "price": "AED 5,500",
+    "duration": "8 - 12 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "peru-machu-picchu-the-sacred-valley-the-amazon",
+    "destination": "Peru - Machu Picchu, the Sacred Valley & the Amazon",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "bucket list",
+      "world heritage",
+      "machu picchu",
+      "cusco",
+      "sacred valley"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=600&q=80",
+    "highlights": [
+      "Machu Picchu",
+      "Cusco",
+      "Sacred Valley",
+      "Lake Titicaca",
+      "Inca Trail"
+    ],
+    "popularity": 94,
+    "category": "americas",
+    "price": "AED 7,200",
+    "duration": "10 - 14 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "brazil-argentina-iguazu-rio-patagonia",
+    "destination": "Brazil & Argentina - Iguazu, Rio & Patagonia",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "epic journey",
+      "iguazu falls",
+      "rio de janeiro",
+      "buenos aires",
+      "patagonia"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=600&q=80",
+    "highlights": [
+      "Iguazu Falls",
+      "Rio de Janeiro",
+      "Buenos Aires",
+      "Patagonia",
+      "Torres del Paine"
+    ],
+    "popularity": 91,
+    "category": "americas",
+    "price": "AED 9,000",
+    "duration": "12 - 16 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "kenya-tanzania-safari-the-great-migration",
+    "destination": "Kenya & Tanzania Safari - The Great Migration",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "great migration",
+      "bucket list",
+      "masai mara",
+      "serengeti",
+      "ngorongoro"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=600&q=80",
+    "highlights": [
+      "Masai Mara",
+      "Serengeti",
+      "Ngorongoro",
+      "Amboseli",
+      "Lake Nakuru"
+    ],
+    "popularity": 94,
+    "category": "africa",
+    "price": "AED 8,500",
+    "duration": "8 - 12 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "zanzibar-the-spice-island-dream",
+    "destination": "Zanzibar - The Spice Island Dream",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "romantic",
+      "beach",
+      "stone town",
+      "nungwi beach",
+      "spice tour"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=600&q=80",
+    "highlights": [
+      "Stone Town",
+      "Nungwi Beach",
+      "Spice Tour",
+      "Dhow Sunset",
+      "Snorkelling"
+    ],
+    "popularity": 92,
+    "category": "africa",
+    "price": "AED 4,200",
+    "duration": "5 - 8 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "south-africa-cape-town-safari-the-garden-route",
+    "destination": "South Africa - Cape Town, Safari & the Garden Route",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "complete package",
+      "wine",
+      "cape town",
+      "table mountain",
+      "kruger safari"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=600&q=80",
+    "highlights": [
+      "Cape Town",
+      "Table Mountain",
+      "Kruger Safari",
+      "Garden Route",
+      "Winelands"
+    ],
+    "popularity": 92,
+    "category": "africa",
+    "price": "AED 6,500",
+    "duration": "10 - 14 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "egypt-pharaohs-pyramids-the-nile",
+    "destination": "Egypt - Pharaohs, Pyramids & the Nile",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "ancient wonders",
+      "close to uae",
+      "giza pyramids",
+      "luxor",
+      "valley of the kings"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=600&q=80",
+    "highlights": [
+      "Giza Pyramids",
+      "Luxor",
+      "Valley of the Kings",
+      "Nile Cruise",
+      "Abu Simbel"
+    ],
+    "popularity": 91,
+    "category": "africa",
+    "price": "AED 3,200",
+    "duration": "7 - 10 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "morocco-medinas-mountains-the-sahara",
+    "destination": "Morocco - Medinas, Mountains & the Sahara",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "exotic",
+      "sahara",
+      "marrakech",
+      "fez medina",
+      "sahara desert"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1539020140153-e479b8c22e70?w=600&q=80",
+    "highlights": [
+      "Marrakech",
+      "Fez Medina",
+      "Sahara Desert",
+      "Atlas Mountains",
+      "Chefchaouen"
+    ],
+    "popularity": 91,
+    "category": "africa",
+    "price": "AED 3,800",
+    "duration": "7 - 10 Nights",
+    "source": "world-tours-packages.html",
+    "contentType": "world-tour"
+  },
+  {
+    "id": "royal-caribbean-7-night-western-caribbean-adventure",
+    "destination": "Royal Caribbean - 7-Night Western Caribbean Adventure",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "caribbean - the blueprint of paradise",
+      "royal caribbean international",
+      "bestseller",
+      "family"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=800&q=80",
+    "highlights": [
+      "7 Nights",
+      "Harmony of the Seas",
+      "Fly from Dubai",
+      "Year-round"
+    ],
+    "popularity": 90,
+    "category": "caribbean",
+    "price": "AED 3,200",
+    "duration": "7 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "norwegian-eastern-caribbean-7-night-escape",
+    "destination": "Norwegian - Eastern Caribbean 7-Night Escape",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "caribbean - the blueprint of paradise",
+      "norwegian cruise line",
+      "freestyle",
+      "adults"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?w=600&q=80",
+    "highlights": [
+      "7 Nights",
+      "Norwegian Epic",
+      "Fly from Dubai",
+      "Nov - Apr"
+    ],
+    "popularity": 87,
+    "category": "caribbean",
+    "price": "AED 2,900",
+    "duration": "7 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "msc-caribbean-14-night-grand-voyage",
+    "destination": "MSC - Caribbean 14-Night Grand Voyage",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "caribbean - the blueprint of paradise",
+      "msc cruises",
+      "european style",
+      "extended"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=600&q=80",
+    "highlights": [
+      "14 Nights",
+      "MSC Divina",
+      "Fly from Dubai",
+      "Dec - Mar"
+    ],
+    "popularity": 89,
+    "category": "caribbean",
+    "price": "AED 5,100",
+    "duration": "14 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "celebrity-cruises-southern-caribbean-abc-islands",
+    "destination": "Celebrity Cruises - Southern Caribbean & ABC Islands",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "caribbean - the blueprint of paradise",
+      "celebrity cruises",
+      "premium",
+      "diving"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1580742914263-b3a8bc9b52d9?w=600&q=80",
+    "highlights": [
+      "10 Nights",
+      "Celebrity Edge",
+      "Fly from Dubai",
+      "Nov - Apr"
+    ],
+    "popularity": 90,
+    "category": "caribbean",
+    "price": "AED 4,400",
+    "duration": "10 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "disney-cruise-line-bahamas-disney-s-private-island",
+    "destination": "Disney Cruise Line - Bahamas & Disney's Private Island",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "caribbean - the blueprint of paradise",
+      "disney cruise line",
+      "family",
+      "private island"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+    "highlights": [
+      "5 Nights",
+      "Disney Dream",
+      "Fly from Dubai",
+      "Year-round"
+    ],
+    "popularity": 92,
+    "category": "caribbean",
+    "price": "AED 5,800",
+    "duration": "5 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "msc-western-mediterranean-7-night-odyssey",
+    "destination": "MSC - Western Mediterranean 7-Night Odyssey",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "mediterranean - where civilisation learned to sail",
+      "msc cruises",
+      "bestseller"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=600&q=80",
+    "highlights": [
+      "7 Nights",
+      "MSC Bellissima",
+      "Dubai to Barcelona",
+      "Apr - Oct"
+    ],
+    "popularity": 89,
+    "category": "mediterranean",
+    "price": "AED 2,600",
+    "duration": "7 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "costa-cruises-spanish-french-riviera",
+    "destination": "Costa Cruises - Spanish & French Riviera",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "mediterranean - where civilisation learned to sail",
+      "costa cruises",
+      "italian style"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "moderate",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1543785734-4b6e564642f8?w=600&q=80",
+    "highlights": [
+      "7 Nights",
+      "Costa Firenze",
+      "Fly from Dubai",
+      "May - Sep"
+    ],
+    "popularity": 85,
+    "category": "mediterranean",
+    "price": "AED 2,200",
+    "duration": "7 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "royal-caribbean-12-night-mediterranean-explorer",
+    "destination": "Royal Caribbean - 12-Night Mediterranean Explorer",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "mediterranean - where civilisation learned to sail",
+      "royal caribbean international",
+      "extended",
+      "greece"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=600&q=80",
+    "highlights": [
+      "12 Nights",
+      "Wonder of the Seas",
+      "Fly from Dubai",
+      "May - Oct"
+    ],
+    "popularity": 90,
+    "category": "mediterranean",
+    "price": "AED 5,200",
+    "duration": "12 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "celebrity-greek-isles-turkey-10-night",
+    "destination": "Celebrity - Greek Isles & Turkey 10-Night",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "mediterranean - where civilisation learned to sail",
+      "celebrity cruises",
+      "premium",
+      "greece & turkey"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1555993539-1732b0258235?w=600&q=80",
+    "highlights": [
+      "10 Nights",
+      "Celebrity Apex",
+      "Dubai to Athens",
+      "May - Oct"
+    ],
+    "popularity": 90,
+    "category": "mediterranean",
+    "price": "AED 4,800",
+    "duration": "10 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "silversea-aegean-holy-land-luxury-voyage",
+    "destination": "Silversea - Aegean & Holy Land Luxury Voyage",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "mediterranean - where civilisation learned to sail",
+      "silversea cruises",
+      "ultra-luxury",
+      "all-suite"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=600&q=80",
+    "highlights": [
+      "14 Nights",
+      "Silver Spirit",
+      "Fly from Dubai",
+      "Apr - Oct"
+    ],
+    "popularity": 92,
+    "category": "mediterranean",
+    "price": "AED 18,500",
+    "duration": "14 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "ponant-adriatic-dalmatian-coast-expedition",
+    "destination": "Ponant - Adriatic & Dalmatian Coast Expedition",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "mediterranean - where civilisation learned to sail",
+      "ponant cruises",
+      "boutique",
+      "expedition"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1555993539-1732b0258235?w=600&q=80",
+    "highlights": [
+      "10 Nights",
+      "Le Laperouse",
+      "Dubai to Venice",
+      "May - Sep"
+    ],
+    "popularity": 90,
+    "category": "mediterranean",
+    "price": "AED 14,200",
+    "duration": "10 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "viking-river-grand-european-danube-tour",
+    "destination": "Viking River - Grand European Danube Tour",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "european river cruises - the slower, richer journey",
+      "viking river cruises",
+      "bestseller",
+      "grand tour"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1541849546-216549ae216d?w=600&q=80",
+    "highlights": [
+      "15 Nights",
+      "Viking Longship",
+      "Dubai to Amsterdam",
+      "Apr - Nov"
+    ],
+    "popularity": 92,
+    "category": "europe-rivers",
+    "price": "AED 9,800",
+    "duration": "15 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "avalon-rhine-river-castles-wine",
+    "destination": "Avalon - Rhine River: Castles & Wine",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "european river cruises - the slower, richer journey",
+      "avalon waterways",
+      "scenic",
+      "wine country"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=600&q=80",
+    "highlights": [
+      "8 Nights",
+      "Avalon Imagery II",
+      "Dubai to Basel",
+      "Apr - Oct"
+    ],
+    "popularity": 89,
+    "category": "europe-rivers",
+    "price": "AED 7,200",
+    "duration": "8 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "amawaterways-tulip-time-rhine-amsterdam",
+    "destination": "AmaWaterways - Tulip Time Rhine & Amsterdam",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "european river cruises - the slower, richer journey",
+      "amawaterways",
+      "tulip season",
+      "april only"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=600&q=80",
+    "highlights": [
+      "7 Nights",
+      "AmaPrima",
+      "Dubai to Amsterdam",
+      "April Only"
+    ],
+    "popularity": 90,
+    "category": "europe-rivers",
+    "price": "AED 8,500",
+    "duration": "7 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "scenic-douro-valley-portugal-wine-soul",
+    "destination": "Scenic - Douro Valley, Portugal: Wine & Soul",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "european river cruises - the slower, richer journey",
+      "scenic luxury cruises",
+      "wine cruise"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=600&q=80",
+    "highlights": [
+      "8 Nights",
+      "Scenic Azure",
+      "Dubai to Porto",
+      "Apr - Oct"
+    ],
+    "popularity": 90,
+    "category": "europe-rivers",
+    "price": "AED 10,200",
+    "duration": "8 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "viking-christmas-markets-rhine-danube",
+    "destination": "Viking - Christmas Markets: Rhine & Danube",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "european river cruises - the slower, richer journey",
+      "viking river cruises",
+      "christmas markets",
+      "bucket list"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=600&q=80",
+    "highlights": [
+      "15 Nights",
+      "Viking Longship",
+      "Dubai to Nuremberg",
+      "Nov - Dec Only"
+    ],
+    "popularity": 92,
+    "category": "europe-rivers",
+    "price": "AED 11,500",
+    "duration": "15 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "croisieurope-provence-rh-ne-river",
+    "destination": "CroisiEurope - Provence & Rh ne River",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "european river cruises - the slower, richer journey",
+      "croisieurope",
+      "provence",
+      "value"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=600&q=80",
+    "highlights": [
+      "7 Nights",
+      "MS Loire Princesse",
+      "Dubai to Lyon",
+      "Apr - Oct"
+    ],
+    "popularity": 87,
+    "category": "europe-rivers",
+    "price": "AED 5,800",
+    "duration": "7 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "royal-caribbean-southeast-asia-12-night",
+    "destination": "Royal Caribbean - Southeast Asia 12-Night",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "asia pacific - ancient ports, modern skylines & remote atolls",
+      "royal caribbean international",
+      "multi-country",
+      "southeast asia"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=600&q=80",
+    "highlights": [
+      "12 Nights",
+      "Spectrum of the Seas",
+      "Dubai to Singapore",
+      "Nov - Apr"
+    ],
+    "popularity": 89,
+    "category": "asia-pacific",
+    "price": "AED 4,800",
+    "duration": "12 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "princess-cruises-japan-cherry-blossom-14-night",
+    "destination": "Princess Cruises - Japan Cherry Blossom 14-Night",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "asia pacific - ancient ports, modern skylines & remote atolls",
+      "princess cruises",
+      "cherry blossom",
+      "bucket list"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600&q=80",
+    "highlights": [
+      "14 Nights",
+      "Diamond Princess",
+      "Dubai to Tokyo",
+      "Late Mar - Apr"
+    ],
+    "popularity": 92,
+    "category": "asia-pacific",
+    "price": "AED 7,400",
+    "duration": "14 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "cunard-asia-grand-voyage-india-to-japan",
+    "destination": "Cunard - Asia Grand Voyage: India to Japan",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "asia pacific - ancient ports, modern skylines & remote atolls",
+      "cunard line",
+      "grand voyage",
+      "departs dubai"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
+    "highlights": [
+      "28 Nights",
+      "Queen Victoria",
+      "Departs Dubai",
+      "Jan - Feb"
+    ],
+    "popularity": 90,
+    "category": "asia-pacific",
+    "price": "AED 16,800",
+    "duration": "28 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "p-o-australia-new-zealand-21-night-grand",
+    "destination": "P&O - Australia & New Zealand 21-Night Grand",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "asia pacific - ancient ports, modern skylines & remote atolls",
+      "p&o cruises australia",
+      "southern hemisphere",
+      "epic"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "highlights": [
+      "21 Nights",
+      "Pacific Explorer",
+      "Dubai to Sydney",
+      "Dec - Feb"
+    ],
+    "popularity": 89,
+    "category": "asia-pacific",
+    "price": "AED 9,200",
+    "duration": "21 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "norwegian-south-pacific-islands-bora-bora-fiji",
+    "destination": "Norwegian - South Pacific Islands: Bora Bora & Fiji",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "asia pacific - ancient ports, modern skylines & remote atolls",
+      "norwegian cruise line",
+      "paradise",
+      "remote islands"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=600&q=80",
+    "highlights": [
+      "24 Nights",
+      "Norwegian Jewel",
+      "Dubai to LA",
+      "Dec - Mar"
+    ],
+    "popularity": 90,
+    "category": "asia-pacific",
+    "price": "AED 11,800",
+    "duration": "24 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "hurtigruten-arctic-norway-svalbard-expedition",
+    "destination": "Hurtigruten - Arctic Norway & Svalbard Expedition",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "arctic, antarctica & alaska - where silence roars",
+      "hurtigruten expeditions",
+      "expedition",
+      "polar bears"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "highlights": [
+      "13 Nights",
+      "MS Roald Amundsen",
+      "Dubai to Oslo",
+      "Jun - Aug"
+    ],
+    "popularity": 92,
+    "category": "arctic",
+    "price": "AED 14,600",
+    "duration": "13 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "viking-norwegian-fjords-northern-lights",
+    "destination": "Viking - Norwegian Fjords & Northern Lights",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "arctic, antarctica & alaska - where silence roars",
+      "viking ocean cruises",
+      "northern lights",
+      "fjords"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "highlights": [
+      "9 Nights",
+      "Viking Orion",
+      "Dubai to Bergen",
+      "Nov - Mar (Lights)"
+    ],
+    "popularity": 90,
+    "category": "arctic",
+    "price": "AED 8,900",
+    "duration": "9 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "ponant-greenland-iceland-discovery",
+    "destination": "Ponant - Greenland & Iceland Discovery",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "arctic, antarctica & alaska - where silence roars",
+      "ponant cruises",
+      "arctic",
+      "unesco"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "highlights": [
+      "14 Nights",
+      "Le Commandant Charcot",
+      "Dubai to Reykjavik",
+      "Jun - Aug"
+    ],
+    "popularity": 90,
+    "category": "arctic",
+    "price": "AED 22,400",
+    "duration": "14 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "princess-cruises-alaska-inside-passage",
+    "destination": "Princess Cruises - Alaska Inside Passage",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "arctic, antarctica & alaska - where silence roars",
+      "princess cruises",
+      "glaciers",
+      "bestseller"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=600&q=80",
+    "highlights": [
+      "7 Nights",
+      "Crown Princess",
+      "Dubai to Vancouver",
+      "May - Sep"
+    ],
+    "popularity": 90,
+    "category": "arctic",
+    "price": "AED 5,600",
+    "duration": "7 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "silversea-antarctica-discovery-expedition",
+    "destination": "Silversea - Antarctica Discovery Expedition",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "arctic, antarctica & alaska - where silence roars",
+      "silversea cruises",
+      "antarctica",
+      "ultra-luxury",
+      "expedition"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "highlights": [
+      "12 Nights",
+      "Silver Cloud",
+      "Dubai to Buenos Aires",
+      "Nov - Mar"
+    ],
+    "popularity": 92,
+    "category": "arctic",
+    "price": "AED 32,000",
+    "duration": "12 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "cunard-world-voyage-queen-mary-2",
+    "destination": "Cunard - World Voyage: Queen Mary 2",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "luxury lines & world voyages - the pinnacle of sea travel",
+      "cunard line",
+      "world cruise",
+      "iconic ship"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=600&q=80",
+    "highlights": [
+      "115 Nights",
+      "Queen Mary 2",
+      "Fly to Southampton",
+      "Jan - Apr"
+    ],
+    "popularity": 92,
+    "category": "luxury",
+    "price": "AED 62,000",
+    "duration": "115 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "regent-seven-seas-all-inclusive-luxury-mediterranean",
+    "destination": "Regent Seven Seas - All-Inclusive Luxury Mediterranean",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "luxury lines & world voyages - the pinnacle of sea travel",
+      "regent seven seas",
+      "true all-inclusive"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=600&q=80",
+    "highlights": [
+      "12 Nights",
+      "Seven Seas Explorer",
+      "All flights included",
+      "May - Oct"
+    ],
+    "popularity": 92,
+    "category": "luxury",
+    "price": "AED 24,500",
+    "duration": "12 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "seabourn-encore-tahiti-to-tokyo",
+    "destination": "Seabourn - Encore: Tahiti to Tokyo",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "luxury lines & world voyages - the pinnacle of sea travel",
+      "seabourn cruise line",
+      "ultra-luxury",
+      "pacific"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+    "highlights": [
+      "35 Nights",
+      "Seabourn Encore",
+      "Dubai to Tahiti",
+      "Feb - Mar"
+    ],
+    "popularity": 90,
+    "category": "luxury",
+    "price": "AED 38,500",
+    "duration": "35 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "msc-arabian-gulf-red-sea-from-dubai",
+    "destination": "MSC - Arabian Gulf & Red Sea from Dubai",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "luxury lines & world voyages - the pinnacle of sea travel",
+      "msc cruises",
+      "departs dubai",
+      "no flights"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&q=80",
+    "highlights": [
+      "14 Nights",
+      "MSC Orchestra",
+      "DEPARTS DUBAI",
+      "Oct - Apr"
+    ],
+    "popularity": 87,
+    "category": "luxury",
+    "price": "AED 3,400",
+    "duration": "14 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
+  },
+  {
+    "id": "costa-dubai-to-india-sri-lanka",
+    "destination": "Costa - Dubai to India & Sri Lanka",
+    "styles": [
+      "luxury",
+      "culture",
+      "adventure",
+      "luxury lines & world voyages - the pinnacle of sea travel",
+      "costa cruises",
+      "departs dubai",
+      "indian subcontinent"
+    ],
+    "groups": [
+      "couple",
+      "family",
+      "friends",
+      "solo"
+    ],
+    "budgets": [
+      "premium",
+      "premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=600&q=80",
+    "highlights": [
+      "16 Nights",
+      "Costa neoClassica",
+      "DEPARTS DUBAI",
+      "Nov - Mar"
+    ],
+    "popularity": 85,
+    "category": "luxury",
+    "price": "AED 2,900",
+    "duration": "16 Nights",
+    "source": "cruise-packages.html",
+    "contentType": "cruise"
   }
 ]

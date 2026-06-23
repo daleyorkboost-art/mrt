@@ -5,7 +5,7 @@ import globals from 'globals';
 import tseslint from 'typescript-eslint';
 
 export default tseslint.config(
-  { ignores: ['dist', 'backend', 'vite.config.js', 'vite.config.d.ts', '*.tsbuildinfo'] },
+  { ignores: ['dist', 'backend', 'scripts', 'vite.config.js', 'vite.config.d.ts', '*.tsbuildinfo'] },
   js.configs.recommended,
   ...tseslint.configs.recommended,
   {

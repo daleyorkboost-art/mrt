@@ -14,6 +14,7 @@ import {
   WalletCards,
 } from 'lucide-react';
 import type { LucideIcon } from 'lucide-react';
+import { legacyDestinations, legacyPackages } from './legacyContent';
 
 export type Package = {
   title: string;
@@ -40,83 +41,9 @@ export type Feature = {
 export const heroImage =
   'https://images.unsplash.com/photo-1573843981267-be1999ff37cd?auto=format&fit=crop&w=2400&q=88';
 
-export const packages: Package[] = [
-  {
-    title: 'Switzerland — The Alpine Crown Jewel',
-    location: 'Western Europe',
-    price: 'AED 5,500',
-    days: '7-14 nights',
-    image: 'https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Jungfraujoch', 'Lucerne', 'Swiss Rail Pass'],
-  },
-  {
-    title: 'Italy — La Dolce Vita in Every Piazza',
-    location: 'Southern Europe',
-    price: 'AED 5,200',
-    days: '7-12 nights',
-    image: 'https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Rome', 'Venice', 'Amalfi Coast'],
-  },
-  {
-    title: 'Dubai Marina Dhow Dinner Cruise',
-    location: 'Dubai, UAE',
-    price: 'AED 120',
-    days: '2 hours',
-    image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Buffet included', 'Live Tanoura Show', 'Daily 8:30-10:30PM'],
-  },
-  {
-    title: 'Royal Caribbean — 7-Night Western Caribbean Adventure',
-    location: 'Caribbean Cruise',
-    price: 'AED 3,200',
-    days: '7 nights',
-    image: 'https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Miami', 'Cozumel', 'CocoCay'],
-  },
-  {
-    title: 'Museum of the Future — A Postcard from 2071',
-    location: 'Dubai, UAE',
-    price: 'AED 155',
-    days: 'Half day',
-    image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Future Technology', 'Sheikh Zayed Road', '9AM-6PM'],
-  },
-  {
-    title: 'Sunrise Desert Balloon Flight + Bedouin Breakfast',
-    location: 'Dubai Desert Conservation Reserve',
-    price: 'AED 649',
-    days: '~5 hours',
-    image: 'https://images.unsplash.com/photo-1547234935-80c7145ec969?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Sunrise departure', 'Breakfast included', 'Falconry show'],
-  },
-];
+export const packages: Package[] = legacyPackages;
 
-export const destinations: Destination[] = [
-  {
-    name: 'Switzerland',
-    country: 'Western Europe',
-    rating: '4.9',
-    image: 'https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1000&q=80',
-  },
-  {
-    name: 'Dubai',
-    country: 'UAE',
-    rating: '4.8',
-    image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1000&q=80',
-  },
-  {
-    name: 'Caribbean',
-    country: 'Cruise Packages',
-    rating: '4.8',
-    image: 'https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=1000&q=80',
-  },
-  {
-    name: 'Italy',
-    country: 'Southern Europe',
-    rating: '4.8',
-    image: 'https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1000&q=80',
-  },
-];
+export const destinations: Destination[] = legacyDestinations;
 
 export const howItWorks: Feature[] = [
   {

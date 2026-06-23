@@ -1,0 +1,1423 @@
+[
+  {
+    "id": "dubai-marina-dhow-dinner-cruise",
+    "title": "Dubai Marina Dhow Dinner Cruise",
+    "slug": "dubai-marina-dhow-dinner-cruise",
+    "description": "A 2-hour sail through Dubai Marina's canyon of glass towers aboard a traditional wooden dhow, refurbished into a floating restaurant. International buffet dinner, live Tanoura dance, and skyline views from Ain Dubai to the Marina Yacht Club.",
+    "category": "Sunset & Dinner Cruise",
+    "destination": "UAE",
+    "price": "AED 120",
+    "priceValueAed": 120,
+    "duration": "2 Hours",
+    "rating": "4.6",
+    "highlights": [
+      "2 Hours",
+      "Buffet Included",
+      "Live Tanoura Show",
+      "Daily 8:30 - 10:30PM"
+    ],
+    "badges": [
+      "Bestseller",
+      "Family"
+    ],
+    "vipFeatures": [
+      "Bestseller",
+      "Family",
+      "2 Hours",
+      "Buffet Included",
+      "Live Tanoura Show",
+      "Daily 8:30 - 10:30PM"
+    ],
+    "tags": [
+      "Sunset & Dinner Cruise",
+      "Dhow Cruise - Old Dubai, Carried by Water",
+      "Bestseller",
+      "Family"
+    ],
+    "image": "https://images.unsplash.com/photo-1574236170880-faddb0c0d8a4?w=800&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "dubai-creek-heritage-dhow-cruise",
+    "title": "Dubai Creek Heritage Dhow Cruise",
+    "slug": "dubai-creek-heritage-dhow-cruise",
+    "description": "The original dhow route - sailing the historic Creek between Deira's spice souqs and Bur Dubai's wind-tower architecture. The contrast between old Arabia and the Burj Khalifa skyline, all from one wooden deck.",
+    "category": "Old Dubai Sightseeing",
+    "destination": "UAE",
+    "price": "AED 65",
+    "priceValueAed": 65,
+    "duration": "1.5 - 2 Hours",
+    "rating": "4.5",
+    "highlights": [
+      "1.5 - 2 Hours",
+      "Buffet Optional",
+      "Heritage Route",
+      "Evening Departures"
+    ],
+    "badges": [
+      "Heritage",
+      "Value"
+    ],
+    "vipFeatures": [
+      "Heritage",
+      "Value",
+      "1.5 - 2 Hours",
+      "Buffet Optional",
+      "Heritage Route",
+      "Evening Departures"
+    ],
+    "tags": [
+      "Old Dubai Sightseeing",
+      "Dhow Cruise - Old Dubai, Carried by Water",
+      "Heritage",
+      "Value"
+    ],
+    "image": "https://images.unsplash.com/photo-1568454537842-d933259bb258?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "private-dhow-charter-family-group-celebration",
+    "title": "Private Dhow Charter - Family & Group Celebration",
+    "slug": "private-dhow-charter-family-group-celebration",
+    "description": "Charter the entire dhow for your group - birthdays, anniversaries, corporate gatherings. Customisable menu, decorations, and music, with the whole vessel reserved exclusively for your party along the Marina or Creek.",
+    "category": "Exclusive Private Booking",
+    "destination": "UAE",
+    "price": "AED 4,500",
+    "priceValueAed": 4500,
+    "duration": "2 - 3 Hours",
+    "rating": "4.8",
+    "highlights": [
+      "2 - 3 Hours",
+      "Fully Private",
+      "Customisable",
+      "Up to 80 guests"
+    ],
+    "badges": [
+      "Private",
+      "Customisable"
+    ],
+    "vipFeatures": [
+      "Private",
+      "Customisable",
+      "2 - 3 Hours",
+      "Fully Private",
+      "Up to 80 guests"
+    ],
+    "tags": [
+      "Exclusive Private Booking",
+      "Dhow Cruise - Old Dubai, Carried by Water",
+      "Private",
+      "Customisable"
+    ],
+    "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "premium-catamaran-sightseeing-cruise",
+    "title": "Premium Catamaran Sightseeing Cruise",
+    "slug": "premium-catamaran-sightseeing-cruise",
+    "description": "A sleek catamaran with a sundeck and shaded lounge - gliding past Ain Dubai, Bluewaters Island, and the Marina towers. Faster and more stable than a dhow, with panoramic 360 views and onboard refreshments.",
+    "category": "Modern Sightseeing Vessel",
+    "destination": "UAE",
+    "price": "AED 99",
+    "priceValueAed": 99,
+    "duration": "1 - 1.5 Hours",
+    "rating": "4.7",
+    "highlights": [
+      "1 - 1.5 Hours",
+      "Welcome Drinks",
+      "Open Sundeck",
+      "Multiple Daily Departures"
+    ],
+    "badges": [
+      "Modern",
+      "Popular"
+    ],
+    "vipFeatures": [
+      "Modern",
+      "Popular",
+      "1 - 1.5 Hours",
+      "Welcome Drinks",
+      "Open Sundeck",
+      "Multiple Daily Departures"
+    ],
+    "tags": [
+      "Modern Sightseeing Vessel",
+      "Premium Dubai Marina Cruise - The Skyline, Elevated",
+      "Modern",
+      "Popular"
+    ],
+    "image": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?w=800&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "marina-bbq-sunset-cruise",
+    "title": "Marina BBQ Sunset Cruise",
+    "slug": "marina-bbq-sunset-cruise",
+    "description": "Watch the Marina towers turn gold as the sun sets, with a live BBQ grill on deck, unlimited soft drinks, and a DJ setting the mood. A more relaxed, social alternative to the formal dinner buffet cruise.",
+    "category": "BBQ & Sunset Experience",
+    "destination": "UAE",
+    "price": "AED 150",
+    "priceValueAed": 150,
+    "duration": "2 Hours",
+    "rating": "4.6",
+    "highlights": [
+      "2 Hours",
+      "Live BBQ Grill",
+      "DJ Onboard",
+      "Sunset Departure"
+    ],
+    "badges": [
+      "Sunset",
+      "Social"
+    ],
+    "vipFeatures": [
+      "Sunset",
+      "Social",
+      "2 Hours",
+      "Live BBQ Grill",
+      "DJ Onboard",
+      "Sunset Departure"
+    ],
+    "tags": [
+      "BBQ & Sunset Experience",
+      "Premium Dubai Marina Cruise - The Skyline, Elevated",
+      "Sunset",
+      "Social"
+    ],
+    "image": "https://images.unsplash.com/photo-1580742914263-b3a8bc9b52d9?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "private-speedboat-marina-tour",
+    "title": "Private Speedboat Marina Tour",
+    "slug": "private-speedboat-marina-tour",
+    "description": "A 30 - 45 minute adrenaline-laced speedboat run past Burj Al Arab, Atlantis, and the Marina skyline - for those who want the views without the dinner-cruise pace. Photos and video included on most packages.",
+    "category": "High-Speed Private Tour",
+    "destination": "UAE",
+    "price": "AED 350",
+    "priceValueAed": 350,
+    "duration": "30 - 45 Mins",
+    "rating": "4.8",
+    "highlights": [
+      "30 - 45 Mins",
+      "High Speed",
+      "Photos Included",
+      "Private Group"
+    ],
+    "badges": [
+      "Adrenaline",
+      "Photo Package"
+    ],
+    "vipFeatures": [
+      "Adrenaline",
+      "Photo Package",
+      "30 - 45 Mins",
+      "High Speed",
+      "Photos Included",
+      "Private Group"
+    ],
+    "tags": [
+      "High-Speed Private Tour",
+      "Premium Dubai Marina Cruise - The Skyline, Elevated",
+      "Adrenaline",
+      "Photo Package"
+    ],
+    "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "42ft-yacht-intimate-private-charter",
+    "title": "42ft Yacht - Intimate Private Charter",
+    "slug": "42ft-yacht-intimate-private-charter",
+    "description": "The perfect entry point into Dubai yachting - a sleek 42-footer for couples, small families, or close friends. Cruise past Ain Dubai and Palm Jumeirah with your own private captain and crew.",
+    "category": "Couples & Small Groups",
+    "destination": "UAE",
+    "price": "AED 499",
+    "priceValueAed": 499,
+    "duration": "",
+    "rating": "4.7",
+    "highlights": [
+      "Per Hour",
+      "Up to 10 Guests",
+      "Captain & Crew Incl.",
+      "Soft Drinks Incl."
+    ],
+    "badges": [
+      "Entry Level",
+      "Popular"
+    ],
+    "vipFeatures": [
+      "Entry Level",
+      "Popular",
+      "Per Hour",
+      "Up to 10 Guests",
+      "Captain & Crew Incl.",
+      "Soft Drinks Incl."
+    ],
+    "tags": [
+      "Couples & Small Groups",
+      "Premium Yachts - For Private Parties & Corporate Events",
+      "Entry Level",
+      "Popular"
+    ],
+    "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?w=800&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "56-65ft-yacht-team-offsites-family-parties",
+    "title": "56 - 65ft Yacht - Team Offsites & Family Parties",
+    "slug": "56-65ft-yacht-team-offsites-family-parties",
+    "description": "Comfortably hosts 19 - 30 guests - the sweet spot for birthdays, team offsites, and family celebrations that actually feel like a party. Sun deck, lounge seating, and optional BBQ or catering add-ons.",
+    "category": "Mid-Size Group Charter",
+    "destination": "UAE",
+    "price": "AED 899",
+    "priceValueAed": 899,
+    "duration": "",
+    "rating": "4.8",
+    "highlights": [
+      "Per Hour",
+      "19 - 30 Guests",
+      "BBQ Add-on Available",
+      "Sound System"
+    ],
+    "badges": [
+      "Team Offsites",
+      "Mid-Size"
+    ],
+    "vipFeatures": [
+      "Team Offsites",
+      "Mid-Size",
+      "Per Hour",
+      "19 - 30 Guests",
+      "BBQ Add-on Available",
+      "Sound System"
+    ],
+    "tags": [
+      "Mid-Size Group Charter",
+      "Premium Yachts - For Private Parties & Corporate Events",
+      "Team Offsites",
+      "Mid-Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "71-88ft-yacht-floating-estate-for-corporate-events",
+    "title": "71 - 88ft Yacht - Floating Estate for Corporate Events",
+    "slug": "71-88ft-yacht-floating-estate-for-corporate-events",
+    "description": "Expanded lounges, larger sun decks, and richer finishes - built to host 30 - 65 guests for serious corporate hospitality, product launches, or milestone celebrations on the water.",
+    "category": "Premium Corporate Charter",
+    "destination": "UAE",
+    "price": "AED 1,400",
+    "priceValueAed": 1400,
+    "duration": "",
+    "rating": "4.9",
+    "highlights": [
+      "Per Hour",
+      "30 - 65 Guests",
+      "Premium Catering",
+      "AV/Presentation Ready"
+    ],
+    "badges": [
+      "Corporate",
+      "Premium"
+    ],
+    "vipFeatures": [
+      "Corporate",
+      "Premium",
+      "Per Hour",
+      "30 - 65 Guests",
+      "Premium Catering",
+      "AV/Presentation Ready"
+    ],
+    "tags": [
+      "Premium Corporate Charter",
+      "Premium Yachts - For Private Parties & Corporate Events",
+      "Corporate",
+      "Premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "100ft-superyacht-vip-large-scale-events",
+    "title": "100ft+ Superyacht - VIP & Large-Scale Events",
+    "slug": "100ft-superyacht-vip-large-scale-events",
+    "description": "Multi-deck superyachts with cinema-grade sound, VIP lounges, and full chef setups - the kind of private floating venue reserved for milestone corporate galas, weddings, or VIP entertaining at the highest level.",
+    "category": "Ultra-Premium Showpiece",
+    "destination": "UAE",
+    "price": "AED 8,000",
+    "priceValueAed": 8000,
+    "duration": "",
+    "rating": "4.9",
+    "highlights": [
+      "Per Hour",
+      "65+ Guests",
+      "Private Chef Available",
+      "Full AV & Cinema"
+    ],
+    "badges": [
+      "Ultra-Premium",
+      "VIP"
+    ],
+    "vipFeatures": [
+      "Ultra-Premium",
+      "VIP",
+      "Per Hour",
+      "65+ Guests",
+      "Private Chef Available",
+      "Full AV & Cinema"
+    ],
+    "tags": [
+      "Ultra-Premium Showpiece",
+      "Premium Yachts - For Private Parties & Corporate Events",
+      "Ultra-Premium",
+      "VIP"
+    ],
+    "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "executive-sedan-limousine",
+    "title": "Executive Sedan Limousine",
+    "slug": "executive-sedan-limousine",
+    "description": "A premium sedan with a professional, uniformed chauffeur - discreet, punctual, and built for business travel, hotel transfers, or simply arriving in quiet comfort. RTA-licensed and fully insured.",
+    "category": "Business & Airport Transfer",
+    "destination": "UAE",
+    "price": "AED 399",
+    "priceValueAed": 399,
+    "duration": "",
+    "rating": "4.8",
+    "highlights": [
+      "Hourly or Point-to-Point",
+      "RTA-Licensed Chauffeur",
+      "Luggage Assistance",
+      "24/7 Availability"
+    ],
+    "badges": [
+      "Executive",
+      "Most Booked"
+    ],
+    "vipFeatures": [
+      "Executive",
+      "Most Booked",
+      "Hourly or Point-to-Point",
+      "RTA-Licensed Chauffeur",
+      "Luggage Assistance",
+      "24/7 Availability"
+    ],
+    "tags": [
+      "Business & Airport Transfer",
+      "Limousine Premium - Arrive Like You Mean It",
+      "Executive",
+      "Most Booked"
+    ],
+    "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "stretch-limousine-weddings-celebrations",
+    "title": "Stretch Limousine - Weddings & Celebrations",
+    "slug": "stretch-limousine-weddings-celebrations",
+    "description": "The classic stretch limousine - leather salon interior, mood lighting, and a spacious cabin built for bridal parties, anniversaries, and milestone celebrations across Dubai's most photogenic backdrops.",
+    "category": "Wedding & Event Limousine",
+    "destination": "UAE",
+    "price": "AED 650",
+    "priceValueAed": 650,
+    "duration": "3 Hours",
+    "rating": "4.7",
+    "highlights": [
+      "Min. 3 Hours",
+      "Wedding Decor Available",
+      "Minibar Onboard",
+      "Photo-Ready Styling"
+    ],
+    "badges": [
+      "Weddings",
+      "Premium"
+    ],
+    "vipFeatures": [
+      "Weddings",
+      "Premium",
+      "Min. 3 Hours",
+      "Wedding Decor Available",
+      "Minibar Onboard",
+      "Photo-Ready Styling"
+    ],
+    "tags": [
+      "Wedding & Event Limousine",
+      "Limousine Premium - Arrive Like You Mean It",
+      "Weddings",
+      "Premium"
+    ],
+    "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "premium-suv-8-seater-limousine",
+    "title": "Premium SUV / 8-Seater Limousine",
+    "slug": "premium-suv-8-seater-limousine",
+    "description": "An elevated SUV-class limousine seating up to 10 - privacy partitions, premium audio, and the legroom your group actually needs. Ideal for families, small corporate groups, or VIP guest transport.",
+    "category": "Group & Family Travel",
+    "destination": "UAE",
+    "price": "AED 499",
+    "priceValueAed": 499,
+    "duration": "",
+    "rating": "4.6",
+    "highlights": [
+      "Hourly or Half-Day",
+      "Up to 10 Seats",
+      "Privacy Partition",
+      "Premium Audio"
+    ],
+    "badges": [
+      "Group Travel"
+    ],
+    "vipFeatures": [
+      "Group Travel",
+      "Hourly or Half-Day",
+      "Up to 10 Seats",
+      "Privacy Partition",
+      "Premium Audio"
+    ],
+    "tags": [
+      "Group & Family Travel",
+      "Limousine Premium - Arrive Like You Mean It",
+      "Group Travel"
+    ],
+    "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "dubai-airport-meet-greet-transfer",
+    "title": "Dubai Airport Meet & Greet Transfer",
+    "slug": "dubai-airport-meet-greet-transfer",
+    "description": "A chauffeur with a name board waiting inside the terminal, luggage assistance, and a direct ride to your hotel in a premium sedan or SUV. The first impression of your UAE holiday, handled properly.",
+    "category": "Premium Arrival Service",
+    "destination": "UAE",
+    "price": "AED 150",
+    "priceValueAed": 150,
+    "duration": "",
+    "rating": "4.8",
+    "highlights": [
+      "Flight Tracking Included",
+      "Meet & Greet",
+      "Sedan or SUV",
+      "24/7 Service"
+    ],
+    "badges": [
+      "Bestseller",
+      "Most Booked"
+    ],
+    "vipFeatures": [
+      "Bestseller",
+      "Most Booked",
+      "Flight Tracking Included",
+      "Meet & Greet",
+      "Sedan or SUV",
+      "24/7 Service"
+    ],
+    "tags": [
+      "Premium Arrival Service",
+      "Premium Ground Transfers - Buses, Cars & Vans Across the UAE",
+      "Bestseller",
+      "Most Booked"
+    ],
+    "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "inter-emirate-day-tour-transfer",
+    "title": "Inter-Emirate Day Tour Transfer",
+    "slug": "inter-emirate-day-tour-transfer",
+    "description": "A dedicated vehicle and driver for a full day covering Dubai to Abu Dhabi, Sharjah, Fujairah, or Ras Al Khaimah and back - flexible stops, your schedule, no rushing between sights.",
+    "category": "Multi-City Private Transport",
+    "destination": "UAE",
+    "price": "AED 550",
+    "priceValueAed": 550,
+    "duration": "Full Day",
+    "rating": "4.6",
+    "highlights": [
+      "Full Day (8 - 10 Hours)",
+      "Multi-Emirate Routes",
+      "Sedan to Coach Available",
+      "English-Speaking Driver"
+    ],
+    "badges": [
+      "Flexible"
+    ],
+    "vipFeatures": [
+      "Flexible",
+      "Full Day (8 - 10 Hours)",
+      "Multi-Emirate Routes",
+      "Sedan to Coach Available",
+      "English-Speaking Driver"
+    ],
+    "tags": [
+      "Multi-City Private Transport",
+      "Premium Ground Transfers - Buses, Cars & Vans Across the UAE",
+      "Flexible"
+    ],
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "corporate-event-mice-transport",
+    "title": "Corporate Event & MICE Transport",
+    "slug": "corporate-event-mice-transport",
+    "description": "End-to-end transport coordination for conferences, incentive groups, and corporate events - multiple vehicles, synchronised pickup schedules, and a single point of contact for the entire group's movement.",
+    "category": "Group & Conference Logistics",
+    "destination": "UAE",
+    "price": "AED 950",
+    "priceValueAed": 950,
+    "duration": "",
+    "rating": "4.7",
+    "highlights": [
+      "Custom Scheduling",
+      "Multi-Vehicle Fleets",
+      "Dedicated Coordinator",
+      "Corporate Billing"
+    ],
+    "badges": [
+      "MICE",
+      "Corporate"
+    ],
+    "vipFeatures": [
+      "MICE",
+      "Corporate",
+      "Custom Scheduling",
+      "Multi-Vehicle Fleets",
+      "Dedicated Coordinator",
+      "Corporate Billing"
+    ],
+    "tags": [
+      "Group & Conference Logistics",
+      "Premium Ground Transfers - Buses, Cars & Vans Across the UAE",
+      "MICE",
+      "Corporate"
+    ],
+    "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "sunrise-desert-balloon-flight-bedouin-breakfast",
+    "title": "Sunrise Desert Balloon Flight + Bedouin Breakfast",
+    "slug": "sunrise-desert-balloon-flight-bedouin-breakfast",
+    "description": "Rise 4,000 feet above the Dubai Desert Conservation Reserve as the sun clears the dunes, drifting silently for 45 - 60 minutes over camels, oryx, and gazelles. Land to a gourmet Arabian breakfast at a traditional Bedouin camp, with falconry demonstrations.",
+    "category": "Classic Sunrise Experience",
+    "destination": "UAE",
+    "price": "AED 649",
+    "priceValueAed": 649,
+    "duration": "5 Hours",
+    "rating": "4.9",
+    "highlights": [
+      "~5 Hours Door-to-Door",
+      "Sunrise Departure",
+      "Breakfast Included",
+      "Falconry Show"
+    ],
+    "badges": [
+      "Bestseller",
+      "Bucket List"
+    ],
+    "vipFeatures": [
+      "Bestseller",
+      "Bucket List",
+      "~5 Hours Door-to-Door",
+      "Sunrise Departure",
+      "Breakfast Included",
+      "Falconry Show"
+    ],
+    "tags": [
+      "Classic Sunrise Experience",
+      "Hot Air Balloon - The Desert as the Sun First Sees It",
+      "Bestseller",
+      "Bucket List"
+    ],
+    "image": "https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?w=800&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "premium-balloon-flight-camel-ride",
+    "title": "Premium Balloon Flight + Camel Ride",
+    "slug": "premium-balloon-flight-camel-ride",
+    "description": "The full desert morning - a balloon flight, followed by a guided camel ride through the dunes, then breakfast beneath the open sky. A complete Arabian morning, built for first-time UAE visitors and honeymooners alike.",
+    "category": "Deluxe Desert Package",
+    "destination": "UAE",
+    "price": "AED 949",
+    "priceValueAed": 949,
+    "duration": "5.5 Hours",
+    "rating": "4.8",
+    "highlights": [
+      "~5.5 Hours",
+      "Camel Ride Included",
+      "Gourmet Breakfast",
+      "Professional Photos"
+    ],
+    "badges": [
+      "Deluxe",
+      "Honeymoon"
+    ],
+    "vipFeatures": [
+      "Deluxe",
+      "Honeymoon",
+      "~5.5 Hours",
+      "Camel Ride Included",
+      "Gourmet Breakfast",
+      "Professional Photos"
+    ],
+    "tags": [
+      "Deluxe Desert Package",
+      "Hot Air Balloon - The Desert as the Sun First Sees It",
+      "Deluxe",
+      "Honeymoon"
+    ],
+    "image": "https://images.unsplash.com/photo-1473625247510-8ceb1760943f?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "private-balloon-charter-proposals-exclusive-flights",
+    "title": "Private Balloon Charter - Proposals & Exclusive Flights",
+    "slug": "private-balloon-charter-proposals-exclusive-flights",
+    "description": "Your own dedicated balloon and pilot - no sharing the basket with strangers. The definitive setting for marriage proposals, anniversaries, or simply a flight on your own schedule with total privacy.",
+    "category": "Exclusive Private Flight",
+    "destination": "UAE",
+    "price": "AED 2,800",
+    "priceValueAed": 2800,
+    "duration": "60 Min",
+    "rating": "4.9",
+    "highlights": [
+      "~60 Min Flight",
+      "Proposal-Ready",
+      "Private Pilot",
+      "Champagne Option"
+    ],
+    "badges": [
+      "Private",
+      "Romantic"
+    ],
+    "vipFeatures": [
+      "Private",
+      "Romantic",
+      "~60 Min Flight",
+      "Proposal-Ready",
+      "Private Pilot",
+      "Champagne Option"
+    ],
+    "tags": [
+      "Exclusive Private Flight",
+      "Hot Air Balloon - The Desert as the Sun First Sees It",
+      "Private",
+      "Romantic"
+    ],
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "the-iconic-tour-12-minutes",
+    "title": "The Iconic Tour - 12 Minutes",
+    "slug": "the-iconic-tour-12-minutes",
+    "description": "The essential Dubai flyover: Palm Jumeirah, Atlantis The Palm, and the sail-shaped Burj Al Arab from above. The perfect introduction to aerial Dubai for first-time visitors or those on a tighter budget.",
+    "category": "Shared Helicopter Flight",
+    "destination": "UAE",
+    "price": "AED 649",
+    "priceValueAed": 649,
+    "duration": "12 Min",
+    "rating": "4.7",
+    "highlights": [
+      "12 Minutes",
+      "Shared Flight",
+      "Window Seat Guaranteed",
+      "Palm Jumeirah & Burj Al Arab"
+    ],
+    "badges": [
+      "Most Booked",
+      "Budget-Friendly"
+    ],
+    "vipFeatures": [
+      "Most Booked",
+      "Budget-Friendly",
+      "12 Minutes",
+      "Shared Flight",
+      "Window Seat Guaranteed",
+      "Palm Jumeirah & Burj Al Arab"
+    ],
+    "tags": [
+      "Shared Helicopter Flight",
+      "Helicopter Rides - Dubai's Skyline From a Pilot's Seat",
+      "Most Booked",
+      "Budget-Friendly"
+    ],
+    "image": "https://images.unsplash.com/photo-1583266138959-0e1f9d83f5bc?w=800&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "the-palm-tour-17-minutes",
+    "title": "The Palm Tour - 17 Minutes",
+    "slug": "the-palm-tour-17-minutes",
+    "description": "Extends the Iconic route to include Downtown Dubai and the Burj Khalifa - a closer, more detailed look at the city's modern skyline alongside the coastal landmarks of the first tour.",
+    "category": "Shared Helicopter Flight",
+    "destination": "UAE",
+    "price": "AED 799",
+    "priceValueAed": 799,
+    "duration": "17 Min",
+    "rating": "4.8",
+    "highlights": [
+      "17 Minutes",
+      "Shared Flight",
+      "Includes Burj Khalifa",
+      "Downtown + Coastline"
+    ],
+    "badges": [
+      "Popular"
+    ],
+    "vipFeatures": [
+      "Popular",
+      "17 Minutes",
+      "Shared Flight",
+      "Includes Burj Khalifa",
+      "Downtown + Coastline"
+    ],
+    "tags": [
+      "Shared Helicopter Flight",
+      "Helicopter Rides - Dubai's Skyline From a Pilot's Seat",
+      "Popular"
+    ],
+    "image": "https://images.unsplash.com/photo-1568454537842-d933259bb258?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "the-grand-tour-30-minutes",
+    "title": "The Grand Tour - 30 Minutes",
+    "slug": "the-grand-tour-30-minutes",
+    "description": "The complete aerial story of Dubai - World Islands, Dubai Creek, the entire coastline, and inland development. For photographers, repeat visitors, and anyone who wants the full picture, not just the highlights.",
+    "category": "Extended Shared Flight",
+    "destination": "UAE",
+    "price": "AED 1,299",
+    "priceValueAed": 1299,
+    "duration": "30 Min",
+    "rating": "4.8",
+    "highlights": [
+      "30 Minutes",
+      "Shared Flight",
+      "World Islands & Creek",
+      "Best for Photography"
+    ],
+    "badges": [
+      "Extended",
+      "Photography"
+    ],
+    "vipFeatures": [
+      "Extended",
+      "Photography",
+      "30 Minutes",
+      "Shared Flight",
+      "World Islands & Creek",
+      "Best for Photography"
+    ],
+    "tags": [
+      "Extended Shared Flight",
+      "Helicopter Rides - Dubai's Skyline From a Pilot's Seat",
+      "Extended",
+      "Photography"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "private-helicopter-charter-proposals-vip",
+    "title": "Private Helicopter Charter - Proposals & VIP",
+    "slug": "private-helicopter-charter-proposals-vip",
+    "description": "The entire helicopter reserved for your group only - no strangers, your own schedule, and an in-flight moment that can include a proposal, birthday celebration, or simply uninterrupted views with people you choose.",
+    "category": "Exclusive Private Flight",
+    "destination": "UAE",
+    "price": "AED 4,400",
+    "priceValueAed": 4400,
+    "duration": "17 - 22 Min",
+    "rating": "4.9",
+    "highlights": [
+      "17 - 22 Minutes",
+      "Private Charter",
+      "Proposal-Ready",
+      "Up to 5 Guests"
+    ],
+    "badges": [
+      "Private",
+      "VIP"
+    ],
+    "vipFeatures": [
+      "Private",
+      "VIP",
+      "17 - 22 Minutes",
+      "Private Charter",
+      "Proposal-Ready",
+      "Up to 5 Guests"
+    ],
+    "tags": [
+      "Exclusive Private Flight",
+      "Helicopter Rides - Dubai's Skyline From a Pilot's Seat",
+      "Private",
+      "VIP"
+    ],
+    "image": "https://images.unsplash.com/photo-1583266138959-0e1f9d83f5bc?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "jet-ski-tour-burj-al-arab-atlantis",
+    "title": "Jet Ski Tour - Burj Al Arab & Atlantis",
+    "slug": "jet-ski-tour-burj-al-arab-atlantis",
+    "description": "Speed across the Gulf with the Burj Al Arab and Atlantis The Palm as your backdrop. Certified guides, photo and video included on most packages, suitable for first-timers and experienced riders alike.",
+    "category": "Jet Ski Adventure",
+    "destination": "UAE",
+    "price": "AED 165",
+    "priceValueAed": 165,
+    "duration": "30 - 60 Mins",
+    "rating": "4.8",
+    "highlights": [
+      "30 - 60 Mins",
+      "Photos Included",
+      "No License Needed"
+    ],
+    "badges": [
+      "Bestseller"
+    ],
+    "vipFeatures": [
+      "Bestseller",
+      "30 - 60 Mins",
+      "Photos Included",
+      "No License Needed"
+    ],
+    "tags": [
+      "Jet Ski Adventure",
+      "Water Sports - The Gulf at Full Throttle",
+      "Bestseller"
+    ],
+    "image": "https://images.unsplash.com/photo-1626253598966-f33eb47b75a3?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "parasailing-over-jbr-beach",
+    "title": "Parasailing Over JBR Beach",
+    "slug": "parasailing-over-jbr-beach",
+    "description": "Rise 250 metres above the Gulf, towed by speedboat, for panoramic views of the Palm, the Marina skyline, and JBR's beachfront from a totally different angle. Calm, scenic, and accessible to nearly everyone.",
+    "category": "Aerial Water Sport",
+    "destination": "UAE",
+    "price": "AED 280",
+    "priceValueAed": 280,
+    "duration": "1 Hour",
+    "rating": "4.7",
+    "highlights": [
+      "~1 Hour",
+      "Up to 250m High",
+      "Family-Friendly"
+    ],
+    "badges": [
+      "Scenic"
+    ],
+    "vipFeatures": [
+      "Scenic",
+      "~1 Hour",
+      "Up to 250m High",
+      "Family-Friendly"
+    ],
+    "tags": [
+      "Aerial Water Sport",
+      "Water Sports - The Gulf at Full Throttle",
+      "Scenic"
+    ],
+    "image": "https://images.unsplash.com/photo-1601024445121-e5b82f020549?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "flyboard-experience-jumeirah",
+    "title": "Flyboard Experience - Jumeirah",
+    "slug": "flyboard-experience-jumeirah",
+    "description": "Strap into a water-propelled jetpack and rocket above the surface like a superhero, fully guided by a certified instructor. The most photogenic, most talked-about water sport on this list.",
+    "category": "Extreme Water Sport",
+    "destination": "UAE",
+    "price": "AED 320",
+    "priceValueAed": 320,
+    "duration": "30 Min",
+    "rating": "4.6",
+    "highlights": [
+      "30 Minutes",
+      "Instructor-Guided",
+      "Burj Al Arab Views"
+    ],
+    "badges": [
+      "Extreme"
+    ],
+    "vipFeatures": [
+      "Extreme",
+      "30 Minutes",
+      "Instructor-Guided",
+      "Burj Al Arab Views"
+    ],
+    "tags": [
+      "Extreme Water Sport",
+      "Water Sports - The Gulf at Full Throttle",
+      "Extreme"
+    ],
+    "image": "https://images.unsplash.com/photo-1622457278943-580bb1c9d28e?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "self-drive-bbq-boat-day",
+    "title": "Self-Drive BBQ Boat Day",
+    "slug": "self-drive-bbq-boat-day",
+    "description": "A self-driveable BBQ pontoon boat for small groups - grill onboard, cruise at your own pace, and anchor wherever the view looks best. No license required, just a sense of adventure.",
+    "category": "Private Self-Drive Boat",
+    "destination": "UAE",
+    "price": "AED 640",
+    "priceValueAed": 640,
+    "duration": "1.5 Hours",
+    "rating": "4.7",
+    "highlights": [
+      "1.5 Hours",
+      "BBQ Equipment Incl.",
+      "No License Needed"
+    ],
+    "badges": [
+      "Unique"
+    ],
+    "vipFeatures": [
+      "Unique",
+      "1.5 Hours",
+      "BBQ Equipment Incl.",
+      "No License Needed"
+    ],
+    "tags": [
+      "Private Self-Drive Boat",
+      "Water Sports - The Gulf at Full Throttle",
+      "Unique"
+    ],
+    "image": "https://images.unsplash.com/photo-1540946485063-a40da27545f8?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "donut-ride-banana-boat",
+    "title": "Donut Ride / Banana Boat",
+    "slug": "donut-ride-banana-boat",
+    "description": "The classic group water sport - hold on tight as your inflatable donut or banana boat gets towed and flipped across the waves. The most laugh-out-loud activity in the whole lineup.",
+    "category": "Group Water Thrills",
+    "destination": "UAE",
+    "price": "AED 250",
+    "priceValueAed": 250,
+    "duration": "15 - 20 Mins",
+    "rating": "4.5",
+    "highlights": [
+      "15 - 20 Mins",
+      "Group Activity",
+      "Maximum Fun"
+    ],
+    "badges": [
+      "Group Fun"
+    ],
+    "vipFeatures": [
+      "Group Fun",
+      "15 - 20 Mins",
+      "Group Activity",
+      "Maximum Fun"
+    ],
+    "tags": [
+      "Group Water Thrills",
+      "Water Sports - The Gulf at Full Throttle",
+      "Group Fun"
+    ],
+    "image": "https://images.unsplash.com/photo-1530870110042-98b2cb110834?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "wakeboarding-dubai-marina",
+    "title": "Wakeboarding - Dubai Marina",
+    "slug": "wakeboarding-dubai-marina",
+    "description": "Carve across the wake behind a speedboat on the calm waters of Dubai Marina, with instructor guidance for beginners and full freedom for experienced riders.",
+    "category": "Technical Water Sport",
+    "destination": "UAE",
+    "price": "AED 300",
+    "priceValueAed": 300,
+    "duration": "30 Mins",
+    "rating": "4.6",
+    "highlights": [
+      "30 Mins",
+      "All Skill Levels",
+      "Instructor Available"
+    ],
+    "badges": [
+      "Technical"
+    ],
+    "vipFeatures": [
+      "Technical",
+      "30 Mins",
+      "All Skill Levels",
+      "Instructor Available"
+    ],
+    "tags": [
+      "Technical Water Sport",
+      "Water Sports - The Gulf at Full Throttle",
+      "Technical"
+    ],
+    "image": "https://images.unsplash.com/photo-1530053969600-caed2596d242?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "scuba-diving-snorkelling-fujairah-coast",
+    "title": "Scuba Diving & Snorkelling - Fujairah Coast",
+    "slug": "scuba-diving-snorkelling-fujairah-coast",
+    "description": "The UAE's only east-coast diving grounds - coral reefs, reef sharks, and turtles around Snoopy Island. PADI-certified instructors for beginners through to advanced divers.",
+    "category": "Marine Exploration",
+    "destination": "UAE",
+    "price": "AED 250",
+    "priceValueAed": 250,
+    "duration": "",
+    "rating": "4.8",
+    "highlights": [
+      "Half-Day",
+      "PADI Certified",
+      "Turtle Sightings Common"
+    ],
+    "badges": [
+      "Marine Life"
+    ],
+    "vipFeatures": [
+      "Marine Life",
+      "Half-Day",
+      "PADI Certified",
+      "Turtle Sightings Common"
+    ],
+    "tags": [
+      "Marine Exploration",
+      "Water Sports - The Gulf at Full Throttle",
+      "Marine Life"
+    ],
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "kayaking-dubai-water-canal-mangroves",
+    "title": "Kayaking - Dubai Water Canal & Mangroves",
+    "slug": "kayaking-dubai-water-canal-mangroves",
+    "description": "A quieter, more reflective water experience - paddle through the Dubai Water Canal or the mangrove channels of Jubail Island at your own pace, ideal for families and nature lovers.",
+    "category": "Calm Water Activity",
+    "destination": "UAE",
+    "price": "AED 150",
+    "priceValueAed": 150,
+    "duration": "1 - 2 Hours",
+    "rating": "4.6",
+    "highlights": [
+      "1 - 2 Hours",
+      "Mangrove Routes",
+      "Family-Friendly"
+    ],
+    "badges": [
+      "Nature"
+    ],
+    "vipFeatures": [
+      "Nature",
+      "1 - 2 Hours",
+      "Mangrove Routes",
+      "Family-Friendly"
+    ],
+    "tags": [
+      "Calm Water Activity",
+      "Water Sports - The Gulf at Full Throttle",
+      "Nature"
+    ],
+    "image": "https://images.unsplash.com/photo-1502933691298-84fc14542831?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "jais-flight-world-s-longest-zipline",
+    "title": "Jais Flight - World's Longest Zipline",
+    "slug": "jais-flight-world-s-longest-zipline",
+    "description": "The Guinness World Record holder: 2.83 kilometres of zipline at 1,680 metres above sea level, reaching speeds up to 160 km/h. Three minutes of superhero-grade flight across the Hajar Mountains - the most dramatic ride in the UAE.",
+    "category": "Jebel Jais, Ras Al Khaimah",
+    "destination": "UAE",
+    "price": "AED 650",
+    "priceValueAed": 650,
+    "duration": "3 Min",
+    "rating": "4.9",
+    "highlights": [
+      "2.83 km - World Record",
+      "Up to 160 km/h",
+      "~3 Min Flight Time",
+      "Closed in Peak Summer"
+    ],
+    "badges": [
+      "World Record",
+      "Bucket List"
+    ],
+    "vipFeatures": [
+      "World Record",
+      "Bucket List",
+      "2.83 km - World Record",
+      "Up to 160 km/h",
+      "~3 Min Flight Time",
+      "Closed in Peak Summer"
+    ],
+    "tags": [
+      "Jebel Jais, Ras Al Khaimah",
+      "Zipline - From Mountain Peaks to City Skylines",
+      "World Record",
+      "Bucket List"
+    ],
+    "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "jais-sky-tour-6-line-mountain-circuit",
+    "title": "Jais Sky Tour - 6-Line Mountain Circuit",
+    "slug": "jais-sky-tour-6-line-mountain-circuit",
+    "description": "A self-guided circuit of six consecutive ziplines covering 5 kilometres of canyon terrain at speeds up to 60 km/h. For those who want the full mountain experience, not just one fast flight.",
+    "category": "Jebel Jais, Ras Al Khaimah",
+    "destination": "UAE",
+    "price": "AED 550",
+    "priceValueAed": 550,
+    "duration": "3 - 4 Hours",
+    "rating": "4.8",
+    "highlights": [
+      "5 km Total - 6 Lines",
+      "Up to 60 km/h",
+      "3 - 4 Hours",
+      "Canyon Terrain"
+    ],
+    "badges": [
+      "Full Circuit"
+    ],
+    "vipFeatures": [
+      "Full Circuit",
+      "5 km Total - 6 Lines",
+      "Up to 60 km/h",
+      "3 - 4 Hours",
+      "Canyon Terrain"
+    ],
+    "tags": [
+      "Jebel Jais, Ras Al Khaimah",
+      "Zipline - From Mountain Peaks to City Skylines",
+      "Full Circuit"
+    ],
+    "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "xline-dubai-marina-urban-zipline",
+    "title": "XLine Dubai Marina - Urban Zipline",
+    "slug": "xline-dubai-marina-urban-zipline",
+    "description": "The world's longest urban zipline - launched from a 170-metre tower, soaring above Dubai Marina's promenade and JBR beach at speeds up to 80 km/h. Skyscraper-level adrenaline in the heart of the city.",
+    "category": "Dubai Marina, Skydive Dubai",
+    "destination": "UAE",
+    "price": "AED 600",
+    "priceValueAed": 600,
+    "duration": "1.5 Min",
+    "rating": "4.7",
+    "highlights": [
+      "1 km - Urban Record",
+      "Up to 80 km/h",
+      "~1.5 Min Flight",
+      "City Skyline Views"
+    ],
+    "badges": [
+      "Urban Record",
+      "Year-Round"
+    ],
+    "vipFeatures": [
+      "Urban Record",
+      "Year-Round",
+      "1 km - Urban Record",
+      "Up to 80 km/h",
+      "~1.5 Min Flight",
+      "City Skyline Views"
+    ],
+    "tags": [
+      "Dubai Marina, Skydive Dubai",
+      "Zipline - From Mountain Peaks to City Skylines",
+      "Urban Record",
+      "Year-Round"
+    ],
+    "image": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "classic-evening-desert-safari-with-bbq-dinner",
+    "title": "Classic Evening Desert Safari with BBQ Dinner",
+    "slug": "classic-evening-desert-safari-with-bbq-dinner",
+    "description": "The quintessential Dubai evening: 4 4 dune bashing across the red sands of Lahbab at golden hour, a stop atop the highest dune for sunset photos, then a traditional Bedouin camp with camel rides, henna, shisha, Tanoura and belly dance shows, and an Arabic-international BBQ buffet under the stars.",
+    "category": "Evening Safari, Lahbab Red Dunes",
+    "destination": "UAE",
+    "price": "AED 99",
+    "priceValueAed": 99,
+    "duration": "6 - 7 Hours",
+    "rating": "4.7",
+    "highlights": [
+      "6 - 7 Hours",
+      "BBQ Buffet Incl.",
+      "Camel Ride Incl.",
+      "Live Shows"
+    ],
+    "badges": [
+      "Bestseller",
+      "Signature Experience"
+    ],
+    "vipFeatures": [
+      "Bestseller",
+      "Signature Experience",
+      "6 - 7 Hours",
+      "BBQ Buffet Incl.",
+      "Camel Ride Incl.",
+      "Live Shows"
+    ],
+    "tags": [
+      "Evening Safari, Lahbab Red Dunes",
+      "Desert Safari - The Sands After the City Sleeps",
+      "Bestseller",
+      "Signature Experience"
+    ],
+    "image": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=800&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "premium-safari-quad-bike-dune-buggy-add-on",
+    "title": "Premium Safari - Quad Bike & Dune Buggy Add-On",
+    "slug": "premium-safari-quad-bike-dune-buggy-add-on",
+    "description": "Everything in the Classic Safari, upgraded with a 30-minute quad bike ride across the dunes and the option to add a dune buggy session - for travellers who want the adrenaline to match the scenery.",
+    "category": "Premium Safari, Lahbab Red Dunes",
+    "destination": "UAE",
+    "price": "AED 499",
+    "priceValueAed": 499,
+    "duration": "7 Hours",
+    "rating": "4.8",
+    "highlights": [
+      "7 Hours",
+      "Quad Bike Incl.",
+      "BBQ Buffet Incl.",
+      "Live Shows"
+    ],
+    "badges": [
+      "High Adrenaline"
+    ],
+    "vipFeatures": [
+      "High Adrenaline",
+      "7 Hours",
+      "Quad Bike Incl.",
+      "BBQ Buffet Incl.",
+      "Live Shows"
+    ],
+    "tags": [
+      "Premium Safari, Lahbab Red Dunes",
+      "Desert Safari - The Sands After the City Sleeps",
+      "High Adrenaline"
+    ],
+    "image": "https://images.unsplash.com/photo-1473625247510-8ceb1760943f?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "overnight-desert-safari-sleep-under-the-stars",
+    "title": "Overnight Desert Safari - Sleep Under the Stars",
+    "slug": "overnight-desert-safari-sleep-under-the-stars",
+    "description": "An 18-hour immersion: dune bashing, camel rides, BBQ dinner and entertainment, then sleeping in a real Bedouin tent on a Nawar bed - followed by a sunrise camel trek and Arabian breakfast before your hotel drop-off.",
+    "category": "Overnight Safari, Bedouin Camp",
+    "destination": "UAE",
+    "price": "AED 716",
+    "priceValueAed": 716,
+    "duration": "18 Hours",
+    "rating": "4.9",
+    "highlights": [
+      "~18 Hours",
+      "Tent Stay Incl.",
+      "Sunrise Trek",
+      "Breakfast Incl."
+    ],
+    "badges": [
+      "Overnight",
+      "Bucket List"
+    ],
+    "vipFeatures": [
+      "Overnight",
+      "Bucket List",
+      "~18 Hours",
+      "Tent Stay Incl.",
+      "Sunrise Trek",
+      "Breakfast Incl."
+    ],
+    "tags": [
+      "Overnight Safari, Bedouin Camp",
+      "Desert Safari - The Sands After the City Sleeps",
+      "Overnight",
+      "Bucket List"
+    ],
+    "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "morning-desert-safari-dunes-before-the-heat",
+    "title": "Morning Desert Safari - Dunes Before the Heat",
+    "slug": "morning-desert-safari-dunes-before-the-heat",
+    "description": "A 4-hour adventure timed for the cool morning hours: dune bashing, sandboarding, and a short camel ride, returning to your hotel before midday - ideal for travellers who want the thrill without sacrificing an entire evening.",
+    "category": "Morning Safari, Lahbab Red Dunes",
+    "destination": "UAE",
+    "price": "AED 149",
+    "priceValueAed": 149,
+    "duration": "4 Hours",
+    "rating": "4.5",
+    "highlights": [
+      "4 Hours",
+      "Sandboarding Incl.",
+      "Cooler Temps"
+    ],
+    "badges": [
+      "Cool Mornings"
+    ],
+    "vipFeatures": [
+      "Cool Mornings",
+      "4 Hours",
+      "Sandboarding Incl.",
+      "Cooler Temps"
+    ],
+    "tags": [
+      "Morning Safari, Lahbab Red Dunes",
+      "Desert Safari - The Sands After the City Sleeps",
+      "Cool Mornings"
+    ],
+    "image": "https://images.unsplash.com/photo-1583087253562-0fb2b07f0b3b?w=600&q=80",
+    "source": "premium-experiences.html"
+  },
+  {
+    "id": "private-desert-safari-your-own-land-cruiser-driver",
+    "title": "Private Desert Safari - Your Own Land Cruiser & Driver",
+    "slug": "private-desert-safari-your-own-land-cruiser-driver",
+    "description": "The full Classic Safari experience with no shared seating - your own 4 4, your own driver, and a separate private seating area at the Bedouin camp. The choice for families, honeymooners, and anyone who prefers privacy over the shared-vehicle crowd.",
+    "category": "Private Safari, Exclusive Vehicle",
+    "destination": "UAE",
+    "price": "AED 799",
+    "priceValueAed": 799,
+    "duration": "6 - 7 Hours",
+    "rating": "4.9",
+    "highlights": [
+      "6 - 7 Hours",
+      "Private Vehicle",
+      "Up to 6 Guests",
+      "BBQ Buffet Incl."
+    ],
+    "badges": [
+      "Private",
+      "VIP"
+    ],
+    "vipFeatures": [
+      "Private",
+      "VIP",
+      "6 - 7 Hours",
+      "Private Vehicle",
+      "Up to 6 Guests",
+      "BBQ Buffet Incl."
+    ],
+    "tags": [
+      "Private Safari, Exclusive Vehicle",
+      "Desert Safari - The Sands After the City Sleeps",
+      "Private",
+      "VIP"
+    ],
+    "image": "https://images.unsplash.com/photo-1602002418082-dd4a3f5b4992?w=600&q=80",
+    "source": "premium-experiences.html"
+  }
+]

@@ -1183,5 +1183,149 @@
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
     "ip": "::ffff:127.0.0.1",
     "createdAt": "2026-06-22T05:38:57.288Z"
+  },
+  {
+    "id": "sig_1782195362527_631826286",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "5 visits",
+    "page": "/",
+    "value": 5,
+    "metadata": {
+      "visitCount": 5
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:16:02.527Z"
+  },
+  {
+    "id": "sig_1782195362537_917302531",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:16:02.537Z"
+  },
+  {
+    "id": "sig_1782195362542_9216104",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "6 visits",
+    "page": "/",
+    "value": 6,
+    "metadata": {
+      "visitCount": 6
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:16:02.542Z"
+  },
+  {
+    "id": "sig_1782195362546_380248492",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:16:02.546Z"
+  },
+  {
+    "id": "sig_1782195391921_535831203",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/",
+    "value": 25,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:16:31.921Z"
+  },
+  {
+    "id": "sig_1782195396725_417303146",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/",
+    "value": 50,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:16:36.725Z"
+  },
+  {
+    "id": "sig_1782195400452_581618484",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/",
+    "value": 75,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:16:40.452Z"
+  },
+  {
+    "id": "sig_1782195402923_487091483",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "100% scroll depth",
+    "page": "/",
+    "value": 100,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:16:42.923Z"
+  },
+  {
+    "id": "sig_1782195407592_597572618",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "France",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "country": "Western Europe"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:16:47.592Z"
   }
 ]

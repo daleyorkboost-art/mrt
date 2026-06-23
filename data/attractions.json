@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "burj-khalifa-the-throne-of-the-sky",
+    "title": "Burj Khalifa - The Throne of the Sky",
+    "slug": "burj-khalifa-the-throne-of-the-sky",
+    "description": "Stand 555 metres above the Earth on Level 148 - the world's highest public observation deck. The city below is not a view. It's a revelation. Choose Level 124/125 for the classic experience, or ascend to the SKY for Arabic sweets in the clouds with a personal ambassador.",
+    "category": "Observation Deck",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 149",
+    "priceValueAed": 149,
+    "duration": "",
+    "rating": "4.9",
+    "highlights": [
+      "World's Tallest",
+      "Bestseller"
+    ],
+    "badges": [
+      "World's Tallest",
+      "Bestseller"
+    ],
+    "tags": [
+      "Observation Deck",
+      "Dubai - The City That Rewrote the Rulebook",
+      "World's Tallest",
+      "Bestseller"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "sky-views-observatory-the-glass-frontier",
+    "title": "Sky Views Observatory - The Glass Frontier",
+    "slug": "sky-views-observatory-the-glass-frontier",
+    "description": "219 metres up on the Address Sky View towers - slide down a transparent glass chute on the outside of a skyscraper. Dubai's most audacious view, its most daring ride.",
+    "category": "Observatory",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 89",
+    "priceValueAed": 89,
+    "duration": "",
+    "rating": "4.7",
+    "highlights": [
+      "Glass Slide"
+    ],
+    "badges": [
+      "Glass Slide"
+    ],
+    "tags": [
+      "Observatory",
+      "Dubai - The City That Rewrote the Rulebook",
+      "Glass Slide"
+    ],
+    "image": "https://images.unsplash.com/photo-1580674684089-426fc6e4c3e7?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "dubai-frame-a-city-captured-in-gold",
+    "title": "Dubai Frame - A City Captured in Gold",
+    "slug": "dubai-frame-a-city-captured-in-gold",
+    "description": "The world's largest picture frame: 150 metres of gilded steel straddling Old Dubai and New. The glass sky bridge shows you both Dubais at once - the fishing village and the megacity.",
+    "category": "Iconic Landmark",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 50",
+    "priceValueAed": 50,
+    "duration": "",
+    "rating": "4.5",
+    "highlights": [
+      "World's Largest Frame"
+    ],
+    "badges": [
+      "World's Largest Frame"
+    ],
+    "tags": [
+      "Iconic Landmark",
+      "Dubai - The City That Rewrote the Rulebook",
+      "World's Largest Frame"
+    ],
+    "image": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "ain-dubai-the-colossus-of-bluewaters",
+    "title": "Ain Dubai - The Colossus of Bluewaters",
+    "slug": "ain-dubai-the-colossus-of-bluewaters",
+    "description": "The world's tallest and largest observation wheel. 250 metres above Bluewaters Island, rotating slowly through the Arabian skyline. Gondolas with a Sky Bar, a lounge, and views that don't beg - they demand.",
+    "category": "Observation Wheel",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 130",
+    "priceValueAed": 130,
+    "duration": "",
+    "rating": "4.3",
+    "highlights": [
+      "World's Largest Wheel"
+    ],
+    "badges": [
+      "World's Largest Wheel"
+    ],
+    "tags": [
+      "Observation Wheel",
+      "Dubai - The City That Rewrote the Rulebook",
+      "World's Largest Wheel"
+    ],
+    "image": "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "img-worlds-of-adventure-the-universe-under-one-roof",
+    "title": "IMG Worlds of Adventure - The Universe Under One Roof",
+    "slug": "img-worlds-of-adventure-the-universe-under-one-roof",
+    "description": "28 million square feet of pure adrenaline: Marvel heroes, Cartoon Network villains, Haunted Hotel, and Dinosaur territory - all indoors, all day, all exhilarating.",
+    "category": "Theme Park",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 182",
+    "priceValueAed": 182,
+    "duration": "",
+    "rating": "4.4",
+    "highlights": [
+      "Largest Indoor Park",
+      "Family"
+    ],
+    "badges": [
+      "Largest Indoor Park",
+      "Family"
+    ],
+    "tags": [
+      "Theme Park",
+      "Dubai - The City That Rewrote the Rulebook",
+      "Largest Indoor Park",
+      "Family"
+    ],
+    "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "legoland-dubai-where-bricks-build-worlds",
+    "title": "Legoland Dubai - Where Bricks Build Worlds",
+    "slug": "legoland-dubai-where-bricks-build-worlds",
+    "description": "40 Lego-world rides for children aged 2 - 12, including a Lego Burj Khalifa, MINILAND with global landmarks, Build-A-Boat, and the Lego Racers ride that turns engineering into play.",
+    "category": "Theme Park",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 295",
+    "priceValueAed": 295,
+    "duration": "",
+    "rating": "4.5",
+    "highlights": [
+      "Kids Paradise"
+    ],
+    "badges": [
+      "Kids Paradise"
+    ],
+    "tags": [
+      "Theme Park",
+      "Dubai - The City That Rewrote the Rulebook",
+      "Kids Paradise"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "motiongate-dubai-hollywood-unleashed",
+    "title": "Motiongate Dubai - Hollywood Unleashed",
+    "slug": "motiongate-dubai-hollywood-unleashed",
+    "description": "The Middle East's only Hollywood-branded theme park: DreamWorks, Columbia Pictures, Lionsgate, Smurfs Village. The world's fastest single-car spinning rollercoaster is here.",
+    "category": "Theme Park",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 430",
+    "priceValueAed": 430,
+    "duration": "",
+    "rating": "4.6",
+    "highlights": [
+      "World's Fastest Spinning Coaster"
+    ],
+    "badges": [
+      "World's Fastest Spinning Coaster"
+    ],
+    "tags": [
+      "Theme Park",
+      "Dubai - The City That Rewrote the Rulebook",
+      "World's Fastest Spinning Coaster"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "ski-dubai-the-alpine-anomaly",
+    "title": "Ski Dubai - The Alpine Anomaly",
+    "slug": "ski-dubai-the-alpine-anomaly",
+    "description": "A ski slope inside a desert mall. Real snow. Real penguins. Real chairlifts. Five runs, a snow park, snowboarding, and a mountain at - 1 C when it's 45 C outside the window.",
+    "category": "Winter Experience",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 130",
+    "priceValueAed": 130,
+    "duration": "",
+    "rating": "4.5",
+    "highlights": [
+      "Indoor Snow"
+    ],
+    "badges": [
+      "Indoor Snow"
+    ],
+    "tags": [
+      "Winter Experience",
+      "Dubai - The City That Rewrote the Rulebook",
+      "Indoor Snow"
+    ],
+    "image": "https://images.unsplash.com/photo-1418985991508-e47386d96a71?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "aquaventure-world-the-waterpark-of-myths",
+    "title": "Aquaventure World - The Waterpark of Myths",
+    "slug": "aquaventure-world-the-waterpark-of-myths",
+    "description": "The world's largest waterpark at Atlantis The Palm. Plummeting tube slides, lazy rivers, private beach access, and the Lost World Aquarium - all inside one legendary Palmtop campus.",
+    "category": "Waterpark",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 575",
+    "priceValueAed": 575,
+    "duration": "",
+    "rating": "4.7",
+    "highlights": [
+      "30+ Rides"
+    ],
+    "badges": [
+      "30+ Rides"
+    ],
+    "tags": [
+      "Waterpark",
+      "Dubai - The City That Rewrote the Rulebook",
+      "30+ Rides"
+    ],
+    "image": "https://images.unsplash.com/photo-1559734840-f9509ee5677f?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "global-village-90-nations-in-one-night",
+    "title": "Global Village - 90 Nations in One Night",
+    "slug": "global-village-90-nations-in-one-night",
+    "description": "The world's leading multicultural festival destination: 90 country pavilions, 3,500 live performances, carnival rides, street food from every continent, and nights that don't end quietly.",
+    "category": "Cultural Festival",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 49",
+    "priceValueAed": 49,
+    "duration": "",
+    "rating": "4.6",
+    "highlights": [
+      "Oct - Apr Only"
+    ],
+    "badges": [
+      "Oct - Apr Only"
+    ],
+    "tags": [
+      "Cultural Festival",
+      "Dubai - The City That Rewrote the Rulebook",
+      "Oct - Apr Only"
+    ],
+    "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "museum-of-the-future-a-postcard-from-2071",
+    "title": "Museum of the Future - A Postcard from 2071",
+    "slug": "museum-of-the-future-a-postcard-from-2071",
+    "description": "The world's most beautiful building holds the world's most mind-expanding museum. Five floors of AI, robotics, sustainable cities, and healthcare in 2071 - interactive, immersive, and unlike anything you've ever experienced.",
+    "category": "Future Technology",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 155",
+    "priceValueAed": 155,
+    "duration": "",
+    "rating": "4.8",
+    "highlights": [
+      "Must-Visit 2026"
+    ],
+    "badges": [
+      "Must-Visit 2026"
+    ],
+    "tags": [
+      "Future Technology",
+      "Dubai - The City That Rewrote the Rulebook",
+      "Must-Visit 2026"
+    ],
+    "image": "https://images.unsplash.com/photo-1621516450261-d62db03c1882?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "dubai-miracle-garden-150-million-blooms",
+    "title": "Dubai Miracle Garden - 150 Million Blooms",
+    "slug": "dubai-miracle-garden-150-million-blooms",
+    "description": "150 million flowers sculpted into castles, aeroplanes, hearts, and peacocks across 72,000 sqm of impossible colour. The world's largest natural flower garden - in the heart of the desert.",
+    "category": "Garden Experience",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 45",
+    "priceValueAed": 45,
+    "duration": "",
+    "rating": "4.6",
+    "highlights": [
+      "Oct - May"
+    ],
+    "badges": [
+      "Oct - May"
+    ],
+    "tags": [
+      "Garden Experience",
+      "Dubai - The City That Rewrote the Rulebook",
+      "Oct - May"
+    ],
+    "image": "https://images.unsplash.com/photo-1553280455-ab1c04a83e38?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "dubai-aquarium-underwater-zoo-the-shark-corridor",
+    "title": "Dubai Aquarium & Underwater Zoo - The Shark Corridor",
+    "slug": "dubai-aquarium-underwater-zoo-the-shark-corridor",
+    "description": "33,000 aquatic animals - including 400 sharks and rays - behind a 10-metre acrylic viewing panel. The world's largest suspended aquarium, where penguins waddle at Penguin Cove and you walk through tunnels of tiger sharks.",
+    "category": "Marine World",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 160",
+    "priceValueAed": 160,
+    "duration": "",
+    "rating": "4.5",
+    "highlights": [
+      "World's Largest Suspended Aquarium"
+    ],
+    "badges": [
+      "World's Largest Suspended Aquarium"
+    ],
+    "tags": [
+      "Marine World",
+      "Dubai - The City That Rewrote the Rulebook",
+      "World's Largest Suspended Aquarium"
+    ],
+    "image": "https://images.unsplash.com/photo-1563298723-dcfebaa392e3?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "lost-world-aquarium-the-deep-reborn",
+    "title": "Lost World Aquarium - The Deep Reborn",
+    "slug": "lost-world-aquarium-the-deep-reborn",
+    "description": "Atlantis reimagined: 430 new marine animals across 19 habitats, live mermaids, the Interactive Trident, and projection-mapped oceanic storytelling. Brighter, bolder, and more breathtaking than before.",
+    "category": "Aquarium",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 95",
+    "priceValueAed": 95,
+    "duration": "",
+    "rating": "4.6",
+    "highlights": [
+      "Atlantis",
+      "Reborn 2025"
+    ],
+    "badges": [
+      "Atlantis",
+      "Reborn 2025"
+    ],
+    "tags": [
+      "Aquarium",
+      "Dubai - The City That Rewrote the Rulebook",
+      "Atlantis",
+      "Reborn 2025"
+    ],
+    "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "the-green-planet-a-rainforest-rises-in-dubai",
+    "title": "The Green Planet - A Rainforest Rises in Dubai",
+    "slug": "the-green-planet-a-rainforest-rises-in-dubai",
+    "description": "A four-storey bio-dome in City Walk housing 3,000 tropical plants and 500 animals - sloths, toucans, piranhas, and tree frogs - in a self-sustaining ecosystem. Dubai's most surprising secret.",
+    "category": "Nature Dome",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 119",
+    "priceValueAed": 119,
+    "duration": "",
+    "rating": "4.6",
+    "highlights": [
+      "Tropical Ecosystem"
+    ],
+    "badges": [
+      "Tropical Ecosystem"
+    ],
+    "tags": [
+      "Nature Dome",
+      "Dubai - The City That Rewrote the Rulebook",
+      "Tropical Ecosystem"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "dubai-desert-safari-the-sands-after-sundown",
+    "title": "Dubai Desert Safari - The Sands After Sundown",
+    "slug": "dubai-desert-safari-the-sands-after-sundown",
+    "description": "4 4 dune bashing across red sand seas at spine-tingling angles, camel rides, traditional Arabic camp, BBQ spread, belly dance, tanoura whirl, and stargazing. The quintessential Dubai evening - all in one unforgettable package.",
+    "category": "Desert Experience",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 180",
+    "priceValueAed": 180,
+    "duration": "",
+    "rating": "4.7",
+    "highlights": [
+      "Signature Dubai Night",
+      "Bestseller"
+    ],
+    "badges": [
+      "Signature Dubai Night",
+      "Bestseller"
+    ],
+    "tags": [
+      "Desert Experience",
+      "Dubai - The City That Rewrote the Rulebook",
+      "Signature Dubai Night",
+      "Bestseller"
+    ],
+    "image": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=700&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "aya-universe-where-art-becomes-gravity",
+    "title": "AYA Universe - Where Art Becomes Gravity",
+    "slug": "aya-universe-where-art-becomes-gravity",
+    "description": "An immersive world of 13 interconnected realms: light tunnels, infinity mirrors, floating jellyfish, digital waterfalls, and glitch forests. Not a gallery. A dimension shift inside a mall on Al Quoz.",
+    "category": "Immersive Art",
+    "destination": "Dubai - The City That Rewrote the Rulebook",
+    "price": "AED 95",
+    "priceValueAed": 95,
+    "duration": "",
+    "rating": "4.4",
+    "highlights": [
+      "Interactive"
+    ],
+    "badges": [
+      "Interactive"
+    ],
+    "tags": [
+      "Immersive Art",
+      "Dubai - The City That Rewrote the Rulebook",
+      "Interactive"
+    ],
+    "image": "https://images.unsplash.com/photo-1614579588827-f0cace5d3e6d?w=700&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "ferrari-world-abu-dhabi-the-temple-of-speed",
+    "title": "Ferrari World Abu Dhabi - The Temple of Speed",
+    "slug": "ferrari-world-abu-dhabi-the-temple-of-speed",
+    "description": "The world's largest Ferrari-branded theme park under the world's largest space frame roof. Formula Rossa hits 240 km/h - making it the world's fastest rollercoaster. 40+ heart-stopping attractions pay tribute to the most iconic car brand on earth. One day is not enough.",
+    "category": "Theme Park",
+    "destination": "Abu Dhabi - The Capital of Controlled Magnificence",
+    "price": "AED 345",
+    "priceValueAed": 345,
+    "duration": "",
+    "rating": "4.7",
+    "highlights": [
+      "Formula Rossa: 0 - 240 in 5 sec",
+      "World's Fastest Coaster"
+    ],
+    "badges": [
+      "Formula Rossa: 0 - 240 in 5 sec",
+      "World's Fastest Coaster"
+    ],
+    "tags": [
+      "Theme Park",
+      "Abu Dhabi - The Capital of Controlled Magnificence",
+      "Formula Rossa: 0 - 240 in 5 sec",
+      "World's Fastest Coaster"
+    ],
+    "image": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=700&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "warner-bros-world-gotham-meets-bedrock",
+    "title": "Warner Bros. World - Gotham Meets Bedrock",
+    "slug": "warner-bros-world-gotham-meets-bedrock",
+    "description": "The world's first Warner Bros. indoor theme park: 29 rides across Gotham City, Metropolis, Cartoon Junction, Bedrock, and Dynamite Gulch. Batman, Superman, Bugs Bunny, and the Flintstones - all in a day.",
+    "category": "Theme Park",
+    "destination": "Abu Dhabi - The Capital of Controlled Magnificence",
+    "price": "AED 345",
+    "priceValueAed": 345,
+    "duration": "",
+    "rating": "4.6",
+    "highlights": [
+      "DC & Looney Tunes"
+    ],
+    "badges": [
+      "DC & Looney Tunes"
+    ],
+    "tags": [
+      "Theme Park",
+      "Abu Dhabi - The Capital of Controlled Magnificence",
+      "DC & Looney Tunes"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "yas-waterworld-a-thousand-splashes",
+    "title": "Yas Waterworld - A Thousand Splashes",
+    "slug": "yas-waterworld-a-thousand-splashes",
+    "description": "43 rides, slides, and water experiences inspired by Emirati pearl diving traditions. The Dawwama is a 238m family mega-slide. The FlowBarrel is the UAE's only surf simulator for serious wave-chasers.",
+    "category": "Waterpark",
+    "destination": "Abu Dhabi - The Capital of Controlled Magnificence",
+    "price": "AED 295",
+    "priceValueAed": 295,
+    "duration": "",
+    "rating": "4.6",
+    "highlights": [
+      "Water Thrills"
+    ],
+    "badges": [
+      "Water Thrills"
+    ],
+    "tags": [
+      "Waterpark",
+      "Abu Dhabi - The Capital of Controlled Magnificence",
+      "Water Thrills"
+    ],
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "seaworld-abu-dhabi-where-ocean-meets-imagination",
+    "title": "SeaWorld Abu Dhabi - Where Ocean Meets Imagination",
+    "slug": "seaworld-abu-dhabi-where-ocean-meets-imagination",
+    "description": "The Middle East's first SeaWorld: no performing orca shows, pure conservation-led marine education. Six themed realms, one infinity pool overlooking Yas Bay, 68,000+ marine animals. Responsible wonder.",
+    "category": "Marine Park",
+    "destination": "Abu Dhabi - The Capital of Controlled Magnificence",
+    "price": "AED 295",
+    "priceValueAed": 295,
+    "duration": "",
+    "rating": "4.5",
+    "highlights": [
+      "Newest"
+    ],
+    "badges": [
+      "Newest"
+    ],
+    "tags": [
+      "Marine Park",
+      "Abu Dhabi - The Capital of Controlled Magnificence",
+      "Newest"
+    ],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "sheikh-zayed-grand-mosque-the-white-cathedral-of-islam",
+    "title": "Sheikh Zayed Grand Mosque - The White Cathedral of Islam",
+    "slug": "sheikh-zayed-grand-mosque-the-white-cathedral-of-islam",
+    "description": "The world's third-largest mosque: 82 domes, 1,000 columns, 24-carat gold-plated chandeliers, and the world's largest hand-knotted carpet. Free entry. Dress code required. Photographs welcome.",
+    "category": "Sacred Architecture",
+    "destination": "Abu Dhabi - The Capital of Controlled Magnificence",
+    "price": "On request",
+    "priceValueAed": null,
+    "duration": "",
+    "rating": "4.9",
+    "highlights": [
+      "Free Entry"
+    ],
+    "badges": [
+      "Free Entry"
+    ],
+    "tags": [
+      "Sacred Architecture",
+      "Abu Dhabi - The Capital of Controlled Magnificence",
+      "Free Entry"
+    ],
+    "image": "https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "louvre-abu-dhabi-art-without-borders",
+    "title": "Louvre Abu Dhabi - Art Without Borders",
+    "slug": "louvre-abu-dhabi-art-without-borders",
+    "description": "Jean Nouvel's geometric floating dome rains light on 23 interconnected galleries of 600+ objects - from ancient civilisations to contemporary masters. Where East and West share the same walls, finally.",
+    "category": "World-Class Museum",
+    "destination": "Abu Dhabi - The Capital of Controlled Magnificence",
+    "price": "AED 63",
+    "priceValueAed": 63,
+    "duration": "",
+    "rating": "4.8",
+    "highlights": [
+      "Under the Floating Dome"
+    ],
+    "badges": [
+      "Under the Floating Dome"
+    ],
+    "tags": [
+      "World-Class Museum",
+      "Abu Dhabi - The Capital of Controlled Magnificence",
+      "Under the Floating Dome"
+    ],
+    "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "qasr-al-watan-inside-the-palace-of-the-nation",
+    "title": "Qasr Al Watan - Inside the Palace of the Nation",
+    "slug": "qasr-al-watan-inside-the-palace-of-the-nation",
+    "description": "The UAE's Presidential Palace opened its gates to the public - a rare privilege. Explore halls of governance, rare manuscripts, the Great Hall under a soaring dome, and the Palace in Motion light show at night.",
+    "category": "Presidential Palace",
+    "destination": "Abu Dhabi - The Capital of Controlled Magnificence",
+    "price": "AED 30",
+    "priceValueAed": 30,
+    "duration": "",
+    "rating": "4.7",
+    "highlights": [
+      "Palace of Wonders"
+    ],
+    "badges": [
+      "Palace of Wonders"
+    ],
+    "tags": [
+      "Presidential Palace",
+      "Abu Dhabi - The Capital of Controlled Magnificence",
+      "Palace of Wonders"
+    ],
+    "image": "https://images.unsplash.com/photo-1614479154745-5f6e35d97c61?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "sharjah-heritage-area-streets-that-remember-everything",
+    "title": "Sharjah Heritage Area - Streets That Remember Everything",
+    "slug": "sharjah-heritage-area-streets-that-remember-everything",
+    "description": "Restored wind towers, spice-scented souqs, the Sharjah Museum of Islamic Civilisation, and the Heart of Sharjah old city district. A living archive of pre-oil Arabia, kept intentionally unhurried.",
+    "category": "Heritage Quarter",
+    "destination": "Sharjah - The Soul of the Emirates",
+    "price": "AED 5",
+    "priceValueAed": 5,
+    "duration": "",
+    "rating": "4.5",
+    "highlights": [
+      "UNESCO Heritage"
+    ],
+    "badges": [
+      "UNESCO Heritage"
+    ],
+    "tags": [
+      "Heritage Quarter",
+      "Sharjah - The Soul of the Emirates",
+      "UNESCO Heritage"
+    ],
+    "image": "https://images.unsplash.com/photo-1601379328938-bc25e296fb02?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "sharjah-aquarium-where-the-arabian-gulf-opens-up",
+    "title": "Sharjah Aquarium - Where the Arabian Gulf Opens Up",
+    "slug": "sharjah-aquarium-where-the-arabian-gulf-opens-up",
+    "description": "The Gulf's most educational aquarium: 250 species of marine life, the largest shark tank in the UAE outside Dubai, interactive touch pools, and exhibits on Gulf fishing traditions and coral conservation.",
+    "category": "Marine World",
+    "destination": "Sharjah - The Soul of the Emirates",
+    "price": "AED 25",
+    "priceValueAed": 25,
+    "duration": "",
+    "rating": "4.3",
+    "highlights": [
+      "14 Species of Dolphins"
+    ],
+    "badges": [
+      "14 Species of Dolphins"
+    ],
+    "tags": [
+      "Marine World",
+      "Sharjah - The Soul of the Emirates",
+      "14 Species of Dolphins"
+    ],
+    "image": "https://images.unsplash.com/photo-1559825481-12a05cc00344?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "sharjah-desert-park-the-wilderness-that-waited",
+    "title": "Sharjah Desert Park - The Wilderness That Waited",
+    "slug": "sharjah-desert-park-the-wilderness-that-waited",
+    "description": "The finest nature reserve in the UAE: Arabian Wildlife Centre, Children's Farm, a Natural History Museum, and botanical gardens. See Arabian oryx, sand gazelles, and endemic reptiles in vast open enclosures.",
+    "category": "Wildlife & Nature",
+    "destination": "Sharjah - The Soul of the Emirates",
+    "price": "AED 15",
+    "priceValueAed": 15,
+    "duration": "",
+    "rating": "4.6",
+    "highlights": [
+      "UAE's Best Safari"
+    ],
+    "badges": [
+      "UAE's Best Safari"
+    ],
+    "tags": [
+      "Wildlife & Nature",
+      "Sharjah - The Soul of the Emirates",
+      "UAE's Best Safari"
+    ],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "jais-flight-the-sky-as-your-runway",
+    "title": "Jais Flight - The Sky as Your Runway",
+    "slug": "jais-flight-the-sky-as-your-runway",
+    "description": "The world's longest zipline. 2.83 kilometres. 1,680 metres above sea level. Speeds of up to 160 km/h. You fly tandem over the Hajar Mountains in three minutes of pure superhero-grade weightlessness. The most dramatic 180 seconds in the UAE.",
+    "category": "World Record Adventure",
+    "destination": "Ras Al Khaimah - The Wild Side of the UAE",
+    "price": "AED 650",
+    "priceValueAed": 650,
+    "duration": "",
+    "rating": "4.9",
+    "highlights": [
+      "Guinness World Record",
+      "2.83km - 160km/h"
+    ],
+    "badges": [
+      "Guinness World Record",
+      "2.83km - 160km/h"
+    ],
+    "tags": [
+      "World Record Adventure",
+      "Ras Al Khaimah - The Wild Side of the UAE",
+      "Guinness World Record",
+      "2.83km - 160km/h"
+    ],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "jais-sky-tour-the-canyon-crawler",
+    "title": "Jais Sky Tour - The Canyon Crawler",
+    "slug": "jais-sky-tour-the-canyon-crawler",
+    "description": "Six ziplines. Five kilometres of mountain terrain. A self-guided aerial circuit at 60 km/h, criss-crossing canyon walls and valley drops on seven consecutive platforms. For those who want the mountain, not just a moment of it.",
+    "category": "Mountain Zipline Circuit",
+    "destination": "Ras Al Khaimah - The Wild Side of the UAE",
+    "price": "AED 550",
+    "priceValueAed": 550,
+    "duration": "",
+    "rating": "4.8",
+    "highlights": [
+      "6 Ziplines - 5km Total"
+    ],
+    "badges": [
+      "6 Ziplines - 5km Total"
+    ],
+    "tags": [
+      "Mountain Zipline Circuit",
+      "Ras Al Khaimah - The Wild Side of the UAE",
+      "6 Ziplines - 5km Total"
+    ],
+    "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "al-jazeera-al-hamra-a-town-frozen-in-time",
+    "title": "Al Jazeera Al Hamra - A Town Frozen in Time",
+    "slug": "al-jazeera-al-hamra-a-town-frozen-in-time",
+    "description": "A ghost town of 70+ abandoned coral-and-gypsum structures dating to the early 20th century. Mosques, mansions, a souq, and a fort left intact when the inhabitants departed in 1968. The UAE's most atmospheric secret.",
+    "category": "Historical Site",
+    "destination": "Ras Al Khaimah - The Wild Side of the UAE",
+    "price": "On request",
+    "priceValueAed": null,
+    "duration": "",
+    "rating": "4.4",
+    "highlights": [
+      "Ancient Fortress",
+      "Free Entry"
+    ],
+    "badges": [
+      "Ancient Fortress",
+      "Free Entry"
+    ],
+    "tags": [
+      "Historical Site",
+      "Ras Al Khaimah - The Wild Side of the UAE",
+      "Ancient Fortress",
+      "Free Entry"
+    ],
+    "image": "https://images.unsplash.com/photo-1473625247510-8ceb1760943f?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "ajman-museum-the-fort-that-became-a-memory-palace",
+    "title": "Ajman Museum - The Fort That Became a Memory Palace",
+    "slug": "ajman-museum-the-fort-that-became-a-memory-palace",
+    "description": "An 18th-century fortress converted into Ajman's finest museum: weapons, jewellery, archaeological artefacts, and traditional Emirati rooms recreated in painstaking detail. The quietest, richest AED 4 you'll spend in the UAE.",
+    "category": "Heritage Museum",
+    "destination": "Ajman - The Emirate That Exhales",
+    "price": "AED 4",
+    "priceValueAed": 4,
+    "duration": "",
+    "rating": "4.4",
+    "highlights": [
+      "18th Century Fort"
+    ],
+    "badges": [
+      "18th Century Fort"
+    ],
+    "tags": [
+      "Heritage Museum",
+      "Ajman - The Emirate That Exhales",
+      "18th Century Fort"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "ajman-corniche-dhow-building-yard-the-sea-s-workshop",
+    "title": "Ajman Corniche & Dhow Building Yard - The Sea's Workshop",
+    "slug": "ajman-corniche-dhow-building-yard-the-sea-s-workshop",
+    "description": "A 4-kilometre beachfront flanked by the last working dhow-building yard in the UAE. Watch craftsmen hand-construct ocean vessels using 500-year-old techniques, then stroll the most uncrowded coastline in the Emirates.",
+    "category": "Coastal Experience",
+    "destination": "Ajman - The Emirate That Exhales",
+    "price": "On request",
+    "priceValueAed": null,
+    "duration": "",
+    "rating": "4.5",
+    "highlights": [
+      "4km Beachfront"
+    ],
+    "badges": [
+      "4km Beachfront"
+    ],
+    "tags": [
+      "Coastal Experience",
+      "Ajman - The Emirate That Exhales",
+      "4km Beachfront"
+    ],
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "snoopy-island-the-reef-that-wears-a-famous-face",
+    "title": "Snoopy Island - The Reef That Wears a Famous Face",
+    "slug": "snoopy-island-the-reef-that-wears-a-famous-face",
+    "description": "A rocky outcrop shaped like Snoopy lying on his back, 100 metres off Al Aqah Beach. Beneath its surface: green turtles, blacktip reef sharks, parrotfish, moray eels, angelfish, and some of the UAE's richest living coral. Snorkel tours include equipment, kayaks, and SUP boards - all against the dramatic silhouette of the Hajar Mountains.",
+    "category": "Snorkelling & Diving",
+    "destination": "Fujairah - Where the Hajar Meets the Indian Ocean",
+    "price": "AED 150",
+    "priceValueAed": 150,
+    "duration": "",
+    "rating": "4.8",
+    "highlights": [
+      "Turtles - Reef Sharks - Coral",
+      "Top Dive Site"
+    ],
+    "badges": [
+      "Turtles - Reef Sharks - Coral",
+      "Top Dive Site"
+    ],
+    "tags": [
+      "Snorkelling & Diving",
+      "Fujairah - Where the Hajar Meets the Indian Ocean",
+      "Turtles - Reef Sharks - Coral",
+      "Top Dive Site"
+    ],
+    "image": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "fujairah-fort-the-watchtower-that-survived-empires",
+    "title": "Fujairah Fort - The Watchtower That Survived Empires",
+    "slug": "fujairah-fort-the-watchtower-that-survived-empires",
+    "description": "Built in 1670, stormed by Wahhabists in the 1800s, shelled by the British in 1925, and still standing - Fujairah Fort is the UAE's oldest and most battle-scarred monument. Perched on a hilltop above the old town, its towers command views over mountains, date palms, and the glittering Gulf of Oman below.",
+    "category": "Heritage & History",
+    "destination": "Fujairah - Where the Hajar Meets the Indian Ocean",
+    "price": "AED 5",
+    "priceValueAed": 5,
+    "duration": "",
+    "rating": "4.3",
+    "highlights": [
+      "UAE's Oldest Fort - 1670 AD"
+    ],
+    "badges": [
+      "UAE's Oldest Fort - 1670 AD"
+    ],
+    "tags": [
+      "Heritage & History",
+      "Fujairah - Where the Hajar Meets the Indian Ocean",
+      "UAE's Oldest Fort - 1670 AD"
+    ],
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "al-bidyah-mosque-where-islam-first-took-root-in-the-uae",
+    "title": "Al Bidyah Mosque - Where Islam First Took Root in the UAE",
+    "slug": "al-bidyah-mosque-where-islam-first-took-root-in-the-uae",
+    "description": "The oldest surviving mosque in the UAE, built in 1446 from mud brick with four unique domes and no internal columns. Surrounded by archaeological ruins and overlooking a wadi, it is the most serene and historically significant stop on the east coast. A living monument to 600 years of unbroken faith.",
+    "category": "Sacred Heritage",
+    "destination": "Fujairah - Where the Hajar Meets the Indian Ocean",
+    "price": "On request",
+    "priceValueAed": null,
+    "duration": "",
+    "rating": "4.7",
+    "highlights": [
+      "UAE's Oldest Mosque - 1446 AD",
+      "Free Entry"
+    ],
+    "badges": [
+      "UAE's Oldest Mosque - 1446 AD",
+      "Free Entry"
+    ],
+    "tags": [
+      "Sacred Heritage",
+      "Fujairah - Where the Hajar Meets the Indian Ocean",
+      "UAE's Oldest Mosque - 1446 AD",
+      "Free Entry"
+    ],
+    "image": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "ain-al-madhab-hot-springs-sulphur-silence-the-mountains",
+    "title": "Ain Al Madhab Hot Springs - Sulphur, Silence & the Mountains",
+    "slug": "ain-al-madhab-hot-springs-sulphur-silence-the-mountains",
+    "description": "A cluster of natural sulphur hot springs at the foot of the Hajar Mountains, long believed to have therapeutic properties. Set inside a landscaped park with pools, shaded paths, and mountain views - a completely unexpected oasis tucked at the edge of Fujairah City. Cooler, quieter, and more restorative than anything on the west coast.",
+    "category": "Natural Wonder",
+    "destination": "Fujairah - Where the Hajar Meets the Indian Ocean",
+    "price": "AED 5",
+    "priceValueAed": 5,
+    "duration": "",
+    "rating": "4.2",
+    "highlights": [
+      "Natural Hot Spring",
+      "Free Access"
+    ],
+    "badges": [
+      "Natural Hot Spring",
+      "Free Access"
+    ],
+    "tags": [
+      "Natural Wonder",
+      "Fujairah - Where the Hajar Meets the Indian Ocean",
+      "Natural Hot Spring",
+      "Free Access"
+    ],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "fujairah-museum-4-500-years-under-one-roof",
+    "title": "Fujairah Museum - 4,500 Years Under One Roof",
+    "slug": "fujairah-museum-4-500-years-under-one-roof",
+    "description": "Three halls of Bronze Age artefacts, ancient weapons, traditional Emirati household objects, and an ostrich egg from the 3rd century BC. Finds from Qidfa and Bithna excavations include U-shaped tombs from 2000 BC. The emirate's entire history distilled into a small, richly stocked museum - for AED 5.",
+    "category": "Archaeology & Culture",
+    "destination": "Fujairah - Where the Hajar Meets the Indian Ocean",
+    "price": "AED 5",
+    "priceValueAed": 5,
+    "duration": "",
+    "rating": "4.3",
+    "highlights": [
+      "East Coast's Best Museum"
+    ],
+    "badges": [
+      "East Coast's Best Museum"
+    ],
+    "tags": [
+      "Archaeology & Culture",
+      "Fujairah - Where the Hajar Meets the Indian Ocean",
+      "East Coast's Best Museum"
+    ],
+    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "dreamland-aqua-park-the-waterpark-that-time-forgot-in-the-best-way",
+    "title": "Dreamland Aqua Park - The Waterpark That Time Forgot (in the Best Way)",
+    "slug": "dreamland-aqua-park-the-waterpark-that-time-forgot-in-the-best-way",
+    "description": "One of the region's largest waterparks - 30+ slides, wave pools, lazy rivers, and lush landscaped gardens on the UAQ coastline - without the queues, the crowds, or the Atlantis price tag. The Twister, Black Hole, Dead Sea wave pool, and Twisting Dragons deliver genuine thrills. Overnight beach camping with cabanas and BBQ from November to April.",
+    "category": "Waterpark",
+    "destination": "Umm Al Quwain - The Gentle Giant's Secret Garden",
+    "price": "AED 90",
+    "priceValueAed": 90,
+    "duration": "",
+    "rating": "4.3",
+    "highlights": [
+      "30+ Rides - 250,000 sqm",
+      "No Crowds"
+    ],
+    "badges": [
+      "30+ Rides - 250,000 sqm",
+      "No Crowds"
+    ],
+    "tags": [
+      "Waterpark",
+      "Umm Al Quwain - The Gentle Giant's Secret Garden",
+      "30+ Rides - 250,000 sqm",
+      "No Crowds"
+    ],
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "al-sinniyah-island-uaq-mangroves-where-flamingos-outnumber-tourists",
+    "title": "Al Sinniyah Island & UAQ Mangroves - Where Flamingos Outnumber Tourists",
+    "slug": "al-sinniyah-island-uaq-mangroves-where-flamingos-outnumber-tourists",
+    "description": "A protected archipelago of mangrove-dense islands east of the UAQ mainland - home to the rare Socotra cormorant colony, flamingo flocks, seagulls, and some of the Gulf's most intact coastal ecosystems. Kayak or boat tour through the mangroves at dawn, when the water is still and the birds have the sky to themselves.",
+    "category": "Wildlife & Nature",
+    "destination": "Umm Al Quwain - The Gentle Giant's Secret Garden",
+    "price": "AED 100",
+    "priceValueAed": 100,
+    "duration": "",
+    "rating": "4.6",
+    "highlights": [
+      "Flamingos - Cormorants - Mangroves",
+      "Free"
+    ],
+    "badges": [
+      "Flamingos - Cormorants - Mangroves",
+      "Free"
+    ],
+    "tags": [
+      "Wildlife & Nature",
+      "Umm Al Quwain - The Gentle Giant's Secret Garden",
+      "Flamingos - Cormorants - Mangroves",
+      "Free"
+    ],
+    "image": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=600&q=80",
+    "source": "uae-attractions.html"
+  },
+  {
+    "id": "uaq-national-museum-the-quiet-chronicle-of-a-proud-emirate",
+    "title": "UAQ National Museum - The Quiet Chronicle of a Proud Emirate",
+    "slug": "uaq-national-museum-the-quiet-chronicle-of-a-proud-emirate",
+    "description": "A 250-year-old fort that once sheltered the royal family of Umm Al Quwain, now a meticulously restored museum. Two round towers, a square courtyard, and rooms filled with archaeological objects, traditional tools, old photographs, and artefacts that tell the story of an emirate that has always done things quietly - and done them well.",
+    "category": "Fort Museum",
+    "destination": "Umm Al Quwain - The Gentle Giant's Secret Garden",
+    "price": "AED 5",
+    "priceValueAed": 5,
+    "duration": "",
+    "rating": "4.1",
+    "highlights": [
+      "250-Year-Old Royal Residence"
+    ],
+    "badges": [
+      "250-Year-Old Royal Residence"
+    ],
+    "tags": [
+      "Fort Museum",
+      "Umm Al Quwain - The Gentle Giant's Secret Garden",
+      "250-Year-Old Royal Residence"
+    ],
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=600&q=80",
+    "source": "uae-attractions.html"
+  }
+]
