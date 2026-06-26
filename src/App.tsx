@@ -7,6 +7,11 @@ import { WhatsappWidget } from './components/WhatsappWidget';
 import { VisitorIntelligenceTracker } from './components/VisitorIntelligenceTracker';
 
 const HomePage = lazy(() => import('./pages/HomePage').then((module) => ({ default: module.HomePage })));
+const WorldTourPackagesPage = lazy(() => import('./pages/CatalogPages').then((module) => ({ default: module.WorldTourPackagesPage })));
+const UAEAttractionsPage = lazy(() => import('./pages/CatalogPages').then((module) => ({ default: module.UAEAttractionsPage })));
+const CruisePackagesPage = lazy(() => import('./pages/CatalogPages').then((module) => ({ default: module.CruisePackagesPage })));
+const PremiumExperiencesPage = lazy(() => import('./pages/CatalogPages').then((module) => ({ default: module.PremiumExperiencesPage })));
+const GroupBookingPage = lazy(() => import('./pages/CatalogPages').then((module) => ({ default: module.GroupBookingPage })));
 const RecommenderPage = lazy(() => import('./pages/RecommenderPage').then((module) => ({ default: module.RecommenderPage })));
 const AriaChatbotPage = lazy(() => import('./pages/AriaChatbotPage').then((module) => ({ default: module.AriaChatbotPage })));
 const ItineraryBuilderPage = lazy(() => import('./pages/ItineraryBuilderPage').then((module) => ({ default: module.ItineraryBuilderPage })));
@@ -27,6 +32,11 @@ export default function App() {
         <AnimatePresence mode="wait">
           <Routes location={location} key={location.pathname}>
             <Route path="/" element={<HomePage />} />
+            <Route path="/world-tour-packages" element={<WorldTourPackagesPage />} />
+            <Route path="/uae-attractions" element={<UAEAttractionsPage />} />
+            <Route path="/cruise-packages" element={<CruisePackagesPage />} />
+            <Route path="/premium-experiences" element={<PremiumExperiencesPage />} />
+            <Route path="/group-booking" element={<GroupBookingPage />} />
             <Route path="/ai-trip-recommender" element={<RecommenderPage />} />
             <Route path="/aria-chatbot" element={<AriaChatbotPage />} />
             <Route path="/itinerary-builder" element={<ItineraryBuilderPage />} />

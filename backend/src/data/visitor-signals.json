@@ -1439,5 +1439,3733 @@
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
     "ip": "::ffff:127.0.0.1",
     "createdAt": "2026-06-23T06:18:26.462Z"
+  },
+  {
+    "id": "sig_1782460424817_553030482",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "7 visits",
+    "page": "/",
+    "value": 7,
+    "metadata": {
+      "visitCount": 7
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:53:44.817Z"
+  },
+  {
+    "id": "sig_1782460424832_456719356",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:53:44.832Z"
+  },
+  {
+    "id": "sig_1782460424838_643783851",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "8 visits",
+    "page": "/",
+    "value": 8,
+    "metadata": {
+      "visitCount": 8
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:53:44.838Z"
+  },
+  {
+    "id": "sig_1782460424844_601196681",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:53:44.844Z"
+  },
+  {
+    "id": "sig_1782460558070_321286134",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/ai-trip-recommender",
+    "value": null,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:55:58.070Z"
+  },
+  {
+    "id": "sig_1782460560534_173001278",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 25,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:56:00.534Z"
+  },
+  {
+    "id": "sig_1782460561074_677658060",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 50,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:56:01.075Z"
+  },
+  {
+    "id": "sig_1782460561783_576839098",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 75,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:56:01.783Z"
+  },
+  {
+    "id": "sig_1782460564985_664849589",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "100% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 100,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:56:04.985Z"
+  },
+  {
+    "id": "sig_1782460611157_368099142",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:56:51.157Z"
+  },
+  {
+    "id": "sig_1782460628619_153234103",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "Homepage search triggered",
+    "page": "/",
+    "value": null,
+    "metadata": {},
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:57:08.619Z"
+  },
+  {
+    "id": "sig_1782460628626_657614567",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/ai-trip-recommender",
+    "value": null,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:57:08.626Z"
+  },
+  {
+    "id": "sig_1782460630139_489513868",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 25,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:57:10.139Z"
+  },
+  {
+    "id": "sig_1782460630145_458552197",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 50,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:57:10.145Z"
+  },
+  {
+    "id": "sig_1782460630151_456125914",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 75,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:57:10.151Z"
+  },
+  {
+    "id": "sig_1782460652419_26487712",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:57:32.419Z"
+  },
+  {
+    "id": "sig_1782460687880_615861051",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/",
+    "value": 25,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_3e6a5b01-71d1-4c71-bc74-8397a3edc465",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T07:58:07.880Z"
+  },
+  {
+    "id": "sig_1782465711541_228939847",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "9 visits",
+    "page": "/",
+    "value": 9,
+    "metadata": {
+      "visitCount": 9
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:21:51.541Z"
+  },
+  {
+    "id": "sig_1782465711545_32549344",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:21:51.545Z"
+  },
+  {
+    "id": "sig_1782465711549_350640704",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "10 visits",
+    "page": "/",
+    "value": 10,
+    "metadata": {
+      "visitCount": 10
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:21:51.549Z"
+  },
+  {
+    "id": "sig_1782465711553_839244071",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:21:51.553Z"
+  },
+  {
+    "id": "sig_1782465725706_394792785",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "AI tool card selected",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "tool": "AI Trip Recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:05.706Z"
+  },
+  {
+    "id": "sig_1782465725715_62214820",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/ai-trip-recommender",
+    "value": null,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:05.715Z"
+  },
+  {
+    "id": "sig_1782465726102_691425545",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 25,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:06.102Z"
+  },
+  {
+    "id": "sig_1782465726107_908725898",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 50,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:06.107Z"
+  },
+  {
+    "id": "sig_1782465726114_248326468",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 75,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:06.114Z"
+  },
+  {
+    "id": "sig_1782465726119_900114202",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "100% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 100,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:06.119Z"
+  },
+  {
+    "id": "sig_1782465730500_541032592",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:10.500Z"
+  },
+  {
+    "id": "sig_1782465730590_325974852",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/",
+    "value": 25,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:10.591Z"
+  },
+  {
+    "id": "sig_1782465730623_192826737",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/",
+    "value": 50,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:10.623Z"
+  },
+  {
+    "id": "sig_1782465730664_394589427",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/",
+    "value": 75,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:10.664Z"
+  },
+  {
+    "id": "sig_1782465730900_161224185",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "100% scroll depth",
+    "page": "/",
+    "value": 100,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:10.900Z"
+  },
+  {
+    "id": "sig_1782465736043_619136074",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:16.043Z"
+  },
+  {
+    "id": "sig_1782465737074_313163030",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:17.074Z"
+  },
+  {
+    "id": "sig_1782465737538_939327388",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "France - Paris, Provence & Beyond",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "France"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:17.538Z"
+  },
+  {
+    "id": "sig_1782465738889_343363996",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Scotland - Highlands, Whisky & Wild Coasts",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Scotland"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:18.889Z"
+  },
+  {
+    "id": "sig_1782465739173_775609062",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Netherlands & Belgium - Masters & Moules",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Netherlands & Belgium"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:19.173Z"
+  },
+  {
+    "id": "sig_1782465739722_246485434",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Greece - Gods, Islands & Olive Groves",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Greece"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:19.722Z"
+  },
+  {
+    "id": "sig_1782465740331_523625791",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Spain - Flamenco, Gaud & the Sun-Drenched South",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Spain"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:20.331Z"
+  },
+  {
+    "id": "sig_1782465740829_916930714",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Eastern Europe Highlights - Prague, Budapest & Vienna",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Eastern Europe Highlights"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:20.829Z"
+  },
+  {
+    "id": "sig_1782465742814_868696296",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "World Tour Packages carousel CTA",
+    "page": "/",
+    "value": null,
+    "metadata": {},
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:22.814Z"
+  },
+  {
+    "id": "sig_1782465742822_664769724",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/ai-trip-recommender",
+    "value": null,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:22.822Z"
+  },
+  {
+    "id": "sig_1782465743197_626392344",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 25,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:23.197Z"
+  },
+  {
+    "id": "sig_1782465743202_452339348",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 50,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:23.202Z"
+  },
+  {
+    "id": "sig_1782465743207_462459284",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 75,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:23.207Z"
+  },
+  {
+    "id": "sig_1782465743212_8970145",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "100% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 100,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:23.212Z"
+  },
+  {
+    "id": "sig_1782465745727_447005871",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:25.727Z"
+  },
+  {
+    "id": "sig_1782465746134_424819960",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/",
+    "value": 25,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:26.134Z"
+  },
+  {
+    "id": "sig_1782465746141_141623644",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/",
+    "value": 50,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:26.141Z"
+  },
+  {
+    "id": "sig_1782465746149_331579341",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/",
+    "value": 75,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:26.150Z"
+  },
+  {
+    "id": "sig_1782465746156_974953954",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "100% scroll depth",
+    "page": "/",
+    "value": 100,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:26.156Z"
+  },
+  {
+    "id": "sig_1782465749261_419087502",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Creek Heritage Dhow Cruise",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "Old Dubai Sightseeing",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:29.261Z"
+  },
+  {
+    "id": "sig_1782465752918_513714798",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "MSC - Caribbean 14-Night Grand Voyage",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "caribbean",
+      "destination": "Caribbean - The Blueprint of Paradise"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:32.918Z"
+  },
+  {
+    "id": "sig_1782465754869_569354591",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Frame - A City Captured in Gold",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "Iconic Landmark",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:34.869Z"
+  },
+  {
+    "id": "sig_1782465758356_727506835",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:38.356Z"
+  },
+  {
+    "id": "sig_1782465762405_663187088",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:42.405Z"
+  },
+  {
+    "id": "sig_1782465764825_313832434",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Sweden & Finland - Chasing the Northern Lights",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Sweden & Finland"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:44.825Z"
+  },
+  {
+    "id": "sig_1782465765540_722431452",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Scotland - Highlands, Whisky & Wild Coasts",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Scotland"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:45.540Z"
+  },
+  {
+    "id": "sig_1782465766382_885815029",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:46.382Z"
+  },
+  {
+    "id": "sig_1782465767753_709857337",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "France - Paris, Provence & Beyond",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "France"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:47.753Z"
+  },
+  {
+    "id": "sig_1782465773485_183434901",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Premium Catamaran Sightseeing Cruise",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "Modern Sightseeing Vessel",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:22:53.485Z"
+  },
+  {
+    "id": "sig_1782466381305_925650176",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Private Dhow Charter - Family & Group Celebration",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "Exclusive Private Booking",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:01.305Z"
+  },
+  {
+    "id": "sig_1782466393662_498919695",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "path": "/world-tour-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:13.662Z"
+  },
+  {
+    "id": "sig_1782466397147_216798144",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:17.147Z"
+  },
+  {
+    "id": "sig_1782466397822_795610822",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Sweden & Finland - Chasing the Northern Lights",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Sweden & Finland"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:17.822Z"
+  },
+  {
+    "id": "sig_1782466398982_275529820",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Greece - Gods, Islands & Olive Groves",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Greece"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:18.982Z"
+  },
+  {
+    "id": "sig_1782466399516_342958791",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Russia - Moscow, St. Petersburg & the Trans-Siberian",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Russia"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:19.516Z"
+  },
+  {
+    "id": "sig_1782466400047_728971085",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Greece - Gods, Islands & Olive Groves",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Greece"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:20.047Z"
+  },
+  {
+    "id": "sig_1782466400413_208169561",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Sweden & Finland - Chasing the Northern Lights",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Sweden & Finland"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:20.413Z"
+  },
+  {
+    "id": "sig_1782466400589_845469277",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:20.589Z"
+  },
+  {
+    "id": "sig_1782466402254_282875257",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:22.254Z"
+  },
+  {
+    "id": "sig_1782466403642_661569741",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "path": "/uae-attractions"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:23.642Z"
+  },
+  {
+    "id": "sig_1782466406498_576601201",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "path": "/world-tour-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:26.498Z"
+  },
+  {
+    "id": "sig_1782466408450_879312260",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "path": "/uae-attractions"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:28.450Z"
+  },
+  {
+    "id": "sig_1782466410736_397036325",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Sky Views Observatory - The Glass Frontier",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Observatory",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:30.736Z"
+  },
+  {
+    "id": "sig_1782466413311_391817913",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "IMG Worlds of Adventure - The Universe Under One Roof",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Theme Park",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:33.311Z"
+  },
+  {
+    "id": "sig_1782466415335_148493785",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Ski Dubai - The Alpine Anomaly",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Winter Experience",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:35.335Z"
+  },
+  {
+    "id": "sig_1782466415929_573128440",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/uae-attractions",
+    "value": 25,
+    "metadata": {
+      "path": "/uae-attractions"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:35.929Z"
+  },
+  {
+    "id": "sig_1782466416011_30209744",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Museum of the Future - A Postcard from 2071",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Future Technology",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:36.011Z"
+  },
+  {
+    "id": "sig_1782466417297_538799061",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Lost World Aquarium - The Deep Reborn",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Aquarium",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:37.297Z"
+  },
+  {
+    "id": "sig_1782466418088_778769885",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "AYA Universe - Where Art Becomes Gravity",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Immersive Art",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:38.088Z"
+  },
+  {
+    "id": "sig_1782466418790_900711257",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Yas Waterworld - A Thousand Splashes",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Waterpark",
+      "destination": "Abu Dhabi - The Capital of Controlled Magnificence"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:38.790Z"
+  },
+  {
+    "id": "sig_1782466419327_286093880",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/uae-attractions",
+    "value": 50,
+    "metadata": {
+      "path": "/uae-attractions"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:39.327Z"
+  },
+  {
+    "id": "sig_1782466419767_941305205",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Louvre Abu Dhabi - Art Without Borders",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "World-Class Museum",
+      "destination": "Abu Dhabi - The Capital of Controlled Magnificence"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:39.768Z"
+  },
+  {
+    "id": "sig_1782466419860_355684267",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Yas Waterworld - A Thousand Splashes",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Waterpark",
+      "destination": "Abu Dhabi - The Capital of Controlled Magnificence"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:39.860Z"
+  },
+  {
+    "id": "sig_1782466420184_87102621",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "AYA Universe - Where Art Becomes Gravity",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Immersive Art",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:40.184Z"
+  },
+  {
+    "id": "sig_1782466420435_950070351",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Lost World Aquarium - The Deep Reborn",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Aquarium",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:40.435Z"
+  },
+  {
+    "id": "sig_1782466420595_751394408",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Museum of the Future - A Postcard from 2071",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Future Technology",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:40.595Z"
+  },
+  {
+    "id": "sig_1782466420760_524492110",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Ski Dubai - The Alpine Anomaly",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Winter Experience",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:40.760Z"
+  },
+  {
+    "id": "sig_1782466420968_786702223",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "IMG Worlds of Adventure - The Universe Under One Roof",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Theme Park",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:40.968Z"
+  },
+  {
+    "id": "sig_1782466422301_38609538",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/cruise-packages",
+    "value": null,
+    "metadata": {
+      "path": "/cruise-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:42.301Z"
+  },
+  {
+    "id": "sig_1782466423038_327322552",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Disney Cruise Line - Bahamas & Disney's Private Island",
+    "page": "/cruise-packages",
+    "value": null,
+    "metadata": {
+      "category": "caribbean",
+      "destination": "Caribbean - The Blueprint of Paradise"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:43.038Z"
+  },
+  {
+    "id": "sig_1782466423094_151735364",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "MSC - Western Mediterranean 7-Night Odyssey",
+    "page": "/cruise-packages",
+    "value": null,
+    "metadata": {
+      "category": "mediterranean",
+      "destination": "Mediterranean - Where Civilisation Learned to Sail"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:43.094Z"
+  },
+  {
+    "id": "sig_1782466423232_409639134",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Celebrity - Greek Isles & Turkey 10-Night",
+    "page": "/cruise-packages",
+    "value": null,
+    "metadata": {
+      "category": "mediterranean",
+      "destination": "Mediterranean - Where Civilisation Learned to Sail"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:43.232Z"
+  },
+  {
+    "id": "sig_1782466429560_575953825",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "path": "/premium-experiences"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:49.560Z"
+  },
+  {
+    "id": "sig_1782466432890_328056295",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/group-booking",
+    "value": null,
+    "metadata": {
+      "path": "/group-booking"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:52.890Z"
+  },
+  {
+    "id": "sig_1782466434741_704657490",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/group-booking",
+    "value": 25,
+    "metadata": {
+      "path": "/group-booking"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:54.741Z"
+  },
+  {
+    "id": "sig_1782466434816_902779937",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/group-booking",
+    "value": 50,
+    "metadata": {
+      "path": "/group-booking"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:54.816Z"
+  },
+  {
+    "id": "sig_1782466436909_183985291",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:33:56.909Z"
+  },
+  {
+    "id": "sig_1782466440983_803365591",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:00.983Z"
+  },
+  {
+    "id": "sig_1782466443183_433841175",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "AI tool card selected",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "tool": "AI Caption Generator"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:03.183Z"
+  },
+  {
+    "id": "sig_1782466443187_173925347",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/caption-generator",
+    "value": null,
+    "metadata": {
+      "path": "/caption-generator"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:03.187Z"
+  },
+  {
+    "id": "sig_1782466444428_323995837",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/caption-generator",
+    "value": 25,
+    "metadata": {
+      "path": "/caption-generator"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:04.429Z"
+  },
+  {
+    "id": "sig_1782466444434_320825955",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/caption-generator",
+    "value": 50,
+    "metadata": {
+      "path": "/caption-generator"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:04.434Z"
+  },
+  {
+    "id": "sig_1782466444438_379794643",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/caption-generator",
+    "value": 75,
+    "metadata": {
+      "path": "/caption-generator"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:04.438Z"
+  },
+  {
+    "id": "sig_1782466444443_628251741",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "100% scroll depth",
+    "page": "/caption-generator",
+    "value": 100,
+    "metadata": {
+      "path": "/caption-generator"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:04.443Z"
+  },
+  {
+    "id": "sig_1782466448126_890163914",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:08.126Z"
+  },
+  {
+    "id": "sig_1782466451257_173933796",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/",
+    "value": 25,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:11.257Z"
+  },
+  {
+    "id": "sig_1782466451448_361808965",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:11.448Z"
+  },
+  {
+    "id": "sig_1782466458765_866848073",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "World Tour Packages animated arrow selected",
+    "page": "/",
+    "value": null,
+    "metadata": {},
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:18.765Z"
+  },
+  {
+    "id": "sig_1782466458771_749775916",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "path": "/world-tour-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:18.771Z"
+  },
+  {
+    "id": "sig_1782466459988_835396733",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Sweden & Finland - Chasing the Northern Lights",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Sweden & Finland"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:19.988Z"
+  },
+  {
+    "id": "sig_1782466460096_340214400",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "France - Paris, Provence & Beyond",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "France"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:20.096Z"
+  },
+  {
+    "id": "sig_1782466461186_782777463",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:21.186Z"
+  },
+  {
+    "id": "sig_1782466461531_742370263",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "France - Paris, Provence & Beyond",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "France"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:21.531Z"
+  },
+  {
+    "id": "sig_1782466462575_151957311",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:22.576Z"
+  },
+  {
+    "id": "sig_1782466463283_633315710",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/",
+    "value": 25,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:34:23.283Z"
+  },
+  {
+    "id": "sig_1782466672262_307395672",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:37:52.262Z"
+  },
+  {
+    "id": "sig_1782466672407_241305926",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:37:52.407Z"
+  },
+  {
+    "id": "sig_1782466672849_937728705",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:37:52.849Z"
+  },
+  {
+    "id": "sig_1782466677451_922289506",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:37:57.451Z"
+  },
+  {
+    "id": "sig_1782466683166_782572726",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/",
+    "value": 50,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:38:03.166Z"
+  },
+  {
+    "id": "sig_1782466685155_683712190",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/",
+    "value": 75,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:38:05.155Z"
+  },
+  {
+    "id": "sig_1782466695879_490883482",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Switzerland - The Alpine Crown Jewel",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Switzerland"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:38:15.879Z"
+  },
+  {
+    "id": "sig_1782467067840_904242183",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "Homepage search submitted",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "destination": "Japan",
+      "travellers": "Friends",
+      "style": "Adventure"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:44:27.840Z"
+  },
+  {
+    "id": "sig_1782467067850_645736486",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/ai-trip-recommender",
+    "value": null,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:44:27.850Z"
+  },
+  {
+    "id": "sig_1782467099194_240791023",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "path": "/world-tour-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:44:59.194Z"
+  },
+  {
+    "id": "sig_1782467394579_359713050",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/world-tour-packages",
+    "value": 25,
+    "metadata": {
+      "path": "/world-tour-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:49:54.579Z"
+  },
+  {
+    "id": "sig_1782467394844_54848116",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:49:54.844Z"
+  },
+  {
+    "id": "sig_1782467395245_34153164",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/world-tour-packages",
+    "value": 50,
+    "metadata": {
+      "path": "/world-tour-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:49:55.245Z"
+  },
+  {
+    "id": "sig_1782467395841_388426113",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Norwegian - Eastern Caribbean 7-Night Escape",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "caribbean",
+      "destination": "Caribbean - The Blueprint of Paradise"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:49:55.841Z"
+  },
+  {
+    "id": "sig_1782467396027_424500707",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/world-tour-packages",
+    "value": 75,
+    "metadata": {
+      "path": "/world-tour-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:49:56.027Z"
+  },
+  {
+    "id": "sig_1782467396560_157060523",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Creek Heritage Dhow Cruise",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "Old Dubai Sightseeing",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:49:56.560Z"
+  },
+  {
+    "id": "sig_1782467397117_940275515",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "100% scroll depth",
+    "page": "/world-tour-packages",
+    "value": 100,
+    "metadata": {
+      "path": "/world-tour-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:49:57.117Z"
+  },
+  {
+    "id": "sig_1782467425402_337598390",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "Group booking quote CTA",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {},
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:25.402Z"
+  },
+  {
+    "id": "sig_1782467425412_687667142",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/internal-quote-generator",
+    "value": null,
+    "metadata": {
+      "path": "/internal-quote-generator"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:25.412Z"
+  },
+  {
+    "id": "sig_1782467428670_917318231",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "Group booking quote CTA",
+    "page": "/internal-quote-generator",
+    "value": null,
+    "metadata": {},
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:28.670Z"
+  },
+  {
+    "id": "sig_1782467430054_714713087",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/internal-quote-generator",
+    "value": 25,
+    "metadata": {
+      "path": "/internal-quote-generator"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:30.054Z"
+  },
+  {
+    "id": "sig_1782467430061_657019014",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/internal-quote-generator",
+    "value": 50,
+    "metadata": {
+      "path": "/internal-quote-generator"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:30.061Z"
+  },
+  {
+    "id": "sig_1782467430066_710831007",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/internal-quote-generator",
+    "value": 75,
+    "metadata": {
+      "path": "/internal-quote-generator"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:30.066Z"
+  },
+  {
+    "id": "sig_1782467430739_735426501",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Creek Heritage Dhow Cruise",
+    "page": "/internal-quote-generator",
+    "value": null,
+    "metadata": {
+      "category": "Old Dubai Sightseeing",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:30.739Z"
+  },
+  {
+    "id": "sig_1782467433335_945328472",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Marina Dhow Dinner Cruise",
+    "page": "/internal-quote-generator",
+    "value": null,
+    "metadata": {
+      "category": "Sunset & Dinner Cruise",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:33.335Z"
+  },
+  {
+    "id": "sig_1782467434673_466814664",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "Homepage catalog card selected",
+    "page": "/internal-quote-generator",
+    "value": null,
+    "metadata": {
+      "package": "Dubai Marina Dhow Dinner Cruise"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:34.673Z"
+  },
+  {
+    "id": "sig_1782467434681_809278285",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "path": "/premium-experiences"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:34.681Z"
+  },
+  {
+    "id": "sig_1782467436137_262680171",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Creek Heritage Dhow Cruise",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "Old Dubai Sightseeing",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:36.137Z"
+  },
+  {
+    "id": "sig_1782467436887_114714690",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Marina Dhow Dinner Cruise",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "Sunset & Dinner Cruise",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:36.887Z"
+  },
+  {
+    "id": "sig_1782467437261_356183531",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Marina Dhow Dinner Cruise",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "Sunset & Dinner Cruise",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:37.261Z"
+  },
+  {
+    "id": "sig_1782467438570_954341733",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "Homepage catalog card selected",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "package": "Dubai Marina Dhow Dinner Cruise"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:38.570Z"
+  },
+  {
+    "id": "sig_1782467440544_128807850",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/premium-experiences",
+    "value": 25,
+    "metadata": {
+      "path": "/premium-experiences"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:40.544Z"
+  },
+  {
+    "id": "sig_1782467440551_334730685",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/premium-experiences",
+    "value": 50,
+    "metadata": {
+      "path": "/premium-experiences"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:40.551Z"
+  },
+  {
+    "id": "sig_1782467440559_281233096",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/premium-experiences",
+    "value": 75,
+    "metadata": {
+      "path": "/premium-experiences"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:40.559Z"
+  },
+  {
+    "id": "sig_1782467444743_745182356",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Norwegian - Eastern Caribbean 7-Night Escape",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "caribbean",
+      "destination": "Caribbean - The Blueprint of Paradise"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:44.743Z"
+  },
+  {
+    "id": "sig_1782467444918_374756652",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Royal Caribbean - 7-Night Western Caribbean Adventure",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "caribbean",
+      "destination": "Caribbean - The Blueprint of Paradise"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:44.918Z"
+  },
+  {
+    "id": "sig_1782467446143_690140643",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "Homepage catalog card selected",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "package": "Royal Caribbean - 7-Night Western Caribbean Adventure"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:46.143Z"
+  },
+  {
+    "id": "sig_1782467446155_785452384",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/cruise-packages",
+    "value": null,
+    "metadata": {
+      "path": "/cruise-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:46.155Z"
+  },
+  {
+    "id": "sig_1782467447584_662496425",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Norwegian - Eastern Caribbean 7-Night Escape",
+    "page": "/cruise-packages",
+    "value": null,
+    "metadata": {
+      "category": "caribbean",
+      "destination": "Caribbean - The Blueprint of Paradise"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:47.584Z"
+  },
+  {
+    "id": "sig_1782467448693_799073538",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "Homepage catalog card selected",
+    "page": "/cruise-packages",
+    "value": null,
+    "metadata": {
+      "package": "Norwegian - Eastern Caribbean 7-Night Escape"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:48.693Z"
+  },
+  {
+    "id": "sig_1782467449167_342281127",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "MSC - Caribbean 14-Night Grand Voyage",
+    "page": "/cruise-packages",
+    "value": null,
+    "metadata": {
+      "category": "caribbean",
+      "destination": "Caribbean - The Blueprint of Paradise"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:49.167Z"
+  },
+  {
+    "id": "sig_1782467449570_578120117",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/cruise-packages",
+    "value": 25,
+    "metadata": {
+      "path": "/cruise-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:49.570Z"
+  },
+  {
+    "id": "sig_1782467449577_367955280",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/cruise-packages",
+    "value": 50,
+    "metadata": {
+      "path": "/cruise-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:49.577Z"
+  },
+  {
+    "id": "sig_1782467451651_254662341",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:51.651Z"
+  },
+  {
+    "id": "sig_1782467457845_263480706",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "path": "/world-tour-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:50:57.845Z"
+  },
+  {
+    "id": "sig_1782467460322_197692894",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:00.322Z"
+  },
+  {
+    "id": "sig_1782467461951_840360123",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "path": "/uae-attractions"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:01.951Z"
+  },
+  {
+    "id": "sig_1782467463418_354752391",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Lost World Aquarium - The Deep Reborn",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Aquarium",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:03.418Z"
+  },
+  {
+    "id": "sig_1782467463476_406657564",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "AYA Universe - Where Art Becomes Gravity",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Immersive Art",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:03.476Z"
+  },
+  {
+    "id": "sig_1782467464659_30128742",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Desert Safari - The Sands After Sundown",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Desert Experience",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:04.659Z"
+  },
+  {
+    "id": "sig_1782467464893_567718982",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Aquarium & Underwater Zoo - The Shark Corridor",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Marine World",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:04.893Z"
+  },
+  {
+    "id": "sig_1782467465595_979974559",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "Catalog package selected",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "package": "Dubai Aquarium & Underwater Zoo - The Shark Corridor"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:05.595Z"
+  },
+  {
+    "id": "sig_1782467465602_986419629",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/ai-trip-recommender",
+    "value": null,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:05.602Z"
+  },
+  {
+    "id": "sig_1782467465965_989156959",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 25,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:05.965Z"
+  },
+  {
+    "id": "sig_1782467465972_407263567",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 50,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:05.972Z"
+  },
+  {
+    "id": "sig_1782467465979_205060676",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 75,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:05.979Z"
+  },
+  {
+    "id": "sig_1782467465985_408863807",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "100% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 100,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:05.985Z"
+  },
+  {
+    "id": "sig_1782467474150_845570388",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "path": "/uae-attractions"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:14.150Z"
+  },
+  {
+    "id": "sig_1782467476944_170083953",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Sky Views Observatory - The Glass Frontier",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Observatory",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:16.944Z"
+  },
+  {
+    "id": "sig_1782467478756_690139325",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Burj Khalifa - The Throne of the Sky",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "category": "Observation Deck",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:18.756Z"
+  },
+  {
+    "id": "sig_1782467482371_325002883",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "Catalog package selected",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "package": "Burj Khalifa - The Throne of the Sky"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:22.371Z"
+  },
+  {
+    "id": "sig_1782467482379_387816370",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/ai-trip-recommender",
+    "value": null,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:22.379Z"
+  },
+  {
+    "id": "sig_1782467484149_813557252",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 25,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:24.149Z"
+  },
+  {
+    "id": "sig_1782467484156_364270440",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 50,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:24.156Z"
+  },
+  {
+    "id": "sig_1782467484161_199200958",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 75,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:51:24.161Z"
+  },
+  {
+    "id": "sig_1782467525774_210087938",
+    "type": "tool_engagement",
+    "category": "tool_engagement",
+    "label": "Trip recommender completed",
+    "page": "/ai-trip-recommender",
+    "value": null,
+    "metadata": {
+      "style": "Luxury Escape",
+      "group": "Family",
+      "budget": "$6k-$10k",
+      "destination": "Dubai"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:52:05.774Z"
+  },
+  {
+    "id": "sig_1782467544767_746031967",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:52:24.767Z"
+  },
+  {
+    "id": "sig_1782467627723_838109179",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "path": "/world-tour-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:53:47.723Z"
+  },
+  {
+    "id": "sig_1782467630400_638186430",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:53:50.400Z"
+  },
+  {
+    "id": "sig_1782467631983_427085054",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "path": "/uae-attractions"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:53:51.983Z"
+  },
+  {
+    "id": "sig_1782467633610_648284128",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/cruise-packages",
+    "value": null,
+    "metadata": {
+      "path": "/cruise-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:53:53.610Z"
+  },
+  {
+    "id": "sig_1782467635297_548233064",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "path": "/premium-experiences"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:53:55.297Z"
+  },
+  {
+    "id": "sig_1782467638546_147918707",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/group-booking",
+    "value": null,
+    "metadata": {
+      "path": "/group-booking"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:53:58.546Z"
+  },
+  {
+    "id": "sig_1782467641739_681228641",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:01.739Z"
+  },
+  {
+    "id": "sig_1782467647085_169650034",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/world-tour-packages",
+    "value": null,
+    "metadata": {
+      "path": "/world-tour-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:07.085Z"
+  },
+  {
+    "id": "sig_1782467649438_39107032",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/uae-attractions",
+    "value": null,
+    "metadata": {
+      "path": "/uae-attractions"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:09.438Z"
+  },
+  {
+    "id": "sig_1782467652177_190289582",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/cruise-packages",
+    "value": null,
+    "metadata": {
+      "path": "/cruise-packages"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:12.177Z"
+  },
+  {
+    "id": "sig_1782467653748_786635155",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "path": "/premium-experiences"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:13.748Z"
+  },
+  {
+    "id": "sig_1782467655595_28984665",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Private Dhow Charter - Family & Group Celebration",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "Exclusive Private Booking",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:15.595Z"
+  },
+  {
+    "id": "sig_1782467656155_724051531",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Private Speedboat Marina Tour",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "High-Speed Private Tour",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:16.155Z"
+  },
+  {
+    "id": "sig_1782467656616_207580274",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "71 - 88ft Yacht - Floating Estate for Corporate Events",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "Premium Corporate Charter",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:16.616Z"
+  },
+  {
+    "id": "sig_1782467656872_551493169",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/premium-experiences",
+    "value": 25,
+    "metadata": {
+      "path": "/premium-experiences"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:16.872Z"
+  },
+  {
+    "id": "sig_1782467657036_953902161",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Stretch Limousine - Weddings & Celebrations",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "Wedding & Event Limousine",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:17.036Z"
+  },
+  {
+    "id": "sig_1782467657482_535654657",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Inter-Emirate Day Tour Transfer",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "Multi-City Private Transport",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:17.482Z"
+  },
+  {
+    "id": "sig_1782467658040_330706258",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Premium Balloon Flight + Camel Ride",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "Deluxe Desert Package",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:18.040Z"
+  },
+  {
+    "id": "sig_1782467658871_716424038",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Inter-Emirate Day Tour Transfer",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "Multi-City Private Transport",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:18.871Z"
+  },
+  {
+    "id": "sig_1782467659320_819797778",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "71 - 88ft Yacht - Floating Estate for Corporate Events",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "Premium Corporate Charter",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:19.320Z"
+  },
+  {
+    "id": "sig_1782467659440_675417637",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Private Speedboat Marina Tour",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "High-Speed Private Tour",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:19.440Z"
+  },
+  {
+    "id": "sig_1782467659672_768665758",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Private Dhow Charter - Family & Group Celebration",
+    "page": "/premium-experiences",
+    "value": null,
+    "metadata": {
+      "category": "Exclusive Private Booking",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:19.672Z"
+  },
+  {
+    "id": "sig_1782467662140_481137881",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:22.140Z"
+  },
+  {
+    "id": "sig_1782467680200_505607753",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "Homepage itinerary search submitted",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "destination": "Switzerland",
+      "travellers": "Couple",
+      "style": "Luxury Escape",
+      "duration": "4 days"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:40.200Z"
+  },
+  {
+    "id": "sig_1782467680208_289665304",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/itinerary-builder",
+    "value": null,
+    "metadata": {
+      "path": "/itinerary-builder"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:40.208Z"
+  },
+  {
+    "id": "sig_1782467681796_607266940",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/itinerary-builder",
+    "value": 25,
+    "metadata": {
+      "path": "/itinerary-builder"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:41.796Z"
+  },
+  {
+    "id": "sig_1782467681802_41336281",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/itinerary-builder",
+    "value": 50,
+    "metadata": {
+      "path": "/itinerary-builder"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:41.802Z"
+  },
+  {
+    "id": "sig_1782467686322_511139283",
+    "type": "tool_engagement",
+    "category": "tool_engagement",
+    "label": "Itinerary built",
+    "page": "/itinerary-builder",
+    "value": null,
+    "metadata": {
+      "destination": "Switzerland",
+      "duration": "4 days",
+      "travellerType": "couple",
+      "interests": [
+        "Fine dining",
+        "Culture"
+      ]
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:46.322Z"
+  },
+  {
+    "id": "sig_1782467690331_379692306",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/itinerary-builder",
+    "value": 75,
+    "metadata": {
+      "path": "/itinerary-builder"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:50.331Z"
+  },
+  {
+    "id": "sig_1782467690650_86655970",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "100% scroll depth",
+    "page": "/itinerary-builder",
+    "value": 100,
+    "metadata": {
+      "path": "/itinerary-builder"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:54:50.650Z"
+  },
+  {
+    "id": "sig_1782467700737_492340092",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:00.737Z"
+  },
+  {
+    "id": "sig_1782467738079_174241098",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/",
+    "value": 25,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:38.079Z"
+  },
+  {
+    "id": "sig_1782467738216_772280763",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:38.216Z"
+  },
+  {
+    "id": "sig_1782467742449_502855946",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Sky Views Observatory - The Glass Frontier",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "Observatory",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:42.449Z"
+  },
+  {
+    "id": "sig_1782467743733_552627418",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/",
+    "value": 50,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:43.733Z"
+  },
+  {
+    "id": "sig_1782467744924_711789457",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Norwegian - Eastern Caribbean 7-Night Escape",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "caribbean",
+      "destination": "Caribbean - The Blueprint of Paradise"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:44.924Z"
+  },
+  {
+    "id": "sig_1782467746174_402142807",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/",
+    "value": 75,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:46.174Z"
+  },
+  {
+    "id": "sig_1782467747183_139449829",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Creek Heritage Dhow Cruise",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "Old Dubai Sightseeing",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:47.183Z"
+  },
+  {
+    "id": "sig_1782467748564_428865213",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "100% scroll depth",
+    "page": "/",
+    "value": 100,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:48.564Z"
+  },
+  {
+    "id": "sig_1782467749741_143240263",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Creek Heritage Dhow Cruise",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "Old Dubai Sightseeing",
+      "destination": "UAE"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:49.741Z"
+  },
+  {
+    "id": "sig_1782467750106_299915912",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Norwegian - Eastern Caribbean 7-Night Escape",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "caribbean",
+      "destination": "Caribbean - The Blueprint of Paradise"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:50.106Z"
+  },
+  {
+    "id": "sig_1782467750453_962173416",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Sky Views Observatory - The Glass Frontier",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "Observatory",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:50.453Z"
+  },
+  {
+    "id": "sig_1782467750741_733144045",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_980f3f0e-8960-44bd-b667-3fd4ea209b6c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-26T09:55:50.742Z"
   }
 ]

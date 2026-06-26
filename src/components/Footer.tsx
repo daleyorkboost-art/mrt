@@ -2,11 +2,11 @@ import { ArrowUpRight, Plane } from 'lucide-react';
 import { footerLinks } from '../data/mockData';
 
 const footerHref: Record<string, string> = {
-  'World Tour Packages': '/ai-trip-recommender',
-  'Corporate Travel': '/internal-quote-generator',
-  'Visa Concierge': '/visa-checklist',
-  'UAE Attractions': '/dubai-day-planner',
-  'Cruise Packages': '/ai-trip-recommender',
+  'World Tour Packages': '/world-tour-packages',
+  'UAE Attractions': '/uae-attractions',
+  'Cruise Packages': '/cruise-packages',
+  'Premium Experiences': '/premium-experiences',
+  'Group Booking': '/group-booking',
 };
 
 export function Footer() {

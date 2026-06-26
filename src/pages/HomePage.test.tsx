@@ -12,6 +12,7 @@ describe('HomePage', () => {
     );
 
     expect(screen.getByText(/Luxury travel planning/i)).toBeInTheDocument();
-    expect(screen.getByText(/Featured packages/i)).toBeInTheDocument();
+    expect(screen.getByText(/AI tools section/i)).toBeInTheDocument();
+    expect(screen.getByText(/World Tour Packages/i)).toBeInTheDocument();
   });
 });

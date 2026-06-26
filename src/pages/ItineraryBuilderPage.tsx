@@ -1,5 +1,5 @@
 import { CalendarDays, Download, Share2 } from 'lucide-react';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Accordion } from '../components/Accordion';
 import { Button } from '../components/Button';
 import { Card } from '../components/Card';
@@ -20,6 +20,22 @@ export function ItineraryBuilderPage() {
   const [result, setResult] = useState<ItineraryResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const queryDestination = params.get('destination');
+    const queryDuration = params.get('duration');
+    const queryTravellerType = params.get('travellerType');
+    const queryInterests = params.get('interests');
+
+    if (queryDestination) setDestination(queryDestination);
+    if (queryDuration) setDuration(queryDuration);
+    if (queryTravellerType) setTravellerType(queryTravellerType);
+    if (queryInterests) {
+      const parsedInterests = queryInterests.split(',').map((item) => item.trim()).filter(Boolean);
+      if (parsedInterests.length > 0) setSelected(parsedInterests);
+    }
+  }, []);
 
   function toggle(value: string) {
     setSelected((current) => (current.includes(value) ? current.filter((item) => item !== value) : [...current, value]));

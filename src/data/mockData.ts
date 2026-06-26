@@ -97,20 +97,19 @@ export const recommenderOptions = {
 
 export const footerLinks = [
   'World Tour Packages',
-  'Corporate Travel',
-  'Visa Concierge',
   'UAE Attractions',
   'Cruise Packages',
+  'Premium Experiences',
+  'Group Booking',
 ];
 
 export const navItems = [
   { label: 'Home', href: '/' },
-  { label: 'Trip AI', href: '/ai-trip-recommender' },
-  { label: 'ARIA', href: '/aria-chatbot' },
-  { label: 'Itinerary', href: '/itinerary-builder' },
-  { label: 'Visa', href: '/visa-checklist' },
-  { label: 'Dubai', href: '/dubai-day-planner' },
-  { label: 'Captions', href: '/caption-generator' },
+  { label: 'World Tour Packages', href: '/world-tour-packages' },
+  { label: 'UAE Attractions', href: '/uae-attractions' },
+  { label: 'Cruise Packages', href: '/cruise-packages' },
+  { label: 'Premium Experiences', href: '/premium-experiences' },
+  { label: 'Group Booking', href: '/group-booking' },
 ];
 
 export const pageMeta: Record<string, { title: string; eyebrow: string; description: string; icon: LucideIcon }> = {
