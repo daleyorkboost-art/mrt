@@ -1327,5 +1327,117 @@
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
     "ip": "::ffff:127.0.0.1",
     "createdAt": "2026-06-23T06:16:47.592Z"
+  },
+  {
+    "id": "sig_1782195489384_924609546",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/aria-chatbot",
+    "value": null,
+    "metadata": {
+      "path": "/aria-chatbot"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:18:09.384Z"
+  },
+  {
+    "id": "sig_1782195489776_933114481",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/aria-chatbot",
+    "value": 25,
+    "metadata": {
+      "path": "/aria-chatbot"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:18:09.776Z"
+  },
+  {
+    "id": "sig_1782195489782_645220238",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/aria-chatbot",
+    "value": 50,
+    "metadata": {
+      "path": "/aria-chatbot"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:18:09.782Z"
+  },
+  {
+    "id": "sig_1782195489786_195122060",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "75% scroll depth",
+    "page": "/aria-chatbot",
+    "value": 75,
+    "metadata": {
+      "path": "/aria-chatbot"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:18:09.786Z"
+  },
+  {
+    "id": "sig_1782195489791_102672166",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "100% scroll depth",
+    "page": "/aria-chatbot",
+    "value": 100,
+    "metadata": {
+      "path": "/aria-chatbot"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:18:09.791Z"
+  },
+  {
+    "id": "sig_1782195493427_171626210",
+    "type": "tool_engagement",
+    "category": "tool_engagement",
+    "label": "Chatbot question asked",
+    "page": "/aria-chatbot",
+    "value": null,
+    "metadata": {
+      "query": "hii"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:18:13.427Z"
+  },
+  {
+    "id": "sig_1782195506462_86061377",
+    "type": "tool_engagement",
+    "category": "tool_engagement",
+    "label": "Chatbot question asked",
+    "page": "/aria-chatbot",
+    "value": null,
+    "metadata": {
+      "query": "chal rha h na mtlb"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_dec2af48-0130-4ef8-913f-7e51e8b36574",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-23T06:18:26.462Z"
   }
 ]
