@@ -6058,5 +6058,71 @@
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "ip": "::ffff:127.0.0.1",
     "createdAt": "2026-06-29T04:59:52.054Z"
+  },
+  {
+    "id": "sig_1782709247877_326378574",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/",
+    "value": 25,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_a6bd6cd6-7d25-4f72-a739-8bc4def988eb",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:00:47.877Z"
+  },
+  {
+    "id": "sig_1782709249074_257345592",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/",
+    "value": 50,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_a6bd6cd6-7d25-4f72-a739-8bc4def988eb",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:00:49.074Z"
+  },
+  {
+    "id": "sig_1782709251634_895513292",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Frame - A City Captured in Gold",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "Iconic Landmark",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_a6bd6cd6-7d25-4f72-a739-8bc4def988eb",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:00:51.634Z"
+  },
+  {
+    "id": "sig_1782709279278_36590896",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Dubai Frame - A City Captured in Gold",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "Iconic Landmark",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_a6bd6cd6-7d25-4f72-a739-8bc4def988eb",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:01:19.278Z"
   }
 ]
