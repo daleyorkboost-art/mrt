@@ -6124,5 +6124,582 @@
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "ip": "::ffff:127.0.0.1",
     "createdAt": "2026-06-29T05:01:19.278Z"
+  },
+  {
+    "id": "sig_1782712360144_617368222",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "15 visits",
+    "page": "/",
+    "value": 15,
+    "metadata": {
+      "visitCount": 15
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:52:40.144Z"
+  },
+  {
+    "id": "sig_1782712360157_265449012",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:52:40.157Z"
+  },
+  {
+    "id": "sig_1782712360164_30333978",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "16 visits",
+    "page": "/",
+    "value": 16,
+    "metadata": {
+      "visitCount": 16
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:52:40.164Z"
+  },
+  {
+    "id": "sig_1782712360172_982839197",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:52:40.172Z"
+  },
+  {
+    "id": "sig_1782712364996_962623601",
+    "type": "micro_conversion",
+    "category": "micro_conversion",
+    "label": "Hero AI recommender CTA",
+    "page": "/",
+    "value": null,
+    "metadata": {},
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:52:44.996Z"
+  },
+  {
+    "id": "sig_1782712365008_913998591",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/ai-trip-recommender",
+    "value": null,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:52:45.008Z"
+  },
+  {
+    "id": "sig_1782712375499_204108378",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 25,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:52:55.499Z"
+  },
+  {
+    "id": "sig_1782712376725_723479079",
+    "type": "tool_engagement",
+    "category": "tool_engagement",
+    "label": "Trip recommender completed",
+    "page": "/ai-trip-recommender",
+    "value": null,
+    "metadata": {
+      "style": "Luxury Escape",
+      "group": "Family",
+      "budget": "$1k-$3k",
+      "destination": "Maldives"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:52:56.725Z"
+  },
+  {
+    "id": "sig_1782712383248_971327479",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "50% scroll depth",
+    "page": "/ai-trip-recommender",
+    "value": 50,
+    "metadata": {
+      "path": "/ai-trip-recommender"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:53:03.248Z"
+  },
+  {
+    "id": "sig_1782712394161_461902764",
+    "type": "tool_engagement",
+    "category": "tool_engagement",
+    "label": "Trip recommender completed",
+    "page": "/ai-trip-recommender",
+    "value": null,
+    "metadata": {
+      "style": "Luxury Escape",
+      "group": "Family",
+      "budget": "$1k-$3k",
+      "destination": "Dubai"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:53:14.161Z"
+  },
+  {
+    "id": "sig_1782712403923_248186432",
+    "type": "tool_engagement",
+    "category": "tool_engagement",
+    "label": "Trip recommender completed",
+    "page": "/ai-trip-recommender",
+    "value": null,
+    "metadata": {
+      "style": "Luxury Escape",
+      "group": "Family",
+      "budget": "$1k-$3k",
+      "destination": "Europe"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:53:23.923Z"
+  },
+  {
+    "id": "sig_1782712412545_761348670",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:53:32.545Z"
+  },
+  {
+    "id": "sig_1782712415538_127935036",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:53:35.538Z"
+  },
+  {
+    "id": "sig_1782712415887_631621392",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:53:35.887Z"
+  },
+  {
+    "id": "sig_1782712416429_995191991",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:53:36.429Z"
+  },
+  {
+    "id": "sig_1782712416914_320338375",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:53:36.914Z"
+  },
+  {
+    "id": "sig_1782712525552_933343203",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:55:25.552Z"
+  },
+  {
+    "id": "sig_1782712525942_136392786",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:55:25.942Z"
+  },
+  {
+    "id": "sig_1782712597118_577352807",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Italy - La Dolce Vita in Every Piazza",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Italy"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:56:37.118Z"
+  },
+  {
+    "id": "sig_1782712597750_522851015",
+    "type": "scroll_depth",
+    "category": "destination_interest",
+    "label": "25% scroll depth",
+    "page": "/",
+    "value": 25,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:56:37.750Z"
+  },
+  {
+    "id": "sig_1782712598075_417110978",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:56:38.076Z"
+  },
+  {
+    "id": "sig_1782712599181_442248299",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Sky Views Observatory - The Glass Frontier",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "Observatory",
+      "destination": "Dubai - The City That Rewrote the Rulebook"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:56:39.181Z"
+  },
+  {
+    "id": "sig_1782712599323_374815973",
+    "type": "hover",
+    "category": "destination_interest",
+    "label": "Germany - Castles, Christmas & Craft Beer",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "category": "europe",
+      "destination": "Germany"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T05:56:39.323Z"
+  },
+  {
+    "id": "sig_1782713009452_214929354",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "17 visits",
+    "page": "/",
+    "value": 17,
+    "metadata": {
+      "visitCount": 17
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T06:03:29.452Z"
+  },
+  {
+    "id": "sig_1782713009461_302907365",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T06:03:29.461Z"
+  },
+  {
+    "id": "sig_1782713009469_118187713",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "18 visits",
+    "page": "/",
+    "value": 18,
+    "metadata": {
+      "visitCount": 18
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T06:03:29.469Z"
+  },
+  {
+    "id": "sig_1782713009476_685622214",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T06:03:29.476Z"
+  },
+  {
+    "id": "sig_1782713010800_544223823",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "19 visits",
+    "page": "/",
+    "value": 19,
+    "metadata": {
+      "visitCount": 19
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T06:03:30.800Z"
+  },
+  {
+    "id": "sig_1782713010810_53007978",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T06:03:30.810Z"
+  },
+  {
+    "id": "sig_1782713010817_449232097",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "20 visits",
+    "page": "/",
+    "value": 20,
+    "metadata": {
+      "visitCount": 20
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T06:03:30.817Z"
+  },
+  {
+    "id": "sig_1782713010823_509909986",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T06:03:30.823Z"
+  },
+  {
+    "id": "sig_1782713013495_511395031",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "21 visits",
+    "page": "/",
+    "value": 21,
+    "metadata": {
+      "visitCount": 21
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T06:03:33.495Z"
+  },
+  {
+    "id": "sig_1782713013503_463306840",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T06:03:33.503Z"
+  },
+  {
+    "id": "sig_1782713013511_723994649",
+    "type": "return_visit",
+    "category": "return_visit",
+    "label": "22 visits",
+    "page": "/",
+    "value": 22,
+    "metadata": {
+      "visitCount": 22
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T06:03:33.511Z"
+  },
+  {
+    "id": "sig_1782713013518_152156342",
+    "type": "page_view",
+    "category": "destination_interest",
+    "label": "MyGlobalTrips | Luxury AI Travel Platform",
+    "page": "/",
+    "value": null,
+    "metadata": {
+      "path": "/"
+    },
+    "visitorId": "mgt-visitor-id_088e8346-6c79-4ba5-9b4c-7ece84a8a378",
+    "sessionId": "mgt-session-id_4ca1472e-2c1f-4d91-80a4-6f9519da0ec3",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "createdAt": "2026-06-29T06:03:33.518Z"
   }
 ]
