@@ -7,6 +7,7 @@ import { Card } from '../components/Card';
 import { EmptyState } from '../components/EmptyState';
 import { PageShell } from '../components/PageShell';
 import { SectionHeader } from '../components/SectionHeader';
+import { SafeImage } from '../components/SafeImage';
 import { inclusions, pageMeta, recommenderOptions } from '../data/mockData';
 import { api, type TripRecommendation } from '../services/api';
 import { trackToolEngagement } from '../services/visitorIntelligence';
@@ -179,7 +180,7 @@ export function RecommenderPage() {
                     <div className="mt-8 grid gap-5 lg:grid-cols-3">
                       {results.map((item) => (
                         <Card key={item.id} className="overflow-hidden">
-                          <img alt={item.destination} className="h-48 w-full object-cover" src={item.image} />
+                          <SafeImage alt={item.destination} className="h-48 w-full object-cover" src={item.image} />
                           <div className="p-5">
                             <div className="flex items-start justify-between gap-3">
                               <h3 className="font-display text-2xl font-bold">{item.destination}</h3>

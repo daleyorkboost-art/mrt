@@ -7,7 +7,11 @@ type ApiEnvelope<T> = {
 };
 
 async function parseResponse<T>(response: Response): Promise<T> {
-  const payload = (await response.json()) as ApiEnvelope<T>;
+  const payload = (await response.json().catch(() => ({
+    success: false,
+    data: null,
+    message: response.status === 0 ? 'Unable to reach MyGlobalTrips API' : `Request failed with status ${response.status}`,
+  }))) as ApiEnvelope<T>;
 
   if (!response.ok || !payload.success) {
     throw new Error(payload.message || 'Request failed');
@@ -126,6 +130,7 @@ export type CaptionResponse = {
   hashtags: string[];
   imageUrl: string;
   model?: string;
+  warning?: string;
 };
 
 export type InternalAuthResponse = {

@@ -92,7 +92,7 @@ export const recommenderOptions = {
   style: ['Luxury Escape', 'Adventure', 'Wellness', 'Culture & Food'],
   group: ['Couple', 'Family', 'Friends', 'Solo'],
   budget: ['$1k-$3k', '$3k-$6k', '$6k-$10k', '$10k+'],
-  destination: ['Dubai', 'Maldives', 'Europe', 'Japan', 'Surprise me'],
+  destination: ['UAE / Dubai', 'Maldives', 'Europe', 'Japan', 'Singapore', 'Thailand', 'Caribbean', 'Surprise me'],
 };
 
 export const footerLinks = [

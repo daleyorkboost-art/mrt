@@ -12,7 +12,7 @@ describe('api client', () => {
     await api.recommend({ style: 'luxury', group: 'couple', budget: 'premium', wish: 'Dubai' });
 
     expect(fetchMock).toHaveBeenCalledWith(
-      'https://www.myglobaltrips.com/api/recommend',
+      '/api/recommend',
       expect.objectContaining({ method: 'POST' }),
     );
   });

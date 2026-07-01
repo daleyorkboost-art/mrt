@@ -65,6 +65,37 @@ test('recommend endpoint returns destinations', async () => {
   });
 });
 
+test('recommend endpoint keeps results inside selected destination', async () => {
+  await withServer(async (baseUrl) => {
+    const response = await postJson(`${baseUrl}/api/recommend`, {
+      style: 'luxury',
+      group: 'couple',
+      budget: '$3k-$6k',
+      wish: 'Japan',
+    });
+
+    assert.equal(response.statusCode, 200);
+    assert.equal(response.body.success, true);
+    assert.ok(response.body.data.results.length > 0);
+    assert.ok(response.body.data.results.every((item) => JSON.stringify(item).toLowerCase().includes('japan')));
+  });
+});
+
+test('visa endpoint returns checklist for supported combinations', async () => {
+  await withServer(async (baseUrl) => {
+    const response = await postJson(`${baseUrl}/api/visa`, {
+      passport: 'Indian',
+      destination: 'UAE',
+      month: 'August 2026',
+    });
+
+    assert.equal(response.statusCode, 200);
+    assert.equal(response.body.success, true);
+    assert.equal(response.body.data.visa_type, 'Tourist Visa / eVisa');
+    assert.ok(response.body.data.required_documents.length > 0);
+  });
+});
+
 test('quote endpoints require internal authorization', async () => {
   await withServer(async (baseUrl) => {
     const locked = await postJson(`${baseUrl}/api/quote-email`, {

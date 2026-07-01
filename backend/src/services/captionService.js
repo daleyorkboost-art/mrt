@@ -132,7 +132,18 @@ async function generateCaption(input, file) {
   }
 
   const imageBase64 = fs.readFileSync(file.path, 'base64');
-  const content = await generateWithGemini(input, file, imageBase64);
+  let content = '';
+
+  try {
+    content = await generateWithGemini(input, file, imageBase64);
+  } catch (error) {
+    return {
+      ...fallbackCaptions(input.style, input.mood),
+      imageUrl,
+      model: 'local-fallback',
+      warning: error.message,
+    };
+  }
 
   return {
     ...parseCaptionJson(content, input.style, input.mood),

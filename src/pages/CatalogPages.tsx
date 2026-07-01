@@ -1,9 +1,11 @@
 import { motion } from 'framer-motion';
-import { ArrowRight, BadgeCheck, Globe2, MessageCircle, Sailboat, Sparkles, Star, Users } from 'lucide-react';
+import { ArrowRight, BadgeCheck, Globe2, Mail, MessageCircle, Sailboat, Sparkles, Star, Users } from 'lucide-react';
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from '../components/Button';
 import { Card } from '../components/Card';
 import { PageShell } from '../components/PageShell';
+import { SafeImage } from '../components/SafeImage';
 import { homepageSections, type TravelCard } from '../data/homepageCatalog';
 import { trackDestinationInterest, trackMicroConversion } from '../services/visitorIntelligence';
 
@@ -54,7 +56,7 @@ const configs = {
 function CatalogHero({ config }: { config: CatalogConfig }) {
   return (
     <section className="relative overflow-hidden pt-28">
-      <img alt={config.title} className="absolute inset-0 h-full w-full object-cover" src={config.heroImage} />
+      <SafeImage alt={config.title} className="absolute inset-0 h-full w-full object-cover" src={config.heroImage} />
       <div className="absolute inset-0 bg-gradient-to-b from-navy/84 via-navy/60 to-surface" />
       <div className="relative mx-auto max-w-7xl px-4 py-24 sm:px-6 lg:px-8">
         <motion.div initial={{ opacity: 0, y: 24 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.55 }} className="max-w-3xl">
@@ -95,7 +97,7 @@ function CatalogGrid({ items }: { items: TravelCard[] }) {
           >
             <Card className="group h-full overflow-hidden hover:-translate-y-1">
               <div className="relative h-64 overflow-hidden">
-                <img alt={item.title} className="h-full w-full object-cover transition duration-500 group-hover:scale-105" loading="lazy" src={item.image} />
+                <SafeImage alt={item.title} className="h-full w-full object-cover transition duration-500 group-hover:scale-105" loading="lazy" src={item.image} />
                 <div className="absolute inset-0 bg-gradient-to-t from-navy/68 via-transparent to-transparent" />
                 <span className="absolute right-4 top-4 inline-flex items-center gap-1 rounded-full bg-white/92 px-3 py-1 text-xs font-extrabold text-ink">
                   <Star aria-hidden className="h-3.5 w-3.5 fill-gold text-gold" />
@@ -157,6 +159,48 @@ export function PremiumExperiencesPage() {
 }
 
 export function GroupBookingPage() {
+  const [form, setForm] = useState({
+    name: '',
+    phone: '',
+    email: '',
+    destination: 'Dubai',
+    groupType: 'Family group',
+    groupSize: '10-20 travellers',
+    dates: '',
+    budget: 'AED 5,000 - 10,000 per person',
+    notes: '',
+  });
+  const [submitted, setSubmitted] = useState(false);
+
+  function updateField(field: keyof typeof form, value: string) {
+    setForm((current) => ({ ...current, [field]: value }));
+    setSubmitted(false);
+  }
+
+  function buildInquiryMessage() {
+    return [
+      'MyGlobalTrips group booking enquiry',
+      `Name: ${form.name || 'Not provided'}`,
+      `Phone: ${form.phone || 'Not provided'}`,
+      `Email: ${form.email || 'Not provided'}`,
+      `Destination: ${form.destination}`,
+      `Group type: ${form.groupType}`,
+      `Group size: ${form.groupSize}`,
+      `Dates: ${form.dates || 'Flexible'}`,
+      `Budget: ${form.budget}`,
+      `Notes: ${form.notes || 'None'}`,
+    ].join('\n');
+  }
+
+  function sendWhatsappInquiry() {
+    const message = encodeURIComponent(buildInquiryMessage());
+    trackMicroConversion('Group booking WhatsApp inquiry submitted', { destination: form.destination, groupType: form.groupType, groupSize: form.groupSize });
+    setSubmitted(true);
+    window.open(`https://wa.me/971585566036?text=${message}`, '_blank', 'noopener,noreferrer');
+  }
+
+  const emailHref = `mailto:info@myglobaltrips.com?subject=${encodeURIComponent(`Group booking enquiry - ${form.destination}`)}&body=${encodeURIComponent(buildInquiryMessage())}`;
+
   return (
     <PageShell className="pt-28">
       <section className="mx-auto grid max-w-7xl gap-8 px-4 py-16 sm:px-6 lg:grid-cols-[1.05fr_0.95fr] lg:px-8">
@@ -177,6 +221,77 @@ export function GroupBookingPage() {
               </Button>
             </a>
           </div>
+          <Card className="mt-8 p-5">
+            <h2 className="font-display text-3xl font-bold text-ink">Group enquiry details</h2>
+            <p className="mt-2 text-sm leading-6 text-mist">Fill this once and send the full request to the MyGlobalTrips team on WhatsApp or email.</p>
+            <div className="mt-5 grid gap-4 sm:grid-cols-2">
+              <label className="grid gap-2 text-sm font-semibold text-ink">
+                Name
+                <input className="min-h-12 rounded-[8px] border border-line px-4 outline-none transition focus:border-gold" value={form.name} onChange={(event) => updateField('name', event.target.value)} />
+              </label>
+              <label className="grid gap-2 text-sm font-semibold text-ink">
+                Phone
+                <input className="min-h-12 rounded-[8px] border border-line px-4 outline-none transition focus:border-gold" value={form.phone} onChange={(event) => updateField('phone', event.target.value)} />
+              </label>
+              <label className="grid gap-2 text-sm font-semibold text-ink sm:col-span-2">
+                Email
+                <input className="min-h-12 rounded-[8px] border border-line px-4 outline-none transition focus:border-gold" type="email" value={form.email} onChange={(event) => updateField('email', event.target.value)} />
+              </label>
+              <label className="grid gap-2 text-sm font-semibold text-ink">
+                Destination
+                <select className="min-h-12 rounded-[8px] border border-line px-4 outline-none transition focus:border-gold" value={form.destination} onChange={(event) => updateField('destination', event.target.value)}>
+                  {['Dubai', 'Abu Dhabi', 'Europe', 'Maldives', 'Japan', 'Singapore', 'Cruise package'].map((option) => (
+                    <option key={option}>{option}</option>
+                  ))}
+                </select>
+              </label>
+              <label className="grid gap-2 text-sm font-semibold text-ink">
+                Group type
+                <select className="min-h-12 rounded-[8px] border border-line px-4 outline-none transition focus:border-gold" value={form.groupType} onChange={(event) => updateField('groupType', event.target.value)}>
+                  {['Family group', 'Corporate / MICE', 'Wedding group', 'School / leisure group', 'Friends group'].map((option) => (
+                    <option key={option}>{option}</option>
+                  ))}
+                </select>
+              </label>
+              <label className="grid gap-2 text-sm font-semibold text-ink">
+                Group size
+                <select className="min-h-12 rounded-[8px] border border-line px-4 outline-none transition focus:border-gold" value={form.groupSize} onChange={(event) => updateField('groupSize', event.target.value)}>
+                  {['5-10 travellers', '10-20 travellers', '20-50 travellers', '50+ travellers'].map((option) => (
+                    <option key={option}>{option}</option>
+                  ))}
+                </select>
+              </label>
+              <label className="grid gap-2 text-sm font-semibold text-ink">
+                Travel dates
+                <input className="min-h-12 rounded-[8px] border border-line px-4 outline-none transition focus:border-gold" placeholder="Flexible / exact dates" value={form.dates} onChange={(event) => updateField('dates', event.target.value)} />
+              </label>
+              <label className="grid gap-2 text-sm font-semibold text-ink sm:col-span-2">
+                Budget
+                <select className="min-h-12 rounded-[8px] border border-line px-4 outline-none transition focus:border-gold" value={form.budget} onChange={(event) => updateField('budget', event.target.value)}>
+                  {['AED 2,000 - 5,000 per person', 'AED 5,000 - 10,000 per person', 'AED 10,000+ per person', 'Need recommendation'].map((option) => (
+                    <option key={option}>{option}</option>
+                  ))}
+                </select>
+              </label>
+              <label className="grid gap-2 text-sm font-semibold text-ink sm:col-span-2">
+                Notes
+                <textarea className="min-h-28 rounded-[8px] border border-line px-4 py-3 outline-none transition focus:border-gold" value={form.notes} onChange={(event) => updateField('notes', event.target.value)} />
+              </label>
+            </div>
+            <div className="mt-5 flex flex-col gap-3 sm:flex-row">
+              <Button onClick={sendWhatsappInquiry}>
+                <MessageCircle aria-hidden className="h-4 w-4" />
+                Send WhatsApp enquiry
+              </Button>
+              <a href={emailHref} onClick={() => trackMicroConversion('Group booking email inquiry selected', { destination: form.destination })}>
+                <Button variant="secondary">
+                  <Mail aria-hidden className="h-4 w-4" />
+                  Email enquiry
+                </Button>
+              </a>
+            </div>
+            {submitted && <p className="mt-4 rounded-[8px] border border-teal/40 bg-teal/10 px-4 py-3 text-sm font-semibold text-ink">Inquiry prepared and opened in WhatsApp.</p>}
+          </Card>
         </div>
         <Card className="p-6">
           <div className="grid gap-4">

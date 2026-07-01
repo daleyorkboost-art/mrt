@@ -54,7 +54,7 @@ export function VisaChecklistPage() {
         <div className="mt-10 grid gap-8 lg:grid-cols-[0.9fr_1.1fr]">
           <Card className="h-fit p-6">
             <div className="grid gap-5">
-              <SelectField label="Nationality" value={nationality} options={['Indian', 'US', 'UK', 'Singapore']} onChange={setNationality} />
+              <SelectField label="Nationality" value={nationality} options={['Indian', 'US', 'UK', 'Singapore', 'UAE', 'CA', 'AU', 'DE', 'FR', 'SA']} onChange={setNationality} />
               <SelectField label="Destination" value={destination} options={['UAE', 'Schengen', 'Japan', 'Maldives', 'UK']} onChange={setDestination} />
               <SelectField label="Travel month" value={month} options={['April 2026', 'July 2026', 'August 2026', 'September 2026', 'December 2026']} onChange={setMonth} />
               <div className="grid gap-3 sm:grid-cols-2">

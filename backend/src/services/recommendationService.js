@@ -25,9 +25,72 @@ function scoreDestination(destination, input) {
   return score;
 }
 
+function buildSearchText(destination) {
+  return [
+    destination.destination,
+    destination.packageName,
+    destination.country,
+    destination.region,
+    destination.description,
+    destination.category,
+    destination.source,
+    ...(destination.styles || []),
+    ...(destination.groups || []),
+    ...(destination.budgets || []),
+    ...(destination.highlights || []),
+  ]
+    .filter(Boolean)
+    .map(normalize)
+    .join(' ');
+}
+
+function buildCoreSearchText(destination) {
+  return [
+    destination.destination,
+    destination.packageName,
+    destination.country,
+    destination.region,
+    destination.category,
+  ]
+    .filter(Boolean)
+    .map(normalize)
+    .join(' ');
+}
+
+function getWishTerms(wish) {
+  const normalizedWish = normalize(wish);
+  if (!normalizedWish || normalizedWish === 'surprise me') return [];
+
+  const aliases = {
+    'uae / dubai': ['uae', 'dubai', 'abu dhabi', 'arabian gulf'],
+    uae: ['uae', 'dubai', 'abu dhabi', 'arabian gulf'],
+    dubai: ['dubai', 'uae', 'abu dhabi', 'arabian gulf'],
+    europe: ['europe', 'switzerland', 'germany', 'italy', 'france', 'greece', 'spain', 'scotland', 'netherlands', 'belgium', 'prague', 'budapest', 'vienna'],
+    caribbean: ['caribbean', 'bahamas', 'jamaica', 'barbados', 'st lucia', 'antigua'],
+    maldives: ['maldives'],
+    japan: ['japan', 'tokyo', 'kyoto', 'osaka'],
+    singapore: ['singapore'],
+    thailand: ['thailand', 'bangkok', 'phuket'],
+  };
+
+  return aliases[normalizedWish] || [normalizedWish];
+}
+
 function recommendTrips(input) {
   const dataset = readJson('trips-dataset.json');
-  const scored = dataset
+  const wishTerms = getWishTerms(input.wish);
+  const candidates = wishTerms.length
+    ? dataset.filter((destination) => {
+        const searchText = buildCoreSearchText(destination);
+        return wishTerms.some((term) => searchText.includes(term));
+      })
+    : dataset;
+
+  if (wishTerms.length && candidates.length === 0) {
+    return [];
+  }
+
+  const scored = candidates
     .map((destination) => ({
       ...destination,
       score: scoreDestination(destination, input),
@@ -36,7 +99,7 @@ function recommendTrips(input) {
     .sort((a, b) => b.score - a.score || b.popularity - a.popularity);
 
   if (scored.length === 0) {
-    return dataset
+    return candidates
       .slice()
       .sort((a, b) => b.popularity - a.popularity)
       .slice(0, 3)

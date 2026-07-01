@@ -18,7 +18,9 @@ import { Link, useNavigate } from 'react-router-dom';
 import { Button } from '../components/Button';
 import { Card } from '../components/Card';
 import { PageShell } from '../components/PageShell';
+import { SafeImage } from '../components/SafeImage';
 import { homepageSections, catalogStats, type TravelCard } from '../data/homepageCatalog';
+import { testimonials } from '../data/mockData';
 import { trackDestinationInterest, trackMicroConversion } from '../services/visitorIntelligence';
 
 const heroImage = 'https://images.unsplash.com/photo-1573843981267-be1999ff37cd?auto=format&fit=crop&w=2400&q=88';
@@ -114,7 +116,7 @@ function PackageCard({ item, index, href }: { item: TravelCard; index: number; h
     >
       <div className="flex w-full flex-col">
         <div className="relative h-56 overflow-hidden">
-          <img
+          <SafeImage
             alt={item.title}
             className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
             loading="lazy"
@@ -236,7 +238,7 @@ export function HomePage() {
   return (
     <PageShell className="pt-0">
       <section className="relative min-h-[88vh] overflow-hidden">
-        <img alt="Luxury overwater villas and turquoise travel escape" className="absolute inset-0 h-full w-full object-cover" src={heroImage} />
+        <SafeImage alt="Luxury overwater villas and turquoise travel escape" className="absolute inset-0 h-full w-full object-cover" src={heroImage} />
         <div className="absolute inset-0 bg-gradient-to-b from-navy/80 via-navy/52 to-[#F8FAFC]" />
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_76%_28%,rgba(37,99,235,0.35),transparent_28rem)]" />
         <div className="relative mx-auto flex min-h-[88vh] max-w-7xl flex-col justify-center px-4 pb-16 pt-32 sm:px-6 lg:px-8">
@@ -350,6 +352,38 @@ export function HomePage() {
           <CatalogCarousel row={row} />
         </div>
       ))}
+
+      <section className="bg-white px-4 py-20 sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-7xl">
+          <div className="mb-8 max-w-3xl">
+            <p className="text-xs font-extrabold uppercase tracking-[0.24em] text-gold">Customer reviews</p>
+            <h2 className="mt-3 font-display text-4xl font-bold text-ink sm:text-5xl">Trusted by premium travellers</h2>
+            <p className="mt-4 text-base leading-7 text-mist">Recent MyGlobalTrips clients on concierge planning, visa support, and curated experiences.</p>
+          </div>
+          <div className="grid gap-5 md:grid-cols-3">
+            {testimonials.map((testimonial, index) => (
+              <motion.div
+                key={testimonial.name}
+                initial={{ opacity: 0, y: 22 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.42, delay: index * 0.06 }}
+              >
+                <Card className="h-full p-6">
+                  <div className="flex gap-1 text-gold" aria-label="5 star review">
+                    {[0, 1, 2, 3, 4].map((star) => (
+                      <Star key={star} aria-hidden className="h-4 w-4 fill-gold" />
+                    ))}
+                  </div>
+                  <p className="mt-5 text-base leading-7 text-mist">"{testimonial.quote}"</p>
+                  <p className="mt-6 font-display text-xl font-bold text-ink">{testimonial.name}</p>
+                  <p className="mt-1 text-sm font-semibold text-gold">{testimonial.role}</p>
+                </Card>
+              </motion.div>
+            ))}
+          </div>
+        </div>
+      </section>
 
       <section className="px-4 py-20 sm:px-6 lg:px-8">
         <div className="mx-auto grid max-w-7xl gap-8 overflow-hidden rounded-[24px] bg-navy p-6 text-white shadow-2xl sm:p-10 lg:grid-cols-[1.1fr_0.9fr] lg:p-12">
